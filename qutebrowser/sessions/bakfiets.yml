@@ -1,0 +1,283 @@
+windows:
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAACzEAAAbbAAAAAAAAAAAAAAWfAAAG6QAAAAACAAAAC0AAAAAAAAAA
+    AAAACzEAAAbb
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: RogueBasin
+      url: https://www.roguebasin.com/index.php?title=Main_Page
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Articles - RogueBasin
+      url: https://roguebasin.com/index.php/Articles#Programming_languages
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:32'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'ollama/ollama: Get up and running with Llama 3.3, Mistral, Gemma 2,
+        and other large language models.'
+      url: https://github.com/ollama/ollama
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'git-CaptHook/Rogue_Tutorial: RoguelikeDev'
+      url: https://github.com/git-CaptHook/Rogue_Tutorial
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: nick forrer - Game development and Lisp related posts
+      url: https://nwforrer.github.io/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Roguelike tutorial for Common Lisp - Part 0 - Setup - nick forrer
+      url: https://nwforrer.github.io/posts/roguelike-tutorial-part0/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:32'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'vlime/vlime: A Common Lisp dev environment for Vim (and Neovim)'
+      url: https://github.com/vlime/vlime
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Category Theory Illustrated - Sets
+      url: https://abuseofnotation.github.io/category-theory-illustrated/01_set/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAACzEAAAbbAAAAAAAAAAAAAAWfAAAG6QAAAAACAAAAC0AAAAAAAAAA
+    AAAACzEAAAbb
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:30'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: play.max.com/show/612dfd59-5e1c-40af-bcfe-3084869f284b
+      url: https://play.max.com/show/612dfd59-5e1c-40af-bcfe-3084869f284b
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Netflix
+      url: https://www.netflix.com/browse
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAACzEAAAbbAAAAAAAAAAAAAAWfAAAG6QAAAAACAAAAC0AAAAAAAAAA
+    AAAACzEAAAbb
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: TJ DeVries - YouTube
+      url: https://www.youtube.com/@teej_dv/videos
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: lazy.nvim explained - YouTube
+      url: https://www.youtube.com/watch?v=_kPg0VBRxJc
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:32'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: "jakubtomsu/awesome-odin: A collection of awesome Odin libraries, bindings,
+        software and resources \U0001F9D9‍♂️✨"
+      url: https://github.com/jakubtomsu/awesome-odin
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Handmade Games - YouTube
+      url: https://www.youtube.com/@handmadegamesdev/playlists
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Space Shooter with SDL2 and Odin Lang - YouTube
+      url: https://www.youtube.com/playlist?list=PLuZ3rcIdDc9EA4YqLJSsrzYeUDv8Mucxz
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Odin + Raylib: Breakout game from start to finish - YouTube'
+      url: https://www.youtube.com/watch?v=vfgZOEvO0kM
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Odin + Raylib tutorials - YouTube
+      url: https://www.youtube.com/playlist?list=PLxE7SoPYTef1jYHJ6NxNgocVjQKkq7eEa
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Luakit API Documentation
+      url: https://luakit.github.io/docs/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Log in - Invidious
+      url: https://yewtu.be/login?referer=%2F&type=invidious
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-12-26T15:54:30'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: qutebrowser - Invidious
+      url: https://invidious.nerdvpn.de/search?q=qutebrowser
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Sommerwiesel/invidious-nerdvpn: Invidious with customizations for invidious.nerdvpn.de'
+      url: https://github.com/Sommerwiesel/invidious-nerdvpn
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAACzEAAAbbAAAAAAAAAAAAAAWfAAAG6QAAAAACAAAAC0AAAAAAAAAA
+    AAAACzEAAAbb
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Customizing Qutebrowser - YouTube
+      url: https://www.youtube.com/watch?v=LwTa5RShpic&t=2189s
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Main difference between Qute and Vimb? : r/qutebrowser'
+      url: https://www.reddit.com/r/qutebrowser/comments/tfgbth/main_difference_between_qute_and_vimb/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:30'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: hyprland big font - Google Zoeken
+      url: https://www.google.nl/search?q=hyprland%20%20big%20font
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Fonts So BIG! : r/hyprland'
+      url: https://www.reddit.com/r/hyprland/comments/14d62fp/fonts_so_big/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-12-26T15:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Monitors – Hyprland Wiki
+      url: https://wiki.hyprland.org/Configuring/Monitors/
+      zoom: 1.0

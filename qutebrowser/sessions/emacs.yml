@@ -1,0 +1,89 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3sAAAP8AAAAAAAAAAAAAAd7AAAD/AAAAAAAAAAAB4AAAAAAAAAA
+    AAAAB3sAAAP8
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2023-10-24T20:26:40'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(1970) Emacs From Scratch #8 - Build Your Own IDE with lsp-mode - YouTube'
+      url: https://www.youtube.com/watch?v=E-NAM9U5JYE&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ&index=11
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-24T20:27:17'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (1970) Emacs From Scratch, An Emacs Tutorial for Beginners - 03 Lisp
+        basics - YouTube
+      url: https://www.youtube.com/watch?v=HqGds-YUJbQ&list=PLlONLmJCfHToFfk1WgTOwZMfIr062jIN9&index=6
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-24T20:26:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Installation - LSP Mode - LSP support for Emacs
+      url: https://emacs-lsp.github.io/lsp-mode/page/installation/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-24T20:26:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zig - LSP Mode - LSP support for Emacs
+      url: https://emacs-lsp.github.io/lsp-mode/page/lsp-zig/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-24T20:26:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'jwiegley/use-package: A use-package declaration for simplifying your
+        .emacs'
+      url: https://github.com/jwiegley/use-package
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-24T20:26:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: My Emacs Packages - Mastering Emacs
+      url: https://www.masteringemacs.org/my-emacs-packages
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-24T20:26:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: Archive | Emacs Redux
+      url: https://emacsredux.com/archive/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-24T20:26:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Learn Emacs Lisp in 15 minutes - Bastien Guerry
+      url: https://bzg.fr/en/learn-emacs-lisp-in-15-minutes/
+      zoom: 1.0

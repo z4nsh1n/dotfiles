@@ -1,0 +1,461 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB38AAAQZAAAAAAAAAAAAAAMfAAACVwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB38AAAQZ
+  tabs:
+  - history:
+    - last_visited: '2023-06-10T20:47:28'
+      pinned: false
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+    - last_visited: '2023-06-10T20:47:57'
+      pinned: false
+      title: (738) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/videos
+    - last_visited: '2023-06-10T20:47:57'
+      pinned: false
+      title: (738) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/courses
+    - active: true
+      last_visited: '2023-06-10T20:48:15'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (763) Welcome to The Nature of Code 2.0 in 2020 (p5.js!) - YouTube
+      url: https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-06-10T20:49:11'
+      pinned: false
+      title: (738) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/videos
+    - last_visited: '2023-06-10T20:49:11'
+      pinned: false
+      title: (738) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/playlists
+    - last_visited: '2023-06-10T20:51:03'
+      pinned: false
+      title: (738) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/playlists?view=1&sort=lad&flow=grid
+    - active: true
+      last_visited: '2023-06-10T20:51:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: (763) Coding Challenges - YouTube
+      url: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-13T23:22:42'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 19237
+      title: 25 Best Books on Writing to Make You a Top Writer
+      url: https://bestwriting.com/best-books/writing
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-13T23:22:46'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '34 of the Best Books On Writing: Inspirational Reads'
+      url: https://thewritelife.com/best-books-on-writing/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-13T23:22:49'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: The Best Books on Writing | Penguin Random House
+      url: https://www.penguinrandomhouse.com/the-read-down/the-best-books-on-writing/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-13T23:13:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: New Books on Writing - The New York Times
+      url: https://www.nytimes.com/2023/02/24/books/review/books-on-how-to-write.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-13T23:04:25'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2150
+      title: Best Writing Books for Writers in 2023
+      url: https://www.lisairelandbooks.com/best-writing-books-for-writers-in-2023/
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-06-13T23:05:51'
+      pinned: false
+      title: Z-Library Project
+      url: https://1lib.cz/
+    - last_visited: '2023-06-13T23:06:02'
+      original-url: https://1lib.cz/
+      pinned: false
+      title: Z-Library – the world’s largest e-book library. Your gateway to knowledge
+        and culture.
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/
+    - last_visited: '2023-06-13T23:06:19'
+      original-url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/?q=100-word+writing+book
+      pinned: false
+      title: '100-word writing book: search on Z-Library'
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/100-word%20writing%20book
+    - last_visited: '2023-06-13T23:06:32'
+      original-url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/?q=100-word+writing+habit
+      pinned: false
+      title: '100-word writing habit: search on Z-Library'
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/100-word%20writing%20habit
+    - last_visited: '2023-06-13T23:07:08'
+      original-url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/?q=david+kavady
+      pinned: false
+      title: 'david kavady: search on Z-Library'
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/david%20kavady
+    - last_visited: '2023-06-13T23:07:18'
+      original-url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/?q=david+kadavy
+      pinned: false
+      title: 'david kadavy: search on Z-Library'
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/david%20kadavy
+    - last_visited: '2023-06-13T23:08:08'
+      original-url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/?q=on+writing
+      pinned: false
+      title: 'on writing: search on Z-Library'
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/on%20writing
+    - last_visited: '2023-06-13T23:18:20'
+      original-url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/?q=sense+of+style
+      pinned: false
+      title: 'sense of style: search on Z-Library'
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/sense%20of%20style
+    - last_visited: '2023-06-13T23:29:26'
+      original-url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/?q=writing+short+stories
+      pinned: false
+      title: 'writing short stories: search on Z-Library'
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/writing%20short%20stories
+    - last_visited: '2023-06-13T23:30:49'
+      original-url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/?q=courttia+newland
+      pinned: false
+      title: 'courttia newland: search on Z-Library'
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/s/courttia%20newland
+    - last_visited: '2023-06-13T23:30:52'
+      pinned: false
+      title: 'Courttia Newland: search on Z-Library'
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/author/Courttia%20Newland
+    - last_visited: '2023-06-13T23:32:39'
+      pinned: false
+      title: 'Writing Short Stories: A Writers'' and Artists'' Companion | Courttia
+        Newland, Tania Hershman | download on Z-Library'
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/book/23226948/b794af
+    - active: true
+      last_visited: '2023-06-13T23:33:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Z-Library – the world’s largest e-book library. Your gateway to knowledge
+        and culture.
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/
+      zoom: 0.9
+  - history:
+    - active: true
+      last_visited: '2023-06-13T23:35:39'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 320
+      title: Z-Recommend | Z-Library
+      url: https://lib-rljfr65vm4urj4iwgjdbncfr.1lib.at/users/zrecommended?source=downloaded
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-06-13T23:19:33'
+      pinned: false
+      title: Google Play Boeken
+      url: https://play.google.com/books
+    - last_visited: '2023-06-13T23:20:03'
+      pinned: false
+      title: Google Play Boeken
+      url: https://play.google.com/books/uploads?type=ebooks
+    - last_visited: '2023-06-13T23:32:13'
+      pinned: false
+      title: 'The Sense of Style: The Thinking Person’s Guide to Writing in the 21st
+        Century - Google Play Boeken'
+      url: https://play.google.com/books/reader?id=Mw_-MQAAAEAJ&pg=GBS.PA5
+    - last_visited: '2023-06-13T23:32:30'
+      pinned: false
+      title: Google Play Boeken
+      url: https://play.google.com/books
+    - active: true
+      last_visited: '2023-06-13T23:33:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Google Play Boeken
+      url: https://play.google.com/books/uploads?type=ebooks
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-14T21:32:48'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1200
+      title: philosophy books - Google Zoeken
+      url: https://www.google.nl/search?q=philosophy%20books
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-14T21:32:55'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2735
+      title: The 35 Best Philosophy Books of All Time | Four Minute Books
+      url: https://fourminutebooks.com/best-philosophy-books/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-14T21:32:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 800
+      title: Philosophy Books
+      url: https://www.goodreads.com/shelf/show/philosophy
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2023-06-14T21:33:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 8000
+      title: The 10 Best Philosophy Books For Beginners | by Gregory Sadler | Practical
+        Rationality | Medium
+      url: https://medium.com/practical-rationality/the-10-best-philosophy-books-for-beginners-6d1326f81d5#:~:text=When%20people%20ask%20where%20they,conviction%2C%20imprisonment%2C%20and%20execution%3F
+      zoom: 1.1
+  - history:
+    - active: true
+      last_visited: '2023-06-14T21:33:35'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 160
+      title: cosmic sceptic books - Google Zoeken
+      url: https://www.google.nl/search?q=cosmic%20sceptic%20books
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-14T21:53:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (763) 50 Book Recommendations - YouTube
+      url: https://www.youtube.com/watch?v=3C5z8SVzUb4
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-06-14T21:46:34'
+      pinned: false
+      title: Alex J. O'Connor (cosmicskeptic) - Oxford, The United Kingdom (243 books)
+        | Goodreads
+      url: https://www.goodreads.com/user/show/63873525-alex-j-o-connor
+    - last_visited: '2023-06-14T21:47:38'
+      pinned: false
+      title: Alex J. O'Connor’s 'read' books on Goodreads (92 books)
+      url: https://www.goodreads.com/review/list/63873525?shelf=read
+    - last_visited: '2023-06-14T21:48:41'
+      pinned: false
+      title: Alex J. O'Connor’s 'read' books on Goodreads (92 books)
+      url: https://www.goodreads.com/review/list/63873525?page=2&shelf=read
+    - last_visited: '2023-06-14T21:49:27'
+      pinned: false
+      title: Alex J. O'Connor’s 'read' books on Goodreads (92 books)
+      url: https://www.goodreads.com/review/list/63873525?page=3&shelf=read
+    - last_visited: '2023-06-14T21:50:17'
+      pinned: false
+      title: Alex J. O'Connor’s 'read' books on Goodreads (92 books)
+      url: https://www.goodreads.com/review/list/63873525?page=4&shelf=read
+    - active: true
+      last_visited: '2023-06-14T21:51:01'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 697
+      title: Alex J. O'Connor’s 'read' books on Goodreads (92 books)
+      url: https://www.goodreads.com/review/list/63873525?page=5&shelf=read
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB38AAAQZAAAAAAAAAAAAAAMfAAACVwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB38AAAQZ
+  tabs:
+  - active: true
+    history:
+    - last_visited: '2023-06-10T22:44:45'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo
+    - last_visited: '2023-06-10T22:44:45'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:47'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:47'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:47'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:48'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:55'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:55'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:56'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:57'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:57'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:45:16'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists?view=1
+    - active: true
+      last_visited: '2023-06-11T08:36:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 4875
+      title: (763) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/videos
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-06-11T19:35:35'
+      pinned: false
+      title: about:blank
+      url: about:blank
+    - last_visited: '2023-06-11T19:35:39'
+      pinned: false
+      title: History
+      url: qute://history/
+    - last_visited: '2023-06-11T19:35:50'
+      pinned: false
+      title: Traits - The Rust Reference
+      url: https://doc.rust-lang.org/reference/items/traits.html
+    - last_visited: '2023-06-11T19:36:04'
+      pinned: false
+      title: Patterns - The Rust Reference
+      url: https://doc.rust-lang.org/reference/patterns.html
+    - last_visited: '2023-06-11T19:36:59'
+      pinned: false
+      title: Type system - The Rust Reference
+      url: https://doc.rust-lang.org/reference/type-system.html
+    - last_visited: '2023-06-11T19:37:02'
+      pinned: false
+      title: Types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types.html
+    - last_visited: '2023-06-11T19:37:27'
+      pinned: false
+      title: Trait object types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/trait-object.html
+    - last_visited: '2023-06-11T19:37:33'
+      pinned: false
+      title: Dynamically Sized Types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/dynamically-sized-types.html
+    - last_visited: '2023-06-11T19:37:51'
+      pinned: false
+      title: Types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types.html
+    - last_visited: '2023-06-11T22:37:14'
+      pinned: false
+      title: Boolean type - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/boolean.html
+    - last_visited: '2023-06-11T22:41:14'
+      pinned: false
+      title: Numeric types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/numeric.html
+    - last_visited: '2023-06-11T22:45:30'
+      pinned: false
+      title: Textual types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/textual.html
+    - last_visited: '2023-06-11T22:45:37'
+      pinned: false
+      title: Never type - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/never.html
+    - last_visited: '2023-06-11T22:47:04'
+      pinned: false
+      title: Tuple types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/tuple.html
+    - last_visited: '2023-06-11T22:48:22'
+      pinned: false
+      title: Array types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/array.html
+    - last_visited: '2023-06-11T22:51:26'
+      pinned: false
+      title: Slice types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/slice.html
+    - last_visited: '2023-06-11T22:54:59'
+      pinned: false
+      title: Array types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/array.html
+    - last_visited: '2023-06-11T22:55:03'
+      pinned: false
+      title: Tuple types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/tuple.html
+    - last_visited: '2023-06-11T22:55:18'
+      pinned: false
+      title: Array types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/array.html
+    - last_visited: '2023-06-11T22:55:19'
+      pinned: false
+      title: Slice types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/slice.html
+    - last_visited: '2023-06-11T23:30:12'
+      pinned: false
+      title: Struct types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/struct.html
+    - last_visited: '2023-06-11T23:30:19'
+      pinned: false
+      title: Enumerated types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/enum.html
+    - active: true
+      last_visited: '2023-06-11T23:30:20'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Union types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/union.html
+      zoom: 1.25

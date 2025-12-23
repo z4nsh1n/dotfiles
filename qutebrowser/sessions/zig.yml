@@ -1,0 +1,87 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-08-18T22:40:14'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 159170
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/#Result-Location-Semantics
+      zoom: 1.1
+  - history:
+    - last_visited: '2024-08-19T00:43:25'
+      pinned: false
+      title: Allocators | zig.guide
+      url: https://zig.guide/standard-library/allocators/
+    - last_visited: '2024-08-19T17:17:18'
+      pinned: false
+      title: Running Tests | zig.guide
+      url: https://zig.guide/getting-started/running-tests
+    - last_visited: '2024-08-19T17:17:49'
+      pinned: false
+      title: Structs | zig.guide
+      url: https://zig.guide/language-basics/structs
+    - last_visited: '2024-08-19T17:18:26'
+      pinned: false
+      title: Integer Rules | zig.guide
+      url: https://zig.guide/language-basics/integer-rules
+    - last_visited: '2024-08-19T17:20:14'
+      pinned: false
+      title: Floats | zig.guide
+      url: https://zig.guide/language-basics/floats
+    - last_visited: '2024-08-19T17:21:37'
+      pinned: false
+      title: Pointers | zig.guide
+      url: https://zig.guide/language-basics/pointers
+    - last_visited: '2024-08-19T17:23:36'
+      pinned: false
+      title: Pointer Sized Integers | zig.guide
+      url: https://zig.guide/language-basics/pointer-sized-integers
+    - last_visited: '2024-08-19T17:24:17'
+      pinned: false
+      title: Many-item Pointers | zig.guide
+      url: https://zig.guide/language-basics/many-item-pointers
+    - last_visited: '2024-08-19T17:25:28'
+      pinned: false
+      title: Slices | zig.guide
+      url: https://zig.guide/language-basics/slices
+    - last_visited: '2024-08-19T17:40:53'
+      pinned: false
+      title: Pointers | zig.guide
+      url: https://zig.guide/language-basics/pointers
+    - last_visited: '2024-08-19T17:41:15'
+      pinned: false
+      title: Many-item Pointers | zig.guide
+      url: https://zig.guide/language-basics/many-item-pointers
+    - last_visited: '2024-08-19T17:41:19'
+      pinned: false
+      title: Slices | zig.guide
+      url: https://zig.guide/language-basics/slices
+    - last_visited: '2024-08-19T17:42:26'
+      pinned: false
+      title: Comptime | zig.guide
+      url: https://zig.guide/language-basics/comptime
+    - last_visited: '2024-08-19T17:50:20'
+      pinned: false
+      title: Arrays | zig.guide
+      url: https://zig.guide/language-basics/arrays
+    - last_visited: '2024-08-19T17:50:55'
+      pinned: false
+      title: If Expressions | zig.guide
+      url: https://zig.guide/language-basics/if
+    - active: true
+      last_visited: '2024-08-19T17:53:42'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Labelled Blocks | zig.guide
+      url: https://zig.guide/language-basics/labelled-blocks
+      zoom: 1.0

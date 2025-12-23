@@ -1,0 +1,42 @@
+2025/11/07-00:04:12.839 10d2 Reusing MANIFEST /home/zanshin/.config/Vieb/Partitions/main/Local Storage/leveldb/MANIFEST-000001
+2025/11/07-00:04:12.839 10d2 Recovering log #137
+2025/11/07-00:04:12.840 10d2 Reusing old log /home/zanshin/.config/Vieb/Partitions/main/Local Storage/leveldb/000137.log 
+2025/11/07-00:39:42.473 10ef Level-0 table #141: started
+2025/11/07-00:39:42.481 10ef Level-0 table #141: 56846 bytes OK
+2025/11/07-00:39:42.483 10ef Delete type=0 #137
+2025/11/07-01:00:00.136 10d2 Level-0 table #143: started
+2025/11/07-01:00:00.144 10d2 Level-0 table #143: 83899 bytes OK
+2025/11/07-01:00:00.147 10d2 Delete type=0 #140
+2025/11/07-01:13:32.788 10d2 Level-0 table #145: started
+2025/11/07-01:13:32.796 10d2 Level-0 table #145: 40493 bytes OK
+2025/11/07-01:13:32.798 10d2 Delete type=0 #142
+2025/11/07-01:13:32.799 10d2 Compacting 4@0 + 1@1 files
+2025/11/07-01:13:32.824 10d2 Generated table #146@0: 514 keys, 1126164 bytes
+2025/11/07-01:13:32.824 10d2 Compacted 4@0 + 1@1 files => 1126164 bytes
+2025/11/07-01:13:32.825 10d2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/07-01:13:32.825 10d2 Delete type=2 #141
+2025/11/07-01:13:32.825 10d2 Delete type=2 #143
+2025/11/07-01:13:32.825 10d2 Delete type=2 #145
+2025/11/07-01:13:32.825 10d2 Delete type=2 #136
+2025/11/07-01:13:32.825 10d2 Delete type=2 #138
+2025/11/07-01:36:25.298 10ef Level-0 table #148: started
+2025/11/07-01:36:25.307 10ef Level-0 table #148: 52193 bytes OK
+2025/11/07-01:36:25.310 10ef Delete type=0 #144
+2025/11/07-22:13:31.677 10ef Level-0 table #150: started
+2025/11/07-22:13:31.680 10ef Level-0 table #150: 51217 bytes OK
+2025/11/07-22:13:31.682 10ef Delete type=0 #147
+2025/11/07-22:13:41.812 10ef Level-0 table #152: started
+2025/11/07-22:13:41.815 10ef Level-0 table #152: 46252 bytes OK
+2025/11/07-22:13:41.816 10ef Delete type=0 #149
+2025/11/07-23:25:08.568 10ef Level-0 table #154: started
+2025/11/07-23:25:08.575 10ef Level-0 table #154: 18536 bytes OK
+2025/11/07-23:25:08.576 10ef Delete type=0 #151
+2025/11/07-23:25:08.576 10ef Compacting 4@0 + 1@1 files
+2025/11/07-23:25:08.588 10ef Generated table #155@0: 543 keys, 1148139 bytes
+2025/11/07-23:25:08.588 10ef Compacted 4@0 + 1@1 files => 1148139 bytes
+2025/11/07-23:25:08.589 10ef compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/07-23:25:08.589 10ef Delete type=2 #150
+2025/11/07-23:25:08.589 10ef Delete type=2 #154
+2025/11/07-23:25:08.589 10ef Delete type=2 #152
+2025/11/07-23:25:08.589 10ef Delete type=2 #148
+2025/11/07-23:25:08.589 10ef Delete type=2 #146

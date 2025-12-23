@@ -1,0 +1,456 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3UAAAQPAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3UAAAQP
+  tabs:
+  - history:
+    - last_visited: '2024-06-23T02:05:55'
+      pinned: false
+      title: The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain
+    - last_visited: '2024-06-23T02:05:55'
+      pinned: false
+      title: (8926) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/playlists
+    - last_visited: '2024-06-23T02:07:25'
+      pinned: false
+      title: (8926) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/playlists
+    - last_visited: '2024-06-23T02:07:29'
+      pinned: false
+      title: (8926) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/playlists
+    - last_visited: '2024-06-23T02:10:57'
+      pinned: false
+      title: (8926) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/playlists
+    - last_visited: '2024-06-23T02:10:57'
+      pinned: false
+      title: (8926) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/playlists
+    - active: true
+      last_visited: '2024-06-23T02:11:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 240
+      title: (8945) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/playlists
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-06-23T02:07:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(8945) The Nature of Code: Simulating Natural Systems - YouTube'
+      url: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-06-23T02:27:25'
+      pinned: false
+      title: '(8926) I.2: Probability Basics - The Nature of Code - YouTube'
+      url: https://www.youtube.com/watch?v=frh0coyRmJQ&list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK&index=4
+    - last_visited: '2024-06-23T02:27:25'
+      pinned: false
+      title: '(8931) I.3: Gaussian Distribution - The Nature of Code - YouTube'
+      url: https://www.youtube.com/watch?v=8uyR-YU_0dg&list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK&index=4
+    - active: true
+      last_visited: '2024-06-23T11:29:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(8945) I.4: Custom Distribution - The Nature of Code - YouTube'
+      url: https://www.youtube.com/watch?v=DfziDXHYoik&list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK&index=5
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-06-23T02:07:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (8945) Coding Challenges - YouTube
+      url: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-06-23T01:58:16'
+      pinned: false
+      title: (8926) 3Blue1Brown - YouTube
+      url: https://www.youtube.com/@3blue1brown
+    - last_visited: '2024-06-23T01:58:16'
+      pinned: false
+      title: (8926) 3Blue1Brown - YouTube
+      url: https://www.youtube.com/@3blue1brown/videos
+    - last_visited: '2024-06-23T01:58:20'
+      pinned: false
+      title: (8926) 3Blue1Brown - YouTube
+      url: https://www.youtube.com/@3blue1brown/videos
+    - last_visited: '2024-06-23T01:58:50'
+      pinned: false
+      title: (8926) 3Blue1Brown - YouTube
+      url: https://www.youtube.com/@3blue1brown/courses
+    - active: true
+      last_visited: '2024-06-23T01:58:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (8945) Essence of linear algebra - YouTube
+      url: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-06-23T01:25:15'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Recursive descent parser - Wikipedia
+      url: https://en.wikipedia.org/wiki/Recursive_descent_parser
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-06-23T17:22:29'
+      pinned: false
+      title: (8931) handmade hero complete - YouTube
+      url: https://www.youtube.com/results?search_query=handmade+hero+complete
+    - last_visited: '2024-06-23T17:22:29'
+      pinned: false
+      title: (8931) Molly Rocket - YouTube
+      url: https://www.youtube.com/@MollyRocket
+    - last_visited: '2024-06-23T17:22:48'
+      pinned: false
+      title: (8931) Molly Rocket - YouTube
+      url: https://www.youtube.com/@MollyRocket/playlists
+    - last_visited: '2024-06-23T17:23:12'
+      pinned: false
+      title: (8931) Molly Rocket - YouTube
+      url: https://www.youtube.com/@MollyRocket/playlists
+    - active: true
+      last_visited: '2024-06-23T17:23:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (8945) Molly Rocket - YouTube
+      url: https://www.youtube.com/@MollyRocket/playlists
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-06-23T17:26:20'
+      pinned: false
+      title: (8939) Math - YouTube
+      url: https://www.youtube.com/playlist?list=PLEMXAbCVnmY7lyKDlQbdbSGynV2RSaM5J
+    - last_visited: '2024-06-23T17:26:20'
+      pinned: false
+      title: (8944) Handmade Hero Day 041 - Overview of the Types of Math Used in
+        Games - YouTube
+      url: https://www.youtube.com/watch?v=WN3_d_QcJZE&list=PLEMXAbCVnmY7lyKDlQbdbSGynV2RSaM5J
+    - active: true
+      last_visited: '2024-06-23T21:07:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (8945) Handmade Hero Day 042 - Basic 2D Vectors - YouTube
+      url: https://www.youtube.com/watch?v=eE-D_wSUd0g&list=PLEMXAbCVnmY7lyKDlQbdbSGynV2RSaM5J&index=2
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-06-23T01:25:14'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'davidgow.net: Greetings!'
+      url: http://davidgow.net/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-06-23T01:25:14'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Handmade Penguin: Index'
+      url: https://davidgow.net/handmadepenguin/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-06-23T21:07:58'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Allocating a Backbuffer: Handmade Penguin Chapter 3'
+      url: https://davidgow.net/handmadepenguin/ch3.html
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-06-23T21:06:04'
+      pinned: false
+      title: (8944) handmade hero complete - YouTube
+      url: https://www.youtube.com/results?search_query=handmade+hero+complete
+    - active: true
+      last_visited: '2024-06-23T21:06:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 999
+      title: (8945) Handmade Hero Complete - YouTube
+      url: https://www.youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2024-06-23T21:17:16'
+      pinned: false
+      title: Basic principles of Wayland · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/black-square/basic-principles-of-wayland.html
+    - last_visited: '2024-06-23T21:17:27'
+      pinned: false
+      title: Drawing · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/beyond-the-black-square/drawing.html
+    - last_visited: '2024-06-23T21:17:54'
+      pinned: false
+      title: Animation · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/beyond-the-black-square/animation.html
+    - last_visited: '2024-06-23T21:18:01'
+      pinned: false
+      title: Click & draw · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/beyond-the-black-square/click-n-draw.html
+    - last_visited: '2024-06-23T21:18:05'
+      pinned: false
+      title: Cursors · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/beyond-the-black-square/cursors.html
+    - last_visited: '2024-06-23T21:18:09'
+      pinned: false
+      title: Allocating a buffer · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/black-square/allocating-a-buffer.html
+    - last_visited: '2024-06-23T21:18:53'
+      pinned: false
+      title: Introduction · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/
+    - last_visited: '2024-06-23T21:19:31'
+      pinned: false
+      title: About this book · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/about-this-book/
+    - last_visited: '2024-06-23T21:19:38'
+      pinned: false
+      title: What is Wayland? · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/about-this-book/what-is-wayland.html
+    - last_visited: '2024-06-23T21:19:55'
+      pinned: false
+      title: Do I need to know Wayland? · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/about-this-book/do-i-need-to-know-wayland.html
+    - last_visited: '2024-06-23T21:20:31'
+      pinned: false
+      title: What this book is not · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/about-this-book/what-this-book-is-not.html
+    - last_visited: '2024-06-23T21:20:51'
+      pinned: false
+      title: About the author · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/about-this-book/about-the-author.html
+    - last_visited: '2024-06-23T21:21:01'
+      pinned: false
+      title: Black Square · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/black-square/
+    - last_visited: '2024-06-23T21:21:13'
+      pinned: false
+      title: Setting up the environment · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/black-square/setting-up-the-environment.html
+    - last_visited: '2024-06-23T21:22:35'
+      pinned: false
+      title: First steps · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/black-square/first-steps.html
+    - last_visited: '2024-06-23T21:24:48'
+      pinned: false
+      title: Basic principles of Wayland · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/black-square/basic-principles-of-wayland.html
+    - last_visited: '2024-06-23T21:51:06'
+      pinned: false
+      title: The wayland-client library · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/black-square/the-wayland-client-library.html
+    - last_visited: '2024-06-23T21:57:37'
+      pinned: false
+      title: The wayland-client library · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/black-square/global-objects.html
+    - last_visited: '2024-06-23T21:57:39'
+      pinned: false
+      title: The wayland-client library · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/black-square/global-objects.html
+    - last_visited: '2024-06-23T21:57:45'
+      pinned: false
+      title: The wayland-client library · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/black-square/global-objects.html
+    - last_visited: '2024-06-23T21:57:47'
+      pinned: false
+      title: Global objects · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/black-square/global-objects.html
+    - active: true
+      last_visited: '2024-06-23T22:57:49'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Surfaces and buffers · Writing Wayland clients
+      url: https://bugaevc.gitbooks.io/writing-wayland-clients/content/black-square/surfaces-and-buffers.html
+      zoom: 1.25
+  - history:
+    - last_visited: '2024-06-23T21:08:53'
+      pinned: false
+      title: Creating a display - The Wayland Protocol
+      url: https://wayland-book.com/wayland-display/creation.html
+    - last_visited: '2024-06-23T21:14:51'
+      pinned: false
+      title: Incorporating an event loop - The Wayland Protocol
+      url: https://wayland-book.com/wayland-display/event-loop.html
+    - last_visited: '2024-06-23T21:15:17'
+      pinned: false
+      title: Binding to globals - The Wayland Protocol
+      url: https://wayland-book.com/registry/binding.html
+    - last_visited: '2024-06-23T21:15:24'
+      pinned: false
+      title: Registering globals - The Wayland Protocol
+      url: https://wayland-book.com/registry/server-side.html
+    - last_visited: '2024-06-23T21:15:26'
+      pinned: false
+      title: Buffers & surfaces - The Wayland Protocol
+      url: https://wayland-book.com/surfaces.html
+    - last_visited: '2024-06-23T21:15:28'
+      pinned: false
+      title: Using wl_compositor - The Wayland Protocol
+      url: https://wayland-book.com/surfaces/compositor.html
+    - last_visited: '2024-06-23T21:15:51'
+      pinned: false
+      title: XDG shell basics - The Wayland Protocol
+      url: https://wayland-book.com/xdg-shell-basics.html
+    - last_visited: '2024-06-23T21:15:53'
+      pinned: false
+      title: XDG surfaces - The Wayland Protocol
+      url: https://wayland-book.com/xdg-shell-basics/xdg-surface.html
+    - last_visited: '2024-06-23T21:15:55'
+      pinned: false
+      title: Application windows - The Wayland Protocol
+      url: https://wayland-book.com/xdg-shell-basics/xdg-toplevel.html
+    - last_visited: '2024-06-23T21:15:59'
+      pinned: false
+      title: Extended example code - The Wayland Protocol
+      url: https://wayland-book.com/xdg-shell-basics/example-code.html
+    - last_visited: '2024-06-23T21:16:17'
+      pinned: false
+      title: Proxies & resources - The Wayland Protocol
+      url: https://wayland-book.com/libwayland/proxies.html
+    - last_visited: '2024-06-23T21:18:46'
+      pinned: false
+      title: Introduction - The Wayland Protocol
+      url: https://wayland-book.com/introduction.html
+    - last_visited: '2024-06-23T22:49:57'
+      pinned: false
+      title: High-level Wayland design - The Wayland Protocol
+      url: https://wayland-book.com/introduction/high-level-design.html
+    - last_visited: '2024-06-23T22:50:03'
+      pinned: false
+      title: Goals & target audience - The Wayland Protocol
+      url: https://wayland-book.com/introduction/goals.html
+    - last_visited: '2024-06-23T22:50:08'
+      pinned: false
+      title: What's in the package - The Wayland Protocol
+      url: https://wayland-book.com/introduction/package.html
+    - last_visited: '2024-06-23T22:50:14'
+      pinned: false
+      title: Protocol design - The Wayland Protocol
+      url: https://wayland-book.com/protocol-design.html
+    - last_visited: '2024-06-23T22:50:16'
+      pinned: false
+      title: Wire protocol basics - The Wayland Protocol
+      url: https://wayland-book.com/protocol-design/wire-protocol.html
+    - last_visited: '2024-06-23T22:50:25'
+      pinned: false
+      title: Interfaces, requests, events - The Wayland Protocol
+      url: https://wayland-book.com/protocol-design/interfaces-reqs-events.html
+    - last_visited: '2024-06-23T22:50:34'
+      pinned: false
+      title: libwayland in depth - The Wayland Protocol
+      url: https://wayland-book.com/libwayland.html
+    - last_visited: '2024-06-23T22:50:35'
+      pinned: false
+      title: wayland-util primitives - The Wayland Protocol
+      url: https://wayland-book.com/libwayland/util.html
+    - last_visited: '2024-06-23T22:50:38'
+      pinned: false
+      title: wayland-scanner - The Wayland Protocol
+      url: https://wayland-book.com/libwayland/wayland-scanner.html
+    - last_visited: '2024-06-23T22:50:45'
+      pinned: false
+      title: Proxies & resources - The Wayland Protocol
+      url: https://wayland-book.com/libwayland/proxies.html
+    - last_visited: '2024-06-23T22:50:46'
+      pinned: false
+      title: Interfaces & listeners - The Wayland Protocol
+      url: https://wayland-book.com/libwayland/interfaces.html
+    - last_visited: '2024-06-23T22:51:01'
+      pinned: false
+      title: The Wayland display - The Wayland Protocol
+      url: https://wayland-book.com/wayland-display.html
+    - last_visited: '2024-06-23T22:51:06'
+      pinned: false
+      title: Creating a display - The Wayland Protocol
+      url: https://wayland-book.com/wayland-display/creation.html
+    - last_visited: '2024-06-23T22:51:29'
+      pinned: false
+      title: Incorporating an event loop - The Wayland Protocol
+      url: https://wayland-book.com/wayland-display/event-loop.html
+    - last_visited: '2024-06-23T22:51:39'
+      pinned: false
+      title: Globals & the registry - The Wayland Protocol
+      url: https://wayland-book.com/registry.html
+    - last_visited: '2024-06-23T22:51:45'
+      pinned: false
+      title: Binding to globals - The Wayland Protocol
+      url: https://wayland-book.com/registry/binding.html
+    - last_visited: '2024-06-23T22:51:56'
+      pinned: false
+      title: Registering globals - The Wayland Protocol
+      url: https://wayland-book.com/registry/server-side.html
+    - last_visited: '2024-06-23T22:52:36'
+      pinned: false
+      title: Buffers & surfaces - The Wayland Protocol
+      url: https://wayland-book.com/surfaces.html
+    - last_visited: '2024-06-23T22:52:39'
+      pinned: false
+      title: Using wl_compositor - The Wayland Protocol
+      url: https://wayland-book.com/surfaces/compositor.html
+    - last_visited: '2024-06-23T22:53:16'
+      pinned: false
+      title: Shared memory buffers - The Wayland Protocol
+      url: https://wayland-book.com/surfaces/shared-memory.html
+    - last_visited: '2024-06-23T22:53:21'
+      pinned: false
+      title: Linux dmabuf - The Wayland Protocol
+      url: https://wayland-book.com/surfaces/dmabuf.html
+    - last_visited: '2024-06-23T22:53:26'
+      pinned: false
+      title: Surface roles - The Wayland Protocol
+      url: https://wayland-book.com/surfaces/roles.html
+    - last_visited: '2024-06-23T22:53:28'
+      pinned: false
+      title: XDG shell basics - The Wayland Protocol
+      url: https://wayland-book.com/xdg-shell-basics.html
+    - last_visited: '2024-06-23T22:53:31'
+      pinned: false
+      title: XDG surfaces - The Wayland Protocol
+      url: https://wayland-book.com/xdg-shell-basics/xdg-surface.html
+    - last_visited: '2024-06-23T22:53:38'
+      pinned: false
+      title: Application windows - The Wayland Protocol
+      url: https://wayland-book.com/xdg-shell-basics/xdg-toplevel.html
+    - active: true
+      last_visited: '2024-06-23T22:53:42'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2843
+      title: Extended example code - The Wayland Protocol
+      url: https://wayland-book.com/xdg-shell-basics/example-code.html
+      zoom: 1.0

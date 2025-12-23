@@ -1,0 +1,873 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABZ8AAAODAAAAAAAAAAAAAAWfAAADZQAAAAACBAAABaAAAAAAAAAA
+    AAAABZ8AAAOD
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'The Coded Message: Blog :: The Coded Message'
+      url: https://www.thecodedmessage.com/posts/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:00'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'RAII: GC without GC - Rust: A Better C++ Than C++'
+      url: https://www.thecodedmessage.com/rust-c-book/raii.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Rust Tidbits #1 :: The Coded Message'
+      url: https://www.thecodedmessage.com/posts/rust-tidbits-1/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Write Everything Down (Part 1) :: The Coded Message'
+      url: https://www.thecodedmessage.com/posts/write-everything-down/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Trivia About Rust Types: An (Authorized) Transcription of Jon Gjengset''s
+        Twitter Thread :: The Coded Message'
+      url: https://www.thecodedmessage.com/posts/trivia-rust-types/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'A Rust Gem: The Rust Map API :: The Coded Message'
+      url: https://www.thecodedmessage.com/posts/rust-map-entry/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'On ADHD Medication :: The Coded Message'
+      url: https://www.thecodedmessage.com/posts/meds/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Archive
+      url: https://rust.code-maven.com/archive
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Code Maven - for people who code
+      url: https://code-maven.com/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Rust Maven
+      url: https://rust.code-maven.com/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: arch wayland mouse settings - Google Zoeken
+      url: https://www.google.nl/search?q=arch%20wayland%20mouse%20settings
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: hyprland mouse settings - Google Zoeken
+      url: https://www.google.nl/search?q=hyprland%20mouse%20settings
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '[Feature Request]: Setting on Hyprland.conf to change mouse speed ·
+        Issue #907 · prasanthrangan/hyprdots'
+      url: https://github.com/prasanthrangan/hyprdots/issues/907
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: hyprdots/Configs/.config/hypr/hyprland.conf at main · prasanthrangan/hyprdots
+      url: https://github.com/prasanthrangan/hyprdots/blob/main/Configs%2F.config%2Fhypr%2Fhyprland.conf#L67-L85
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Learning Zig - Generics
+      url: https://www.openmymind.net/learning_zig/generics/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAACiAAAAAAAAAAAAAAWfAAADZQAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAACi
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:00'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Send to Kobo/Kindle
+      url: https://send.djazz.se/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: PDF to EPUB | CloudConvert
+      url: https://cloudconvert.com/pdf-to-epub
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'LuKuangChen/stacker-on-racket: A notional machine for the SMoL languages'
+      url: https://github.com/LuKuangChen/stacker-on-racket
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: KC's Homepage
+      url: https://lukuangchen.github.io/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: SMoL Tutor | smol-tutor
+      url: https://smol-tutor.xyz/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAAClAAAAAAAAAAAAAAWfAAADZQAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAACl
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: unisonlang
+      url: https://www.reddit.com/r/unisonlang/new/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: OCaml - The OCaml Manual
+      url: https://ocaml.org/manual/5.2/index.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: OCaml - The OCaml Manual
+      url: https://ocaml.org/manual/5.2/index.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:24'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'tanelso2/ocaml-effects-tutorial: Tutorial for Learning OCaml''s Effects
+        and Handlers'
+      url: https://github.com/tanelso2/ocaml-effects-tutorial
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'ocaml-multicore/effects-examples: Examples to illustrate the use of
+        algebraic effects in Multicore OCaml'
+      url: https://github.com/ocaml-multicore/effects-examples
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Foreign Function Interface - Real World OCaml
+      url: https://dev.realworldocaml.org/foreign-function-interface.html
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAAClAAAAAAAAAAAAAAWfAAADZQAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAACl
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Hoe de consultant-industrie de overheid dom maakt | VPRO Tegenlicht -
+        YouTube
+      url: https://www.youtube.com/watch?v=qNNgDq3zMLU
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: ocaml game dev - YouTube
+      url: https://www.youtube.com/results?search_query=ocaml+game+dev
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: OCaml Game Engine - YouTube
+      url: https://www.youtube.com/playlist?list=PLDWRoFV4JjSSad56GTubCemGa34AHjCfM
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Dependency Injection, The Best Pattern - YouTube
+      url: https://www.youtube.com/watch?v=J1f5b4vcxCQ
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: dr Jonas Birch - YouTube
+      url: https://www.youtube.com/@dr-Jonas-Birch/playlists
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Spontaneous live stream - YouTube
+      url: https://www.youtube.com/watch?v=wTgivwDMsLg&list=PLdNUbYq5poiW6cumyg2w35fI9w9ivfZcD&index=46
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: NASAs Coding Requirements Are Insane - YouTube
+      url: https://www.youtube.com/watch?v=JWKadu0ks20
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: How To Learn Any Skill So Fast It Feels Illegal - YouTube
+      url: https://www.youtube.com/watch?v=bSDprg24pEA
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Builtins | C3
+      url: https://c3-lang.org/misc-advanced/builtins/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Precedence | C3
+      url: https://c3-lang.org/language-rules/precedence/#_top
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: OpenGL - YouTube
+      url: https://www.youtube.com/playlist?list=PLEMXAbCVnmY73lOROVmKIgGWH3tje_5l9
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Lectures - YouTube
+      url: https://www.youtube.com/playlist?list=PLEMXAbCVnmY7uLZI18_vIO11HkzB2EgEH
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'lerno/mlx-c3-demo: A Simple Usage of C API for MLX in C3'
+      url: https://github.com/lerno/mlx-c3-demo
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAAClAAAAAAAAAAAAAAWfAAADZQAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAACl
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:00'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: top 5 c programming books - Google Zoeken
+      url: https://www.google.nl/search?q=top%205%20c%20programming%20books
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: The Definitive C Book Guide and List - Stack Overflow
+      url: https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'C In Depth : S.K.Srivastava/Deepali Srivastava: Amazon.in: Books'
+      url: https://www.amazon.in/C-Depth-Deepali-Srivastava/dp/8183330487
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: The Best C Books of All Time - BookAuthority
+      url: https://bookauthority.org/books/best-c-books
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Best Books for Learning C Programming | Hacker News Books
+      url: https://hackernewsbooks.com/topics/learning-c-programming-books
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Hacker News Books
+      url: https://hackernewsbooks.com/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Programming in C | Stephen G. Kochan | download on Z-Library
+      url: https://z-library.sk/book/5360574/1c7dba/programming-in-c.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Effective C: An Introduction to Professional C Programming | Robert
+        C. Seacord | download on Z-Library'
+      url: https://z-library.sk/book/5677755/309777/effective-c-an-introduction-to-professional-c-programming.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: A small C compiler | Hendrix, James E. | download on Z-Library
+      url: https://z-library.sk/book/6153326/e030ab/a-small-c-compiler.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: What defines an opaque type in C, and when are they necessary and/or
+        useful? - Stack Overflow
+      url: https://stackoverflow.com/questions/2301454/what-defines-an-opaque-type-in-c-and-when-are-they-necessary-and-or-useful
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Practical Design Patterns: Opaque Pointers and Objects in C | Interrupt'
+      url: https://interrupt.memfault.com/blog/opaque-pointers
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Box / Rc / Arc / Mutex - Smart Pointers Simplified - Rust - YouTube
+      url: https://www.youtube.com/watch?v=mNHdD69iLzA
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: "Control Flow Basics - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/control-flow-basics.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Rc - Rust By Example
+      url: https://doc.rust-lang.org/rust-by-example/std/rc.html
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAACiAAAAAAAAAAAAAAWfAAADZQAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAACi
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Ziglang
+      url: https://www.reddit.com/r/Zig/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Ziggit - A Zig community
+      url: https://ziggit.dev/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Type-safe Tagged Pointers with comptime - Zig NEWS
+      url: https://zig.news/orgold/type-safe-tagged-pointers-with-comptime-ghi
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Mutable Global Data in Zig - Zig NEWS
+      url: https://zig.news/david_vanderson/mutable-global-data-in-zig-1p5l
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Zig Hack: TypedGet - Zig NEWS'
+      url: https://zig.news/rohlem/zig-hack-typedget-1po4
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Generating a SDK UI at comptime - Zig NEWS
+      url: https://zig.news/pyrolistical/generating-a-sdk-ui-at-comptime-4e26
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Introducing Tuile - a Text User Interface library for Zig - Zig NEWS
+      url: https://zig.news/akarpovskii/introducing-tuile-a-text-user-interface-library-for-zig-51ig
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Andrew Kelly''s talk at goto: Zig Build System & How to Build Software
+        From Source - Zig NEWS'
+      url: https://zig.news/kojikabuto/andrew-kellys-talk-at-goto-zig-build-system-how-to-build-software-from-source-4ajp
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/0.13.0/#enum
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:04'
+      original-url: https://zig.guide/build-system/zig-build
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zig Build | zig.guide
+      url: https://zig.guide/build-system/zig-build/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(2) Discord | #game-dev | Zig Programming Language'
+      url: https://discord.com/channels/605571803288698900/634812978994085888
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'ypsvlq/wio: windowed i/o'
+      url: https://github.com/ypsvlq/wio
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: LearnOpenGL - Hello Window
+      url: https://learnopengl.com/Getting-started/Hello-Window
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'GLFW: Window guide'
+      url: https://www.glfw.org/docs/latest/window.html#window_hints
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: glad.dav1d.de
+      url: https://glad.dav1d.de/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: vendor/libraries at main · c3lang/vendor
+      url: https://github.com/c3lang/vendor/tree/main/libraries
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Haskell Community - Haskell
+      url: https://discourse.haskell.org/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Best Practices for Structuring Zig Projects with External Dependencies
+        - Help - Ziggit
+      url: https://ziggit.dev/t/best-practices-for-structuring-zig-projects-with-external-dependencies/3723
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Best practices for consuming C libraries - Explain - Ziggit
+      url: https://ziggit.dev/t/best-practices-for-consuming-c-libraries/6819
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Latest build-system topics - Ziggit
+      url: https://ziggit.dev/tag/build-system
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Latest build-system topics - Ziggit
+      url: https://ziggit.dev/tag/build-system
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Latest build-system topics in Explain - Ziggit
+      url: https://ziggit.dev/tags/c/explain/13/build-system
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zig Build System ⚡ Zig Programming Language
+      url: https://ziglang.org/learn/build-system/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Docs - Ziggit
+      url: https://ziggit.dev/docs
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:00'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: ABI | zig.guide
+      url: https://zig.guide/working-with-c/abi/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zig Package Manager 2 - WTF is Build.Zig.Zon and Build.Zig (0.11.0 Update)
+        - Zig NEWS
+      url: https://zig.news/edyu/zig-package-manager-wtf-is-zon-2-0110-update-1jo3
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: SDL2/SDL_GL_CreateContext - SDL2 Wiki
+      url: https://wiki.libsdl.org/SDL2/SDL_GL_CreateContext
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: sdl - How to use OpenGL context in SDL2? - Stack Overflow
+      url: https://stackoverflow.com/questions/65014829/how-to-use-opengl-context-in-sdl2
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-03-03T03:14:00'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Commands
+      url: qute://help/commands.html#open
+      zoom: 1.0

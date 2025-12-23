@@ -1,0 +1,77 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3sAAAP8AAAAAAAAAAAAAAd7AAAD/AAAAAAAAAAAB4AAAAAAAAAA
+    AAAAB3sAAAP8
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2023-10-24T20:26:09'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Tag: Clojure from the ground up'
+      url: https://aphyr.com/tags/Clojure-from-the-ground-up
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-24T20:26:09'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Clojure from the ground up: sequences'
+      url: https://aphyr.com/posts/304-clojure-from-the-ground-up-sequences
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-24T20:26:08'
+      pinned: false
+      title: Clojure by Example
+      url: http://kimh.github.io/clojure-by-example/#namespaces
+    - active: true
+      last_visited: '2023-10-24T20:26:09'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 16079
+      title: Namespaces – Clojure by Example
+      url: http://kimh.github.io/clojure-by-example/#namespaces
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-24T20:26:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 967
+      title: Learn to Program the World's Most Bodacious Language with Clojure for
+        the Brave and True
+      url: https://www.braveclojure.com/clojure-for-the-brave-and-true/
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-24T20:26:08'
+      pinned: false
+      title: 'Do Things: A Clojure Crash Course | Clojure for the Brave and True'
+      url: https://www.braveclojure.com/do-things/
+    - active: true
+      last_visited: '2023-10-25T00:06:17'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3808
+      title: Core Functions in Depth | Clojure for the Brave and True
+      url: https://www.braveclojure.com/core-functions-in-depth/
+      zoom: 1.25
+  - history:
+    - active: true
+      last_visited: '2023-10-24T23:56:09'
+      original-url: http://clojure.org/api/cheatsheet
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Clojure - Cheatsheet
+      url: https://clojure.org/api/cheatsheet
+      zoom: 1.0

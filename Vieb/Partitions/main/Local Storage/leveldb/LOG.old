@@ -1,0 +1,18 @@
+2025/11/06-22:47:48.344 85e0a Reusing MANIFEST /home/zanshin/.config/Vieb/Partitions/main/Local Storage/leveldb/MANIFEST-000001
+2025/11/06-22:47:48.345 85e0a Recovering log #131
+2025/11/06-22:47:48.345 85e0a Reusing old log /home/zanshin/.config/Vieb/Partitions/main/Local Storage/leveldb/000131.log 
+2025/11/06-22:48:24.437 85de7 Level-0 table #135: started
+2025/11/06-22:48:24.439 85de7 Level-0 table #135: 16979 bytes OK
+2025/11/06-22:48:24.440 85de7 Delete type=0 #131
+2025/11/06-22:48:24.441 85de7 Compacting 4@0 + 1@1 files
+2025/11/06-22:48:24.460 85de7 Generated table #136@0: 477 keys, 1111181 bytes
+2025/11/06-22:48:24.460 85de7 Compacted 4@0 + 1@1 files => 1111181 bytes
+2025/11/06-22:48:24.461 85de7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/06-22:48:24.461 85de7 Delete type=2 #132
+2025/11/06-22:48:24.461 85de7 Delete type=2 #130
+2025/11/06-22:48:24.461 85de7 Delete type=2 #135
+2025/11/06-22:48:24.461 85de7 Delete type=2 #126
+2025/11/06-22:48:24.461 85de7 Delete type=2 #128
+2025/11/06-23:17:40.899 85e09 Level-0 table #138: started
+2025/11/06-23:17:40.901 85e09 Level-0 table #138: 69358 bytes OK
+2025/11/06-23:17:40.903 85e09 Delete type=0 #134

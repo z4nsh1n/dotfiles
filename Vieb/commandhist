@@ -1,0 +1,192 @@
+close
+nmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+pmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+vmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+nmap q<C-[> <nop>
+pmap q<C-[> <nop>
+vmap q<C-[> <nop>
+nmap q<Esc> <nop>
+pmap q<Esc> <nop>
+vmap q<Esc> <nop>
+quit
+close
+buffer 0
+buffer 1
+buffer 0
+buffer 1
+close
+tabnew
+close
+tabnew
+close
+tabnew
+buffer 0
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+set useragent=%firefox
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+quitall
+close
+help
+close
+help
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+quitall
+buffer 0
+close
+tabnew
+close
+quitall
+buffer 1
+buffer 0
+buffer 1
+buffer 2
+buffer 0
+buffer 1
+buffer 0
+quitall
+close
+tabnew
+quitall
+buffer 0
+quitall
+buffer 1
+buffer 0
+buffer 1
+buffer 2
+buffer 3
+close
+tabnew
+quitall
+set guifontsize?
+close
+tabnew
+help :colorscheme
+colorscheme
+colorscheme light-compact
+colorscheme compact
+buffer 1
+buffer 0
+buffer 1
+colorscheme flipped
+colorscheme numberedtabs
+buffer 0
+buffer 1
+buffer 0
+buffer 1
+buffer 0
+colorscheme paper-compact
+quitall
+colorscheme
+close
+runjsinpage
+close
+buffer 0
+tabnew
+close
+buffer 0
+close
+buffer 0
+buffer 1
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+buffer 0
+buffer 1
+buffer 2
+buffer 1
+buffer 0
+buffer 1
+buffer 2
+buffer 0
+buffer 1
+buffer 2
+set tabnewposition=end
+tabnew
+set tabnewposition=right
+help settings
+s guifontsize
+set guifontsize=12
+close
+tabnew
+set darkreader
+set darkreaderbg
+set darkreaderbg=#000000
+close
+tabnew
+close
+set guifontsize=12
+tabnew
+close
+set darkreader
+close
+tabnew
+close
+tabnew
+close
+buffer 0
+tabnew
+close
+tabnew
+close
+tabnew
+quitall

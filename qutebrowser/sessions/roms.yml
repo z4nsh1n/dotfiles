@@ -1,0 +1,741 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB38AAAQZAAAAAAAAAAAAAAMfAAACVwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB38AAAQZ
+  tabs:
+  - history:
+    - last_visited: '2023-07-05T20:48:16'
+      pinned: false
+      title: Most popular games page 1
+      url: https://www.dosgames.com/popular/
+    - last_visited: '2023-07-05T20:48:32'
+      pinned: false
+      title: Most popular games page 2
+      url: https://www.dosgames.com/popular/2
+    - last_visited: '2023-07-05T20:48:54'
+      pinned: false
+      title: Most popular games page 3
+      url: https://www.dosgames.com/popular/3
+    - last_visited: '2023-07-05T20:49:10'
+      pinned: false
+      title: Most popular games page 4
+      url: https://www.dosgames.com/popular/4
+    - last_visited: '2023-07-05T20:49:25'
+      pinned: false
+      title: Most popular games page 5
+      url: https://www.dosgames.com/popular/5
+    - last_visited: '2023-07-05T20:49:47'
+      pinned: false
+      title: Most popular games page 6
+      url: https://www.dosgames.com/popular/6
+    - last_visited: '2023-07-05T20:50:03'
+      pinned: false
+      title: Most popular games page 7
+      url: https://www.dosgames.com/popular/7
+    - last_visited: '2023-07-05T20:50:20'
+      pinned: false
+      title: Most popular games page 8
+      url: https://www.dosgames.com/popular/8
+    - last_visited: '2023-07-05T20:50:44'
+      pinned: false
+      title: Most popular games page 9
+      url: https://www.dosgames.com/popular/9
+    - last_visited: '2023-07-05T20:52:20'
+      pinned: false
+      title: Most popular games page 10
+      url: https://www.dosgames.com/popular/10
+    - last_visited: '2023-07-05T20:52:36'
+      pinned: false
+      title: Most popular games page 11
+      url: https://www.dosgames.com/popular/11
+    - last_visited: '2023-07-05T20:52:54'
+      pinned: false
+      title: Most popular games page 12
+      url: https://www.dosgames.com/popular/12
+    - active: true
+      last_visited: '2023-07-05T20:53:10'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Most popular games page 13
+      url: https://www.dosgames.com/popular/13
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-07-05T23:12:56'
+      pinned: false
+      title: DUNGEON KEEPER - DOS (Ms-Dos) rom download | WoWroms.com
+      url: https://wowroms.com/en/roms/dos/dungeon-keeper/147182.html
+    - last_visited: '2023-07-05T23:13:15'
+      pinned: false
+      title: DUNGEON KEEPER - DOS (Ms-Dos) rom download | WoWroms.com | start download
+      url: https://wowroms.com/en/roms/dos/download-dungeon-keeper/147182.html
+    - last_visited: '2023-07-06T00:01:58'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 1
+      url: https://wowroms.com/en/roms/list/DOS
+    - last_visited: '2023-07-06T00:02:02'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 1
+      url: https://wowroms.com/en/roms/list/DOS?sort=download
+    - last_visited: '2023-07-06T00:03:05'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 2
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=2
+    - last_visited: '2023-07-06T00:03:48'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 3
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=3
+    - last_visited: '2023-07-06T01:26:43'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 4
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=4
+    - last_visited: '2023-07-06T02:02:39'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 5
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=5
+    - last_visited: '2023-07-06T02:03:34'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 6
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=6
+    - last_visited: '2023-07-06T02:04:17'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 7
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=7
+    - last_visited: '2023-07-06T02:05:04'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 8
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=8
+    - last_visited: '2023-07-06T02:05:51'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 9
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=9
+    - last_visited: '2023-07-06T02:06:21'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 10
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=10
+    - last_visited: '2023-07-06T02:06:56'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 11
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=11
+    - last_visited: '2023-07-06T02:07:44'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 12
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=12
+    - last_visited: '2023-07-06T02:08:19'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 13
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=13
+    - last_visited: '2023-07-06T02:08:47'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 14
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=14
+    - last_visited: '2023-07-06T02:09:23'
+      pinned: false
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 15
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=15
+    - active: true
+      last_visited: '2023-07-06T02:10:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2756
+      title: DOS (Ms-Dos) ROMs. Free Download - wowroms.com - page 16
+      url: https://wowroms.com/en/roms/list/DOS?sort=download&page=16
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-07-06T02:10:44'
+      pinned: false
+      title: MechWarrior 2 Mercenaries (1996) - DOS (Ms-Dos) rom download | WoWroms.com
+      url: https://wowroms.com/en/roms/dos/mechwarrior-2-mercenaries-1996/148481.html
+    - last_visited: '2023-07-06T02:11:11'
+      pinned: false
+      title: MechWarrior 2 Mercenaries (1996) - DOS (Ms-Dos) rom download | WoWroms.com
+        | start download
+      url: https://wowroms.com/en/roms/dos/download-mechwarrior-2-mercenaries-1996/148481.html
+    - last_visited: '2023-07-06T02:11:42'
+      pinned: false
+      title: mechwarrior ROMs. Free Download - wowroms.com - page 1
+      url: https://wowroms.com/en/roms/list?search=mechwarrior
+    - last_visited: '2023-07-06T02:59:08'
+      pinned: false
+      title: ALL Roms - Wowroms.com
+      url: https://wowroms.com/en/all-roms
+    - last_visited: '2023-07-06T02:59:17'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 1
+      url: https://wowroms.com/en/roms/list/dos
+    - last_visited: '2023-07-06T02:59:33'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 1
+      url: https://wowroms.com/en/roms/list/dos?sort=rating
+    - last_visited: '2023-07-06T02:59:37'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 1
+      url: https://wowroms.com/en/roms/list/dos?sort=download
+    - last_visited: '2023-07-06T03:00:16'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 2
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=2
+    - last_visited: '2023-07-06T03:01:05'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 3
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=3
+    - last_visited: '2023-07-06T17:10:46'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 4
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=4
+    - last_visited: '2023-07-06T17:19:25'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 5
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=5
+    - last_visited: '2023-07-06T17:20:26'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 6
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=6
+    - last_visited: '2023-07-06T17:21:59'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 7
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=7
+    - last_visited: '2023-07-06T17:23:29'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 8
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=8
+    - last_visited: '2023-07-06T17:24:54'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 9
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=9
+    - last_visited: '2023-07-06T17:26:13'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 10
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=10
+    - last_visited: '2023-07-06T17:27:35'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 11
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=11
+    - last_visited: '2023-07-06T17:28:48'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 12
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=12
+    - last_visited: '2023-07-06T17:29:34'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 13
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=13
+    - last_visited: '2023-07-06T17:34:51'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 14
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=14
+    - last_visited: '2023-07-08T20:59:49'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 15
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=15
+    - last_visited: '2023-07-08T21:02:41'
+      pinned: false
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 1
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=1
+    - active: true
+      last_visited: '2023-07-08T21:06:49'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: dos (Ms-Dos) ROMs. Free Download - wowroms.com - page 2
+      url: https://wowroms.com/en/roms/list/dos?sort=download&page=2
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-07-06T04:07:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 614
+      title: Age Verification Quiz from Leisure Suit Larry in the Land of the Lounge
+        Lizards
+      url: http://www.classicgaming.cc/pc/leisure-suit-larry/age-quiz
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-07-08T23:05:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Top Amiga Games - Toplist of Best Amiga Games - Lemon Amiga
+      url: https://www.lemonamiga.com/games/votes_list.php
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-07-09T16:59:51'
+      pinned: false
+      title: Top Amiga Strategy Games - Toplist of Best Amiga Games - Lemon Amiga
+      url: https://www.lemonamiga.com/games/votes_list.php?genre_id=14
+    - last_visited: '2023-07-09T17:00:03'
+      pinned: false
+      title: Top Amiga Strategy Games - Toplist of Best Amiga Games - Lemon Amiga
+      url: https://www.lemonamiga.com/games/votes_list.php?genre_id=14
+    - last_visited: '2023-07-09T17:00:51'
+      pinned: false
+      title: Top Amiga Simulation Games - Toplist of Best Amiga Games - Lemon Amiga
+      url: https://www.lemonamiga.com/games/votes_list.php?genre_id=12
+    - last_visited: '2023-07-09T17:00:57'
+      pinned: false
+      title: Top Amiga Simulation Games - Toplist of Best Amiga Games - Lemon Amiga
+      url: https://www.lemonamiga.com/games/votes_list.php?genre_id=12
+    - last_visited: '2023-07-09T17:01:40'
+      pinned: false
+      title: Top Amiga Adventure Games - Toplist of Best Amiga Games - Lemon Amiga
+      url: https://www.lemonamiga.com/games/votes_list.php?genre_id=1
+    - active: true
+      last_visited: '2023-07-09T17:20:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Top Amiga Arcade Games - Toplist of Best Amiga Games - Lemon Amiga
+      url: https://www.lemonamiga.com/games/votes_list.php?genre_id=2
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-07-09T17:29:30'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Amiga Games by Sierra On-Line - Lemon Amiga Game Database
+      url: https://www.lemonamiga.com/games/list.php?list_publisher=Sierra%20On-Line
+      zoom: 1.0
+    - last_visited: '2023-07-09T17:29:22'
+      pinned: false
+      title: Amiga Games by Sierra On-Line - Lemon Amiga Game Database
+      url: https://www.lemonamiga.com/games/list.php?list_publisher=Sierra%20On-Line&lineoffset=28
+  - history:
+    - active: true
+      last_visited: '2023-07-08T23:31:49'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'GamesNostalgia - Amiga Games WHDLoad Packs: n'
+      url: https://gamesnostalgia.com/whdownload/n
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-07-09T17:29:43'
+      pinned: false
+      title: GamesNostalgia - Retro games, abandonware, freeware, Amiga & MS-DOS games
+        download for PC and Mac
+      url: https://gamesnostalgia.com/
+    - last_visited: '2023-07-09T19:23:26'
+      pinned: false
+      title: GamesNostalgia - All Release Years
+      url: https://gamesnostalgia.com/browseby/year
+    - last_visited: '2023-07-09T19:23:35'
+      pinned: false
+      title: GamesNostalgia - All Platforms
+      url: https://gamesnostalgia.com/browseby/platform
+    - last_visited: '2023-07-09T19:23:39'
+      pinned: false
+      title: Best Windows Games - GamesNostalgia
+      url: https://gamesnostalgia.com/games/platform/windows
+    - last_visited: '2023-07-09T19:24:08'
+      pinned: false
+      title: Best Windows Games - Page 2 - GamesNostalgia
+      url: https://gamesnostalgia.com/games/platform/windows/page/2
+    - last_visited: '2023-07-09T19:24:29'
+      pinned: false
+      title: Best Windows Games - Page 3 - GamesNostalgia
+      url: https://gamesnostalgia.com/games/platform/windows/page/3
+    - last_visited: '2023-07-09T23:22:14'
+      pinned: false
+      title: Best Windows Games - Page 4 - GamesNostalgia
+      url: https://gamesnostalgia.com/games/platform/windows/page/4
+    - last_visited: '2023-07-09T23:22:38'
+      pinned: false
+      title: Best Windows Games - Page 5 - GamesNostalgia
+      url: https://gamesnostalgia.com/games/platform/windows/page/5
+    - active: true
+      last_visited: '2023-07-09T23:23:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Best Windows Games - Page 6 - GamesNostalgia
+      url: https://gamesnostalgia.com/games/platform/windows/page/6
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-07-08T23:38:38'
+      pinned: false
+      title: amiga adf files - Google Zoeken
+      url: https://www.google.nl/search?q=amiga%20adf%20files
+    - active: true
+      last_visited: '2023-07-08T23:38:43'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 92
+      title: 'Amiga Games: Downloads - Downloads of ADF, WHDLoad, CD32 & IPF-files.
+        - Lemon Amiga'
+      url: https://www.lemonamiga.com/links/index.php?genre=19
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-07-09T17:37:36'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(960) #1286: Slaap, telefoonverbod, bijwerkingen vaccins & meer! | Nieuws
+        van de Week - YouTube'
+      url: https://www.youtube.com/watch?v=RlU6BCqNOTg
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-07-09T23:26:04'
+      pinned: false
+      title: Classic Windows XP/98/95 games - Abandonware DOS
+      url: https://www.abandonwaredos.com/abandonware-windows.php?pag=601&l=Classic+Windows+XP%2F98%2F95+games
+    - last_visited: '2023-07-09T23:26:19'
+      pinned: false
+      title: Abandoned games for Windows XP/98/95 - Abandonware DOS
+      url: https://www.abandonwaredos.com/abandonware-list.php?tp=2&platform=winxp
+    - last_visited: '2023-07-09T23:26:24'
+      pinned: false
+      title: Abandoned games for Windows XP/98/95 sorted by rating - Abandonware DOS
+      url: https://www.abandonwaredos.com/abandonware-list.php?tp=2&platform=winxp&ord=3
+    - last_visited: '2023-07-09T23:27:37'
+      pinned: false
+      title: Abandoned games for Windows XP/98/95 sorted by rating1 - Abandonware
+        DOS
+      url: https://www.abandonwaredos.com/abandonware-list.php?PA=31&tp=2&platform=winxp&ord=3
+    - last_visited: '2023-07-09T23:28:29'
+      pinned: false
+      title: Abandoned games for Windows XP/98/95 sorted by rating1 - Abandonware
+        DOS
+      url: https://www.abandonwaredos.com/abandonware-list.php?PA=61&tp=2&platform=winxp&ord=3
+    - last_visited: '2023-07-09T23:29:12'
+      pinned: false
+      title: Abandoned games for Windows XP/98/95 sorted by rating1 - Abandonware
+        DOS
+      url: https://www.abandonwaredos.com/abandonware-list.php?PA=91&tp=2&platform=winxp&ord=3
+    - last_visited: '2023-07-09T23:29:57'
+      pinned: false
+      title: Abandoned games for Windows XP/98/95 sorted by rating1 - Abandonware
+        DOS
+      url: https://www.abandonwaredos.com/abandonware-list.php?PA=121&tp=2&platform=winxp&ord=3
+    - last_visited: '2023-07-09T23:30:31'
+      pinned: false
+      title: Abandoned games for Windows XP/98/95 sorted by rating1 - Abandonware
+        DOS
+      url: https://www.abandonwaredos.com/abandonware-list.php?PA=151&tp=2&platform=winxp&ord=3
+    - last_visited: '2023-07-09T23:31:18'
+      pinned: false
+      title: Abandoned games for Windows XP/98/95 sorted by rating1 - Abandonware
+        DOS
+      url: https://www.abandonwaredos.com/abandonware-list.php?PA=181&tp=2&platform=winxp&ord=3
+    - last_visited: '2023-07-09T23:31:52'
+      pinned: false
+      title: Abandoned games for Windows XP/98/95 sorted by rating1 - Abandonware
+        DOS
+      url: https://www.abandonwaredos.com/abandonware-list.php?PA=211&tp=2&platform=winxp&ord=3
+    - active: true
+      last_visited: '2023-07-09T23:32:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Abandoned games for Windows XP/98/95 sorted by rating1 - Abandonware
+        DOS
+      url: https://www.abandonwaredos.com/abandonware-list.php?PA=241&tp=2&platform=winxp&ord=3
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-07-10T02:57:45'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Download Desert Strike - Return to the Gulf | Abandonia
+      url: http://www.abandonia.com/en/games/84/Desert+Strike+-+Return+to+the+Gulf.html
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-07-10T01:00:28'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2
+    - last_visited: '2023-07-10T01:01:57'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2?orderby=rating_avg&order=ASC
+    - last_visited: '2023-07-10T01:02:02'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2?orderby=downloads&order=ASC
+    - last_visited: '2023-07-10T01:02:26'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2?search=metal+gear&genre=&region=&developer=&publisher=&type=
+    - last_visited: '2023-07-10T01:05:10'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2?search=&genre=&region=&developer=&publisher=&type=
+    - last_visited: '2023-07-10T01:05:35'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2?search&genre&region&developer&publisher&type&orderby=downloads&order=ASC
+    - last_visited: '2023-07-10T01:05:40'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2?search&genre&region&developer&publisher&type&orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T01:07:53'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2/page/2?search&genre&region&developer&publisher&type&orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T01:08:19'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2/page/3?search&genre&region&developer&publisher&type&orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T01:08:40'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2/page/4?search&genre&region&developer&publisher&type&orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T01:08:55'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2/page/5?search&genre&region&developer&publisher&type&orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T01:09:12'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2/page/6?search&genre&region&developer&publisher&type&orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T01:09:37'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2/page/7?search&genre&region&developer&publisher&type&orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T01:10:24'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2/page/8?search&genre&region&developer&publisher&type&orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T01:10:39'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2/page/9?search&genre&region&developer&publisher&type&orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T01:11:02'
+      pinned: false
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2/page/10?search&genre&region&developer&publisher&type&orderby=downloads&order=DESC
+    - active: true
+      last_visited: '2023-07-10T01:11:12'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: PS2 ROMs & ISO - Free Playstation PS2 Game Download
+      url: https://romsfun.com/roms/playstation-2/page/11?search&genre&region&developer&publisher&type&orderby=downloads&order=DESC
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-07-10T01:05:14'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1
+      title: ROMs Download - Nintendo and Playstation ISO Games for Free
+      url: https://romsfun.com/roms
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-07-10T02:58:40'
+      pinned: false
+      title: GBA ROMs - Game Boy Advanced - Game ROM Download
+      url: https://romsfun.com/roms/game-boy-advance
+    - last_visited: '2023-07-10T03:12:05'
+      pinned: false
+      title: GBA ROMs - Game Boy Advanced - Game ROM Download
+      url: https://romsfun.com/roms/game-boy-advance/page/2
+    - last_visited: '2023-07-10T03:12:15'
+      pinned: false
+      title: GBA ROMs - Game Boy Advanced - Game ROM Download
+      url: https://romsfun.com/roms/game-boy-advance/page/3
+    - last_visited: '2023-07-10T03:12:21'
+      pinned: false
+      title: GBA ROMs - Game Boy Advanced - Game ROM Download
+      url: https://romsfun.com/roms/game-boy-advance/page/4
+    - active: true
+      last_visited: '2023-07-10T03:12:36'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: GBA ROMs - Game Boy Advanced - Game ROM Download
+      url: https://romsfun.com/roms/game-boy-advance/page/5
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-07-10T02:46:39'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 120
+      title: Sega Saturn ROM & ISO - Free Download
+      url: https://romsfun.com/roms/sega-saturn
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-07-10T02:20:58'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo
+    - last_visited: '2023-07-10T02:21:12'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo?orderby=downloads&order=ASC
+    - last_visited: '2023-07-10T02:21:13'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo?orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T02:21:17'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo?orderby=rating_avg&order=ASC
+    - last_visited: '2023-07-10T02:21:19'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:21:30'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo?orderby=downloads&order=ASC
+    - last_visited: '2023-07-10T02:21:31'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo?orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T02:21:41'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo?orderby=downloads&order=ASC
+    - last_visited: '2023-07-10T02:25:37'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo?orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T02:25:52'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo?orderby=rating_avg&order=ASC
+    - last_visited: '2023-07-10T02:25:55'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:26:15'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/2?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:26:28'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/3?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:37:22'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/4?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:37:33'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/5?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:37:49'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/6?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:38:01'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/7?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:43:22'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/8?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:43:37'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/9?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:43:50'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/10?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:44:00'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/11?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:44:09'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/12?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:44:35'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/13?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:44:46'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/14?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:44:59'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/15?orderby=rating_avg&order=DESC
+    - last_visited: '2023-07-10T02:45:06'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/15?orderby=downloads&order=ASC
+    - last_visited: '2023-07-10T02:45:09'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/15?orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T02:45:12'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/?orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T02:45:15'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/?orderby=downloads&order=ASC
+    - active: true
+      last_visited: '2023-07-10T02:48:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 160
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/?orderby=downloads&order=DESC
+      zoom: 1.0
+    - last_visited: '2023-07-10T02:48:25'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/2?orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T02:48:24'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/3?orderby=downloads&order=DESC
+    - last_visited: '2023-07-10T02:46:03'
+      pinned: false
+      title: SNES ROM & ISO - Free Download
+      url: https://romsfun.com/roms/super-nintendo/page/4?orderby=downloads&order=DESC
+  - active: true
+    history:
+    - active: true
+      last_visited: '2023-07-10T03:04:40'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 80
+      title: TOP 10 - Retro Gamer
+      url: https://www.retrogamer.net/category/top_10/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB38AAAQZAAAAAAAAAAAAAAMfAAACVwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB38AAAQZ
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2023-07-16T19:37:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+      zoom: 1.0

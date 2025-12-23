@@ -1,0 +1,234 @@
+windows:
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3sAAAP8AAAAAAAAAAAAAAd7AAAD/AAAAAAAAAAAB4AAAAAAAAAA
+    AAAAB3sAAAP8
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2023-10-01T16:31:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Semantic Compression
+      url: https://caseymuratori.com/blog_0015
+      zoom: 1.5
+  - history:
+    - active: true
+      last_visited: '2023-10-02T15:29:46'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 11589
+      title: Table of Contents
+      url: https://caseymuratori.com/contents#Bookmark15
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-02T15:06:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Jonathan Blow's home page
+      url: http://number-none.com/blow/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2023-10-01T16:31:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Home
+      url: https://caseymuratori.com/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3sAAAP8AAAAAAAAAAAAAAd7AAAD/AAAAAAAAAAAB4AAAAAAAAAA
+    AAAAB3sAAAP8
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2023-10-01T16:32:00'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Neso Academy - YouTube
+      url: https://www.youtube.com/@nesoacademy/playlists
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-01T16:32:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Introduction to Data Structures - YouTube
+      url: https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y&index=3
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2023-10-01T16:31:39'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (1426) C Programming & Data Structures - YouTube
+      url: https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM
+      zoom: 1.0
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3sAAAP8AAAAAAAAAAAAAAd7AAAD/AAAAAAAAAAAB4AAAAAAAAAA
+    AAAAB3sAAAP8
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2023-10-01T16:31:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: One Hundred Thousand Lines of Rust
+      url: https://matklad.github.io/2021/09/05/Rust100k.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-01T16:31:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Archive
+      url: https://www.tedinski.com/archive/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-01T16:31:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: What's wrong with inheritance?
+      url: https://www.tedinski.com/2018/02/13/inheritance-modularity.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-01T16:31:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: CSES - CSES Problem Set - Tasks
+      url: https://cses.fi/problemset/list/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-01T16:31:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: CSES - CSES Problem Set - Tasks
+      url: https://cses.fi/problemset/list/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-02T02:17:18'
+      original-url: http://www.haskellforall.com/2012/08/the-category-design-pattern.html
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Haskell for all: The category design pattern'
+      url: https://www.haskellforall.com/2012/08/the-category-design-pattern.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-02T02:17:20'
+      original-url: http://www.haskellforall.com/2012/09/the-functor-design-pattern.html
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Haskell for all: The functor design pattern'
+      url: https://www.haskellforall.com/2012/09/the-functor-design-pattern.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-02T02:17:24'
+      original-url: http://www.haskellforall.com/2014/04/scalable-program-architectures.html
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Haskell for all: Scalable program architectures'
+      url: https://www.haskellforall.com/2014/04/scalable-program-architectures.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-02T02:17:27'
+      original-url: http://www.haskellforall.com/2014/04/model-view-controller-haskell-style.html
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Haskell for all: Model-view-controller, Haskell-style'
+      url: https://www.haskellforall.com/2014/04/model-view-controller-haskell-style.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-02T02:17:35'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(1426) MuniHac 2016: Beautiful folds are practical, too - YouTube'
+      url: https://www.youtube.com/watch?v=6a5Ti0r8Q2s
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-02T02:18:40'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(1426) Lambda Jam 2015 - Conal Elliott - Denotational Design: From Meanings
+        To Programs #YOWLambdaJam - YouTube'
+      url: https://www.youtube.com/watch?v=bmKYiUOEo2A
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-02T02:19:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (1426) Configuration Languages can also be functional by Till Schröder
+        - YouTube
+      url: https://www.youtube.com/watch?v=6ib5SsV9NK4
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-02T02:16:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 120
+      title: 'graninas/software-design-in-haskell: Software Design in Haskell. A structured
+        set of materials. How to build real-world applications in Haskell.'
+      url: https://github.com/graninas/software-design-in-haskell
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2023-10-02T02:16:32'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: haskell-ebook/Haskell Design Patterns.pdf at master · clojurians-org/haskell-ebook
+      url: https://github.com/clojurians-org/haskell-ebook/blob/master/Haskell%20Design%20Patterns.pdf
+      zoom: 1.0

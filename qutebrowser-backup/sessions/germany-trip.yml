@@ -1,0 +1,593 @@
+windows:
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB38AAAQZAAAAAAAAAAAAAAMfAAACVwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB38AAAQZ
+  tabs:
+  - history:
+    - last_visited: '2023-06-10T20:47:28'
+      pinned: false
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+    - last_visited: '2023-06-10T20:47:57'
+      pinned: false
+      title: (738) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/videos
+    - last_visited: '2023-06-10T20:47:57'
+      pinned: false
+      title: (738) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/courses
+    - active: true
+      last_visited: '2023-06-10T20:48:15'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (755) Welcome to The Nature of Code 2.0 in 2020 (p5.js!) - YouTube
+      url: https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2023-06-10T20:49:11'
+      pinned: false
+      title: (738) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/videos
+    - last_visited: '2023-06-10T20:49:11'
+      pinned: false
+      title: (738) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/playlists
+    - last_visited: '2023-06-10T20:51:03'
+      pinned: false
+      title: (738) The Coding Train - YouTube
+      url: https://www.youtube.com/@TheCodingTrain/playlists?view=1&sort=lad&flow=grid
+    - active: true
+      last_visited: '2023-06-10T20:51:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (755) Coding Challenges - YouTube
+      url: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB38AAAQZAAAAAAAAAAAAAAMfAAACVwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB38AAAQZ
+  tabs:
+  - history:
+    - last_visited: '2023-06-10T20:58:39'
+      pinned: false
+      title: y - Google Zoeken
+      url: https://www.google.nl/search?q=y
+    - last_visited: '2023-06-10T20:58:50'
+      pinned: false
+      title: (738) YouTube
+      url: https://www.youtube.com/
+    - last_visited: '2023-06-10T20:58:50'
+      pinned: false
+      title: (738) YouTube
+      url: https://www.youtube.com/feed/history
+    - last_visited: '2023-06-10T20:59:07'
+      pinned: false
+      title: (738) YouTube
+      url: https://www.youtube.com/feed/history?query=rust
+    - last_visited: '2023-06-10T21:40:19'
+      pinned: false
+      title: (738) YouTube
+      url: https://www.youtube.com/feed/history?query=memory
+    - active: true
+      last_visited: '2023-06-11T19:14:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (755) YouTube
+      url: https://www.youtube.com/
+      zoom: 1.0
+    - last_visited: '2023-06-10T21:41:33'
+      pinned: false
+      title: (738) A Firehose of Rust, for busy people who know some C++ - YouTube
+      url: https://www.youtube.com/watch?v=IPmRDS0OSxM
+  - history:
+    - last_visited: '2023-06-10T22:44:45'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo
+    - last_visited: '2023-06-10T22:44:45'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:47'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:47'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:47'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:48'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:55'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:55'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:56'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:57'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:44:57'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists
+    - last_visited: '2023-06-10T22:45:16'
+      pinned: false
+      title: (739) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/playlists?view=1
+    - active: true
+      last_visited: '2023-06-11T08:36:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 4875
+      title: (755) Jon Gjengset - YouTube
+      url: https://www.youtube.com/@jonhoo/videos
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2023-06-11T19:35:35'
+      pinned: false
+      title: about:blank
+      url: about:blank
+    - last_visited: '2023-06-11T19:35:39'
+      pinned: false
+      title: History
+      url: qute://history/
+    - last_visited: '2023-06-11T19:35:50'
+      pinned: false
+      title: Traits - The Rust Reference
+      url: https://doc.rust-lang.org/reference/items/traits.html
+    - last_visited: '2023-06-11T19:36:04'
+      pinned: false
+      title: Patterns - The Rust Reference
+      url: https://doc.rust-lang.org/reference/patterns.html
+    - last_visited: '2023-06-11T19:36:59'
+      pinned: false
+      title: Type system - The Rust Reference
+      url: https://doc.rust-lang.org/reference/type-system.html
+    - last_visited: '2023-06-11T19:37:02'
+      pinned: false
+      title: Types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types.html
+    - last_visited: '2023-06-11T19:37:27'
+      pinned: false
+      title: Trait object types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/trait-object.html
+    - last_visited: '2023-06-11T19:37:33'
+      pinned: false
+      title: Dynamically Sized Types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/dynamically-sized-types.html
+    - last_visited: '2023-06-11T19:37:51'
+      pinned: false
+      title: Types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types.html
+    - last_visited: '2023-06-11T22:37:14'
+      pinned: false
+      title: Boolean type - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/boolean.html
+    - last_visited: '2023-06-11T22:41:14'
+      pinned: false
+      title: Numeric types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/numeric.html
+    - last_visited: '2023-06-11T22:45:30'
+      pinned: false
+      title: Textual types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/textual.html
+    - last_visited: '2023-06-11T22:45:37'
+      pinned: false
+      title: Never type - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/never.html
+    - last_visited: '2023-06-11T22:47:04'
+      pinned: false
+      title: Tuple types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/tuple.html
+    - last_visited: '2023-06-11T22:48:22'
+      pinned: false
+      title: Array types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/array.html
+    - last_visited: '2023-06-11T22:51:26'
+      pinned: false
+      title: Slice types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/slice.html
+    - last_visited: '2023-06-11T22:54:59'
+      pinned: false
+      title: Array types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/array.html
+    - last_visited: '2023-06-11T22:55:03'
+      pinned: false
+      title: Tuple types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/tuple.html
+    - last_visited: '2023-06-11T22:55:18'
+      pinned: false
+      title: Array types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/array.html
+    - last_visited: '2023-06-11T22:55:19'
+      pinned: false
+      title: Slice types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/slice.html
+    - last_visited: '2023-06-11T23:30:12'
+      pinned: false
+      title: Struct types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/struct.html
+    - last_visited: '2023-06-11T23:30:19'
+      pinned: false
+      title: Enumerated types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/enum.html
+    - active: true
+      last_visited: '2023-06-11T23:30:20'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Union types - The Rust Reference
+      url: https://doc.rust-lang.org/reference/types/union.html
+      zoom: 1.25
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB38AAAQZAAAAAAAAAAAAAAMfAAACVwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB38AAAQZ
+  tabs:
+  - history:
+    - last_visited: '2023-06-13T21:50:01'
+      pinned: false
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+    - last_visited: '2023-06-13T21:54:31'
+      pinned: false
+      title: Google Maps
+      url: https://www.google.nl/maps/@52.3898042,6.0132793,14z?entry=ttu
+    - active: true
+      last_visited: '2023-06-13T22:05:34'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Google Maps
+      url: https://www.google.nl/maps/@49.5166418,9.9680062,7.1z?entry=ttu
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-06-13T21:55:52'
+      pinned: false
+      title: train trip south germany - Google Zoeken
+      url: https://www.google.nl/search?q=train%20trip%20south%20germany
+    - active: true
+      last_visited: '2023-06-13T22:02:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: train trip germany - Google Zoeken
+      url: https://www.google.nl/search?q=train+trip+germany&sxsrf=APwXEdcRDONd_ddKT1UB2ABwhUhQGq9ueA%3A1686686248380&ei=KMqIZNfSFu2C9u8P5JiukAo&ved=0ahUKEwjXhrr1g8H_AhVtgf0HHWSMC6IQ4dUDCA8&uact=5&oq=train+trip+germany&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMggIABAHEB4QDzIFCAAQgAQyBggAEAUQHjIGCAAQCBAeOgoIABBHENYEELADOgcIIxCwAhAnOggIABAHEB4QEzoKCAAQBRAeEA0QEzoKCAAQCBAeEA0QEzoMCAAQCBAeEA0QDxATSgQIQRgAUMoQWIcZYIsgaAFwAXgAgAFWiAGaA5IBATaYAQCgAQHAAQHIAQg&sclient=gws-wiz-serp
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-06-13T22:10:03'
+      pinned: false
+      title: Cheap Train Tickets | Timetables for Germany & Europe - Deutsche Bahn
+      url: https://www.bahn.com/en
+    - last_visited: '2023-06-13T22:10:58'
+      original-url: https://reiseauskunft.bahn.de/bin/query.exe/en?start=1&existOptimizePrice=1&REQ0JourneyStopsS0A=1&S=Dortmund+Hbf&REQ0JourneyStopsSID=A%3D1%40O%3DDortmund+Hbf%40X%3D7459293%40Y%3D51517898%40U%3D80%40L%3D008000080%40B%3D1%40p%3D1320260835%40&REQ0JourneyStopsZ0A=1&Z=Stuttgart+Hbf&REQ0JourneyStopsZID=A%3D1%40O%3DStuttgart+Hbf%40X%3D9181636%40Y%3D48784081%40U%3D80%40L%3D008000096%40B%3D1%40p%3D1320260835%40&date=Di.%2C+18.07.2023&time=17%3A00&timesel=depart&returnDate=&returnTime=&auskunft_travelers_number=2&tariffTravellerType.1=E&tariffTravellerReductionClass.1=0&tariffTravellerType.2=E&tariffTravellerReductionClass.2=0&tariffClass=2&journeyProducts=1016&externRequest=yes&HWAI=JS%21js%3Dyes%21ajax%3Dyes%21
+      pinned: false
+      title: 'Deutsche Bahn: bahn.de - TravelService - Your timetable'
+      url: https://reiseauskunft.bahn.de/bin/query.exe/en?start=1&existOptimizePrice=1&REQ0JourneyStopsS0A=1&S=Dortmund+Hbf&REQ0JourneyStopsSID=A%3D1%40O%3DDortmund+Hbf%40X%3D7459293%40Y%3D51517898%40U%3D80%40L%3D008000080%40B%3D1%40p%3D1320260835%40&REQ0JourneyStopsZ0A=1&Z=Stuttgart+Hbf&REQ0JourneyStopsZID=A%3D1%40O%3DStuttgart+Hbf%40X%3D9181636%40Y%3D48784081%40U%3D80%40L%3D008000096%40B%3D1%40p%3D1320260835%40&date=Di.%2C+18.07.2023&time=17%3A00&timesel=depart&returnDate=&returnTime=&auskunft_travelers_number=2&tariffTravellerType.1=E&tariffTravellerReductionClass.1=0&tariffTravellerType.2=E&tariffTravellerReductionClass.2=0&tariffClass=2&journeyProducts=1016&externRequest=yes&HWAI=JS%21js%3Dyes%21ajax%3Dyes%21#hfsseq1%7C58.015544185.1686687154
+    - active: true
+      last_visited: '2023-06-13T22:11:30'
+      original-url: https://reiseauskunft.bahn.de/bin/query.exe/en?ld=43185&country=GBR&protocol=https:&seqnr=1&ident=58.015544185.1686687154&rt=1&OK#focus
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 445
+      title: 'Deutsche Bahn: bahn.de - TravelService - Your timetable'
+      url: https://reiseauskunft.bahn.de/bin/query.exe/en?ld=43185&country=GBR&protocol=https:&seqnr=1&ident=58.015544185.1686687154&rt=1&OK#hfsseq2%7C58.015544185.1686687154
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-13T22:02:47'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 713
+      title: Germany By Train | Germany Train Routes | Eurail.com
+      url: https://www.eurail.com/en/get-inspired/top-destinations/germany-train#tabs-77b9155adf-item-7acf1ac1ff-tab
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-13T21:55:58'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 400
+      title: Southern Germany by Train | German Vacations | Goway Travel
+      url: https://www.goway.com/trip/europe/magic-cities-southern-germany-train/
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-06-13T22:16:08'
+      pinned: false
+      title: Vacation Homes & Condo Rentals - Airbnb - Airbnb
+      url: https://www.airbnb.com/
+    - last_visited: '2023-06-13T22:16:08'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=5&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=autocomplete_click
+    - last_visited: '2023-06-13T22:16:19'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.806552390858506&ne_lng=9.263531906401909&sw_lat=48.7145529903031&sw_lng=9.141309006011284&zoom=13&zoom_level=13&search_by_map=true
+    - last_visited: '2023-06-13T22:16:23'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.816387365466696&ne_lng=9.243104202728176&sw_lat=48.72440599673989&sw_lng=9.120881302337551&zoom=13&zoom_level=13&search_by_map=true
+    - last_visited: '2023-06-13T22:16:26'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.79213558147287&ne_lng=9.219071609896048&sw_lat=48.746143732400235&sw_lng=9.157960159700735&zoom=14&zoom_level=14&search_by_map=true
+    - last_visited: '2023-06-13T22:16:30'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.79207903680515&ne_lng=9.204480392986227&sw_lat=48.746087135917776&sw_lng=9.143368942790914&zoom=14&zoom_level=14&search_by_map=true
+    - last_visited: '2023-06-13T22:16:36'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.78767477591002&ne_lng=9.196156624454147&sw_lat=48.76468207339303&sw_lng=9.165600899356491&zoom=15&zoom_level=15&search_by_map=true
+    - last_visited: '2023-06-13T22:17:05'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.785893429907674&ne_lng=9.19255173557059&sw_lat=48.762899911331644&sw_lng=9.161996010472933&zoom=15&zoom_level=15&search_by_map=true
+    - last_visited: '2023-06-13T22:17:05'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=filter_change&ne_lat=48.785893429907674&ne_lng=9.19255173557059&sw_lat=48.762899911331644&sw_lng=9.161996010472933&zoom=15&zoom_level=15&search_by_map=true&adults=2
+    - last_visited: '2023-06-13T22:17:14'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.7882389533305&ne_lng=9.201349381060368&sw_lat=48.765246509275585&sw_lng=9.170793655962711&zoom=15&zoom_level=15&search_by_map=true&adults=2
+    - last_visited: '2023-06-13T22:17:18'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.79595730140918&ne_lng=9.211091164252224&sw_lat=48.74996895447645&sw_lng=9.149979714056911&zoom=14&zoom_level=14&search_by_map=true&adults=2
+    - last_visited: '2023-06-13T22:17:22'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=category_change&ne_lat=48.79595730140918&ne_lng=9.211091164252224&sw_lat=48.74996895447645&sw_lng=9.149979714056911&zoom=14&zoom_level=14&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search
+    - last_visited: '2023-06-13T22:19:31'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.80085513737893&ne_lng=9.263138825890394&sw_lat=48.70884529249862&sw_lng=9.140915925499769&zoom=13&zoom_level=13&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:19:36'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.794296671802066&ne_lng=9.228291566407506&sw_lat=48.748306803079785&sw_lng=9.167180116212194&zoom=14&zoom_level=14&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:19:39'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.812104303398996&ne_lng=9.235758836237835&sw_lat=48.7661307554844&sw_lng=9.174647386042523&zoom=14&zoom_level=14&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:19:42'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.80266421998736&ne_lng=9.215116555707425&sw_lat=48.77967838522147&sw_lng=9.184560830609769&zoom=15&zoom_level=15&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:19:46'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.8122456085189&ne_lng=9.232583100792738&sw_lat=48.766272190129115&sw_lng=9.171471650597425&zoom=14&zoom_level=14&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:19:49'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.81738884380471&ne_lng=9.22048097382634&sw_lat=48.77142014006075&sw_lng=9.159369523631028&zoom=14&zoom_level=14&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:20:02'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.8076671205076&ne_lng=9.200139100702927&sw_lat=48.7846835782836&sw_lng=9.16958337560527&zoom=15&zoom_level=15&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:20:05'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.81738884380471&ne_lng=9.22048097382634&sw_lat=48.77142014006075&sw_lng=9.159369523631028&zoom=14&zoom_level=14&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:20:06'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.83682663534224&ne_lng=9.261164720073168&sw_lat=48.74488274946752&sw_lng=9.138941819682543&zoom=13&zoom_level=13&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:20:10'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.87568387560733&ne_lng=9.342519940601136&sw_lat=48.6917701964093&sw_lng=9.098074139819886&zoom=12&zoom_level=12&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:20:25'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.83558802481766&ne_lng=9.265958966618939&sw_lat=48.74364186716502&sw_lng=9.143736066228314&zoom=13&zoom_level=13&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:20:28'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.80549505978972&ne_lng=9.208538236132313&sw_lat=48.78251052221354&sw_lng=9.177982511034656&zoom=15&zoom_level=15&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:29:45'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.81162814348967&ne_lng=9.22991007750818&sw_lat=48.765654159113595&sw_lng=9.168798627312867&zoom=14&zoom_level=14&search_by_map=true&adults=2&category_tag=Tag%3A8678&search_mode=flex_destinations_search&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:29:55'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=category_change&ne_lat=48.81162814348967&ne_lng=9.22991007750818&sw_lat=48.765654159113595&sw_lng=9.168798627312867&zoom=14&zoom_level=14&search_by_map=true&adults=2&location_search=MIN_MAP_BOUNDS
+    - last_visited: '2023-06-13T22:30:20'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=filter_change&ne_lat=48.81162814348967&ne_lng=9.22991007750818&sw_lat=48.765654159113595&sw_lng=9.168798627312867&zoom=14&zoom_level=14&search_by_map=true&adults=2&location_search=MIN_MAP_BOUNDS&price_min=9&price_max=60
+    - last_visited: '2023-06-13T22:30:24'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.84134498987314&ne_lng=9.247848691513212&sw_lat=48.74940939163223&sw_lng=9.125625791122587&zoom=13&zoom_level=13&search_by_map=true&adults=2&location_search=MIN_MAP_BOUNDS&price_min=9&price_max=60
+    - last_visited: '2023-06-13T22:30:36'
+      pinned: false
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.98417039422784&ne_lng=9.420370340038971&sw_lat=48.6164663588973&sw_lng=8.931478738476471&zoom=11&zoom_level=11&search_by_map=true&adults=2&location_search=MIN_MAP_BOUNDS&price_min=9&price_max=60
+    - active: true
+      last_visited: '2023-06-13T22:30:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 719
+      title: Airbnb | Stuttgart - Vacation Rentals & Places to Stay - Baden-Württemberg
+        - Airbnb
+      url: https://www.airbnb.com/s/Stuttgart/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-07-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=1&channel=EXPLORE&query=Stuttgart&place_id=ChIJ04-twTTbmUcR5M-RdxzB1Xk&date_picker_type=calendar&checkin=2023-07-18&checkout=2023-07-19&source=structured_search_input_header&search_type=user_map_move&ne_lat=48.888998191913025&ne_lng=9.305357217415548&sw_lat=48.70513339812722&sw_lng=9.060911416634298&zoom=12&zoom_level=12&search_by_map=true&adults=2&location_search=MIN_MAP_BOUNDS&price_min=9&price_max=60
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-06-13T22:17:33'
+      original-url: http://booking.com/
+      pinned: false
+      title: Booking.com | Official site | The best hotels, flights, car rentals &
+        accommodations
+      url: https://www.booking.com/
+    - last_visited: '2023-06-13T22:18:23'
+      pinned: false
+      title: 'Booking.com : Hotels in Stuttgart . Book your hotel now!'
+      url: https://www.booking.com/searchresults.html?ss=Stuttgart%2C+Baden-W%C3%BCrttemberg%2C+Germany&efdco=1&label=gen173nr-1FCAEoggI46AdIM1gEaKkBiAEBmAExuAEKyAEF2AEB6AEB-AECiAIBqAIDuAK9nqOkBsACAdICJDMyMzUzNTRjLTA4YmItNDk4OS1iMmU5LWJkY2U4M2U5OTY2ZtgCBeACAQ&aid=304142&lang=en-us&sb=1&src_elem=sb&src=index&dest_id=-1871728&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=6f6c8edeb1470266&ac_meta=GhA2ZjZjOGVkZWIxNDcwMjY2IAAoATICZW46BHN0dXRAAEoAUAA%3D&checkin=2023-07-18&checkout=2023-07-19&group_adults=1&no_rooms=1&group_children=1&age=16&sb_travel_purpose=leisure
+    - active: true
+      last_visited: '2023-06-13T22:18:32'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Booking.com : Hotels in Stuttgart . Book your hotel now!'
+      url: https://www.booking.com/searchresults.html?label=gen173nr-1FCAEoggI46AdIM1gEaKkBiAEBmAExuAEKyAEF2AEB6AEB-AECiAIBqAIDuAK9nqOkBsACAdICJDMyMzUzNTRjLTA4YmItNDk4OS1iMmU5LWJkY2U4M2U5OTY2ZtgCBeACAQ&aid=304142&ss=Stuttgart%2C+Baden-W%C3%BCrttemberg%2C+Germany&efdco=1&lang=en-us&sb=1&src_elem=sb&dest_id=-1871728&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=6f6c8edeb1470266&ac_meta=GhA2ZjZjOGVkZWIxNDcwMjY2IAAoATICZW46BHN0dXRAAEoAUAA%3D&checkin=2023-07-18&checkout=2023-07-19&group_adults=1&no_rooms=1&group_children=1&age=16&sb_travel_purpose=leisure&order=price
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-13T22:18:49'
+      original-url: https://www.booking.com/hotel/de/hotelzimmer-grossglocknerstr-63.html?label=gen173nr-1FCAEoggI46AdIM1gEaKkBiAEBmAExuAEKyAEF2AEB6AEB-AECiAIBqAIDuAK9nqOkBsACAdICJDMyMzUzNTRjLTA4YmItNDk4OS1iMmU5LWJkY2U4M2U5OTY2ZtgCBeACAQ&aid=304142&ucfs=1&arphpl=1&checkin=2023-07-18&checkout=2023-07-19&dest_id=-1871728&dest_type=city&group_adults=1&req_adults=1&no_rooms=1&group_children=1&req_children=1&age=16&req_age=16&hpos=1&hapos=1&sr_order=price&srpvid=deab8ef79ea401f4&srepoch=1686687514&all_sr_blocks=662206210_270925318_0_0_0&highlighted_blocks=662206210_270925318_0_0_0&matching_block_id=662206210_270925318_0_0_0&sr_pri_blocks=662206210_270925318_0_0_0__6220&from_sustainable_property_sr=1&map_fdco=1&from=searchresults&map=1
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Hotel Waldhorn, Stuttgart – Updated 2023 Prices
+      url: https://www.booking.com/hotel/de/hotelzimmer-grossglocknerstr-63.html?label=gen173nr-1FCAEoggI46AdIM1gEaKkBiAEBmAExuAEKyAEF2AEB6AEB-AECiAIBqAIDuAK9nqOkBsACAdICJDMyMzUzNTRjLTA4YmItNDk4OS1iMmU5LWJkY2U4M2U5OTY2ZtgCBeACAQ&aid=304142&ucfs=1&arphpl=1&checkin=2023-07-18&checkout=2023-07-19&dest_id=-1871728&dest_type=city&group_adults=1&req_adults=1&no_rooms=1&group_children=1&req_children=1&age=16&req_age=16&hpos=1&hapos=1&sr_order=price&srpvid=deab8ef79ea401f4&srepoch=1686687514&all_sr_blocks=662206210_270925318_0_0_0&highlighted_blocks=662206210_270925318_0_0_0&matching_block_id=662206210_270925318_0_0_0&sr_pri_blocks=662206210_270925318_0_0_0__6220&from_sustainable_property_sr=1&map_fdco=1&from=searchresults&map=1#map_opened-auto_open
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-13T22:21:15'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: youth hostel stutgart - Google Zoeken
+      url: https://www.google.nl/search?q=youth%20hostel%20stutgart
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-06-13T22:21:26'
+      pinned: false
+      title: Hostels in Stuttgart - Goedkope Goedkope Overnachtingen Vanaf €24
+      url: https://www.dutch.hostelworld.com/st/hostels/europa/duitsland/stuttgart/
+    - active: true
+      last_visited: '2023-06-13T22:21:46'
+      original-url: https://www.dutch.hostelworld.com/s?q=Stuttgart,Duitsland&country=Duitsland&city=Stuttgart&type=city&id=1661&from=2023-07-18&to=2023-07-19&guests=2
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Hostels in Stuttgart » Vind goedkope, unieke hostels » Hostelworld
+      url: https://www.dutch.hostelworld.com/s?q=Stuttgart,Duitsland&country=Duitsland&city=Stuttgart&type=city&id=1661&from=2023-07-18&to=2023-07-19&guests=2&page=1
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-13T22:33:16'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: deutsche bahn discount ticket 40,- - Google Zoeken
+      url: https://www.google.nl/search?q=deutsche%20bahn%20discount%20ticket%2040%2C-
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-13T22:33:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Offers
+      url: https://www.bahn.com/en/offers
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-06-13T22:33:25'
+      pinned: false
+      title: Travel all day on German regional trains for as little as EUR 44 | DB
+      url: https://www.bahn.com/en/offers/regional/day-ticket-for-germany
+    - last_visited: '2023-06-13T22:33:53'
+      pinned: false
+      title: Offers
+      url: https://www.bahn.com/en/offers
+    - active: true
+      last_visited: '2023-06-13T22:34:20'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 625
+      title: deutsche bahn month ticket 40 - Google Zoeken
+      url: https://www.google.nl/search?q=deutsche%20bahn%20month%20ticket%2040
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-06-13T22:34:24'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 352
+      title: D-Ticket - EUR 49 ticket for buses and trains in local transport
+      url: https://www.bahn.com/en/offers/regional/deutschlandticket
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2023-06-13T22:34:30'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Germany''s New Deutschlandticket: All You Need To Know About The 49
+        Euro Ticket'
+      url: https://boredinmunich.com/deutschlandticket-49-euro-train-ticket/
+      zoom: 1.0

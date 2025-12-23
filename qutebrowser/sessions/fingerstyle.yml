@@ -1,0 +1,53 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-10-12T23:38:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (1559) Tommy Emmanuel Thumbpicking Masterclass - YouTube
+      url: https://www.youtube.com/watch?v=Xm2ODiNUhac
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-10-12T23:38:24'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (1559) Tommy Emmanuel Teaches 4 Steps To Fingerstyle Guitar Technique
+        | Reverb Learn To Play - YouTube
+      url: https://www.youtube.com/watch?v=u0ocjT3gObE
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-10-12T23:47:20'
+      pinned: false
+      title: '(1553) It''s Easy to Play Fingerstyle Guitar: 10 Essential Patterns
+        - YouTube'
+      url: https://www.youtube.com/watch?v=_zsTA6wKd7A
+    - active: true
+      last_visited: '2024-10-12T23:47:20'
+      pinned: false
+      scroll-pos:
+        x: 7
+        y: 0
+      title: (1559) Fingerpicking Tips To Save Years of Guitar Practice - YouTube
+      url: https://www.youtube.com/watch?v=JWSSS7tJ2wQ
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-10-12T23:40:24'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (1559) Fix Your Travis Picking In Six Steps - YouTube
+      url: https://www.youtube.com/watch?v=Pjwc7NXKREo
+      zoom: 1.0

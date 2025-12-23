@@ -1,0 +1,246 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3UAAAQPAAAAAAAAAAAAAAMfAAACVwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3UAAAQP
+  tabs:
+  - active: true
+    history:
+    - last_visited: '2023-12-10T15:05:16'
+      pinned: false
+      title: '(3324) Making a game engine in #ziglang! #2: Cool zig features part
+        1 - YouTube'
+      url: https://www.youtube.com/watch?v=gGjN8sW5UHs&list=PLECtDQFQZX02MQQoqQLodPwTbx_T67Teg&index=5
+    - last_visited: '2023-12-10T15:05:16'
+      pinned: false
+      title: '(3328) Making a game engine in #ziglang! #2: Cool zig features part
+        1 - YouTube'
+      url: https://www.youtube.com/watch?v=gGjN8sW5UHs&list=PLECtDQFQZX02MQQoqQLodPwTbx_T67Teg&index=2
+    - last_visited: '2023-12-10T18:23:41'
+      pinned: false
+      title: '(3331) Making a game engine in #ziglang #3! Cool zig features part 2
+        - YouTube'
+      url: https://www.youtube.com/watch?v=LqgyX3Y2Bb0&list=PLECtDQFQZX02MQQoqQLodPwTbx_T67Teg&index=3
+    - active: true
+      last_visited: '2023-12-10T20:27:44'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(3332) Making a game engine in #ziglang! #4: Drawing a triangle, shaders
+        and perspective - YouTube'
+      url: https://www.youtube.com/watch?v=5nbWszYv4e4&list=PLECtDQFQZX02MQQoqQLodPwTbx_T67Teg&index=4
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T00:11:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 6012
+      title: "C-BJ/awesome-zig: \U0001F4DCZig Learning Guide & Project Lists"
+      url: https://github.com/C-BJ/awesome-zig
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T17:56:25'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 200
+      title: 'floooh/pacman.zig: Simple Pacman clone written in Zig.'
+      url: https://github.com/floooh/pacman.zig
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T17:56:39'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 120
+      title: 'floooh/sokol-zig: Zig bindings for the sokol headers (https://github.com/floooh/sokol)'
+      url: https://github.com/floooh/sokol-zig
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T17:57:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1866
+      title: 'floooh/sokol: minimal cross-platform standalone C headers'
+      url: https://github.com/floooh/sokol?tab=readme-ov-file
+      zoom: 1.0
+    - last_visited: '2023-12-10T17:57:02'
+      pinned: false
+      title: stb/docs/stb_howto.txt at master · nothings/stb
+      url: https://github.com/nothings/stb/blob/master/docs/stb_howto.txt
+  - history:
+    - active: true
+      last_visited: '2023-12-10T17:57:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2852
+      title: 'ocornut/imgui: Dear ImGui: Bloat-free Graphical User interface for C++
+        with minimal dependencies'
+      url: https://github.com/ocornut/imgui
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T17:38:40'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: Zig Comptime - WTF is Comptime (and Inline) - Zig NEWS
+      url: https://zig.news/edyu/wtf-is-zig-comptime-and-inline-257b
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T00:11:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: std - Zig
+      url: https://ziglang.org/documentation/master/std/#A;std
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T00:11:25'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Bindings
+      url: qute://bindings/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T00:11:33'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(3332) C64 Crack Intros Collection: Over 2000 Intros,Over 22H.,80s to
+        Today! 20 September 2023! - YouTube'
+      url: https://www.youtube.com/watch?v=IH8G02rLCFY&t=6104s
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T00:11:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: std.heap.FixedBufferAllocator - Zig
+      url: https://ziglang.org/documentation/master/std/#A;std:heap.FixedBufferAllocator
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T00:11:41'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: zig build explained - part 1 - Zig NEWS
+      url: https://zig.news/xq/zig-build-explained-part-1-59lf
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T00:11:43'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 125187
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/#catch
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T00:11:44'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 50600
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/#Pointers
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-12-09T20:34:06'
+      pinned: false
+      title: Learning Zig - Stack Memory
+      url: https://www.openmymind.net/learning_zig/stack_memory/
+    - last_visited: '2023-12-10T00:11:56'
+      pinned: false
+      title: Learning Zig - Heap Memory & Allocators
+      url: https://www.openmymind.net/learning_zig/heap_memory/
+    - last_visited: '2023-12-10T15:04:39'
+      pinned: false
+      title: Learning Zig - Generics
+      url: https://www.openmymind.net/learning_zig/generics/
+    - active: true
+      last_visited: '2023-12-10T16:21:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Learning Zig - Coding in Zig
+      url: https://www.openmymind.net/learning_zig/coding_in_zig/
+      zoom: 1.1
+  - history:
+    - active: true
+      last_visited: '2023-12-10T00:11:51'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zig Interfaces
+      url: https://www.openmymind.net/Zig-Interfaces/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T00:11:50'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: Learning Zig
+      url: https://www.openmymind.net/learning_zig/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T00:11:48'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Karl Seguin
+      url: https://www.openmymind.net/
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-12-09T20:03:00'
+      pinned: false
+      title: z4nsh1n (Richard)
+      url: https://github.com/z4nsh1n
+    - active: true
+      last_visited: '2023-12-10T00:11:47'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: z4nsh1n/dotfiles
+      url: https://github.com/z4nsh1n/dotfiles
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-12-10T21:05:10'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'hexops/mach-glfw: Ziggified GLFW bindings with 100% API coverage, zero-fuss
+        installation, cross compilation, and more.'
+      url: https://github.com/hexops/mach-glfw
+      zoom: 1.0

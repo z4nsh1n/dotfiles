@@ -1,0 +1,27 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3UAAAQPAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3UAAAQP
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-05-20T17:20:24'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Airco kopen? Verkoel en verwarm je woning | dbg-Energy
+      url: https://dbg-energy.nl/airco/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-05-20T17:20:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Airco's
+      url: https://www.zonsimpel.nl/producten-en-diensten/airco-s
+      zoom: 1.0

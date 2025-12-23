@@ -1,0 +1,151 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3UAAAQPAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3UAAAQP
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-06-11T20:46:39'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'GitHub - jackMort/ChatGPT.nvim: ChatGPT Neovim Plugin: Effortless Natural
+        Language Generation with OpenAI''s ChatGPT API'
+      url: https://github.com/jackMort/ChatGPT.nvim
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-06-11T20:47:21'
+      pinned: false
+      title: Repository search results · GitHub
+      url: https://github.com/search?q=gp.nvim&type=repositories
+    - active: true
+      last_visited: '2024-06-11T20:47:33'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3586
+      title: 'GitHub - Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT
+        sessions & Instructable text/code operations & Speech to text [OpenAI]'
+      url: https://github.com/Robitx/gp.nvim?tab=readme-ov-file
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-06-12T20:36:19'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 80
+      title: qutebrowser - Google Zoeken
+      url: https://www.google.nl/search?q=qutebrowser
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-06-12T20:36:33'
+      pinned: false
+      title: Releases · qutebrowser/qutebrowser
+      url: https://github.com/qutebrowser/qutebrowser/releases
+    - last_visited: '2024-06-12T20:36:51'
+      pinned: false
+      title: Issues · qutebrowser/qutebrowser · GitHub
+      url: https://github.com/qutebrowser/qutebrowser/issues
+    - last_visited: '2024-06-12T20:37:04'
+      pinned: false
+      title: Issues · qutebrowser/qutebrowser · GitHub
+      url: https://github.com/qutebrowser/qutebrowser/issues?q=viewport
+    - last_visited: '2024-06-12T20:41:33'
+      pinned: false
+      title: Issues · qutebrowser/qutebrowser · GitHub
+      url: https://github.com/qutebrowser/qutebrowser/issues?q=viewport+search
+    - active: true
+      last_visited: '2024-06-12T20:41:33'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1738
+      title: Issues · qutebrowser/qutebrowser · GitHub
+      url: https://github.com/qutebrowser/qutebrowser/issues?q=searching
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-06-12T20:42:00'
+      pinned: false
+      title: qutebrowser
+      url: https://www.reddit.com/r/qutebrowser/
+    - last_visited: '2024-06-12T20:42:19'
+      pinned: false
+      title: viewport search - Reddit Search!
+      url: https://www.reddit.com/r/qutebrowser/search/?q=viewport+search&type=link&cId=3a0e5116-83ef-44f7-b03b-08709d098ac3&iId=fd67a40e-ba4c-4796-8bd8-075dad4c57e2
+    - last_visited: '2024-06-12T20:42:32'
+      pinned: false
+      title: search in window - Reddit Search!
+      url: https://www.reddit.com/r/qutebrowser/search/?q=search+in+window&type=link&cId=401546c9-921d-49cc-aec2-a6acec76245e&iId=5a41149b-d822-4bb5-8064-9628ed3a7eb0
+    - active: true
+      last_visited: '2024-06-12T20:43:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2160
+      title: select text - Reddit Search!
+      url: https://www.reddit.com/r/qutebrowser/search/?q=select+text&type=link&cId=73f1533e-4993-4c2f-9b16-7160e1866f5c&iId=99225f19-16c8-4314-bb15-50413664eef2
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-06-12T20:43:30'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1587
+      title: 'I absolutely love this browser, but how do I select and copy text? :
+        r/qutebrowser'
+      url: https://www.reddit.com/r/qutebrowser/comments/aiabtq/i_absolutely_love_this_browser_but_how_do_i/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-06-12T20:46:19'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Make caret mode more efficent by adding easymotion mode · Issue #1453
+        · qutebrowser/qutebrowser · GitHub'
+      url: https://github.com/qutebrowser/qutebrowser/issues/1453
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-06-12T20:49:46'
+      pinned: false
+      title: 'Userscripts.org: Power-ups for your browser'
+      url: https://userscripts-mirror.org/
+    - last_visited: '2024-06-12T20:50:14'
+      pinned: false
+      title: qutebrowser site:userscripts-mirror.org - Google Zoeken
+      url: https://www.google.com/search?sitesearch=userscripts-mirror.org&q=qutebrowser&submit=Search
+    - active: true
+      last_visited: '2024-06-12T20:50:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1600
+      title: qutebrowser scripts - Google Zoeken
+      url: https://www.google.nl/search?q=qutebrowser%20scripts#ip=1
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-06-12T20:50:30'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: Writing qutebrowser userscripts | qutebrowser
+      url: https://qutebrowser.org/doc/userscripts.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-06-12T20:51:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 160
+      title: qutejs - npm
+      url: https://www.npmjs.com/package/qutejs
+      zoom: 1.0

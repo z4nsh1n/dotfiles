@@ -1,0 +1,975 @@
+windows:
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABZEAAANXAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAABZEAAANX
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (3224) Odin + Raylib tutorials - YouTube
+      url: https://www.youtube.com/playlist?list=PLxE7SoPYTef1jYHJ6NxNgocVjQKkq7eEa
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Category Theory Illustrated - Sets
+      url: https://abuseofnotation.github.io/category-theory-illustrated/01_set/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(3223) Odin + Raylib: Breakout game from start to finish - YouTube'
+      url: https://www.youtube.com/watch?v=vfgZOEvO0kM
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 623
+      title: 9  Build System – Introduction to Zig
+      url: https://pedropark99.github.io/zig-book/Chapters/07-build-system.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Allocgate is coming in Zig 0.9, and you will have to change your code
+        — Christine's World Wide Web Site
+      url: https://pithlessly.github.io/allocgate.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:56'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Iterators | zig.guide
+      url: https://zig.guide/standard-library/iterators/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-01-31T17:54:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: std - Zig Documentation
+      url: https://ziglang.org/documentation/0.13.0/std/#
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABZEAAANXAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAABZEAAANX
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 80
+      title: (3224) Nic Barker - YouTube
+      url: https://www.youtube.com/@nicbarkeragain/videos
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-02-01T00:37:33'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: (3223) Game Engineering Podcast - YouTube
+      url: https://www.youtube.com/@GameEngineeringPodcast/videos
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (3224) Bek Brace - YouTube
+      url: https://www.youtube.com/@BekBrace/videos
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(3224) Making a game engine in #ziglang! #2: Cool zig features part
+        1 - YouTube'
+      url: https://www.youtube.com/watch?v=gGjN8sW5UHs&t=2735s
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (3216) Demo RPG C++ Code-Along - YouTube
+      url: https://www.youtube.com/playlist?list=PLalVdRk2RC6pqOVxRNj5Uui7FN4r-WorM
+      zoom: 1.0
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABZEAAANXAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAABZEAAANX
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Rust Language Cheat Sheet
+      url: https://cheats.rs/#data-layout
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Design principles - Rust Design Patterns
+      url: https://rust-unofficial.github.io/patterns/additional_resources/design-principles.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'dbartolini/data-oriented-design: A curated list of data oriented design
+        resources.'
+      url: https://github.com/dbartolini/data-oriented-design
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Programming Languages: Application and Interpretation | plai'
+      url: https://www.plai.org/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Beyond OOP :: The Coded Message'
+      url: https://www.thecodedmessage.com/tags/beyond-oop/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Rust Is Beyond Object-Oriented, Part 3: Inheritance :: The Coded Message'
+      url: https://www.thecodedmessage.com/posts/oop-3-inheritance/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Stop Using Object Oriented Programming In Rust (Do This Instead) - YouTube
+      url: https://www.youtube.com/watch?v=0XFq9K7N9o4
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (3224) Rainer Stropek - Memory Management in Rust - YouTube
+      url: https://www.youtube.com/watch?v=5yy64sy2oSM
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Reddit - Dive into anything
+      url: https://www.reddit.com/r/rust/comments/15b9rl5/rust_tutorial_that_actually_teaches_rust/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Setup | Tokio - An asynchronous Rust runtime
+      url: https://tokio.rs/tokio/tutorial/setup
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Rust Talks - YouTube
+      url: https://www.youtube.com/playlist?list=PLZaoyhMXgBzoM9bfb5pyUOT3zjnaDdSEP
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: "Welcome to Comprehensive Rust \U0001F980 - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'google/comprehensive-rust: This is the Rust course used by the Android
+        team at Google. It provides you the material to quickly teach Rust.'
+      url: https://github.com/google/comprehensive-rust
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Crust of Rust - YouTube
+      url: https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Testing - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/first-test.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Ownership - Rust By Practice
+      url: https://practice.course.rs/ownership/ownership.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:58'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'rust-unofficial/awesome-rust: A curated list of Rust code and resources.'
+      url: https://github.com/rust-unofficial/awesome-rust
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Small projects with Elegant code - Rust By Practice
+      url: https://practice.course.rs/elegant-code-base.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (3224) Crust of Rust - YouTube
+      url: https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa
+      zoom: 1.0
+  - history:
+    - last_visited: '2025-02-01T00:38:11'
+      pinned: false
+      title: Structs - Idiomatic Rust Snippets
+      url: https://idiomatic-rust-snippets.org/essentials/types/struct.html
+    - last_visited: '2025-02-01T00:39:31'
+      pinned: false
+      title: Compound Types - Idiomatic Rust Snippets
+      url: https://idiomatic-rust-snippets.org/essentials/types/compound.html
+    - last_visited: '2025-02-01T00:39:43'
+      pinned: false
+      title: Generics - Idiomatic Rust Snippets
+      url: https://idiomatic-rust-snippets.org/essentials/types/generic.html
+    - last_visited: '2025-02-01T00:40:00'
+      pinned: false
+      title: Pointers - Idiomatic Rust Snippets
+      url: https://idiomatic-rust-snippets.org/essentials/types/pointer.html
+    - last_visited: '2025-02-01T00:40:22'
+      pinned: false
+      title: Types - Idiomatic Rust Snippets
+      url: https://idiomatic-rust-snippets.org/essentials/types/intro.html
+    - last_visited: '2025-02-01T00:40:25'
+      pinned: false
+      title: Operators - Idiomatic Rust Snippets
+      url: https://idiomatic-rust-snippets.org/essentials/operators/intro.html
+    - last_visited: '2025-02-01T00:41:20'
+      pinned: false
+      title: Structural - Idiomatic Rust Snippets
+      url: https://idiomatic-rust-snippets.org/patterns/structural/intro.html
+    - last_visited: '2025-02-01T00:41:23'
+      pinned: false
+      title: Adapter - Idiomatic Rust Snippets
+      url: https://idiomatic-rust-snippets.org/patterns/structural/adapter.html
+    - active: true
+      last_visited: '2025-02-01T00:41:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 350
+      title: Composite - Idiomatic Rust Snippets
+      url: https://idiomatic-rust-snippets.org/patterns/structural/composite.html
+      zoom: 1.0
+  - history:
+    - last_visited: '2025-02-01T00:43:56'
+      pinned: false
+      title: Getting Started | Learn Game Development in Rust
+      url: https://sunjay.dev/learn-game-dev/getting-started.html
+    - active: true
+      last_visited: '2025-02-01T00:45:58'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Adding the Entity-Component-Systems | Learn Game Development in Rust
+      url: https://sunjay.dev/learn-game-dev/adding-ecs.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-02-01T00:44:00'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 680
+      title: Tutorials | Are we game yet?
+      url: https://arewegameyet.rs/resources/tutorials/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-02-01T08:32:01'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Experiment Introduction - The Rust Programming Language
+      url: https://rust-book.cs.brown.edu/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-02-01T08:32:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(3224) Rust for TypeScript devs : Borrow Checker - YouTube'
+      url: https://www.youtube.com/watch?v=ZNFdkTIzdXM
+      zoom: 1.0
+  - history:
+    - last_visited: '2025-02-01T08:34:02'
+      pinned: false
+      title: Tutorial | Tokio - An asynchronous Rust runtime
+      url: https://tokio.rs/tokio/tutorial
+    - last_visited: '2025-02-01T08:34:05'
+      pinned: false
+      title: Setup | Tokio - An asynchronous Rust runtime
+      url: https://tokio.rs/tokio/tutorial/setup
+    - last_visited: '2025-02-01T08:34:22'
+      pinned: false
+      title: Hello Tokio | Tokio - An asynchronous Rust runtime
+      url: https://tokio.rs/tokio/tutorial/hello-tokio
+    - last_visited: '2025-02-01T08:38:42'
+      pinned: false
+      title: Spawning | Tokio - An asynchronous Rust runtime
+      url: https://tokio.rs/tokio/tutorial/spawning
+    - active: true
+      last_visited: '2025-02-01T08:40:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 7015
+      title: Shared state | Tokio - An asynchronous Rust runtime
+      url: https://tokio.rs/tokio/tutorial/shared-state
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-02-01T08:16:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2000
+      title: (3224) Rust Talks - YouTube
+      url: https://www.youtube.com/playlist?list=PLZaoyhMXgBzoM9bfb5pyUOT3zjnaDdSEP
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-02-01T08:43:50'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (3224) Rust Data Modelling Without Classes - YouTube
+      url: https://www.youtube.com/watch?v=z-0-bbc80JM&list=PLZaoyhMXgBzoM9bfb5pyUOT3zjnaDdSEP&index=20
+      zoom: 1.0
+  - history:
+    - last_visited: '2025-02-01T08:16:55'
+      pinned: false
+      title: "Welcome to Comprehensive Rust \U0001F980 - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/
+    - last_visited: '2025-02-01T08:44:09'
+      pinned: false
+      title: "Types and Values - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/types-and-values.html
+    - last_visited: '2025-02-01T08:44:15'
+      pinned: false
+      title: "Hello, World - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/types-and-values/hello-world.html
+    - last_visited: '2025-02-01T08:44:34'
+      pinned: false
+      title: "Type Inference - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/types-and-values/inference.html
+    - last_visited: '2025-02-01T08:44:36'
+      pinned: false
+      title: "Exercise: Fibonacci - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/types-and-values/exercise.html
+    - last_visited: '2025-02-01T08:44:48'
+      pinned: false
+      title: "References - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/references.html
+    - last_visited: '2025-02-01T08:44:57'
+      pinned: false
+      title: "Shared References - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/references/shared.html
+    - last_visited: '2025-02-01T08:45:05'
+      pinned: false
+      title: "Exclusive References - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/references/exclusive.html
+    - last_visited: '2025-02-01T08:45:12'
+      pinned: false
+      title: "Slices - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/references/slices.html
+    - last_visited: '2025-02-01T08:45:21'
+      pinned: false
+      title: "Strings - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/references/strings.html
+    - last_visited: '2025-02-01T08:45:25'
+      pinned: false
+      title: "Reference Validity - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/references/dangling.html
+    - last_visited: '2025-02-01T08:45:55'
+      pinned: false
+      title: "Exercise: Geometry - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/references/exercise.html
+    - last_visited: '2025-02-01T08:47:07'
+      pinned: false
+      title: "User-Defined Types - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/user-defined-types.html
+    - last_visited: '2025-02-01T08:47:14'
+      pinned: false
+      title: "Named Structs - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/user-defined-types/named-structs.html
+    - last_visited: '2025-02-01T08:47:19'
+      pinned: false
+      title: "Tuple Structs - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/user-defined-types/tuple-structs.html
+    - last_visited: '2025-02-01T08:47:33'
+      pinned: false
+      title: "Tuple Structs - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/user-defined-types/tuple-structs.html#speaker-notes
+    - last_visited: '2025-02-01T08:48:05'
+      pinned: false
+      title: "Named Structs - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/user-defined-types/named-structs.html
+    - last_visited: '2025-02-01T08:49:31'
+      pinned: false
+      title: "Enums - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/user-defined-types/enums.html
+    - last_visited: '2025-02-01T08:50:01'
+      pinned: false
+      title: "Exercise: Elevator Events - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/user-defined-types/exercise.html
+    - last_visited: '2025-02-01T08:50:04'
+      pinned: false
+      title: "Static - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/user-defined-types/static.html
+    - last_visited: '2025-02-01T08:51:11'
+      pinned: false
+      title: "Exercise: Elevator Events - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/user-defined-types/exercise.html
+    - last_visited: '2025-02-01T08:54:12'
+      pinned: false
+      title: "Memory Management - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/memory-management.html
+    - last_visited: '2025-02-01T08:54:19'
+      pinned: false
+      title: "Approaches to Memory Management - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/memory-management/approaches.html
+    - last_visited: '2025-02-01T08:54:42'
+      pinned: false
+      title: "Ownership - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/memory-management/ownership.html
+    - last_visited: '2025-02-01T08:55:16'
+      pinned: false
+      title: "Move Semantics - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/memory-management/move.html
+    - last_visited: '2025-02-01T09:00:05'
+      pinned: false
+      title: "Clone - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/memory-management/clone.html
+    - last_visited: '2025-02-01T09:01:25'
+      pinned: false
+      title: "Copy Types - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/memory-management/copy-types.html
+    - last_visited: '2025-02-01T09:02:48'
+      pinned: false
+      title: "Drop - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/memory-management/drop.html
+    - last_visited: '2025-02-01T09:03:29'
+      pinned: false
+      title: "Exercise: Builder Type - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/memory-management/exercise.html
+    - active: true
+      last_visited: '2025-02-01T09:03:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: "Smart Pointers - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/smart-pointers.html
+      zoom: 1.0
+  - history:
+    - last_visited: '2025-02-01T08:20:18'
+      pinned: false
+      title: A half-hour to learn Rust
+      url: https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+    - last_visited: '2025-02-01T09:04:39'
+      pinned: false
+      title: A half-hour to learn Rust
+      url: https://fasterthanli.me/articles/a-half-hour-to-learn-rust#orphan-rules
+    - last_visited: '2025-02-01T09:04:49'
+      pinned: false
+      title: A half-hour to learn Rust
+      url: https://fasterthanli.me/articles/a-half-hour-to-learn-rust#the-self-type
+    - last_visited: '2025-02-01T09:05:13'
+      pinned: false
+      title: A half-hour to learn Rust
+      url: https://fasterthanli.me/articles/a-half-hour-to-learn-rust#trait-method-receivers
+    - last_visited: '2025-02-01T09:05:26'
+      pinned: false
+      title: A half-hour to learn Rust
+      url: https://fasterthanli.me/articles/a-half-hour-to-learn-rust#lifetimes
+    - last_visited: '2025-02-01T09:05:47'
+      pinned: false
+      title: A half-hour to learn Rust
+      url: https://fasterthanli.me/articles/a-half-hour-to-learn-rust#owned-types-vs-reference-types
+    - last_visited: '2025-02-01T09:06:28'
+      pinned: false
+      title: A half-hour to learn Rust
+      url: https://fasterthanli.me/articles/a-half-hour-to-learn-rust#fallible-functions-result-t-e
+    - last_visited: '2025-02-01T09:06:35'
+      pinned: false
+      title: A half-hour to learn Rust
+      url: https://fasterthanli.me/articles/a-half-hour-to-learn-rust#dereferencing
+    - active: true
+      last_visited: '2025-02-01T09:06:43'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 41020
+      title: A half-hour to learn Rust
+      url: https://fasterthanli.me/articles/a-half-hour-to-learn-rust#function-types-closures
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-02-01T00:44:32'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Learning game development with Rust! : r/rust'
+      url: https://www.reddit.com/r/rust/comments/134d2i0/learning_game_development_with_rust/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-02-01T00:45:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Adventures in Rust: A Basic 2D Game'
+      url: https://a5huynh.github.io/posts/2018/adventures-in-rust/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-02-01T00:45:46'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'sunjay/rust-simple-game-dev-tutorial: Rust game development tutorial
+        with specs ECS and SDL2'
+      url: https://github.com/sunjay/rust-simple-game-dev-tutorial
+      zoom: 1.0
+  - history:
+    - last_visited: '2025-02-01T08:27:25'
+      pinned: false
+      title: Lifetimes - Rust By Example
+      url: https://doc.rust-lang.org/rust-by-example/scope/lifetime.html
+    - active: true
+      last_visited: '2025-02-01T08:27:41'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Methods - Rust By Example
+      url: https://doc.rust-lang.org/rust-by-example/scope/lifetime/methods.html
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABZEAAANXAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAABZEAAANX
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:56'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Send to Kobo/Kindle
+      url: https://send.djazz.se/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: The Rust Programming Language (Covers Rust 2018) - Anna’s Archive
+      url: https://annas-archive.org/md5/83d9e4ebe32f219d6436a438076216a3
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: PDF to EPUB | CloudConvert
+      url: https://cloudconvert.com/pdf-to-epub
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABZEAAANXAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAABZEAAANX
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:17'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: programming languages - Google Zoeken
+      url: https://www.google.nl/search?q=programming%20languages
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Tutorial | Roc
+      url: https://www.roc-lang.org/tutorial
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:11'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'The New Wave of Programming Languages: Pony, Zig, Crystal, Vlang, and
+        Julia | HackerNoon'
+      url: https://hackernoon.com/the-new-wave-of-programming-languages-exploring-the-hidden-gems
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 263111
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/#Memory
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABZEAAANXAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAABZEAAANX
+  tabs:
+  - active: true
+    history:
+    - last_visited: '2025-01-31T19:54:19'
+      pinned: false
+      title: '(3213) C++ Code-along Ep 1: Demo RPG Game | Motivation, Learn, Practice
+        - YouTube'
+      url: https://www.youtube.com/watch?v=ssJde6l7mrM&list=PLalVdRk2RC6pqOVxRNj5Uui7FN4r-WorM&index=6
+    - active: true
+      last_visited: '2025-01-31T19:54:19'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(3224) C++ Code-along Ep 2: Demo RPG Game | Player Character Classes
+        - YouTube'
+      url: https://www.youtube.com/watch?v=Ei5oSENBWZk&list=PLalVdRk2RC6pqOVxRNj5Uui7FN4r-WorM&index=2
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABZEAAANXAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAABZEAAANX
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 18931
+      title: Examples | C3
+      url: https://c3-lang.org/language-overview/examples/#dynamic-calls
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Examples | C3
+      url: https://c3-lang.org/language-overview/examples/#struct-methods
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: package sdl2 - pkg.odin-lang.org
+      url: https://pkg.odin-lang.org/vendor/sdl2/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/#Errors
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABZEAAANXAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAABZEAAANX
+  tabs:
+  - history:
+    - last_visited: '2025-01-31T17:54:07'
+      pinned: false
+      title: WhatsApp
+      url: https://web.whatsapp.com/
+    - active: true
+      last_visited: '2025-01-31T17:54:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: WhatsApp
+      url: https://web.whatsapp.com/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: deepseek-r1
+      url: https://ollama.com/library/deepseek-r1
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Ollama
+      url: https://ollama.com/search?q=geitje
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'bodaay/HuggingFaceModelDownloader: Simple go utility to download HuggingFace
+        Models and Datasets'
+      url: https://github.com/bodaay/HuggingFaceModelDownloader
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:19'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Models - Hugging Face
+      url: https://huggingface.co/models
+      zoom: 1.0
+  - history:
+    - last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      title: Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard
+      url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+    - last_visited: '2025-01-31T17:54:22'
+      pinned: false
+      title: Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard
+      url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+    - last_visited: '2025-01-31T17:54:22'
+      pinned: false
+      title: Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard
+      url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+    - last_visited: '2025-01-31T17:54:25'
+      pinned: false
+      title: Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard
+      url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+    - last_visited: '2025-01-31T17:54:25'
+      pinned: false
+      title: Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard
+      url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+    - last_visited: '2025-01-31T17:54:25'
+      pinned: false
+      title: Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard
+      url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+    - last_visited: '2025-01-31T17:54:25'
+      pinned: false
+      title: Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard
+      url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+    - last_visited: '2025-01-31T17:54:25'
+      pinned: false
+      title: Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard
+      url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+    - last_visited: '2025-01-31T17:54:28'
+      pinned: false
+      title: Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard
+      url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+    - last_visited: '2025-01-31T17:54:28'
+      pinned: false
+      title: Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard
+      url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+    - last_visited: '2025-01-31T17:54:28'
+      pinned: false
+      title: Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard
+      url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+    - active: true
+      last_visited: '2025-01-31T17:54:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard
+      url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      title: ollama
+      url: https://www.reddit.com/r/ollama/top/
+    - active: true
+      last_visited: '2025-01-31T20:17:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 651
+      title: ollama
+      url: https://www.reddit.com/r/ollama/new/
+      zoom: 1.0
+    - last_visited: '2025-01-31T20:16:22'
+      pinned: false
+      title: 'Which deepseek model to install locally? : r/ollama'
+      url: https://www.reddit.com/r/ollama/comments/1iemeqp/which_deepseek_model_to_install_locally/
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:52:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Reddit - Dive into anything
+      url: https://www.reddit.com/r/ollama/comments/1giu0kz/post_your_model_what_do_you_have_and_use/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-31T17:54:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'huggingface/llm.nvim: LLM powered development for Neovim'
+      url: https://github.com/huggingface/llm.nvim
+      zoom: 1.0

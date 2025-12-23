@@ -1,0 +1,17 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB38AAAQZAAAAAAAAAAAAAAMfAAACVwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB38AAAQZ
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2023-07-16T19:37:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+      zoom: 1.0

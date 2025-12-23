@@ -1,0 +1,7 @@
+2025/06/11-22:17:33.662 15a4 Reusing MANIFEST /home/zanshin/.config/Vieb/Partitions/main/IndexedDB/https_jkone27-3876.medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/11-22:17:33.662 15a4 Recovering log #3
+2025/06/11-22:17:33.665 15a4 Reusing old log /home/zanshin/.config/Vieb/Partitions/main/IndexedDB/https_jkone27-3876.medium.com_0.indexeddb.leveldb/000003.log 
+2025/06/11-22:22:36.451 15a5 Level-0 table #5: started
+2025/06/11-22:22:36.456 15a5 Level-0 table #5: 97051 bytes OK
+2025/06/11-22:22:36.457 15a5 Delete type=0 #3
+2025/06/11-22:22:36.458 15a5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

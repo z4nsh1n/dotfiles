@@ -1,0 +1,928 @@
+windows:
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAABhAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAABh
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: LearnOpenGL - Hello Triangle
+      url: https://learnopengl.com/Getting-started/Hello-Triangle
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Archive
+      url: https://rust.code-maven.com/archive
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Ratatui - Terminal User Interfaces in Rust with Orhun Parmaksız
+      url: https://rust.code-maven.com/ratatui-tui-in-rust
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Ratatui - terminal user interfaces in Rust with Orhun Parmaksız - build
+        ratatop in pair programming - YouTube
+      url: https://www.youtube.com/watch?v=OkmYsa25pIw&t=561s
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Karl Seguin
+      url: https://www.openmymind.net/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zig Interfaces
+      url: https://www.openmymind.net/Zig-Interfaces/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Learning Zig
+      url: https://www.openmymind.net/learning_zig/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zig's HashMap - Part 1
+      url: https://www.openmymind.net/Zigs-HashMap-Part-1/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: In Zig, What's a Writer?
+      url: https://www.openmymind.net/In-Zig-Whats-a-Writer/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: How to use hash map contexts to save memory when doing a string table
+        - Zig NEWS
+      url: https://zig.news/andrewrk/how-to-use-hash-map-contexts-to-save-memory-when-doing-a-string-table-3l33
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 115752
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/#if-with-Optionals
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Switching on Strings in Zig
+      url: https://www.openmymind.net/Switching-On-Strings-In-Zig/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAABlAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAABl
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: OpenGL - YouTube
+      url: https://www.youtube.com/playlist?list=PLEMXAbCVnmY73lOROVmKIgGWH3tje_5l9
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-05-01T12:05:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 3.1 Introduction to Integers - Prealgebra 2e | OpenStax
+      url: https://openstax.org/books/prealgebra-2e/pages/3-1-introduction-to-integers
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAABkAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAABk
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Top Books By Month | Hacker News Books
+      url: https://hackernewsbooks.com/archives
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'H-99: Ninety-Nine Haskell Problems - HaskellWiki'
+      url: https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Real World Haskell
+      url: https://book.realworldhaskell.org/read/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Daemon | Hacker News Books
+      url: https://hackernewsbooks.com/book/daemon/310e6498f5315abb83ee2fe94fe735ad
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Practical Design Patterns: Opaque Pointers and Objects in C | Interrupt'
+      url: https://interrupt.memfault.com/blog/opaque-pointers
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Interrupt
+      url: https://community.memfault.com/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Bret Weinstein - YouTube
+      url: https://www.youtube.com/@DarkHorsePod/videos
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:11'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 2D Point Rotation Explained
+      url: https://chatgpt.com/c/67fae11e-2434-8007-9ac0-67e3ea586e5e
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Roberts.CS1.C/cslib/genlib.c at master · xuehao/Roberts.CS1.C
+      url: https://github.com/xuehao/Roberts.CS1.C/blob/master/cslib/genlib.c
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Wil jij een boek schrijven? Schrijven Online helpt je op weg!
+      url: https://schrijvenonline.org/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Hacker News Books | Sep 17, 2012 - Sep 24, 2012
+      url: https://hackernewsbooks.com/year/2012/week/38
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'The Moral Landscape: How Science Can Determine Human Values | Hacker
+        News Books'
+      url: https://hackernewsbooks.com/book/the-moral-landscape-how-science-can-determine-human-values/84a4d1f9f4ec9a1ef5db310d3731760f
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: The Art of Memory | Hacker News Books
+      url: https://hackernewsbooks.com/book/the-art-of-memory/460f098761d4c294db0cb83d5232c0f4
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Machine Learning for Hackers | Hacker News Books
+      url: https://hackernewsbooks.com/book/machine-learning-for-hackers/9738a74d3e3659b9d6cd26c4d82f31f0
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Trigonometry | Hacker News Books
+      url: https://hackernewsbooks.com/book/trigonometry/be8958748cb44c6f9185a9cd4aba5195
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'The Teaching Gap: Best Ideas from the World''s Teachers for Improving
+        Education in the Classroom | Hacker News Books'
+      url: https://hackernewsbooks.com/book/the-teaching-gap-best-ideas-from-the-worlds-teachers-for-improving-education-in-the-classroom/983c2cfc99aa6f24ca1c354228cb07d1
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Tutorials - HaskellWiki
+      url: https://wiki.haskell.org/Tutorials
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Real World Haskell
+      url: https://book.realworldhaskell.org/read/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Category:Tutorials - HaskellWiki
+      url: https://wiki.haskell.org/Category:Tutorials
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Monad tutorials timeline - HaskellWiki
+      url: https://wiki.haskell.org/index.php?title=Monad_tutorials_timeline
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Monads as computation - HaskellWiki
+      url: https://wiki.haskell.org/index.php?title=Monads_as_computation
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Monads as containers - HaskellWiki
+      url: https://wiki.haskell.org/index.php?title=Monads_as_containers
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Learning Haskell - HaskellWiki
+      url: https://wiki.haskell.org/Learning_Haskell
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: The Demo Effects Collection
+      url: https://demo-effects.sourceforge.net/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: An Introduction to Programming C-64 Demos
+      url: http://www.antimon.org/code/Linus/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Driven to Distraction: Recognizing and Coping with Attention Deficit
+        Disorder from Childhood Through Adulthood | Hacker News Books'
+      url: https://hackernewsbooks.com/book/driven-to-distraction-recognizing-and-coping-with-attention-deficit-disorder-from-childhood-through-adulthood/edf53e1b0ef2d2b05f7bafea8b8d59a4
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'The Introvert Advantage: How Quiet People Can Thrive in an Extrovert
+        World | Hacker News Books'
+      url: https://hackernewsbooks.com/book/the-introvert-advantage-how-quiet-people-can-thrive-in-an-extrovert-world/101f84c37eb71e1759ef5aa853184f04
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 10 Myths About Introverts - CarlKingdom.com
+      url: https://carlkingdom.com/10-myths-about-introverts
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Resources – Alice
+      url: https://www.alice.org/resources/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: What Is Mathematics? An Elementary Approach to Ideas and Methods | Richard
+        Courant, Herbert Robbins, Ian Stewart | download on Z-Library
+      url: https://z-library.sk/book/2649860/dfef38/what-is-mathematics-an-elementary-approach-to-ideas-and-methods.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'approaching precalculus mathematics: search on Z-Library'
+      url: https://z-library.sk/s/approaching%20precalculus%20mathematics
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAABkAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAABk
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Latest build-system topics - Ziggit
+      url: https://ziggit.dev/tag/build-system
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Code With Cypert - YouTube
+      url: https://www.youtube.com/@CodeWithCypert/playlists
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: The Beauty of Simplicity - Making Your Own Technology • Yan Chernikov
+        • YOW! 2024 - YouTube
+      url: https://www.youtube.com/watch?v=30AOTkAgc_4
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Catalog | CodeCrafters
+      url: https://app.codecrafters.io/catalog
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Type-safe Tagged Pointers with comptime - Zig NEWS
+      url: https://zig.news/orgold/type-safe-tagged-pointers-with-comptime-ghi
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Zig Hack: TypedGet - Zig NEWS'
+      url: https://zig.news/rohlem/zig-hack-typedget-1po4
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-05-01T12:05:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Generating a SDK UI at comptime - Zig NEWS
+      url: https://zig.news/pyrolistical/generating-a-sdk-ui-at-comptime-4e26
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Introducing Tuile - a Text User Interface library for Zig - Zig NEWS
+      url: https://zig.news/akarpovskii/introducing-tuile-a-text-user-interface-library-for-zig-51ig
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Andrew Kelly''s talk at goto: Zig Build System & How to Build Software
+        From Source - Zig NEWS'
+      url: https://zig.news/kojikabuto/andrew-kellys-talk-at-goto-zig-build-system-how-to-build-software-from-source-4ajp
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zig Build | zig.guide
+      url: https://zig.guide/build-system/zig-build/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: LearnOpenGL - Hello Window
+      url: https://learnopengl.com/Getting-started/Hello-Window
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:14'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Haskell Community - Haskell
+      url: https://discourse.haskell.org/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Best Practices for Structuring Zig Projects with External Dependencies
+        - Help - Ziggit
+      url: https://ziggit.dev/t/best-practices-for-structuring-zig-projects-with-external-dependencies/3723
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Best practices for consuming C libraries - Explain - Ziggit
+      url: https://ziggit.dev/t/best-practices-for-consuming-c-libraries/6819
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Latest build-system topics - Ziggit
+      url: https://ziggit.dev/tag/build-system
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zig Build System ⚡ Zig Programming Language
+      url: https://ziglang.org/learn/build-system/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Docs - Ziggit
+      url: https://ziggit.dev/docs
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: ABI | zig.guide
+      url: https://zig.guide/working-with-c/abi/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:14'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Stuntman Seymour in-game theme - YouTube
+      url: https://www.youtube.com/watch?v=yO1Fpf9up1c&list=PL6F164E152ADF2D74&index=228
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:20'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: std - Zig Documentation
+      url: https://ziglang.org/documentation/master/std/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Learn X in Y Minutes: Scenic Programming Language Tours'
+      url: https://learnxinyminutes.com/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Switching on Strings in Zig
+      url: https://www.openmymind.net/Switching-On-Strings-In-Zig/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'How to execute a system command? : r/Zig'
+      url: https://www.reddit.com/r/Zig/comments/s3odr2/how_to_execute_a_system_command/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAABlAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAABl
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 22
+      title: 'Structure and Interpretation of Computer Programs, 2e: 1.2'
+      url: http://sarabander.github.io/sicp/html/1_002e2.xhtml#g_t1_002e2
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAABkAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAABk
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:09'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Build your own Interpreter | CodeCrafters
+      url: https://app.codecrafters.io/courses/interpreter/stages/mp7?repo=8f044f47-0114-4abf-8037-96936bce2bfd
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-05-01T12:05:17'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Latest challenge:interpreter topics - CodeCrafters
+      url: https://forum.codecrafters.io/tag/challenge:interpreter
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Parsing Expressions · Crafting Interpreters
+      url: https://craftinginterpreters.com/parsing-expressions.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Scanning · Crafting Interpreters
+      url: https://craftinginterpreters.com/scanning.html#recognizing-lexemes
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:16'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'z4nsh1n/codecrafters-interpreter-zig: An interpreter in Zig'
+      url: https://github.com/z4nsh1n/codecrafters-interpreter-zig
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAABlAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAABl
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'You’re Not Dumb: How to Mindmap as a Beginner - YouTube'
+      url: https://www.youtube.com/watch?v=gLHqVR6VDUg
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'You’re Not Dumb: How to Mindmap as a Beginner - YouTube'
+      url: https://www.youtube.com/watch?v=gLHqVR6VDUg
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 180
+      title: (501) How to Learn ANYTHING Faster Than Everyone - YouTube
+      url: https://www.youtube.com/watch?v=qOjSJVaBV94
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAnwAAABhAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAAAnwAAABh
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Best C64 Sid Composer... - Commodore 64 - Lemon64 - Commodore 64
+      url: https://www.lemon64.com/forum/viewtopic.php?t=18124
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAwwAAANcAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAAAwwAAANc
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: qutebrowser
+      url: https://www.reddit.com/r/qutebrowser/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Qutebrowser how to ... - YouTube
+      url: https://www.youtube.com/playlist?list=PLhtWoD9f53K_phCc0H7d-2Os9Mt_z6c5D
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:16'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Jelmerro/Vieb: Vim Inspired Electron Browser - Vim bindings for the
+        web by design'
+      url: https://github.com/Jelmerro/Vieb
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:16'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Jelmerro/Vieb: Vim Inspired Electron Browser - Vim bindings for the
+        web by design'
+      url: https://github.com/Jelmerro/Vieb
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 204
+      title: Change Log
+      url: qute://help/changelog.html#v3.5.0
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:43'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: arch computer won't power down - Google Zoeken
+      url: https://www.google.nl/search?q=arch%20computer%20won%27t%20power%20down
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:45'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'My PC doesn''t shut off completely : r/archlinux'
+      url: https://www.reddit.com/r/archlinux/comments/1fz5wgv/my_pc_doesnt_shut_off_completely/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-05-01T12:05:48'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Shutting down the system is not working. : r/archlinux'
+      url: https://www.reddit.com/r/archlinux/comments/1cjcrmc/shutting_down_the_system_is_not_working/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-05-01T12:05:52'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 600
+      title: Laptop wont shutdown (sometimes) / Laptop Issues / Arch Linux Forums
+      url: https://bbs.archlinux.org/viewtopic.php?id=283366
+      zoom: 1.0

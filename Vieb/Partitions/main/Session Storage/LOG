@@ -1,0 +1,24 @@
+2025/11/07-00:04:13.465 10d2 Reusing MANIFEST /home/zanshin/.config/Vieb/Partitions/main/Session Storage/MANIFEST-000001
+2025/11/07-00:04:13.466 10d2 Recovering log #33
+2025/11/07-00:04:13.467 10d2 Reusing old log /home/zanshin/.config/Vieb/Partitions/main/Session Storage/000033.log 
+2025/11/08-00:29:26.036 10ef Level-0 table #37: started
+2025/11/08-00:29:26.043 10ef Level-0 table #37: 25580 bytes OK
+2025/11/08-00:29:26.044 10ef Delete type=0 #33
+2025/11/08-18:23:30.911 10ef Level-0 table #39: started
+2025/11/08-18:23:30.915 10ef Level-0 table #39: 13551 bytes OK
+2025/11/08-18:23:30.918 10ef Delete type=0 #36
+2025/11/08-20:01:54.126 10d2 Level-0 table #41: started
+2025/11/08-20:01:54.129 10d2 Level-0 table #41: 14873 bytes OK
+2025/11/08-20:01:54.131 10d2 Delete type=0 #38
+2025/11/08-20:01:54.131 10d2 Compacting 4@0 + 1@1 files
+2025/11/08-20:01:54.136 10d2 Generated table #42@0: 1791 keys, 52383 bytes
+2025/11/08-20:01:54.137 10d2 Compacted 4@0 + 1@1 files => 52383 bytes
+2025/11/08-20:01:54.140 10d2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/08-20:01:54.141 10d2 Delete type=2 #41
+2025/11/08-20:01:54.141 10d2 Delete type=2 #39
+2025/11/08-20:01:54.141 10d2 Delete type=2 #31
+2025/11/08-20:01:54.141 10d2 Delete type=2 #34
+2025/11/08-20:01:54.141 10d2 Delete type=2 #37
+2025/11/08-21:19:20.339 10d2 Level-0 table #44: started
+2025/11/08-21:19:20.346 10d2 Level-0 table #44: 14780 bytes OK
+2025/11/08-21:19:20.347 10d2 Delete type=0 #40

@@ -1,0 +1,57 @@
+osnews.com
+reddit.com
+youtube.com
+https://github.com/search?q=adl
+https://www.google.nl/search?q=arch linux power savings
+https://www.google.nl/search?q=python no module gi
+https://www.google.nl/search?q=arch linux xorg
+https://www.google.nl/search?q=arch linux man pages
+https://github.com/search?q=z4nshin
+gmail.com
+https://www.google.nl/search?q=kitty cursor_trail
+https://www.google.nl/search?q=linux karabiner
+https://github.com/search?q=hardtime.nvim
+twitch
+https://www.google.nl/search?q=vieb set useragent
+https://www.google.nl/search?q=zig ffi c%2B%2B
+https://www.google.nl/search?q=run java file
+https://www.google.nl/search?q=visitor pattern in zig
+https://www.google.nl/search?q=git clone a local git dir
+zignews
+ziggit
+https://github.com/search?q=termbox2
+https://github.com/search?q=cova
+.{    .name = .xtxf,    .version = "0.11.1",    .fingerprint = 0x9f00a070d780372e,    .minimum_zig_version = "0.14.0",    .dependencies = .{        .termbox2 = .{            .url = "https://github.com/termbox/termbox2/archive/8ee9dc17e1ca61c630f91db0aa7f81fa29a32040.zip",            .hash = "1220141762957641ec36cecbe44119633067ac94c1be3f9b6813192d686c023bbc2e",        },        .cova = .{            .url = "https://github.com/00JCIV00/cova/archive/4c56696fba4505a739c15223fc52985832051351.zip",            .hash = "12201386743e7862d71bdb723ec0517a16b0f324acf2710fc0c5329e31ae029d0dd4",        },        .ghext = .{            .url = "https://github.com/charlesrocket/ghext/archive/refs/tags/0.6.0.tar.gz",            .hash = "1220fbef19ebbea4057d1671778bfb2b06538c921a3801d550dbf1c55523874c8c0e",        },    },    .paths = .{        "src",        "test",        "build.zig",        "build.zig.zon",    },}
+https://github.com/00JCIV00/cova/
+https://github.com/charlesrocket/ghext/
+https://www.youtube.com/results?search_query=togglebit
+https://www.twitch.tv/
+https://www.google.nl/search?q=idris vs haskell
+https://www.google.nl/search?q=ocaml vs f%23 fsharp
+https://www.google.nl/search?q=elixir
+https://www.google.nl/search?q=elixir raylib
+https://mail.google.com/mail/u/0/#inbox
+https://zlibrary-nl.se/s/idris?
+https://www.google.nl/search?q=vieb hyprland small letters
+https://www.google.nl/search?q=vieb set font
+https://www.google.nl/search?q=vieb set font family
+https://www.google.nl/search?q=type quicker
+https://www.google.nl/search?q=gooner rice terminal
+https://www.google.nl/search?q=nvim change working dir
+https://www.google.nl/search?q=lazy config modes.nvim
+https://www.google.nl/search?q=neovim config lsp
+https://www.google.nl/search?q=nvim invalid client ID completion
+https://www.google.nl/search?q=nvim prevent select
+https://www.google.nl/search?q=nvim lsp update completion with key
+https://www.google.nl/search?q=nvim completion mode mappings
+https://www.google.nl/search?q=nvim lua keymap return keymap from function
+https://www.google.nl/search?q=nvim border around menu
+https://www.osnews.com/
+google.nl
+https://www.google.nl/search?q=sdl event handling
+neovim split ++opt
+https://www.google.nl/search?q=neovim splitbelow
+https://www.google.nl/search?q=zig inheritance
+https://www.twitch.tv/
+gmail.com
+https://www.google.nl/search?q=folke flash

@@ -1,0 +1,738 @@
+windows:
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3UAAAQPAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3UAAAQP
+  tabs:
+  - history:
+    - last_visited: '2024-07-23T11:52:34'
+      pinned: false
+      title: IntoIter - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/second-into-iter.html
+    - last_visited: '2024-07-28T01:07:41'
+      pinned: false
+      title: Peek - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/second-peek.html
+    - active: true
+      last_visited: '2024-07-28T01:12:12'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: IntoIter - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/second-into-iter.html
+      zoom: 1.5
+  - active: true
+    history:
+    - last_visited: '2024-07-28T11:31:51'
+      pinned: false
+      title: ocaml forward declare a function - Google Zoeken
+      url: https://www.google.nl/search?q=ocaml%20forward%20declare%20a%20function
+    - active: true
+      last_visited: '2024-07-28T11:33:01'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2172
+      title: Circular linker dependencies for functions and types - Community - OCaml
+      url: https://discuss.ocaml.org/t/circular-linker-dependencies-for-functions-and-types/7556/2
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3UAAAQPAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3UAAAQP
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-07-23T11:52:35'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 416
+      title: (9825) [SLOWER VERSION] A Firehose of Rust, for busy people who know
+        some C++ - YouTube
+      url: https://www.youtube.com/watch?v=FSyfZVuD32Y&t=6018s
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-24T22:05:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (9825) Rust for C++ developers - What you need to know to get rolling
+        with crates - Pavel Yosifovich - YouTube
+      url: https://www.youtube.com/watch?v=k7nAtrwPhR8
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-25T01:06:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 769
+      title: (9825) OcamLua - YouTube
+      url: https://www.youtube.com/playlist?list=PLDWRoFV4JjSSJPeBW_EK701YqnE28PhHj
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-25T01:16:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (9813) Writing a Lua Interpreter in OCaml! | OcamLua pt. 1 - YouTube
+      url: https://www.youtube.com/watch?v=XK73IF6YrqU&list=PLDWRoFV4JjSSJPeBW_EK701YqnE28PhHj&index=16
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-07-26T18:48:46'
+      pinned: false
+      title: ocaml string - Google Zoeken
+      url: https://www.google.nl/search?q=ocaml%20string
+    - last_visited: '2024-07-26T18:48:49'
+      original-url: https://ocaml.org/api/String.html
+      pinned: false
+      title: 'OCaml library : String'
+      url: https://ocaml.org/manual/5.2/api/String.html
+    - active: true
+      last_visited: '2024-07-26T18:49:42'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 5815
+      title: 'OCaml library : String'
+      url: https://ocaml.org/manual/5.2/api/String.html#traversing
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-07-27T12:32:07'
+      pinned: false
+      title: ocaml sum types - Google Zoeken
+      url: https://www.google.nl/search?q=ocaml%20sum%20types
+    - active: true
+      last_visited: '2024-07-27T12:32:10'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '3.9. Algebraic Data Types — OCaml Programming: Correct + Efficient +
+        Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/data/algebraic_data_types.html
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-07-27T12:33:56'
+      pinned: false
+      title: json types - Google Zoeken
+      url: https://www.google.nl/search?q=json%20types
+    - active: true
+      last_visited: '2024-07-28T00:37:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1216
+      title: JSON Types, Functions, and Uses with Examples
+      url: https://www.spiceworks.com/tech/devops/articles/what-is-json/#_002
+      zoom: 1.0
+    - last_visited: '2024-07-28T00:18:55'
+      pinned: false
+      title: JSON Types, Functions, and Uses with Examples
+      url: https://www.spiceworks.com/tech/devops/articles/what-is-json/#lg=1&slide=0
+  - history:
+    - last_visited: '2024-07-27T15:54:40'
+      pinned: false
+      title: ocaml option - Google Zoeken
+      url: https://www.google.nl/search?q=ocaml%20option
+    - active: true
+      last_visited: '2024-07-27T15:54:42'
+      original-url: https://ocaml.org/api/Option.html
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 376
+      title: 'OCaml library : Option'
+      url: https://ocaml.org/manual/5.2/api/Option.html
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3UAAAQPAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3UAAAQP
+  tabs:
+  - history:
+    - last_visited: '2024-07-23T11:52:34'
+      pinned: false
+      title: Introduction / Nature of Code
+      url: https://natureofcode.com/introduction/
+    - active: true
+      last_visited: '2024-07-23T11:52:44'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Introduction / Nature of Code
+      url: https://natureofcode.com/introduction/
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-07-23T11:52:34'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:49'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:49'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:50'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:50'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:50'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:50'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:50'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:50'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:50'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:50'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:50'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:50'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - last_visited: '2024-07-23T11:52:50'
+      pinned: false
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+    - active: true
+      last_visited: '2024-07-23T11:52:50'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 0. Randomness / Nature of Code
+      url: https://natureofcode.com/random/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T00:38:36'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 18472
+      title: 'GitHub - practical-tutorials/project-based-learning: Curated list of
+        project-based tutorials'
+      url: https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#ocaml
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-23T11:52:35'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (9824) How 3D video games do graphics. - YouTube
+      url: https://www.youtube.com/watch?v=bGe-d09Nc_M
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-23T11:52:35'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (9824) Jonathan Blow - Truth In Game Design - YouTube
+      url: https://www.youtube.com/watch?v=C5FUtrmO7gI&t=1526s
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-23T11:52:35'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Visualizing quaternions, an explorable video series
+      url: https://eater.net/quaternions
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-07-23T16:07:42'
+      pinned: false
+      title: (9692) An ADT for Pokemon | OCaml Programming | Chapter 3 Video 18 -
+        YouTube
+      url: https://www.youtube.com/watch?v=3ExRHHqfWm4&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=41
+    - last_visited: '2024-07-23T16:07:42'
+      pinned: false
+      title: (9692) Module Types and Signatures | OCaml Programming | Chapter 5 Video
+        9 - YouTube
+      url: https://www.youtube.com/watch?v=4Uew8GEegyg&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=61
+    - last_visited: '2024-07-23T16:17:23'
+      pinned: false
+      title: (9692) Module Types for Stacks and Queues | OCaml Programming | Chapter
+        5 Video 10 - YouTube
+      url: https://www.youtube.com/watch?v=LWmGzSCpvVY&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=62
+    - last_visited: '2024-07-23T16:35:13'
+      pinned: false
+      title: (9692) Module Type Syntax and Semantics | OCaml Programming | Chapter
+        5 Video 11 - YouTube
+      url: https://www.youtube.com/watch?v=VprvFk7KKWk&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=63
+    - last_visited: '2024-07-23T16:35:20'
+      pinned: false
+      title: (9692) Abstract Types | OCaml Programming | Chapter 5 Video 12 - YouTube
+      url: https://www.youtube.com/watch?v=vuKBUhMpr-c&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=64
+    - last_visited: '2024-07-23T16:43:39'
+      pinned: false
+      title: (9697) Compilation Units | OCaml Programming | Chapter 5 Video 13 - YouTube
+      url: https://www.youtube.com/watch?v=hjZ8FvMUw2k&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=65
+    - last_visited: '2024-07-23T17:56:16'
+      pinned: false
+      title: (9699) Utop with Modules | OCaml Programming | Chapter 5 Video 14 - YouTube
+      url: https://www.youtube.com/watch?v=4yo-04VVzIw&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=66
+    - last_visited: '2024-07-23T19:04:25'
+      pinned: false
+      title: (9699) Includes | OCaml Programming | Chapter 5 Video 15 - YouTube
+      url: https://www.youtube.com/watch?v=SmG3ChuOLpQ&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=67
+    - last_visited: '2024-07-23T19:14:20'
+      pinned: false
+      title: (9699) Include vs Open | OCaml Programming | Chapter 5 Video 16 - YouTube
+      url: https://www.youtube.com/watch?v=P1-gLiagAK4&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=68
+    - last_visited: '2024-07-23T19:16:14'
+      pinned: false
+      title: (9699) Abstraction Functions and Commutative Diagrams | OCaml Programming
+        | Chapter 6 Video 11 - YouTube
+      url: https://www.youtube.com/watch?v=PKAgq97NBdg&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=81
+    - last_visited: '2024-07-23T19:16:40'
+      pinned: false
+      title: (9699) Include vs Open | OCaml Programming | Chapter 5 Video 16 - YouTube
+      url: https://www.youtube.com/watch?v=P1-gLiagAK4&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=68
+    - last_visited: '2024-07-23T19:17:38'
+      pinned: false
+      title: (9699) Functors | OCaml Programming | Chapter 5 Video 17 - YouTube
+      url: https://www.youtube.com/watch?v=CLi5RmgQ9Mg&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=69
+    - last_visited: '2024-07-23T19:28:22'
+      pinned: false
+      title: (9700) Standard Library Map | OCaml Programming | Chapter 5 Video 18
+        - YouTube
+      url: https://www.youtube.com/watch?v=sCbUwQvNYJA&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=70
+    - last_visited: '2024-07-23T21:27:34'
+      pinned: false
+      title: (9700) Abstraction and Specification | OCaml Programming | Chapter 6
+        Video 1 - YouTube
+      url: https://www.youtube.com/watch?v=ehe96Xnkjys&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=71
+    - last_visited: '2024-07-23T21:31:47'
+      pinned: false
+      title: (9700) Function Specifications | OCaml Programming | Chapter 6 Video
+        2 - YouTube
+      url: https://www.youtube.com/watch?v=ggm5rjAyjhw&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=72
+    - last_visited: '2024-07-23T21:35:16'
+      pinned: false
+      title: (9700) Parts of a Function Specification | OCaml Programming | Chapter
+        6 Video 3 - YouTube
+      url: https://www.youtube.com/watch?v=p5OTwjNTQIs&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=73
+    - last_visited: '2024-07-23T21:37:33'
+      pinned: false
+      title: (9700) Data Abstractions | OCaml Programming | Chapter 6 Video 4 - YouTube
+      url: https://www.youtube.com/watch?v=4OTspWNefn4&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=74
+    - last_visited: '2024-07-23T21:42:26'
+      pinned: false
+      title: (9701) Implementing Sets as Lists | OCaml Programming | Chapter 6 Video
+        5 - YouTube
+      url: https://www.youtube.com/watch?v=abtrrowewaw&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=75
+    - last_visited: '2024-07-23T22:35:02'
+      pinned: false
+      title: (9702) Another Implementation of Sets | OCaml Programming | Chapter 6
+        Video 6 - YouTube
+      url: https://www.youtube.com/watch?v=n8irzSGGVao&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=76
+    - active: true
+      last_visited: '2024-07-23T23:00:36'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (9825) Abstraction Functions | OCaml Programming | Chapter 6 Video 7
+        - YouTube
+      url: https://www.youtube.com/watch?v=ZYYa66804Q4&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=77
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-23T11:52:35'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 80
+      title: A half-hour to learn Rust
+      url: https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-23T11:52:33'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zig's HashMap - Part 2
+      url: https://www.openmymind.net/Zigs-HashMap-Part-2/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-23T11:52:34'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 200
+      title: OCaml - The standard library
+      url: https://ocaml.org/manual/5.2/stdlib.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-23T11:52:34'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: raylib - cheatsheet
+      url: https://www.raylib.com/cheatsheet/cheatsheet.html
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2024-07-23T23:04:55'
+      pinned: false
+      title: '5.3. Modules and the Toplevel — OCaml Programming: Correct + Efficient
+        + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/modules/toplevel.html
+    - last_visited: '2024-07-24T00:20:58'
+      pinned: false
+      title: 'Installing OCaml — OCaml Programming: Correct + Efficient + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/preface/install.html
+    - last_visited: '2024-07-24T00:27:38'
+      pinned: false
+      title: '1. Better Programming Through OCaml — OCaml Programming: Correct + Efficient
+        + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/intro/intro.html
+    - last_visited: '2024-07-24T00:27:43'
+      pinned: false
+      title: '2. The Basics of OCaml — OCaml Programming: Correct + Efficient + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/basics/intro.html
+    - last_visited: '2024-07-24T00:27:47'
+      pinned: false
+      title: '2.2. Compiling OCaml Programs — OCaml Programming: Correct + Efficient
+        + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/basics/compiling.html
+    - last_visited: '2024-07-24T00:29:08'
+      pinned: false
+      title: '2.5. Documentation — OCaml Programming: Correct + Efficient + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/basics/documentation.html
+    - last_visited: '2024-07-24T00:29:51'
+      pinned: false
+      title: '2.6. Printing — OCaml Programming: Correct + Efficient + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/basics/printing.html
+    - last_visited: '2024-07-24T00:29:54'
+      pinned: false
+      title: '2.7. Debugging — OCaml Programming: Correct + Efficient + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/basics/debugging.html
+    - last_visited: '2024-07-24T00:30:31'
+      pinned: false
+      title: '5. Modular Programming — OCaml Programming: Correct + Efficient + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/modules/intro.html
+    - last_visited: '2024-07-24T00:30:52'
+      pinned: false
+      title: '5.1. Module Systems — OCaml Programming: Correct + Efficient + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/modules/module_systems.html
+    - last_visited: '2024-07-24T00:30:57'
+      pinned: false
+      title: '5.2. Modules — OCaml Programming: Correct + Efficient + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/modules/modules.html
+    - last_visited: '2024-07-24T01:23:13'
+      pinned: false
+      title: '5.3. Modules and the Toplevel — OCaml Programming: Correct + Efficient
+        + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/modules/toplevel.html
+    - active: true
+      last_visited: '2024-07-24T01:25:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: '5.4. Encapsulation — OCaml Programming: Correct + Efficient + Beautiful'
+      url: https://cs3110.github.io/textbook/chapters/modules/encapsulation.html
+      zoom: 1.1
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABBUAAAQPAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAABBUAAAQP
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-07-28T12:46:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+      zoom: 1.0
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB38AAAQ3AAAAAAAAAAAAAANfAAAENwAAAAACBAAAB4AAAAAAAAAA
+    AAAAB38AAAQ3
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-07-28T12:46:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: heerde urgentieverklaring huurwoning aanvragen - Google Zoeken
+      url: https://www.google.nl/search?q=heerde%20urgentieverklaring%20huurwoning%20aanvragen&zx=1721986492638&no_sw_cr=1
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T12:46:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Urgentieverklaring sociale huurwoning - gemeente Heerde
+      url: https://www.heerde.nl/Inwoners/Wonen_en_ver_bouwen/Urgentieverklaring_sociale_huurwoning
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T12:46:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: flexwoningen heerde - Google Zoeken
+      url: https://www.google.nl/search?q=flexwoningen%20heerde&zx=1721986494462&no_sw_cr=1
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T12:46:19'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Haneweg 24 flexwoningen - Triada
+      url: https://www.triada.nl/projecten/haneweg-24-flexwoningen/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T12:46:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Persoonlijk Budgetadvies
+      url: https://persoonlijkbudgetadvies.nibud.nl/introductie
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T12:46:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 90
+      title: haneweg 15, heerde - Google Zoeken
+      url: https://www.google.nl/search?q=haneweg+15%2C+heerde&sca_esv=71de3cbd3c0c6ec4&sca_upv=1&sxsrf=ADLYWIJffSAa2jlzJn6iyoZl99gfN6PiUQ%3A1720885700762&ei=xKGSZqyZLpq1i-gPzY6lwAE&oq=haneweg+heerde&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmhhbmV3ZWcgaGVlcmRlKgIIADIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0j0EVAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIRmAMAiAYBkAYIkgcBMaAHAA&sclient=gws-wiz-serp#smwie=1
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T12:46:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Wilhelminalaan - Triada
+      url: https://www.triada.nl/projecten/wilhelminalaan/
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-07-28T12:46:22'
+      pinned: false
+      title: Haneweg 24 flexwoningen - Triada
+      url: https://www.triada.nl/projecten/haneweg-24-flexwoningen/
+    - last_visited: '2024-07-28T13:48:20'
+      pinned: false
+      title: Projecten - Triada
+      url: https://www.triada.nl/projecten/
+    - active: true
+      last_visited: '2024-07-28T13:48:39'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2813
+      title: Molenkamp-Noord 2023-2028 - Triada
+      url: https://www.triada.nl/projecten/molenkamp-noord-2023-2028/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T12:46:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Bouw van 24 flexwoningen in Heerde van start - Triada
+      url: https://www.triada.nl/a/b/nieuws/bouw-van-24-flexwoningen-in-heerde-van-start/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T12:46:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Het Vierde Huis specialist in voorrangsdienstverlening - Hetvierdehuis
+        NL
+      url: https://www.hetvierdehuis.nl/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-07-28T12:46:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: ≥ Huizen en Kamers te huur | Gelderland - Marktplaats
+      url: https://www.marktplaats.nl/u/huurzone/24429604/l/huizen-en-kamers/huizen-te-huur/f/gelderland/4555/#postcode:8181MA
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T12:46:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: ≥ Woonhuis in Heerde - 90m² - 3 kamers — Huizen te huur — Marktplaats
+      url: https://www.marktplaats.nl/v/huizen-en-kamers/huizen-te-huur/a1502572663-woonhuis-in-heerde-90m2-3-kamers?c=3c1f5dcc18d02a99040ca8de656940d2&casData=VICOAJ70KbS3dHXY04RNcYE3j0VVztt649Gv3CXR_huuADKu-KM4jDH1MFuWpAFFFc4AfPV9oaKn9UUl-QTUMTugIBJC4RlWYL0ntIM2I6BoCURx6IciqfVv1pSSa1U1FyRE0h13GSz1rJeQOg53MmHwKkMhHneZiFF8bvP1rf4APIqYWkClrE_-sNYG3ItJ3YHyIqW7eYGPtf3vpL2WfJKBtxfv5tPjeMSpNhYDc7HDsXDnqHWMPlJGWSTefpT5_mlrs-JwqSGwaYrE61CsOAMCIl9JZwQkUr7vcx2cnxtq8KkATaCv0q-DRXWq_TcYrUGByShZ5bYy_i1OxakYqBP8PnBt2qyD9a8lr39zfwq2tjnQG1NdmKTT2shvd5MxAV12bKsEWTVMZB6S3HO5XpnQ6TRxvzsqGDL1nx58Yf12Sxdl19436LXMyda22wZSVZvteB-d0fxOy3J30si8NjqhTlgYLPD17HF82-mLu88QZcMPeFAsg9VyoInB56OyoowVJpJD1hbwtBT9V4OgA8nEIXtlOr5ZgldZ_B4CzJM
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T12:46:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Molenkamp Noord 2023-2028 - Triada
+      url: https://triada.nl/ik-huur/molenkamp-noord-2023-2028/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T12:48:30'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2486
+      title: Haneweg 24 flexwoningen - Triada
+      url: https://triada.nl/projecten/haneweg-24-flexwoningen/
+      zoom: 1.0
+    - last_visited: '2024-07-28T12:48:29'
+      pinned: false
+      title: Bouw van 24 flexwoningen in Heerde van start - Triada
+      url: https://triada.nl/a/b/nieuws/bouw-van-24-flexwoningen-in-heerde-van-start/
+    - last_visited: '2024-07-28T12:48:26'
+      pinned: false
+      title: Nieuws - Triada
+      url: https://triada.nl/a/b/nieuws/
+  - history:
+    - last_visited: '2024-07-28T12:47:46'
+      pinned: false
+      title: Google Maps
+      url: https://www.google.com/maps
+    - active: true
+      last_visited: '2024-07-28T12:48:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Google Maps
+      url: https://www.google.com/maps/@52.3833686,6.03065,15.58z?entry=ttu
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-07-28T12:57:59'
+      pinned: false
+      title: dr wikke heerde - Google Zoeken
+      url: https://www.google.nl/search?q=dr%20wikke%20heerde
+    - last_visited: '2024-07-28T13:00:12'
+      pinned: false
+      title: 'Huis te huur Heerde: de Wikke € 550'
+      url: https://www.huurwoningen.nl/huren/heerde/1421856/de-wikke/
+    - active: true
+      last_visited: '2024-07-28T13:00:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Huis te huur Heerde: de Wikke € 550'
+      url: https://www.huurwoningen.nl/huren/heerde/1448611/de-wikke/
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-07-28T13:36:06'
+      pinned: false
+      title: Huurwoningen en Huurhuizen in NL! Ga nu snel een woning huren via Huurwoningen
+      url: https://www.huurwoningen.nl/
+    - last_visited: '2024-07-28T13:36:36'
+      pinned: false
+      title: Huurwoning Heerde, de NIEUWSTE huurhuizen in Heerde
+      url: https://www.huurwoningen.nl/in/heerde/
+    - last_visited: '2024-07-28T13:37:47'
+      pinned: false
+      title: 'Huis te huur Heerde: de Wikke € 550'
+      url: https://www.huurwoningen.nl/huren/heerde/1448611/de-wikke/
+    - last_visited: '2024-07-28T13:38:06'
+      pinned: false
+      title: Reageer op de woning
+      url: https://www.huurwoningen.nl/contact/heerde/1448611/de-wikke/vraag/
+    - active: true
+      last_visited: '2024-07-28T13:40:11'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Reageer op de woning
+      url: https://www.huurwoningen.nl/contact/heerde/1448611/de-wikke/vraag/#header
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-07-28T13:40:47'
+      pinned: false
+      title: Huurwoningen.nl reviews | Bekijk consumentenreviews over www.huurwoningen.nl
+      url: https://nl.trustpilot.com/review/www.huurwoningen.nl?utm_medium=trustbox&utm_source=Mini
+    - active: true
+      last_visited: '2024-07-28T13:42:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 4818
+      title: Beste bedrijven in de categorie Online marktplaats op Trustpilot
+      url: https://nl.trustpilot.com/categories/online_marketplace
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-07-28T13:01:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 199
+      title: Contact - Huurwoningen
+      url: https://www.huurwoningen.nl/contact/
+      zoom: 1.25

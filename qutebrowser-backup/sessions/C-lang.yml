@@ -1,0 +1,17 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3UAAAQPAAAAAAAAAAAAAAMfAAACVwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3UAAAQP
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2023-12-31T16:30:46'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Implementing basic vtable in C - Stack Overflow
+      url: https://stackoverflow.com/questions/66040677/implementing-basic-vtable-in-c
+      zoom: 1.0

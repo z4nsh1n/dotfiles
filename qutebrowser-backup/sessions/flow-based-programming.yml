@@ -1,0 +1,83 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB38AAAQ3AAAAAAAAAAAAAAMfAAACVwAAAAACBAAAB4AAAAAAAAAA
+    AAAAB38AAAQ3
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-01-20T12:02:56'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 5586
+      title: Flow-based Programming
+      url: https://jpaulm.github.io/fbp/
+      zoom: 1.25
+  - history:
+    - active: true
+      last_visited: '2024-01-20T12:21:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: drawfbp/README.md at master · jpaulm/drawfbp
+      url: https://github.com/jpaulm/drawfbp/blob/master/README.md
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-01-20T12:40:43'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'jpaulm/fbp-tutorial-filter-file: FBP Tutorial (using a simple File Filter
+        app)'
+      url: https://github.com/jpaulm/fbp-tutorial-filter-file?tab=readme-ov-file
+      zoom: 1.0
+    - last_visited: '2024-01-20T12:40:37'
+      pinned: false
+      title: fbp-tutorial-filter-file/Step04 at master · jpaulm/fbp-tutorial-filter-file
+      url: https://github.com/jpaulm/fbp-tutorial-filter-file/tree/master/Step04
+  - history:
+    - active: true
+      last_visited: '2024-01-20T12:03:28'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (4402) The origins of Flow Based Programming with J Paul Morrison - YouTube
+      url: https://www.youtube.com/watch?v=up2yhNTsaDs
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-01-20T12:04:14'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (4402) Flow Based Programming with Elixir and ALF | Anton Mishchuk |
+        Code BEAM Europe 2022 - YouTube
+      url: https://www.youtube.com/watch?v=2XrYd1W5GLo
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-01-20T12:04:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (4402) 2017 Flow-Based Programming for JavaScript - YouTube
+      url: https://www.youtube.com/watch?v=pf6SytVR2KU
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-01-20T12:17:44'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (4401) Flow-based programming - YouTube
+      url: https://www.youtube.com/playlist?list=PLF2nfrYHKiAY7jacE-BJYAM57o9VjZ8lc
+      zoom: 1.0

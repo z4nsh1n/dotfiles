@@ -1,0 +1,382 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - last_visited: '2024-10-12T17:03:26'
+      pinned: false
+      title: matklad
+      url: https://matklad.github.io/blogroll.html
+    - last_visited: '2024-10-12T17:03:31'
+      pinned: false
+      title: matklad
+      url: https://matklad.github.io/about.html
+    - last_visited: '2024-10-12T17:03:43'
+      pinned: false
+      title: matklad
+      url: https://matklad.github.io/links.html
+    - last_visited: '2024-10-12T19:02:12'
+      pinned: false
+      title: matklad
+      url: https://matklad.github.io/blogroll.html
+    - active: true
+      last_visited: '2024-10-12T19:03:28'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: matklad
+      url: https://matklad.github.io/
+      zoom: 1.25
+  - history:
+    - active: true
+      last_visited: '2024-10-12T17:49:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (1553) How I program C - YouTube
+      url: https://www.youtube.com/watch?v=443UNeGrFoM&t=21s
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-10-12T17:48:16'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(1553) CppCon 2014: Mike Acton "Data-Oriented Design and C++" - YouTube'
+      url: https://www.youtube.com/watch?v=rX0ItVEVjHc&t=1306s
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-10-12T17:47:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: leftoversalad.com/c/015_programmingpeople/
+      url: https://leftoversalad.com/c/015_programmingpeople/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-10-11T18:12:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Resilient LL Parsing Tutorial
+      url: https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-10-12T22:13:40'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (1552) Rust - YouTube
+      url: https://www.youtube.com/@RustVideos/videos
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-10-12T22:13:46'
+      pinned: false
+      title: Rust Trends
+      url: https://rust-trends.com/newsletter/page/3/
+    - active: true
+      last_visited: '2024-10-12T22:14:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Rust Trends
+      url: https://rust-trends.com/
+      zoom: 1.0
+    - last_visited: '2024-10-12T22:14:03'
+      pinned: false
+      title: About
+      url: https://rust-trends.com/about/
+  - history:
+    - active: true
+      last_visited: '2024-10-11T18:12:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (1552) Zürich Friends of Haskell - YouTube
+      url: https://www.youtube.com/@zfoh/playlists
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-10-11T18:12:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: gebruiksaanwijzing zonder boek - pabo | uitleg | oefenen | wiscat | gratis
+      url: https://www.rekenenvoordepabo.nl/gebruiksaanwijzing-zonder-boek/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-10-11T18:12:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: argumatronic -
+      url: https://argumatronic.com/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-10-11T18:12:30'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: learning rust by projects - Google Zoeken
+      url: https://www.google.nl/search?q=learning%20rust%20by%20projects
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-10-11T18:12:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Rust By Practice - Rust By Practice
+      url: https://practice.course.rs/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-10-11T18:12:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Top 15 Rust Projects To Elevate Your Skills | Zero To Mastery
+      url: https://zerotomastery.io/blog/rust-practice-projects/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-10-11T18:12:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: A Guide to Learning Rust in 5 Simple Steps | Medium
+      url: https://medium.com/@zahidensari116/mastering-rust-programming-language-a-guide-to-learning-in-5-simple-steps-2a6714d138c5
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-10-11T18:12:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Obtaining blocks of memory - Writing Interpreters in Rust: a Guide'
+      url: https://rust-hosted-langs.github.io/book/chapter-blocks.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-10-11T18:12:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Index of /~fischer/cs536.s08/course.hold/html/NOTES
+      url: https://pages.cs.wisc.edu/~fischer/cs536.s08/course.hold/html/NOTES/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-10-11T18:12:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: CS536 - Spring 2024, University of Wisconsin
+      url: https://pages.cs.wisc.edu/~fischer/cs536.s08/course/html/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-10-11T18:12:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: A Beginner's Guide to Parsing in Rust | Depth-First
+      url: https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-10-11T18:12:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Implementing a Lox interpreter in Rust - YouTube
+      url: https://www.youtube.com/watch?v=mNOLaw-_Buc
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - active: true
+    history:
+    - last_visited: '2024-10-11T18:12:22'
+      pinned: false
+      title: Layout - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/first-layout.html
+    - last_visited: '2024-10-12T20:11:10'
+      pinned: false
+      title: New - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/first-new.html
+    - last_visited: '2024-10-12T20:12:58'
+      pinned: false
+      title: Ownership 101 - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/first-ownership.html
+    - last_visited: '2024-10-12T20:49:57'
+      pinned: false
+      title: Push - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/first-push.html
+    - last_visited: '2024-10-12T21:38:32'
+      pinned: false
+      title: Pop - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/first-pop.html
+    - last_visited: '2024-10-12T21:44:35'
+      pinned: false
+      title: Testing - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/first-test.html
+    - last_visited: '2024-10-12T21:52:39'
+      pinned: false
+      title: Drop - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/first-drop.html
+    - last_visited: '2024-10-12T22:10:51'
+      pinned: false
+      title: Final Code - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/first-final.html
+    - active: true
+      last_visited: '2024-10-12T22:11:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 163
+      title: An Ok Stack - Learning Rust With Entirely Too Many Linked Lists
+      url: https://rust-unofficial.github.io/too-many-lists/second.html
+      zoom: 1.5
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-10-12T16:57:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 183
+      title: Mutex, Send and Arc - 100 Exercises To Learn Rust
+      url: https://rust-exercises.com/100-exercises/07_threads/11_locks
+      zoom: 1.0
+    - last_visited: '2024-10-12T16:57:23'
+      pinned: false
+      title: Patching - 100 Exercises To Learn Rust
+      url: https://rust-exercises.com/100-exercises/07_threads/10_patch
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAMfAAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-10-12T16:57:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 389
+      title: Writing a Simple Parser in Rust
+      url: https://adriann.github.io/rust_parser.html
+      zoom: 0.75
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - last_visited: '2024-10-12T22:46:23'
+      pinned: false
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+    - active: true
+      last_visited: '2024-10-12T22:46:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 920
+      title: (1552) YouTube
+      url: https://www.youtube.com/
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-10-12T22:55:56'
+      pinned: false
+      title: (1552) Beat It - Michael Jackson (Fingerstyle Guitar Cover) | Josephine
+        Alexandra - YouTube
+      url: https://www.youtube.com/watch?v=1lyDsly8sMg
+    - active: true
+      last_visited: '2024-10-12T23:13:41'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 5240
+      title: (1553) fingerstyle guitar - YouTube
+      url: https://www.youtube.com/results?search_query=fingerstyle+guitar
+      zoom: 1.0
+    - last_visited: '2024-10-12T23:13:17'
+      pinned: false
+      title: (1552) paint ad2 - YouTube
+      url: https://www.youtube.com/watch?v=GfeNn61hpno
+  - history:
+    - active: true
+      last_visited: '2024-10-12T22:46:40'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (1552) The Web Does No Innovation - YouTube
+      url: https://www.youtube.com/watch?v=TQFkpuCCNos
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2024-10-12T22:58:36'
+      pinned: false
+      title: songster - Google Zoeken
+      url: https://www.google.nl/search?q=songster
+    - last_visited: '2024-10-12T23:28:30'
+      pinned: false
+      title: 'Search results for: ''fast'' | Guitar Tabs with Rhythm | Songsterr'
+      url: https://www.songsterr.com/?pattern=fast
+    - last_visited: '2024-10-12T23:28:33'
+      pinned: false
+      title: Fast Car Tab by Tracy Chapman | Songsterr Tabs with Rhythm
+      url: https://www.songsterr.com/a/wsa/tracy-chapman-fast-car-tab-s167
+    - active: true
+      last_visited: '2024-10-12T23:32:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Guitar Tabs with Rhythm | Songsterr
+      url: https://www.songsterr.com/
+      zoom: 1.0

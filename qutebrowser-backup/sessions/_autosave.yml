@@ -1,0 +1,505 @@
+windows:
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:15'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'nvim-telekasten/telekasten.nvim: A Neovim (lua) plugin for working with
+        a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim'
+      url: https://github.com/nvim-telekasten/telekasten.nvim
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: zig interfaces - Google Zoeken
+      url: https://www.google.nl/search?q=zig%20interfaces
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zig Interfaces
+      url: https://www.openmymind.net/Zig-Interfaces/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Basic Types and Values | C3
+      url: https://c3-lang.org/language-fundamentals/basic-types-and-values/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: C3 For C Programmers | C3
+      url: https://c3-lang.org/language-overview/primer/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 11468
+      title: Examples | C3
+      url: https://c3-lang.org/language-overview/examples/#contracts
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Attributes | C3
+      url: https://c3-lang.org/language-common/attributes/#local
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Standard Library Reference | C3
+      url: https://c3-lang.org/standard-library/stdlib_refcard/#stdiofile
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'C3 with Christoffer Lerno -- His career and how he brought us the C3
+        language -- Conversation #6 - YouTube'
+      url: https://www.youtube.com/watch?v=9rS8MVZH-vA
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Standard Library Reference | C3
+      url: https://c3-lang.org/standard-library/stdlib_refcard/#stdcollectionsanylist
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Roguelike Tutorial in Rust + tcod
+      url: https://tomassedovic.github.io/roguelike-tutorial/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: For loops | zig.guide
+      url: https://zig.guide/language-basics/for-loops/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Zigistry: A package registry and manager for Zig | Find & Share Zig
+        Packages'
+      url: https://zigistry.dev/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (3169) Code, Tech, and Tutorials - YouTube
+      url: https://www.youtube.com/@CodeTechandTutorials/playlists
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Eric O Meehan - YouTube
+      url: https://www.youtube.com/@eom-dev/videos
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Linked Lists in C - YouTube
+      url: https://www.youtube.com/watch?v=KEV5OuQzgtc
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-30T18:18:09'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: c3 lang - Google Zoeken
+      url: https://www.google.nl/search?q=c3+lang+&sca_esv=2e72d065ef487a51&biw=1908&bih=980&sxsrf=AHTn8zqt5v5w1-61lYS1f8xtGtwzqczG8A%3A1737989888902&ei=AJ-XZ8HRNuON9u8P8LGheA&ved=0ahUKEwjB0c3vlJaLAxXjhv0HHfBYCA84ChDh1QMIEA&uact=5&oq=c3+lang+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGMzIGxhbmcgMgQQIxgnMgQQIxgnMgQQIxgnSJKDAVCsIViWZHABeAGQAQCYAXKgAfYIqgEDOC40uAEDyAEA-AEBmAINoALnCsICChAAGLADGNYEGEfCAgUQABjvBcICCBAAGIAEGKIEwgIIEAAYgAQYywHCAgYQABgWGB7CAgUQABiABMICChAAGIAEGEMYigXCAgQQABgewgITEC4YgAQYsQMY0QMYgwEYxwEYCsICChAAGIAEGLEDGArCAgcQABiABBgKwgIKECMYgAQYJxiKBcICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAgsQLhiABBjHARivAZgDAIgGAZAGCJIHBDMuMTCgB7xI&sclient=gws-wiz-serp
+      zoom: 1.0
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABZEAAANXAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAABZEAAANX
+  tabs:
+  - active: true
+    history:
+    - last_visited: '2025-01-30T18:18:04'
+      pinned: false
+      title: WhatsApp
+      url: https://web.whatsapp.com/
+    - active: true
+      last_visited: '2025-01-30T18:27:51'
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (2320) Odin + Raylib tutorials - YouTube
+      url: https://www.youtube.com/playlist?list=PLxE7SoPYTef1jYHJ6NxNgocVjQKkq7eEa
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Quickproject - create a Common Lisp project skeleton
+      url: https://www.xach.com/lisp/quickproject/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'OCaml for the Skeptical: OCaml in a Nutshell'
+      url: https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Category Theory Illustrated - Sets
+      url: https://abuseofnotation.github.io/category-theory-illustrated/01_set/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Roguelike tutorial for Common Lisp - Part 0 - Setup - nick forrer
+      url: https://nwforrer.github.io/posts/roguelike-tutorial-part0/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:41'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: "jakubtomsu/awesome-odin: A collection of awesome Odin libraries, bindings,
+        software and resources \U0001F9D9‍♂️✨"
+      url: https://github.com/jakubtomsu/awesome-odin
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:41'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'ollama/ollama: Get up and running with Llama 3.3, Mistral, Gemma 2,
+        and other large language models.'
+      url: https://github.com/ollama/ollama
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 671
+      title: (2320) VoxelRifts - YouTube
+      url: https://www.youtube.com/@voxelrifts/videos
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(2320) Odin + Raylib: Breakout game from start to finish - YouTube'
+      url: https://www.youtube.com/watch?v=vfgZOEvO0kM
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: "(2320) Learn Rust Programming - Complete Course \U0001F980 - YouTube"
+      url: https://www.youtube.com/watch?v=BpPEoZW5IiY
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Learn Rust the Dangerous Way - Cliffle
+      url: https://cliffle.com/p/dangerust/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 9  Build System – Introduction to Zig
+      url: https://pedropark99.github.io/zig-book/Chapters/07-build-system.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 14  Zig interoperability with C – Introduction to Zig
+      url: https://pedropark99.github.io/zig-book/Chapters/14-zig-c-interop.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:40'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 280
+      title: (8) Ziggit - A Zig community
+      url: https://ziggit.dev/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T20:56:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Dynamic string done right - Showcase - Ziggit
+      url: https://ziggit.dev/t/dynamic-string-done-right/7554
+      zoom: 1.0
+  - history:
+    - last_visited: '2025-01-04T12:25:38'
+      pinned: false
+      title: Introduction | zig.guide
+      url: https://zig.guide/async/introduction/
+    - active: true
+      last_visited: '2025-01-04T20:57:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 957
+      title: Suspend / Resume | zig.guide
+      url: https://zig.guide/async/suspend-resume
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 103174
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/0.10.0/#while
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:40'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '`stdout`/`stderr` output from child processes are not fully read · Issue
+        #8969 · ziglang/zig'
+      url: https://github.com/ziglang/zig/issues/8969
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:38'
+      original-url: https://zig.guide/standard-library/iterators
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Iterators | zig.guide
+      url: https://zig.guide/standard-library/iterators/
+      zoom: 1.0
+  - history:
+    - last_visited: '2025-01-04T13:25:15'
+      pinned: false
+      title: std.array_list.ArrayListAligned - Zig Documentation
+      url: https://ziglang.org/documentation/0.13.0/std/#std.array_list.ArrayListAligned
+    - active: true
+      last_visited: '2025-01-04T13:25:24'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: std - Zig Documentation
+      url: https://ziglang.org/documentation/0.13.0/std/#
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: zig filter Iter - Google Zoeken
+      url: https://www.google.nl/search?q=zig%20filter%20Iter
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'My own Iterator type in zig that can do map, filter, reduce in functional
+        programming style. : r/Zig'
+      url: https://www.reddit.com/r/Zig/comments/19cagh1/my_own_iterator_type_in_zig_that_can_do_map/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T12:25:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Iterators | zig.guide
+      url: https://zig.guide/standard-library/iterators/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-04T20:52:15'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Learning interfaces by implementing iterator in zig - Zig NEWS
+      url: https://zig.news/akhildevelops/learning-interfaces-by-implementing-iterator-in-zig-3do1
+      zoom: 1.0
+    - last_visited: '2025-01-04T20:52:12'
+      pinned: false
+      title: The page you were looking for doesn't exist (404)
+      url: https://zig.news/akhildevelops/learning-interfaces-by-implementing-iterator-in-zig-3do2
+  - active: true
+    history:
+    - last_visited: '2025-01-04T23:29:43'
+      pinned: false
+      title: 'pfgithub/pixelcode: pixel code'
+      url: https://github.com/pfgithub/pixelcode
+    - last_visited: '2025-01-04T23:30:01'
+      pinned: false
+      title: GitHub
+      url: https://github.com/
+    - last_visited: '2025-01-04T23:30:26'
+      pinned: false
+      title: 'z4nsh1n/nvim: nvim configuration'
+      url: https://github.com/z4nsh1n/nvim
+    - active: true
+      last_visited: '2025-01-04T23:30:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: WhatsApp
+      url: https://web.whatsapp.com/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - active: true
+    history:
+    - last_visited: '2025-01-30T18:18:25'
+      pinned: false
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+    - last_visited: '2025-01-30T18:18:39'
+      pinned: false
+      title: qutebrowser
+      url: https://www.reddit.com/r/qutebrowser/
+    - active: true
+      last_visited: '2025-01-30T18:19:10'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: luakit browser framework
+      url: https://www.reddit.com/r/luakit/
+      zoom: 1.0
