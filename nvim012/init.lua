@@ -55,6 +55,7 @@ require("config.plugins.autopairs")
 require("config.plugins.fyler")
 require("config.plugins.telescope")
 require("config.plugins.neogit")
+require("config.plugins.obsidian")
 
 vim.cmd.colorscheme("dracula-soft")
 
