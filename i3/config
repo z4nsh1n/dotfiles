@@ -8,6 +8,8 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
 set $mod Mod4
+set $alt Mod1
+
 set $tmux-window tmux tmux || tmux new-window
 #set $tmux tmux attach || tmux
 set $tmux tmux 
@@ -136,7 +138,8 @@ bindsym $mod+a focus parent
 
 # switch to workspace
 bindsym $mod+Tab workspace next 
-bindsym $mod+Shift+Tab workspace prev 
+bindsym $mod+$alt+l workspace next 
+bindsym $mod+$alt+h workspace prev 
 
 bindsym $mod+1 workspace number 1
 bindsym $mod+2 workspace number 2
@@ -162,14 +165,15 @@ bindsym $mod+Shift+9 move container to workspace 9
 bindsym $mod+Shift+0 move container to workspace 10: www
 
 
-bindsym $mod+Mod1+l move to position 50ppt 0ppt; resize set 50ppt 100ppt
-bindsym $mod+Mod1+h move to position 0ppt 0ppt; resize set 50ppt 100ppt
-bindsym $mod+Mod1+j move to position 0ppt 0ppt; resize set 50ppt 50ppt
-bindsym $mod+Mod1+k move to position 50ppt 0ppt; resize set 50ppt 50ppt
-bindsym $mod+Mod1+m move to position 50ppt 50ppt; resize set 50ppt 50ppt
-bindsym $mod+Mod1+n move to position 0ppt 50ppt; resize set 50ppt 50ppt
+# bindsym $mod+Mod1+l move to position 50ppt 0ppt; resize set 50ppt 100ppt
+# bindsym $mod+Mod1+h move to position 0ppt 0ppt; resize set 50ppt 100ppt
+# bindsym $mod+Mod1+j move to position 0ppt 0ppt; resize set 50ppt 50ppt
+# bindsym $mod+Mod1+k move to position 50ppt 0ppt; resize set 50ppt 50ppt
+# bindsym $mod+Mod1+m move to position 50ppt 50ppt; resize set 50ppt 50ppt
+# bindsym $mod+Mod1+n move to position 0ppt 50ppt; resize set 50ppt 50ppt
 #bindsym $mod+Mod1+l move to position 50ppt 0ppt; resize set 50ppt 100ppt
-
+bindsym $mod+Ctrl+l resize grow width 20
+bindsym $mod+Ctrl+h resize shrink width 20
 # reload the configuration file
 bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
@@ -185,10 +189,10 @@ mode "resize" {
         # Pressing right will grow the window’s width.
         # Pressing up will shrink the window’s height.
         # Pressing down will grow the window’s height.
-        bindsym j resize shrink width 10 px or 10 ppt
-        bindsym k resize grow height 10 px or 10 ppt
-        bindsym l resize shrink height 10 px or 10 ppt
-        bindsym semicolon resize grow width 10 px or 10 ppt
+        bindsym h resize shrink width 10 px or 10 ppt
+        bindsym l resize grow width 10 px or 10 ppt
+        bindsym j resize grow height 10 px or 10 ppt
+        bindsym k resize shrink height 10 px or 10 ppt
 
         # same bindings, but for the arrow keys
         bindsym Left resize shrink width 10 px or 10 ppt
