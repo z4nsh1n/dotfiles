@@ -1,0 +1,729 @@
+windows:
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-12-07T14:27:10'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 9  Build System – Introduction to Zig
+      url: https://pedropark99.github.io/zig-book/Chapters/07-build-system.html
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-12-07T14:27:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'renerocksai/gpt4all.zig: ZIG build for a terminal-based chat client
+        for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations
+        based on LLaMa'
+      url: https://github.com/renerocksai/gpt4all.zig?tab=readme-ov-file
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-12-07T14:27:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'nvim-telekasten/telekasten.nvim: A Neovim (lua) plugin for working with
+        a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim'
+      url: https://github.com/nvim-telekasten/telekasten.nvim
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-12-07T14:27:10'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Roguelike Tutorial in Rust + tcod
+      url: https://tomassedovic.github.io/roguelike-tutorial/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T14:27:11'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: SDL2/CategoryAPIFunction - SDL Wiki
+      url: https://wiki.libsdl.org/SDL2/CategoryAPIFunction
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T14:27:45'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '[Day 2] Coding a Classic Roguelike in C - YouTube'
+      url: https://www.youtube.com/watch?v=1cAPaka-qpY&list=PLnjvY7knqLad8seP1ZIMQZ354buAmXMax&index=3
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T14:27:17'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: zig page_allocator - Google Zoeken
+      url: https://www.google.nl/search?q=zig%20page_allocator
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T14:27:11'
+      original-url: https://zig.guide/language-basics/assignment
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Assignment | zig.guide
+      url: https://zig.guide/language-basics/assignment/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T14:27:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zireael07/dark at d37d15a5c19f66c3b5a2cf8f08f1600e4a322666
+      url: https://github.com/Zireael07/dark/tree/d37d15a5c19f66c3b5a2cf8f08f1600e4a322666
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T14:27:28'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'PeteyCodes/DarkCaverns: A basic roguelike built in C'
+      url: https://github.com/PeteyCodes/DarkCaverns
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T14:27:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: DarkCaverns/stb_image.h at master · PeteyCodes/DarkCaverns
+      url: https://github.com/PeteyCodes/DarkCaverns/blob/master/stb_image.h
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-12-07T14:27:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: dark/pt_console.c at master · Zireael07/dark
+      url: https://github.com/Zireael07/dark/blob/master/pt_console.c
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T14:27:30'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Proposal: ''typedef'' for zig · Issue #5132 · ziglang/zig'
+      url: https://github.com/ziglang/zig/issues/5132
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T14:27:11'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Newbie Q: typedefs? : r/Zig'
+      url: https://www.reddit.com/r/Zig/comments/18m9gmp/newbie_q_typedefs/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-12-07T14:27:11'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Seth Klarman: 17 Alphabet transactions (The Baupost Group / GOOG)'
+      url: https://stockcircle.com/portfolio/seth-klarman/goog/transactions
+      zoom: 1.0
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd9AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-12-07T19:49:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Beste Linux laptop - Google Zoeken
+      url: https://www.google.nl/search?sca_esv=377077a16c884af8&sxsrf=ADLYWII-jA4oRLpttXbijyRhy0f4Tb-n6g:1732988722479&q=Beste+Linux+laptop&sa=X&ved=2ahUKEwiIvc-JzoSKAxWP2wIHHUVaAOYQ1QJ6BAhdEAE#oshopproduct=gid:16470088799681451313,mid:576462762138383161,oid:3241293412950324616,iid:5925642898163687223,rds:UENfMTY0NzAwODg3OTk2ODE0NTEzMTN8UFJPRF9QQ18xNjQ3MDA4ODc5OTY4MTQ1MTMxMw%3D%3D,pvt:hg,pvo:3&oshop=apv&pvs=0
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T19:49:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Nest linux laptop in 2024 : r/linux4noobs'
+      url: https://www.reddit.com/r/linux4noobs/comments/1cxk71p/nest_linux_laptop_in_2024/?show=original
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T19:49:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Dell XPS laptopcomputers en 2-in-1 pc’s | Dell Nederland
+      url: https://www.dell.com/nl-nl/shop/dell-laptops/scr/laptops/appref=xps-product-line
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T19:49:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Help me choose a Linux laptop : r/linuxhardware'
+      url: https://www.reddit.com/r/linuxhardware/comments/112b2im/help_me_choose_a_linux_laptop/?show=original
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T19:49:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Linux Hardware - YouTube
+      url: https://www.youtube.com/playlist?list=PLqmbcbI8U55Fq-rkb_N9xxHQ66GfLq5gE
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T19:49:24'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1211
+      title: Linux Laptop Kopen? Laptops met Linux preïnstalled | Laptopmetlinux.nl
+      url: https://laptopmetlinux.nl/linux-laptops/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T22:20:50'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Framework | Fix Consumer Electronics
+      url: https://frame.work/nl/en/products/laptop13-diy-intel-ultra-1/configuration/new
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-12-07T19:49:21'
+      pinned: false
+      title: V54 Serie 14.0 inch coreboot laptop - NovaCustom
+      url: https://novacustom.com/nl/product/v54-serie/
+    - last_visited: '2024-12-07T22:16:39'
+      pinned: false
+      title: Laptop samenstellen - NovaCustom
+      url: https://novacustom.com/nl/cat/laptop-samenstellen/
+    - last_visited: '2024-12-07T22:16:51'
+      pinned: false
+      title: V54 Serie 14.0 inch coreboot laptop - NovaCustom
+      url: https://novacustom.com/nl/product/v54-serie/
+    - last_visited: '2024-12-07T22:24:39'
+      pinned: false
+      title: Laptop samenstellen - NovaCustom
+      url: https://novacustom.com/nl/cat/laptop-samenstellen/
+    - last_visited: '2024-12-07T22:24:41'
+      pinned: false
+      title: NV41 Serie 14 inch coreboot laptop - NovaCustom
+      url: https://novacustom.com/nl/product/nv41-serie/
+    - last_visited: '2024-12-07T22:24:58'
+      pinned: false
+      title: Laptop samenstellen - NovaCustom
+      url: https://novacustom.com/nl/cat/laptop-samenstellen/
+    - active: true
+      last_visited: '2024-12-07T22:25:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: V54 Serie 14.0 inch coreboot laptop - NovaCustom
+      url: https://novacustom.com/nl/product/v54-serie/
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-12-07T19:49:24'
+      pinned: false
+      title: TongFang GM5IX 15.3" Intel High-end Performance | Laptopmetlinux.nl
+      url: https://laptopmetlinux.nl/product/tongfang-gm5ix/?tm_cart_item_key=9495c7191052a7756edd489b888a1df9&cart_item_key=9495c7191052a7756edd489b888a1df9&_wpnonce=90b5dab234
+    - last_visited: '2024-12-07T22:09:11'
+      pinned: false
+      title: Linux Laptop Kopen? Laptops met Linux preïnstalled | Laptopmetlinux.nl
+      url: https://laptopmetlinux.nl/linux-laptops/
+    - active: true
+      last_visited: '2024-12-07T22:09:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 14714
+      title: TongFang GX4 14-inch Ultrabook laptop | Laptopmetlinux.nl
+      url: https://laptopmetlinux.nl/product/tongfang-gx4/
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-12-07T19:49:21'
+      pinned: false
+      title: Notebooks | 10 to 14,15,6 or 17,3 inch - All Notebooks - TUXEDO Computers
+      url: https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/Alle.tuxedo#1271,1298;1271,2078
+    - last_visited: '2024-12-07T22:28:05'
+      pinned: false
+      title: Notebooks | 10 to 14,15,6 or 17,3 inch - All Notebooks - TUXEDO Computers
+      url: https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/Alle.tuxedo#1271,1298;1271,2078;1275,1319
+    - last_visited: '2024-12-07T22:28:33'
+      pinned: false
+      title: Notebooks | 10 to 14,15,6 or 17,3 inch - All Notebooks - TUXEDO Computers
+      url: https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/Alle.tuxedo#
+    - last_visited: '2024-12-07T22:28:35'
+      pinned: false
+      title: Notebooks | 10 to 14,15,6 or 17,3 inch - All Notebooks - TUXEDO Computers
+      url: https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/Alle.tuxedo#1275,1319
+    - active: true
+      last_visited: '2024-12-08T00:05:25'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 11656
+      title: InfinityBook Pro 14 - Gen9 - INTEL - TUXEDO InfinityBook Pro 14 - Gen9
+        - INTEL - TUXEDO Computers
+      url: https://www.tuxedocomputers.com/en/TUXEDO-InfinityBook-Pro-14-Gen9-INTEL.tuxedo#configurator
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-12-07T19:49:22'
+      pinned: false
+      title: 'Linux Laptop Samenstellen: Vind Jouw Perfecte Match met Maatwerk Linux
+        Laptops!'
+      url: https://www.skikk.eu/nl/laptops/linux
+    - last_visited: '2024-12-07T22:04:45'
+      pinned: false
+      title: 'Linux Laptop Samenstellen: Vind Jouw Perfecte Match met Maatwerk Linux
+        Laptops! met 14 inch (35 cm).'
+      url: https://www.skikk.eu/nl/laptops/linux/14-inch
+    - last_visited: '2024-12-07T22:34:48'
+      pinned: false
+      title: SKIKK Vidar 14" Copilot+ Laptop - Ultralicht en zelf samenstellen
+      url: https://www.skikk.eu/nl/laptops/vidar-14-inch-copilot-laptop
+    - last_visited: '2024-12-07T22:43:25'
+      pinned: false
+      title: Zakelijke Laptops Samenstellen - Werk & Bedrijfslaptops op maat
+      url: https://www.skikk.eu/nl/laptops/zakelijk
+    - last_visited: '2024-12-07T22:43:29'
+      pinned: false
+      title: Stel Jouw Droom Laptop Samen | SKIKK - Laptop samenstellen custom & op
+        maat
+      url: https://www.skikk.eu/nl/laptops
+    - last_visited: '2024-12-07T22:43:36'
+      pinned: false
+      title: 14 inch laptop samenstellen
+      url: https://www.skikk.eu/nl/laptops/14-inch
+    - last_visited: '2024-12-07T22:44:11'
+      pinned: false
+      title: SKIKK GREEN 6 - 14" Aluminum laptop met Intel Ultra 7 en Ultra 5
+      url: https://www.skikk.eu/nl/laptops/green
+    - last_visited: '2024-12-07T22:46:10'
+      pinned: false
+      title: Stel Jouw Droom Laptop Samen | SKIKK - Laptop samenstellen custom & op
+        maat
+      url: https://www.skikk.eu/nl/laptops
+    - last_visited: '2024-12-07T23:51:39'
+      pinned: false
+      title: 14 inch laptop samenstellen
+      url: https://www.skikk.eu/nl/laptops/14-inch
+    - last_visited: '2024-12-07T23:52:35'
+      pinned: false
+      title: Vergelijken
+      url: https://www.skikk.eu/products/compare/language:dut
+    - last_visited: '2024-12-07T23:56:49'
+      pinned: false
+      title: SKIKK GREEN 6 - 14" Aluminum laptop met Intel Ultra 7 en Ultra 5
+      url: https://www.skikk.eu/nl/laptops/green
+    - last_visited: '2024-12-08T00:06:40'
+      original-url: https://www.skikk.eu/nl/quick_add/green/1
+      pinned: false
+      title: Je SKIKK Winkelwagen bekijken
+      url: https://www.skikk.eu/nl/winkelwagen
+    - last_visited: '2024-12-08T00:06:52'
+      pinned: false
+      title: Bestelling afronden
+      url: https://www.skikk.eu/nl/betaal-registreren
+    - active: true
+      last_visited: '2024-12-08T01:33:01'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: SKIKK GREEN 6 - 14" Aluminum laptop met Intel Ultra 7 en Ultra 5
+      url: https://www.skikk.eu/nl/laptops/green
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T23:02:11'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 195
+      title: Intel Ultra 7 155H vs Ultra 7 258V [cpubenchmark.net] by PassMark Software
+      url: https://www.cpubenchmark.net/compare/5677vs6281/Intel-Ultra-7-155H-vs-Intel-Ultra-7-258V
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-07T23:41:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2678
+      title: Intel Ultra 7 155H vs Ultra 7 258V [cpubenchmark.net] by PassMark Software
+      url: https://www.cpubenchmark.net/compare/5677vs6281/Intel-Ultra-7-155H-vs-Intel-Ultra-7-258V#:~:text=The%20Intel%20Core%20Ultra%207,faster%20in%20single-thread%20testing.
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-12-08T00:26:20'
+      pinned: false
+      title: top 10 laptop cpus - Google Zoeken
+      url: https://www.google.nl/search?q=top%2010%20laptop%20cpus
+    - active: true
+      last_visited: '2024-12-08T00:26:33'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 456
+      title: PassMark CPU Benchmarks - New Laptop CPUs Performance
+      url: https://www.cpubenchmark.net/laptop.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-08T00:35:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3590
+      title: Intel Core i9-13980HX Benchmark
+      url: https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i9-13980HX&id=5201
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-08T00:26:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '2024 Laptop CPU Ranking: The Top 30 Processors | Blackview Blog'
+      url: https://www.blackview.hk/blog/computers/laptop-cpu-ranking
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-12-08T00:30:07'
+      pinned: false
+      title: 'UserBenchmark: Intel Core Ultra 7 155H vs 265K'
+      url: https://cpu.userbenchmark.com/Compare/Intel-Core-Ultra-7-155H-vs-Intel-Core-Ultra-7-265K/m2193961vs4175
+    - last_visited: '2024-12-08T00:31:54'
+      original-url: https://cpu.userbenchmark.com/Compare/PeRmReDiRCompPage/m2193961vsm2064608
+      pinned: false
+      title: 'UserBenchmark: AMD Ryzen 9 7945HX vs Intel Core Ultra 7 155H'
+      url: https://cpu.userbenchmark.com/Compare/Intel-Core-Ultra-7-155H-vs-AMD-Ryzen-9-7945HX/m2193961vsm2064608
+    - last_visited: '2024-12-08T00:33:21'
+      original-url: https://cpu.userbenchmark.com/Compare/PeRmReDiRCompPage/m2193961vsm2069169
+      pinned: false
+      title: 'UserBenchmark: AMD Ryzen 9 7940HS vs Intel Core Ultra 7 155H'
+      url: https://cpu.userbenchmark.com/Compare/Intel-Core-Ultra-7-155H-vs-AMD-Ryzen-9-7940HS/m2193961vsm2069169
+    - last_visited: '2024-12-08T01:59:34'
+      original-url: https://cpu.userbenchmark.com/Compare/PeRmReDiRCompPage/m2193961vsm2226672
+      pinned: false
+      title: 'UserBenchmark: Intel Core Ultra 5 125H vs 7 155H'
+      url: https://cpu.userbenchmark.com/Compare/Intel-Core-Ultra-7-155H-vs-Intel-Core-Ultra-5-125H/m2193961vsm2226672
+    - last_visited: '2024-12-08T02:00:26'
+      pinned: false
+      title: 'UserBenchmark: Intel Core Ultra 7 155H vs'
+      url: https://cpu.userbenchmark.com/Compare/Intel-Core-Ultra-7-155H-vs-Intel-Core-Ultra-7-155H/m2193961vsm2193961
+    - active: true
+      last_visited: '2024-12-08T02:00:30'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'UserBenchmark: Intel Core Ultra 5 125H vs 7 155H'
+      url: https://cpu.userbenchmark.com/Compare/Intel-Core-Ultra-7-155H-vs-Intel-Core-Ultra-5-125H/m2193961vsm2226672
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-08T00:37:58'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: thinkpad z13 gen 2 - Google Zoeken
+      url: https://www.google.nl/search?q=thinkpad%20z13%20gen%202
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-08T00:38:33'
+      original-url: https://www.lenovo.com/nl/nl/p/laptops/thinkpad/thinkpadz/thinkpad-z13-gen-2-(13-inch-amd)/len101t0073?srsltid=AfmBOoo_sn_uqR1CTR2a26A8YfB2C0pM05zZ5cNUKxVPOpiQONe7yzCB
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: ThinkPad Z13 Gen 2 | Duurzame, zakelijke 13"-laptop met AMD Ryzen PRO
+        | Lenovo Nederland
+      url: https://www.lenovo.com/nl/nl/p/laptops/thinkpad/thinkpadz/thinkpad-z13-gen-2-13-inch-amd/len101t0073?srsltid=AfmBOoo_sn_uqR1CTR2a26A8YfB2C0pM05zZ5cNUKxVPOpiQONe7yzCB
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-08T00:38:57'
+      original-url: https://www.lenovo.com/nl/nl/p/LEN101T0106
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1553
+      title: ThinkPad P14s Gen 5 (14″ Intel) | 14″ mobiel werkstation met AI-ondersteuning
+        | Lenovo Nederland
+      url: https://www.lenovo.com/nl/nl/p/laptops/thinkpad/thinkpadp/thinkpad-p14s-gen-5-14-inch-intel-mobile-workstation/len101t0106
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-12-08T00:45:07'
+      pinned: false
+      title: arch linux thinkpad p14 - Google Zoeken
+      url: https://www.google.nl/search?q=arch%20linux%20thinkpad%20p14
+    - last_visited: '2024-12-08T00:45:16'
+      pinned: false
+      title: arch linux thinkpad p14 gen 5 - Google Zoeken
+      url: https://www.google.nl/search?q=arch+linux+thinkpad+p14+gen+5&sca_esv=66befe2e3ef6795c&sxsrf=ADLYWIIcpdD_N_o8QsQhon6_X6jx7lbnmw%3A1733615228943&ei=fN5UZ8iiOdrli-gPksjVwQU&ved=0ahUKEwjI0Jf_65aKAxXa8gIHHRJkNVgQ4dUDCA8&uact=5&oq=arch+linux+thinkpad+p14+gen+5&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWFyY2ggbGludXggdGhpbmtwYWQgcDE0IGdlbiA1MggQABiABBiiBDIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wVI_itQ2ARY0xxwAXgBkAEAmAFboAGIA6oBATa4AQPIAQD4AQGYAgegAq0DwgIKEAAYsAMY1gQYR8ICBRAhGKABwgIHECEYoAEYCsICBBAhGBWYAwCIBgGQBgiSBwE3oAfTFw&sclient=gws-wiz-serp
+    - active: true
+      last_visited: '2024-12-08T00:56:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Lenovo ThinkPad P14s (AMD) Gen 5 - ArchWiki
+      url: https://wiki.archlinux.org/title/Lenovo_ThinkPad_P14s_(AMD)_Gen_5
+      zoom: 1.0
+    - last_visited: '2024-12-08T00:47:05'
+      pinned: false
+      title: TLP - ArchWiki
+      url: https://wiki.archlinux.org/title/TLP
+  - history:
+    - last_visited: '2024-12-08T00:57:53'
+      pinned: false
+      title: (1522) lenovo thinkpad p14 gen 5 linux - YouTube
+      url: https://www.youtube.com/results?search_query=lenovo+thinkpad+p14+gen+5+linux
+    - last_visited: '2024-12-08T00:57:53'
+      pinned: false
+      title: (1522) lenovo thinkpad p14 linux ubunti - YouTube
+      url: https://www.youtube.com/results?search_query=lenovo+thinkpad+p14+linux+ubunti
+    - last_visited: '2024-12-08T00:57:57'
+      pinned: false
+      title: (1522) lenovo thinkpad p14 linux ubuntu - YouTube
+      url: https://www.youtube.com/results?search_query=lenovo+thinkpad+p14+linux+ubuntu
+    - last_visited: '2024-12-08T00:58:52'
+      pinned: false
+      title: (1522) lenovo thinkpad p14 linux ubuntu - YouTube
+      url: https://www.youtube.com/results?search_query=lenovo+thinkpad+p14+linux+ubuntu&sp=EgIIBA%253D%253D
+    - last_visited: '2024-12-08T00:59:01'
+      pinned: false
+      title: (1522) lenovo thinkpad p14 linux ubuntu - YouTube
+      url: https://www.youtube.com/results?search_query=lenovo+thinkpad+p14+linux+ubuntu&sp=EgQIBRAB
+    - active: true
+      last_visited: '2024-12-08T01:00:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3181
+      title: (1522) lenovo thinkpad linux ubuntu - YouTube
+      url: https://www.youtube.com/results?search_query=lenovo+thinkpad+linux+ubuntu
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-12-08T00:57:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (1522) Installing Ubuntu on a Lenovo Thinkpad T14 Gen 5 - YouTube
+      url: https://www.youtube.com/watch?v=GT2xgYYEotc
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-12-08T01:04:15'
+      pinned: false
+      title: lenovo.com/linux - Google Zoeken
+      url: https://www.google.nl/search?q=lenovo.com/linux
+    - active: true
+      last_visited: '2024-12-08T01:04:40'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3695
+      title: Linux for Personal Systems - Lenovo Support US
+      url: https://support.lenovo.com/us/en/solutions/pd031426
+      zoom: 1.0
+    - last_visited: '2024-12-08T01:04:31'
+      pinned: false
+      title: Linux voor persoonlijke systemen - Lenovo Support NL
+      url: https://support.lenovo.com/nl/nl/solutions/pd031426
+  - history:
+    - last_visited: '2024-12-08T01:57:28'
+      pinned: false
+      title: Lenovo ThinkPad P14s Gen 5 certified with Ubuntu | Ubuntu
+      url: https://ubuntu.com/certified/202406-34086
+    - active: true
+      last_visited: '2024-12-08T01:57:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 153
+      title: Lenovo certified with Ubuntu | Ubuntu
+      url: https://ubuntu.com/certified/202406-34086/22.04%20LTS
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-12-08T01:22:30'
+      pinned: false
+      title: Lenovo ThinkPad X1 Carbon G12 Core Ultra 7 32GB 1000GB 14" (21KC004TMH)
+        | Dustin.nl
+      url: https://www.dustin.nl/product/5020012640/thinkpad-x1-carbon-g12
+    - last_visited: '2024-12-08T01:23:58'
+      pinned: false
+      title: Lenovo ThinkPad X1 Carbon G12 Core Ultra 7 16GB 512GB 14" (21KC0051MH)
+        | Dustin.nl
+      url: https://www.dustin.nl/product/5020012639/thinkpad-x1-carbon-g12
+    - last_visited: '2024-12-08T01:25:56'
+      pinned: false
+      title: Lenovo ThinkPad X1 Carbon G12 Core Ultra 7 32GB 1000GB 14" (21KC004TMH)
+        | Dustin.nl
+      url: https://www.dustin.nl/product/5020012640/thinkpad-x1-carbon-g12
+    - active: true
+      last_visited: '2024-12-08T01:26:39'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 89
+      title: Lenovo ThinkPad X1 Carbon G12 Core Ultra 7 32GB 1000GB 14" (21KC004TMH)
+        | Dustin.nl
+      url: https://www.dustin.nl/product/5020012640/thinkpad-x1-carbon-g12?tab=specification
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-12-08T01:27:25'
+      pinned: false
+      title: Lenovo ThinkPad T14 G5 Core Ultra 7 32GB 1000GB 14" (21ML003QMH) | Dustin.nl
+      url: https://www.dustin.nl/product/5020012627/thinkpad-t14-g5
+    - last_visited: '2024-12-08T01:27:32'
+      pinned: false
+      title: Lenovo ThinkPad T14 G5 Core Ultra 7 32GB 1000GB 14" (21ML003QMH) | Dustin.nl
+      url: https://www.dustin.nl/product/5020012627/thinkpad-t14-g5?tab=specification
+    - last_visited: '2024-12-08T01:35:05'
+      pinned: false
+      title: Home-elektronica - Koop goede en goedkope elektronica online | Dustinhome.nl
+      url: https://www.dustinhome.nl/?ssel=false
+    - last_visited: '2024-12-08T01:35:24'
+      pinned: false
+      title: Computer & tablets | Dustinhome.nl
+      url: https://www.dustinhome.nl/group/hardware/computer-tablets
+    - active: true
+      last_visited: '2024-12-08T01:36:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 705
+      title: Laptop kopen? Bestel online | Dustinhome.nl
+      url: https://www.dustinhome.nl/group/hardware/computer-tablets/laptops?internalmemory=32&manufacturer=lenovo
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-12-08T01:38:26'
+      pinned: false
+      title: Lenovo ThinkPad P14s G5 Core Ultra 7 32GB 512GB RTX 500 Ada 14.5" (21G20005MH)
+        | Dustinhome.nl
+      url: https://www.dustinhome.nl/product/5020012974/thinkpad-p14s-g5
+    - active: true
+      last_visited: '2024-12-08T01:55:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1365
+      title: Lenovo ThinkPad P14s G5 Core Ultra 7 32GB 512GB RTX 500 Ada 14.5" (21G20005MH)
+        | Dustinhome.nl
+      url: https://www.dustinhome.nl/product/5020012974/thinkpad-p14s-g5?tab=specification
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-12-08T02:02:00'
+      pinned: false
+      title: Intel Core Ultra 5 135H Benchmark
+      url: https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+Ultra+5+135H&id=5817
+    - active: true
+      last_visited: '2024-12-08T02:11:47'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1867
+      title: PassMark CPU Benchmarks - New Laptop CPUs Performance
+      url: https://www.cpubenchmark.net/laptop.html
+      zoom: 1.0
+    - last_visited: '2024-12-08T02:11:46'
+      pinned: false
+      title: Intel Core i7-13850HX Benchmark
+      url: https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-13850HX&id=5288
+    - last_visited: '2024-12-08T02:11:36'
+      pinned: false
+      title: PassMark - CPU Comparison
+      url: https://www.cpubenchmark.net/singleCompare.php
+  - active: true
+    history:
+    - last_visited: '2024-12-08T02:02:06'
+      pinned: false
+      title: Intel Ultra 5 135H vs Ultra 5 125H [cpubenchmark.net] by PassMark Software
+      url: https://www.cpubenchmark.net/compare/5817vs5777/Intel-Core-Ultra-5-135H-vs-Intel-Core-Ultra-5-125H
+    - last_visited: '2024-12-08T02:04:48'
+      pinned: false
+      title: PassMark - CPU Comparison
+      url: https://www.cpubenchmark.net/singleCompare.php?remove=5777
+    - last_visited: '2024-12-08T02:05:28'
+      pinned: false
+      title: Intel Ultra 5 135H vs Ultra 7 155U [cpubenchmark.net] by PassMark Software
+      url: https://www.cpubenchmark.net/compare/5817vs5965/Intel-Ultra-5-135H-vs-Intel-Ultra-7-155U
+    - last_visited: '2024-12-08T02:07:03'
+      pinned: false
+      title: PassMark - CPU Comparison
+      url: https://www.cpubenchmark.net/singleCompare.php
+    - active: true
+      last_visited: '2024-12-08T02:07:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 616
+      title: Intel Ultra 5 135H vs Ultra 7 155U vs Ultra 7 155H [cpubenchmark.net]
+        by PassMark Software
+      url: https://www.cpubenchmark.net/compare/5817vs5965vs5677/Intel-Ultra-5-135H-vs-Intel-Ultra-7-155U-vs-Intel-Ultra-7-155H
+      zoom: 1.0

@@ -1,0 +1,68 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - last_visited: '2024-11-20T21:22:39'
+      pinned: false
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+    - active: true
+      last_visited: '2024-11-20T21:23:28'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Sherlodoc
+      url: https://doc.sherlocode.com/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-11-20T21:23:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Real World OCaml
+      url: https://dev.realworldocaml.org/toc.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-11-20T21:24:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: OCaml library
+      url: https://ocaml.org/manual/5.2/api/index.html
+      zoom: 1.0
+    - last_visited: '2024-11-20T21:24:44'
+      pinned: false
+      title: 'OCaml library : String'
+      url: https://ocaml.org/manual/5.2/api/String.html
+  - active: true
+    history:
+    - last_visited: '2024-11-20T21:25:05'
+      pinned: false
+      title: Page Not Found
+      url: https://ocaml.org/problems
+    - last_visited: '2024-11-20T21:25:08'
+      pinned: false
+      title: Learn OCaml
+      url: https://ocaml.org/docs
+    - last_visited: '2024-11-20T21:25:15'
+      original-url: https://ocaml.org/docs/get-started
+      pinned: false
+      title: Installing OCaml · OCaml Documentation
+      url: https://ocaml.org/docs/installing-ocaml
+    - active: true
+      last_visited: '2024-11-20T21:25:34'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Values and Functions · OCaml Documentation
+      url: https://ocaml.org/docs/values-and-functions
+      zoom: 1.0

@@ -1,89 +1,489 @@
 windows:
-- active: true
-  geometry: !!binary |
-    AdnQywADAAAAAAAAAAAAAAAAB3sAAAP8AAAAAAAAAAAAAAd7AAAD/AAAAAAAAAAAB4AAAAAAAAAA
-    AAAAB3sAAAP8
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABPEAAAL4AAAAAAAAAAAAAAT/AAADHwAAAAACAAAABQAAAAAAAAAA
+    AAAABPEAAAL4
   tabs:
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:16:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(647) Making a game in C from scratch! Ep 01: [Platform Layer and Software
+        Rendering Programming] - YouTube'
+      url: https://www.youtube.com/watch?v=cTwh9oHcs1w&list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH&index=32
+      zoom: 1.0
   - active: true
     history:
     - active: true
-      last_visited: '2023-10-24T20:26:40'
+      last_visited: '2025-12-27T14:15:53'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: '(1970) Emacs From Scratch #8 - Build Your Own IDE with lsp-mode - YouTube'
-      url: https://www.youtube.com/watch?v=E-NAM9U5JYE&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ&index=11
+      title: (647) Vulkan Game Engine Series Written in C (Kohi Game Engine) - YouTube
+      url: https://www.youtube.com/playlist?list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj
       zoom: 1.0
   - history:
     - active: true
-      last_visited: '2023-10-24T20:27:17'
+      last_visited: '2025-12-27T14:16:19'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: (1970) Emacs From Scratch, An Emacs Tutorial for Beginners - 03 Lisp
-        basics - YouTube
-      url: https://www.youtube.com/watch?v=HqGds-YUJbQ&list=PLlONLmJCfHToFfk1WgTOwZMfIr062jIN9&index=6
+      title: Commits · travisvroman/kohi
+      url: https://github.com/travisvroman/kohi/commits/main/?after=f8cff96079e629207fc29c01204ccfc7ebc226ce+489
       zoom: 1.0
   - history:
     - active: true
-      last_visited: '2023-10-24T20:26:08'
+      last_visited: '2025-12-27T14:16:17'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: Installation - LSP Mode - LSP support for Emacs
-      url: https://emacs-lsp.github.io/lsp-mode/page/installation/
+      title: json-c/ds.h at master · alexjercan/json-c
+      url: https://github.com/alexjercan/json-c/blob/master/ds.h
       zoom: 1.0
   - history:
     - active: true
-      last_visited: '2023-10-24T20:26:08'
+      last_visited: '2025-12-27T14:15:54'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: Zig - LSP Mode - LSP support for Emacs
-      url: https://emacs-lsp.github.io/lsp-mode/page/lsp-zig/
+      title: Write Your Own JSON Parser with Node and Typescript | Oğuzhan Olguncu
+      url: https://ogzhanolguncu.com/blog/write-your-own-json-parser/
       zoom: 1.0
   - history:
     - active: true
-      last_visited: '2023-10-24T20:26:29'
+      last_visited: '2025-12-27T14:15:56'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: 'jwiegley/use-package: A use-package declaration for simplifying your
-        .emacs'
-      url: https://github.com/jwiegley/use-package
+      title: 'Tutorial: Implementing JSON parsing (Rust) | David''s Software'
+      url: https://blog.davimiku.com/tutorials/json-parsing-rust-1
       zoom: 1.0
   - history:
     - active: true
-      last_visited: '2023-10-24T20:26:08'
+      last_visited: '2025-12-27T14:15:56'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: My Emacs Packages - Mastering Emacs
-      url: https://www.masteringemacs.org/my-emacs-packages
+      title: 'Tutorial: Writing a JSON Parser (Rust) - Part 2/2 | David''s Software'
+      url: https://blog.davimiku.com/tutorials/json-parsing-rust-2
       zoom: 1.0
   - history:
     - active: true
-      last_visited: '2023-10-24T20:26:08'
-      pinned: false
-      scroll-pos:
-        x: 0
-        y: 40
-      title: Archive | Emacs Redux
-      url: https://emacsredux.com/archive/
-      zoom: 1.0
-  - history:
-    - active: true
-      last_visited: '2023-10-24T20:26:08'
+      last_visited: '2025-12-27T14:15:53'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: Learn Emacs Lisp in 15 minutes - Bastien Guerry
-      url: https://bzg.fr/en/learn-emacs-lisp-in-15-minutes/
+      title: '(647) How to improve your writing: A guide for PhD students and academics
+        - YouTube'
+      url: https://www.youtube.com/watch?v=StUQbTiYmB8
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAjQAAAF4AAAAAAAAAAAAAAI0AAAAeAAAAAACAAAABQAAAAAAAAAA
+    AAAAAjQAAAF4
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:52'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/0.15.2/#Zig-Standard-Library
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: std - Zig Documentation
+      url: https://ziglang.org/documentation/0.15.2/std/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-12-27T14:15:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Applicative Validation - PureScript by Example
+      url: https://book.purescript.org/chapter7.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Pursuit
+      url: https://pursuit.purescript.org/search?q=open
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAArQAAAL4AAAAAAAAAAAAAAI0AAAAeAAAAAACAAAABQAAAAAAAAAA
+    AAAAArQAAAL4
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:16:17'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: tsoding repositories
+      url: https://github.com/orgs/tsoding/repositories?type=all&q=sort%3Aupdated-asc&page=8
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:16:16'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: pewpew3d/main.c at master · tsoding/pewpew3d
+      url: https://github.com/tsoding/pewpew3d/blob/master/main.c
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:44:14'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'tsoding/mmap: Code examples from the mmap lecture'
+      url: https://github.com/tsoding/mmap
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-12-27T14:15:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (647) Why Linux Has This Syscall?! - YouTube
+      url: https://www.youtube.com/watch?v=sFYFuBzu9Ow
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:16:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'tsoding/parcoom: Parser Combinators of Monad'
+      url: https://github.com/tsoding/parcoom
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:16:14'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'tsoding/quaternions: Just a test bench to learn Quaternions'
+      url: https://github.com/tsoding/quaternions
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Tsoding - YouTube
+      url: https://www.youtube.com/@Tsoding/videos
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (647) Checking out Raylib — Part 2 — 3D Game Development - YouTube
+      url: https://www.youtube.com/watch?v=QqravLVpoI8
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAjQAAAF3AAAAAAAAAAAAAAI0AAAAeQAAAAACAAAABQAAAAAAAAAA
+    AAAAAjQAAAF3
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:16:15'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'sger/RustBooks: List of Rust books'
+      url: https://github.com/sger/RustBooks
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Top Rust Books recommended by experts (2025 Edition) - MentorCruise
+      url: https://mentorcruise.com/books/rust/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:55'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Experiment Introduction - The Rust Programming Language
+      url: https://rust-book.cs.brown.edu/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:52'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Variable Bindings - Rust By Example
+      url: https://doc.rust-lang.org/rust-by-example/variable_bindings.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Top 5 Books to Learn Rust | RustJobs.dev
+      url: https://rustjobs.dev/blog/top-5-books-to-learn-rust/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: The best Rust books for 2025, reviewed — Bitfield Consulting
+      url: https://bitfieldconsulting.com/posts/best-rust-books
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'What are your must read books for rust ? : r/rust'
+      url: https://www.reddit.com/r/rust/comments/12muwm8/what_are_your_must_read_books_for_rust/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Rust In Practice: A Programmers Guide to Build Rust Programs, Test Applications
+        and Create Cargo Packages, Second Edition | Rick Tim, Ralph J, B Anderson
+        | download on Z-Library'
+      url: https://z-library.sk/book/28462308/57cdd1/rust-in-practice-a-programmers-guide-to-build-rust-programs-test-applications-and-create-cargo-pac.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'The Secrets of Rust: Tools | John Arundel | download on Z-Library'
+      url: https://z-library.sk/book/116145368/d83604/the-secrets-of-rust-tools.html
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-12-27T14:15:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Crate List - Blessed.rs
+      url: https://blessed.rs/crates
+      zoom: 1.0
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABPEAAAL4AAAAAAAAAAAAAATxAAAC+AAAAAACAAAABQAAAAAAAAAA
+    AAAABPEAAAL4
+  tabs:
+  - history:
+    - last_visited: '2025-12-27T19:24:17'
+      pinned: false
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+    - active: true
+      last_visited: '2025-12-27T19:27:35'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2090
+      title: Roguelike Tutorial in Rust + tcod
+      url: https://tomassedovic.github.io/roguelike-tutorial/
+      zoom: 1.0
+    - last_visited: '2025-12-27T19:26:26'
+      pinned: false
+      title: Field-of-view and exploration
+      url: https://tomassedovic.github.io/roguelike-tutorial/part-4-fov-exploration.html
+  - history:
+    - last_visited: '2025-12-27T22:18:01'
+      pinned: false
+      title: roguelike tutorial - Google Zoeken
+      url: https://www.google.nl/search?q=roguelike%20tutorial
+    - last_visited: '2025-12-27T22:18:48'
+      pinned: false
+      title: roguelike tutorial - Google Zoeken
+      url: https://www.google.nl/search?q=roguelike+tutorial&sca_esv=bcd32b3de9d160f4&sxsrf=AE3TifOvduAaSpmnx1qr6YkSALpnmhlFKA:1766870323714&ei=M01QaZSvK-6wi-gPoaHYmAE&start=10&sa=N&sstk=Af77f_dLPdVODPXCT4PCMqD4PYdNhLCwccWUbcBEqIoa0JQOnFBO49KELmuiNvcWZwsRyAoZ943WwsryOJVN8KVWrEOJOAlrubL6Kg&ved=2ahUKEwjUlInw2N6RAxVu2AIHHaEQFhMQ8tMDegQIJBAE&biw=1266&bih=708&dpr=1.5
+    - last_visited: '2025-12-27T22:19:24'
+      pinned: false
+      title: roguelike tutorial - Google Zoeken
+      url: https://www.google.nl/search?q=roguelike+tutorial&sca_esv=bcd32b3de9d160f4&sxsrf=AE3TifOfvVH7rLHJPXBt-Nb9LEomhFWOGw:1766870370605&ei=Yk1Qacq6JLuBi-gP69GDoAY&start=20&sa=N&sstk=Af77f_epV5noIf24kUelFZQfpYRzxGjo8V3u3FbCav2VY3LD3A_KR2bsxlkGxFObnyfW5gVkiHjSvip62_v4bynv1tIfMeFTNwjo2pdP6ppFOhOGnsLNv_PnCvzymDH1DkmR&ved=2ahUKEwjK87aG2d6RAxW7wAIHHevoAGQ4ChDy0wN6BAgLEAc&biw=1266&bih=708&dpr=1.5
+    - active: true
+      last_visited: '2025-12-27T22:20:50'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: roguelike tutorial c programming - Google Zoeken
+      url: https://www.google.nl/search?q=roguelike+tutorial+c+programming&sca_esv=bcd32b3de9d160f4&biw=1266&bih=708&sxsrf=AE3TifPsbPnWhgLVp10JcUodpzLHL0Jf2Q%3A1766870406889&ei=hk1QaYSENqW1i-gPtKeHiAc&ved=0ahUKEwiE392X2d6RAxWl2gIHHbTTAXE4FBDh1QMIEA&uact=5&oq=roguelike+tutorial+c+programming&gs_lp=Egxnd3Mtd2l6LXNlcnAiIHJvZ3VlbGlrZSB0dXRvcmlhbCBjIHByb2dyYW1taW5nMgUQIRigATIFECEYnwVIwiVQqARY4CNwA3gBkAEAmAFfoAHFCaoBAjE2uAEDyAEA-AEBmAIToAL7CsICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIIEAAYgAQYywHCAgYQABgWGB7CAggQABgWGAoYHsICCBAAGIAEGKIEwgIFEAAY7wXCAgcQIRigARgKwgIEECEYFZgDAIgGAZAGCZIHBDE3LjKgB-xFsgcEMTQuMrgH2grCBwgwLjEuMTUuM8gHc4AIAA&sclient=gws-wiz-serp
+      zoom: 1.0
+  - history:
+    - last_visited: '2025-12-27T22:26:30'
+      pinned: false
+      title: '(644) Making a Roguelike #1 - Overview - Pico-8 Hero - YouTube'
+      url: https://www.youtube.com/watch?v=HnY7Inp74dw
+    - last_visited: '2025-12-27T22:26:30'
+      pinned: false
+      title: (644) Lazy Devs - YouTube
+      url: https://www.youtube.com/@LazyDevs
+    - last_visited: '2025-12-27T22:26:33'
+      pinned: false
+      title: (644) Lazy Devs - YouTube
+      url: https://www.youtube.com/@LazyDevs/playlists
+    - last_visited: '2025-12-27T22:26:42'
+      pinned: false
+      title: (644) Pico-8 Tutorial - Roguelike - YouTube
+      url: https://www.youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS
+    - active: true
+      last_visited: '2025-12-27T22:26:47'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 291
+      title: '(647) Making a Roguelike #2 - Basic Movement - Pico-8 Hero - YouTube'
+      url: https://www.youtube.com/watch?v=SoFOva5FUnI&list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS&index=2
+      zoom: 1.0
+  - history:
+    - last_visited: '2025-12-27T22:20:54'
+      pinned: false
+      title: 'The C Roguelike Tutorial - Part 0: The Setup - DEV Community'
+      url: https://dev.to/ignaoya/the-c-roguelike-tutorial-part-0-the-setup-1pfo
+    - last_visited: '2025-12-27T22:50:29'
+      pinned: false
+      title: 'The C Roguelike Tutorial - Part 1: The Player - DEV Community'
+      url: https://dev.to/ignaoya/the-c-roguelike-tutorial-part-1-the-player-3291
+    - active: true
+      last_visited: '2025-12-27T23:27:19'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 6022
+      title: 'The C Roguelike Tutorial - Part 2: The Map - DEV Community'
+      url: https://dev.to/ignaoya/the-c-roguelike-tutorial-part-2-the-map-2hg
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T22:47:40'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (647) Coding a Rogue/Nethack RPG in C - Part 1 - YouTube
+      url: https://www.youtube.com/watch?v=ipQPEoGztAM&list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-28T00:26:49'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 520
+      title: free pico-8 - Google Zoeken
+      url: https://www.google.nl/search?q=free%20pico-8
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-28T00:27:40'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 514
+      title: drerx/PICO-8_free
+      url: https://github.com/drerx/PICO-8_free
+      zoom: 1.0
+    - last_visited: '2025-12-28T00:27:25'
+      pinned: false
+      title: PICO-8_free/Linux at main · drerx/PICO-8_free
+      url: https://github.com/drerx/PICO-8_free/tree/main/Linux
+  - history:
+    - active: true
+      last_visited: '2025-12-28T00:26:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Can anyone give a PICO-8 0.2.7 for free? : r/pico8'
+      url: https://www.reddit.com/r/pico8/comments/1o1hlxw/can_anyone_give_a_pico8_027_for_free/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-12-28T01:15:20'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: PICO-8 Education Edition
+      url: https://www.pico-8-edu.com/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-28T00:54:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3296
+      title: PICO-8 Manual
+      url: https://www.lexaloffle.com/dl/docs/pico-8_manual.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-28T00:54:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 4026
+      title: 'PICO-8 GameDev #1: Getting Started [Tutorial] - Developers - clockworkpi'
+      url: https://forum.clockworkpi.com/t/pico-8-gamedev-1-getting-started-tutorial/2347
       zoom: 1.0

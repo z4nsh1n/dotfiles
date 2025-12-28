@@ -1,0 +1,96 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3UAAAQPAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3UAAAQP
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-08-05T11:33:09'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: sigma kleuren - Google Zoeken
+      url: https://www.google.nl/search?q=sigma%20kleuren
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-08-05T11:32:56'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 1817 verfkleur van de Sigma 224 kleuren
+      url: https://www.kleurenwaaier.net/w_sigma-224/1817
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-08-05T11:33:00'
+      pinned: false
+      title: '"sigma 224" naar ral kleur - Google Zoeken'
+      url: https://www.google.nl/search?q=%22sigma+224%22+naar+ral+kleur&sca_esv=40a5306b60f26a7a&sca_upv=1&sxsrf=ADLYWIJQj2ki27ssgCxaVF8zurC010d9Aw:1722850235469&ei=u5uwZt2mHOmti-gPkJm26AI&start=10&sa=N&sstk=AagrsuhYpFPmGC0cTN3umzI2XE_jqBRs-2ar2EcJ1SzIxBs7IHUIkjmYflDc_uXPhuk9ZQniGGqh2_H0Bc63fbHAHpy0wmAvXvkhEQ&ved=2ahUKEwid8KSixd2HAxXp1gIHHZCMDS0Q8NMDegQIGhAW&biw=1910&bih=986&dpr=1
+    - active: true
+      last_visited: '2024-08-05T11:57:43'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 81
+      title: '"sigma 1817" 1 liter - Google Zoeken'
+      url: https://www.google.nl/search?q=%22sigma+1817%22+1+liter&sca_esv=40a5306b60f26a7a&sca_upv=1&biw=1910&bih=986&sxsrf=ADLYWIKW4AV5fS06Ht0mR8QppOKE_JOPkg%3A1722850657526&ei=YZ2wZtXkH7zXi-gP45CM2As&ved=0ahUKEwiVmcXrxt2HAxW86wIHHWMIA7s4ChDh1QMIEA&uact=5&oq=%22sigma+1817%22+1+liter&gs_lp=Egxnd3Mtd2l6LXNlcnAiFCJzaWdtYSAxODE3IiAxIGxpdGVyMgUQIRigATIFECEYoAEyBRAhGKABSIPGFFDvAVjTXHACeAGQAQCYAXCgAaITqgEEMjkuM7gBA8gBAPgBAZgCFKAC5QzCAgoQABiwAxjWBBhHwgIEECMYJ8ICCBAAGIAEGKIEwgIFEAAYgATCAggQABiABBjLAcICChAjGIAEGCcYigXCAggQABiABBixA8ICCxAuGIAEGMcBGK8BwgIOEC4YgAQYsQMY0QMYxwHCAgYQABgWGB7CAggQABgWGB4YD8ICBxAhGKABGAqYAwCIBgGQBgKSBwQxNy4zoAfsigE&sclient=gws-wiz-serp
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-05T11:57:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 403
+      title: 'Sigma S2U Gloss: Hoogglans Lakverf V.a. €41.75 | Verfwinkel.nl'
+      url: https://www.verfwinkel.nl/sigma-s2u-gloss.html?channable=02c96b6964003230373933393939c6&select=VW-SG1035.1K
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-08-05T11:33:50'
+      pinned: false
+      title: kleurenwaaier | Verfwinkel.nl
+      url: https://www.verfwinkel.nl/kleurenwaaier.html
+    - last_visited: '2024-08-05T11:35:11'
+      pinned: false
+      title: kleurenwaaier | Verfwinkel.nl
+      url: https://www.verfwinkel.nl/kleurenwaaier.html?color_range_id=337
+    - last_visited: '2024-08-05T11:35:40'
+      original-url: https://www.verfwinkel.nl/kleurenwaaier/1817-96647.html/
+      pinned: false
+      title: 1817 | Verfwinkel.nl
+      url: https://www.verfwinkel.nl/kleurenwaaier/1817-96647.html
+    - active: true
+      last_visited: '2024-08-05T11:38:33'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 203
+      title: Sigma S2U Allure Gloss Kopen? V.a. €43.1 | Verfwinkel.nl
+      url: https://www.verfwinkel.nl/sigma-s2u-allure-gloss.html?colorId=96647#522=20012
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-08-05T11:39:45'
+      pinned: false
+      title: Sigma S2U Kopen? | Al vanaf €33,50 | Onlineverf.nl
+      url: https://www.onlineverf.nl/merken/sigma/sigma-s2u/
+    - last_visited: '2024-08-05T11:40:13'
+      pinned: false
+      title: Sigma S2U Allure Gloss | Beste Hoogglans Lak | Onlineverf.nl
+      url: https://www.onlineverf.nl/product/sigma-s2u-allure-gloss/
+    - last_visited: '2024-08-05T11:46:47'
+      pinned: false
+      title: Sigma S2U Kopen? | Al vanaf €33,50 | Onlineverf.nl
+      url: https://www.onlineverf.nl/merken/sigma/sigma-s2u/
+    - active: true
+      last_visited: '2024-08-05T11:50:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 33
+      title: Sigma S2U Allure Gloss | Beste Hoogglans Lak | Onlineverf.nl
+      url: https://www.onlineverf.nl/product/sigma-s2u-allure-gloss/
+      zoom: 1.0

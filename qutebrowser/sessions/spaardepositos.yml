@@ -1,0 +1,57 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAArQAAAL4AAAAAAAAAAAAAAI0AAAAeAAAAAACAAAABQAAAAAAAAAA
+    AAAAArQAAAL4
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:16:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: spaardepositos met bankgarantie - Google Zoeken
+      url: https://www.google.nl/search?q=spaardepositos+met+bankgarantie&sca_esv=e7d4b2edef762057&sxsrf=AE3TifML0ZLcULv0LT32TUhATJz-6N7Z-Q%3A1766695835753&ei=m6NNadfWLbG0i-gP4oumWA&ved=0ahUKEwiXkN3tztmRAxUx2gIHHeKFCQsQ4dUDCBE&uact=5&oq=spaardepositos+met+bankgarantie&gs_lp=Egxnd3Mtd2l6LXNlcnAiH3NwYWFyZGVwb3NpdG9zIG1ldCBiYW5rZ2FyYW50aWUyBRAhGKABSL8-UMkBWJg9cAF4AZABAJgBYaAB4AmqAQIxObgBA8gBAPgBAZgCFKACnQrCAgoQABiwAxjWBBhHwgIKECMYgAQYJxiKBcICCBAAGIAEGKIEwgIIEAAYogQYiQXCAgUQABiABMICBBAAGB7CAgYQABgKGB7CAgYQABgFGB7CAgYQABgWGB7CAgcQIRigARgKmAMAiAYBkAYIkgcEMTkuMaAH1TqyBwQxOC4xuAeYCsIHBjQuMTUuMcgHIIAIAA&sclient=gws-wiz-serp
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Deposito 6 maanden vergelijken - Top 10 hoogste rente 6 maanden
+      url: https://www.geld.nl/sparen/deposito/6-maanden
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:15:56'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Hoogste deposito rentes vergelijken in Europa (december 2025) | Raisin
+      url: https://www.raisin.com/nl-nl/deposito/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-12-27T14:16:16'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Depositoladder: slim sparen met flexibiliteit en hoger rendement | Raisin'
+      url: https://www.raisin.com/nl-nl/deposito/depositoladder/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-12-27T14:16:00'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Raisin Online Banking & Login
+      url: https://www.raisin.com/nl-nl/login/
+      zoom: 1.0

@@ -1,0 +1,449 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3sAAAP8AAAAAAAAAAAAAAd7AAAD/AAAAAAAAAAAB4AAAAAAAAAA
+    AAAAB3sAAAP8
+  tabs:
+  - history:
+    - last_visited: '2023-10-08T21:41:52'
+      pinned: false
+      title: aandelen kerncijfers - Google Zoeken
+      url: https://www.google.nl/search?q=aandelen%20kerncijfers#ip=1
+    - active: true
+      last_visited: '2023-10-08T21:58:50'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: aandelen cijfers - Google Zoeken
+      url: https://www.google.nl/search?q=aandelen+cijfers&sca_esv=571760004&sxsrf=AM9HkKlzKY_7LNLFX955FtEH2YsrqpC60Q%3A1696792623579&ei=LwAjZbjxIu-H9u8P1MK8wAc&ved=0ahUKEwj4xNeMleeBAxXvg_0HHVQhD3gQ4dUDCBA&uact=5&oq=aandelen+cijfers&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGFhbmRlbGVuIGNpamZlcnMyBRAAGIAESKYwUABY-CpwAHgBkAEAmAHqAaAB2wqqAQYxNy4wLjG4AQPIAQD4AQHCAggQABgWGB4YD8ICBBAjGCfCAgcQABgNGIAEwgIIEAAYCBgeGA3CAgYQABgWGB7CAggQABjLARiABMICCxAAGBYYHhjxBBgKwgIIEAAYgAQYsQPCAgsQLhiABBjHARivAeIDBBgAIEGIBgE&sclient=gws-wiz-serp#ip=1
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-08T22:13:39'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: Aandelen / Amsterdam / NL Amsterdam 25 | Analist.nl
+      url: https://www.analist.nl/koersen/aandelen
+      zoom: 1.0
+    - last_visited: '2023-10-08T22:13:38'
+      pinned: false
+      title: Sectoren / Industrie / Auto-onderdelen/diensten | Analist.nl
+      url: https://www.analist.nl/sectoren
+    - last_visited: '2023-10-08T22:13:36'
+      pinned: false
+      title: Sectoren / Financials / Banken | Analist.nl
+      url: https://www.analist.nl/sectoren/2-financials
+    - last_visited: '2023-10-08T22:13:35'
+      pinned: false
+      title: Sectoren / Financials / Banken, Pagina 3 | Analist.nl
+      url: https://www.analist.nl/sectoren/2-financials?page=3
+    - last_visited: '2023-10-08T22:13:34'
+      pinned: false
+      title: Sectoren / Financials / Financiële diensten | Analist.nl
+      url: https://www.analist.nl/sectoren/2-financials/27-financiele-diensten
+    - last_visited: '2023-10-08T22:11:29'
+      pinned: false
+      title: 'Aandeel FlowTraders: adviezen, koersdoelen | Analist.nl'
+      url: https://www.analist.nl/aandeel/9837-flow-traders
+  - history:
+    - last_visited: '2023-10-08T22:00:34'
+      pinned: false
+      title: Historische aandelenrendementen | Analist.nl
+      url: https://www.analist.nl/aandelen_rendementen
+    - last_visited: '2023-10-08T22:00:46'
+      pinned: false
+      title: Historische aandelenrendementen | Analist.nl
+      url: https://www.analist.nl/aandelen_rendementen?utf8=%E2%9C%93&country=2-nederland&index=alle-indices&subsector=alle-sectoren
+    - last_visited: '2023-10-08T22:02:00'
+      pinned: false
+      title: Adviezen / Amsterdam / NL Amsterdam 25 | Analist.nl
+      url: https://www.analist.nl/adviezen
+    - last_visited: '2023-10-08T22:02:15'
+      pinned: false
+      title: Ratings / Amsterdam / NL Amsterdam 25 | Analist.nl
+      url: https://www.analist.nl/ratings
+    - last_visited: '2023-10-08T22:02:36'
+      pinned: false
+      title: Beste ratings / Amsterdam / NL Amsterdam 25 | Analist.nl
+      url: https://www.analist.nl/besteratings
+    - last_visited: '2023-10-08T22:04:40'
+      pinned: false
+      title: Beste ratings / Amsterdam / NL Amsterdam Midkap | Analist.nl
+      url: https://www.analist.nl/besteratings/2-amsterdam/10-nl-amsterdam-midkap
+    - last_visited: '2023-10-08T22:05:10'
+      pinned: false
+      title: Beste ratings / Amsterdam / Amsterdam small | Analist.nl
+      url: https://www.analist.nl/besteratings/2-amsterdam/11-amsterdam-small
+    - last_visited: '2023-10-08T22:08:37'
+      pinned: false
+      title: Insiders | Analist.nl
+      url: https://www.analist.nl/insiders
+    - last_visited: '2023-10-08T22:09:36'
+      pinned: false
+      title: Insiders | Analist.nl
+      url: https://www.analist.nl/insiders?page=2
+    - last_visited: '2023-10-08T22:09:47'
+      pinned: false
+      title: Insiders | Analist.nl
+      url: https://www.analist.nl/insiders?page=3
+    - last_visited: '2023-10-08T22:10:05'
+      pinned: false
+      title: Insiders | Analist.nl
+      url: https://www.analist.nl/insiders?page=4
+    - active: true
+      last_visited: '2023-10-08T22:10:25'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Insiders | Analist.nl
+      url: https://www.analist.nl/insiders
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-08T21:59:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 440
+      title: Dividendoverzicht Nederlandse Aandelen | Dividendinfo.nl
+      url: https://www.dividendinfo.nl/
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T22:16:41'
+      pinned: false
+      title: 'Alphabet Inc. : Financiële kalender en winstcijfers | GOOGL | US02079K3059
+        | MarketScreener'
+      url: https://nl.marketscreener.com/koers/aandeel/ALPHABET-INC-24203373/agenda/
+    - last_visited: '2023-10-08T22:17:18'
+      pinned: false
+      title: Alle aandelen in Verenigde Staten | MarketScreener
+      url: https://nl.marketscreener.com/beurs/aandelen/noord-amerika/verenigde-staten-12/
+    - last_visited: '2023-10-08T22:17:25'
+      pinned: false
+      title: Alle aandelen in Europa | MarketScreener
+      url: https://nl.marketscreener.com/beurs/aandelen/europa/
+    - active: true
+      last_visited: '2023-10-08T22:32:30'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Alle aandelen in Nederland | MarketScreener
+      url: https://nl.marketscreener.com/beurs/aandelen/europa/nederland-80/
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T21:44:14'
+      pinned: false
+      title: Beursgorilla.nl
+      url: https://www.beursgorilla.nl/beursagenda/default.aspx
+    - active: true
+      last_visited: '2023-10-08T21:44:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Realtime koersen AEX - Overzicht actuele beurskoersen AEX
+      url: https://www.beursgorilla.nl/koersen/aex.aspx
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-08T21:52:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 808
+      title: Realtime koersen AMX - Overzicht actuele beurskoersen AMX
+      url: https://www.beursgorilla.nl/koersen/amx.aspx
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T21:55:06'
+      pinned: false
+      title: Koers JUST EAT TAKEAWAY - Actuele beurskoers JUST EAT TAKEAWAY aandeel
+      url: https://www.beursgorilla.nl/Aandeel-Koers/561749/JUST-EAT-TAKEAWAY.aspx
+    - active: true
+      last_visited: '2023-10-08T21:55:22'
+      pinned: false
+      scroll-pos:
+        x: 9
+        y: 1638
+      title: Fundamentele analyse JUST EAT TAKEAWAY - Overzicht fundamentele informatie
+      url: https://www.beursgorilla.nl/Aandeel-Koers/561749/JUST-EAT-TAKEAWAY/Fundamenteel.aspx
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T21:53:05'
+      pinned: false
+      title: Koers Flow Traders - Actuele beurskoers Flow Traders aandeel
+      url: https://www.beursgorilla.nl/Aandeel-Koers/612908/Flow-Traders.aspx
+    - active: true
+      last_visited: '2023-10-08T21:53:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Fundamentele analyse Flow Traders - Overzicht fundamentele informatie
+      url: https://www.beursgorilla.nl/Aandeel-Koers/612908/Flow-Traders/Fundamenteel.aspx
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T21:49:13'
+      pinned: false
+      title: Koers ASR Nederland - Actuele beurskoers ASR Nederland aandeel
+      url: https://www.beursgorilla.nl/Aandeel-Koers/596718/ASR-Nederland.aspx
+    - active: true
+      last_visited: '2023-10-08T21:49:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Fundamentele analyse ASR Nederland - Overzicht fundamentele informatie
+      url: https://www.beursgorilla.nl/Aandeel-Koers/596718/ASR-Nederland/Fundamenteel.aspx
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T21:44:36'
+      pinned: false
+      title: Koers ASML - Actuele beurskoers ASML aandeel
+      url: https://www.beursgorilla.nl/Aandeel-Koers/16923/ASML-Holding.aspx
+    - last_visited: '2023-10-08T21:44:46'
+      pinned: false
+      title: ASML aandeel advies - Overzicht adviezen ASML
+      url: https://www.beursgorilla.nl/Aandeel-Koers/16923/ASML-Holding/Adviezen.aspx
+    - active: true
+      last_visited: '2023-10-08T21:45:14'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 80
+      title: Fundamentele analyse ASML - Overzicht fundamentele informatie
+      url: https://www.beursgorilla.nl/Aandeel-Koers/16923/ASML-Holding/Fundamenteel.aspx
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-08T21:15:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Euronext Aandelen Amsterdam - Beursgenoten.nl
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam
+      zoom: 1.5
+  - history:
+    - last_visited: '2023-10-08T21:23:10'
+      pinned: false
+      title: Aandelen Flow Traders kopen of verkopen? | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/flow-traders
+    - active: true
+      last_visited: '2023-10-08T21:23:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 160
+      title: Kerncijfers van Flow Traders | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/flow-traders/kerncijfers
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T21:16:52'
+      pinned: false
+      title: Aandelen ASR Nederland kopen of verkopen? | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/asr-nederland
+    - active: true
+      last_visited: '2023-10-08T21:16:55'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 200
+      title: Kerncijfers van ASR Nederland | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/asr-nederland/kerncijfers
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T21:15:32'
+      pinned: false
+      title: Aandelen ASML kopen of verkopen? | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/asml
+    - active: true
+      last_visited: '2023-10-08T21:15:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 160
+      title: Kerncijfers van ASML | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/asml/kerncijfers
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T21:28:44'
+      pinned: false
+      title: Aandelen InPost kopen of verkopen? | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/inpost
+    - active: true
+      last_visited: '2023-10-08T21:28:47'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 200
+      title: Kerncijfers van InPost | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/inpost/kerncijfers
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T21:30:50'
+      pinned: false
+      title: Aandelen Thuisbezorgd kopen of verkopen? | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/just-eat-takeaway
+    - active: true
+      last_visited: '2023-10-08T21:31:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 160
+      title: Kerncijfers van Thuisbezorgd | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/just-eat-takeaway/kerncijfers
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T21:32:39'
+      pinned: false
+      title: Aandelen NX Filtration N.V. kopen of verkopen? | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/nx-filtration
+    - active: true
+      last_visited: '2023-10-08T21:33:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 200
+      title: Kerncijfers van NX Filtration N.V. | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/nx-filtration/kerncijfers
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T21:35:33'
+      pinned: false
+      title: Aandelen Renewi kopen of verkopen? | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/renewi
+    - active: true
+      last_visited: '2023-10-08T21:35:43'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 200
+      title: Kerncijfers van Renewi | Beursgenoten
+      url: https://www.beursgenoten.nl/koersen/euronext-aandelen-amsterdam/renewi/kerncijfers
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-08T21:17:41'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: ASML 561.2 ▲ +2.33% sectors
+      url: https://www.tradingview.com/chart/2TmB9WHZ/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-08T22:31:47'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: morningstar - Google Zoeken
+      url: https://www.google.nl/search?q=morningstar
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2023-10-08T22:38:40'
+      pinned: false
+      title: Morningstar | Empowering Investor Success
+      url: https://www.morningstar.com/
+    - last_visited: '2023-10-08T22:38:53'
+      pinned: false
+      title: Search Results for ASR Nederland NV ADR | Morningstar
+      url: https://www.morningstar.com/search?query=ASR%20Nederland%20NV%20ADR
+    - last_visited: '2023-10-08T22:39:03'
+      pinned: false
+      title: ARNNY - ASR Nederland NV ADR Stock Price Quote - PINX | Morningstar
+      url: https://www.morningstar.com/stocks/pinx/arnny/quote
+    - last_visited: '2023-10-08T22:39:52'
+      pinned: false
+      title: ARNNY - ASR Nederland NV ADR Valuation - PINX | Morningstar
+      url: https://www.morningstar.com/stocks/pinx/arnny/valuation
+    - last_visited: '2023-10-08T22:40:06'
+      pinned: false
+      title: ARNNY - ASR Nederland NV ADR Dividends - PINX | Morningstar
+      url: https://www.morningstar.com/stocks/pinx/arnny/dividends
+    - active: true
+      last_visited: '2023-10-08T22:40:11'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: ARNNY - ASR Nederland NV ADR Financials & Balance Sheets - PINX | Morningstar
+      url: https://www.morningstar.com/stocks/pinx/arnny/financials
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-08T22:32:04'
+      pinned: false
+      title: Nieuws - Analyse - Aandelen - Fondsen - ETFs - Hedge Funds - Online Portefeuille
+        | Morningstar
+      url: https://www.morningstar.nl/nl/
+    - last_visited: '2023-10-08T22:32:09'
+      pinned: false
+      title: Aandelen - Koersen - Analyse - Aandeel - Nieuws | Morningstar
+      url: https://www.morningstar.nl/nl/equities/default.aspx
+    - last_visited: '2023-10-08T22:32:46'
+      original-url: https://www.morningstar.nl/nl/stockquicktake/default.aspx?id=0P00016BDN
+      pinned: false
+      title: Flow Traders Ltd Koers | FLOW | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?Site=nl&id=0P00016BDN&LanguageId=nl-NL&SecurityToken=0P00016BDN]3]0]E0WWE$$ALL
+    - last_visited: '2023-10-08T22:32:52'
+      pinned: false
+      title: Flow Traders Ltd Koers | FLOW | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?tab=11&vw=pr&SecurityToken=0P00016BDN%5D3%5D0%5DE0WWE%24%24ALL&Id=0P00016BDN&ClientFund=0&CurrencyId=EUR
+    - last_visited: '2023-10-08T22:33:40'
+      pinned: false
+      title: Flow Traders Ltd Koers | FLOW | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?tab=11&vw=gr&SecurityToken=0P00016BDN%5D3%5D0%5DE0WWE%24%24ALL&Id=0P00016BDN&ClientFund=0&CurrencyId=EUR
+    - last_visited: '2023-10-08T22:33:59'
+      pinned: false
+      title: Flow Traders Ltd Koers | FLOW | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?tab=11&vw=cf&SecurityToken=0P00016BDN%5D3%5D0%5DE0WWE%24%24ALL&Id=0P00016BDN&ClientFund=0&CurrencyId=EUR
+    - last_visited: '2023-10-08T22:34:19'
+      pinned: false
+      title: Flow Traders Ltd Koers | FLOW | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?tab=11&vw=fh&SecurityToken=0P00016BDN%5D3%5D0%5DE0WWE%24%24ALL&Id=0P00016BDN&ClientFund=0&CurrencyId=EUR
+    - last_visited: '2023-10-08T22:35:08'
+      pinned: false
+      title: Flow Traders Ltd Koers | FLOW | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?tab=0&vw=sum&SecurityToken=0P00016BDN%5D3%5D0%5DE0WWE%24%24ALL&Id=0P00016BDN&ClientFund=0&CurrencyId=EUR
+    - last_visited: '2023-10-08T22:35:37'
+      pinned: false
+      title: Flow Traders Ltd Koers | FLOW | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?tab=13&SecurityToken=0P00016BDN%5D3%5D0%5DE0WWE%24%24ALL&Id=0P00016BDN&ClientFund=0&CurrencyId=EUR
+    - last_visited: '2023-10-08T22:35:59'
+      original-url: https://www.morningstar.nl/nl/stockquicktake/default.aspx?id=0P0001LKKP
+      pinned: false
+      title: Inpost Koers | INPST | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?Site=nl&id=0P0001LKKP&LanguageId=nl-NL&SecurityToken=0P0001LKKP]3]0]E0WWE$$ALL
+    - last_visited: '2023-10-08T22:36:02'
+      pinned: false
+      title: Inpost Koers | INPST | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?tab=11&vw=pr&SecurityToken=0P0001LKKP%5D3%5D0%5DE0WWE%24%24ALL&Id=0P0001LKKP&ClientFund=0&CurrencyId=EUR
+    - last_visited: '2023-10-08T22:36:53'
+      pinned: false
+      title: Inpost Koers | INPST | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?tab=11&vw=gr&SecurityToken=0P0001LKKP%5D3%5D0%5DE0WWE%24%24ALL&Id=0P0001LKKP&ClientFund=0&CurrencyId=EUR
+    - last_visited: '2023-10-08T22:36:58'
+      pinned: false
+      title: Inpost Koers | INPST | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?tab=11&vw=cf&SecurityToken=0P0001LKKP%5D3%5D0%5DE0WWE%24%24ALL&Id=0P0001LKKP&ClientFund=0&CurrencyId=EUR
+    - last_visited: '2023-10-08T22:37:23'
+      pinned: false
+      title: Inpost Koers | INPST | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?tab=11&vw=fh&SecurityToken=0P0001LKKP%5D3%5D0%5DE0WWE%24%24ALL&Id=0P0001LKKP&ClientFund=0&CurrencyId=EUR
+    - active: true
+      last_visited: '2023-10-08T22:38:25'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Inpost Koers | INPST | Morningstar
+      url: https://tools.morningstar.nl/nl/stockreport/default.aspx?tab=13&SecurityToken=0P0001LKKP%5D3%5D0%5DE0WWE%24%24ALL&Id=0P0001LKKP&ClientFund=0&CurrencyId=EUR
+      zoom: 1.0

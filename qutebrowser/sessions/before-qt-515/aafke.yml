@@ -1,0 +1,208 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB38AAAQZAAAAAAAAAAAAAAd/AAAEGQAAAAAAAAAAB4AAAAAAAAAA
+    AAAAB38AAAQZ
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2023-05-03T16:32:16'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-05-03T16:33:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1120
+      title: lastminute vliegen - Google Zoeken
+      url: https://www.google.nl/search?q=lastminute%20vliegen
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-05-03T16:33:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Goedkope vluchten | Vergelijk vliegtickets | lastminute.com
+      url: https://nl.lastminute.com/vluchten
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-05-03T16:34:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 995
+      title: Goedkope last-minute vliegtickets binnen & buiten Europa | Vliegtickets.nl
+      url: https://www.vliegtickets.nl/last-minutes/
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-05-03T16:33:38'
+      pinned: false
+      title: 2023 Flight and Airline Deals | Skyscanner
+      url: https://www.skyscanner.nl/vluchten/last-minute-aanbiedingen/
+    - active: true
+      last_visited: '2023-05-03T16:34:51'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Goedkope vluchten vanaf Amsterdam Schiphol op Skyscanner
+      url: https://www.skyscanner.nl/transport/vluchten-van/ams/230518/230521/?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-05-03T16:51:42'
+      pinned: false
+      title: 'Goedkope vliegtickets: vergelijk goedkope vluchten | Skyscanner'
+      url: https://www.skyscanner.nl/
+    - active: true
+      last_visited: '2023-05-03T16:52:40'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Goedkope vluchten van Amsterdam Schiphol naar Noord-Macedonië op Skyscanner
+      url: https://www.skyscanner.nl/transport/vluchten/ams/mk/230518/230521/?adultsv2=2&cabinclass=economy&childrenv2=&ref=home&is_banana_refferal=true&rtn=1&preferdirects=true&outboundaltsenabled=false&inboundaltsenabled=false&qp_prevScreen=HOMEPAGE
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-05-03T16:41:19'
+      pinned: false
+      title: 'Goedkope vliegtickets: vergelijk goedkope vluchten | Skyscanner'
+      url: https://www.skyscanner.nl/
+    - last_visited: '2023-05-03T16:41:29'
+      pinned: false
+      title: Goedkope vluchten vanaf Rotterdam op Skyscanner
+      url: https://www.skyscanner.nl/transport/vluchten-van/rtm/230518/230521/?adultsv2=2&cabinclass=economy&childrenv2=&ref=home&is_banana_refferal=true&rtn=1&preferdirects=false&outboundaltsenabled=false&inboundaltsenabled=false&qp_prevScreen=HOMEPAGE
+    - last_visited: '2023-05-03T16:42:58'
+      original-url: https://www.skyscanner.nl/transport/vluchten-van/rtm/230518/230521/?adultsv2=2&cabinclass=economy&childrenv2=&ref=home&is_banana_refferal=true&rtn=1&preferdirects=false&outboundaltsenabled=false&inboundaltsenabled=false&qp_prevScreen=HOMEPAGE
+      pinned: false
+      title: Goedkope vluchten vanaf Rotterdam op Skyscanner
+      url: https://www.skyscanner.nl/transport/flights-from/rtm/230518/230522/?adultsv2=2&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&rtn=1
+    - last_visited: '2023-05-03T16:43:22'
+      original-url: https://www.skyscanner.nl/transport/vluchten-van/nl/230508/230515/?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&inboundaltsenabled=true&infants=0&outboundaltsenabled=false&preferdirects=true&ref=home&rtn=1
+      pinned: false
+      title: Vind de beste vluchtdeals en vluchtaanbiedingen | Skyscanner
+      url: https://www.skyscanner.nl/vluchten
+    - active: true
+      last_visited: '2023-05-03T16:43:35'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Goedkope vluchten vanaf Nederland op Skyscanner
+      url: https://www.skyscanner.nl/transport/vluchten-van/nl/230518/230521/?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&inboundaltsenabled=true&infants=0&outboundaltsenabled=false&preferdirects=true&ref=home&rtn=1
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-05-03T16:39:39'
+      pinned: false
+      title: WhatsApp
+      url: https://web.whatsapp.com/
+    - active: true
+      last_visited: '2023-05-03T16:39:39'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: WhatsApp
+      url: https://web.whatsapp.com/
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-05-03T16:52:05'
+      pinned: false
+      title: massedonie - Google Zoeken
+      url: https://www.google.nl/search?q=massedonie
+    - active: true
+      last_visited: '2023-05-03T16:58:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 80
+      title: trein europa reizen tour - Google Zoeken
+      url: https://www.google.nl/search?q=trein%20europa%20reizen%20tour
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-05-03T16:58:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Met de trein door Europa | De mooiste routes op een rij
+      url: https://betterplaces.nl/met-de-trein-door-europa
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-05-03T16:58:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1086
+      title: 'Interrail Pass: met de trein door Europa | NS International'
+      url: https://www.nsinternational.com/nl/rondreistickets/interrail-met-de-trein-door-europa
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-05-03T16:58:45'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 561
+      title: 'Treinreizen Europa: Trein + Hotel. Al vanaf € 395 p.p.'
+      url: https://www.treinrondreis.nl/reizen
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-05-03T17:23:01'
+      pinned: false
+      title: touristische autoroutes vanuit Nederland - Google Zoeken
+      url: https://www.google.nl/search?q=touristische%20autoroutes%20vanuit%20Nederland
+    - last_visited: '2023-05-03T17:23:21'
+      pinned: false
+      title: touristische autoroutes europa - Google Zoeken
+      url: https://www.google.nl/search?q=touristische+autoroutes+europa&sxsrf=APwXEdd-wpyWiTsxVoNkefMzdLdU6mwfXQ%3A1683127461188&ei=pXxSZIzqCoiO9u8PpOaTgA4&ved=0ahUKEwjM0L2zutn-AhUIh_0HHSTzBOAQ4dUDCA8&uact=5&oq=touristische+autoroutes+europa&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQFhAeMgYIABAWEB46CggAEEcQ1gQQsAM6BwgjELACECc6BwgAEA0QgARKBAhBGABQ4wFYiCtgtSxoAXABeAKAAYoBiAGeD5IBBDE3LjWYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp
+    - last_visited: '2023-05-03T17:25:53'
+      pinned: false
+      title: touristische autoroutes europa vanuit nederland - Google Zoeken
+      url: https://www.google.nl/search?q=touristische+autoroutes+europa+vanuit+nederland&sxsrf=APwXEdd_g0HvnJw8STs9iGUSf6bJmDa4rQ%3A1683127481491&ei=uXxSZLvRHJmC9u8P8L6Q6Ac&oq=touristische+autoroutes+europa+vanuit+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgcIIRCgARAKMgcIIRCgARAKMgcIIRCgARAKOgoIABBHENYEELADOgYIABAWEB46CAghEBYQHhAdSgQIQRgAUOACWIcLYOcRaAFwAXgAgAGWAYgBhwaSAQM2LjKYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp
+    - last_visited: '2023-05-03T17:26:00'
+      pinned: false
+      title: toeristische autoroutes europa vanuit nederland - Google Zoeken
+      url: https://www.google.nl/search?sxsrf=APwXEdeOmgDZdSVxmdCcedhEQo-wyGOrTA:1683127633384&q=toeristische+autoroutes+europa+vanuit+nederland&spell=1&sa=X&ved=2ahUKEwiNv8uFu9n-AhWkhf0HHQ3SAxsQBSgAegQIJRAB&biw=1920&bih=995&dpr=1
+    - active: true
+      last_visited: '2023-05-03T17:27:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 800
+      title: autovakantie europa 3 dagen - Google Zoeken
+      url: https://www.google.nl/search?q=autovakantie+europa+3+dagen&biw=1920&bih=995&sxsrf=APwXEdeyX9iWD1ImSpz6Scer5Z-yTYWPQw%3A1683127640638&ei=WH1SZNyWJuyQ9u8Ph8GQuAM&ved=0ahUKEwjcooaJu9n-AhVsiP0HHYcgBDcQ4dUDCA8&uact=5&oq=autovakantie+europa+3+dagen&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICCEQFhAeEB0yCAghEBYQHhAdMggIIRAWEB4QHToKCAAQRxDWBBCwAzoECCMQJzoHCCMQigUQJzoHCAAQigUQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6CwgAEIAEELEDEIMBOgsILhCABBCxAxDUAjoKCAAQigUQsQMQQzoICAAQgAQQsQM6DQgAEIoFELEDEIMBEEM6BQgAEIAEOgsILhCABBDHARCvAToFCCEQoAE6BwghEKABEApKBAhBGABQ2hpYnUxgkU5oCXABeACAAbIBiAGgDpIBBDE1LjWYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2023-05-03T17:29:10'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Met de auto op vakantie: 5 vakantiebestemmingen op rijafstand | WAT
+        ZIJ ZEGT'
+      url: https://www.watzijzegt.com/2022/06/autovakantie-bestemmingen-op-rijafstand/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-05-03T17:27:36'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Autovakantie 2023? De 15 leukste bestemmingen in Europa!
+      url: https://www.27vakantiedagen.nl/leuke-vakantiebestemmingen-auto-europa/
+      zoom: 1.0
