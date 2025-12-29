@@ -1,7 +1,8 @@
 vim.lsp.enable({
+  "ocaml",
   "go",
+  "gleam",
   "roc",
-  "glean",
   "zig",
   "c3c",
 	"clangd",
@@ -29,6 +30,7 @@ vim.api.nvim_create_autocmd('LspAttach', {
     if client:supports_method('textDocument/completion') then
       vim.lsp.completion.enable(true, client.id, ev.buf, { autotrigger = false })
     end
+    vim.lsp.inlay_hint.enable(true)
   end,
 })
 
@@ -53,15 +55,17 @@ require("config.plugins.autopairs")
 require("config.plugins.fyler")
 require("config.plugins.telescope")
 require("config.plugins.neogit")
+require("config.plugins.obsidian")
 
 vim.cmd.colorscheme("dracula-soft")
 
 
-vim.keymap.set("i", "jj", "<esc>")
-vim.keymap.set("n", "-", "<cmd>Fyler<cr>")
+vim.keymap.set("n", "<leader>cd", "<cmd>cd %:p:h<cr>", {desc = "change current directory to current file "})
+vim.keymap.set("i", "jj", "<esc>", {desc = "Escape"})
+vim.keymap.set("n", "-", "<cmd>Fyler<cr>", {desc = "Toggle Fyler filemanager"})
 vim.keymap.set("n", "K", function()
   vim.lsp.buf.hover({ border = "rounded", max_height = 25, max_width = 80 })
-end)
+end, {desc = "Hover over current <word>"})
 vim.keymap.set("n", "<leader>z", ":tabnew %<cr>")
 vim.keymap.set("n", "<leader>h", ":noh<cr>")
 -- vim.keymap.set("n", "<space>bx", "<cmd>bdelete<cr>")
@@ -86,16 +90,12 @@ vim.keymap.set("n", "<c-k>", [[<Esc><C-w>k]])
 vim.keymap.set('i', '<C-s>', "<esc>:w<cr>")
 -- vim.keymap.set('i', '<C-h>', vim.lsp.buf.signature_help)
 vim.keymap.set("i", "<C-c>", "<Esc>")
--- vim.keymap.set("i", "<M-h>", "<Left>")
--- vim.keymap.set("i", "<M-l>", "<Right>")
--- vim.keymap.set("i", "<M-h>", [[<Esc><C-w>h]])
--- vim.keymap.set("i", "<M-l>", [[<Esc><C-w>l]])
--- vim.keymap.set("i", "<M-j>", [[<Esc><C-w>j]])
--- vim.keymap.set("i", "<M-k>", [[<Esc><C-w>k]])
--- vim.keymap.set("i", "<M-b>", "<S-Left>")
--- vim.keymap.set("i", "<M-f>", "<S-Right>")
-vim.keymap.set("v", "<space>x", ":lua<cr>")
+vim.keymap.set("i", "<M-h>", "<S-Left>")
+vim.keymap.set("i", "<M-l>", "<S-Right>")
+vim.keymap.set("i", "<C-h>", "<Left>")
+vim.keymap.set("i", "<C-l>", "<Right>")
 
+vim.keymap.set("v", "<space>x", ":lua<cr>")
 vim.keymap.set("t", "<Esc>", "<C-\\><C-n>")
 vim.keymap.set("t", "<A-h>", [[<C-\><C-n><C-w>h]])
 vim.keymap.set("t", "<A-l>", [[<C-\><C-n><C-w>l]])
