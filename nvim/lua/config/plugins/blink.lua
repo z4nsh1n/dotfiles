@@ -27,15 +27,17 @@ require("blink.cmp").setup({
     ['<C-space>'] = {'show_signature', 'hide_signature', 'fallback'},
   },
   signature = { enabled = true, },
+
 	completion = {
-  ghost_text = {enabled = true},
-    -- accept = {auto_brackets = {enabled = true},},
+    ghost_text = {enabled = true},
+      -- accept = {auto_brackets = {enabled = true},},
     accept = {auto_brackets = {enabled = false},},
-		documentation = {
-			auto_show = true,
-		},
+    documentation = {
+        auto_show = true,
+    },
     list = {selection = {
-      preselect = false, auto_insert = false}
+        -- preselect = false, auto_insert = false}
+        preselect = true, auto_insert = true}
     },
 	},
 	sources = {
