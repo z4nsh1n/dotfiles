@@ -190,3 +190,77 @@ tabnew
 close
 tabnew
 quitall
+close
+tabnew
+close
+tabnew
+close
+wq
+write
+quitall
+set tabnewposition=end
+tabnew
+set tabnewposition=right
+help explore
+close
+tabnew
+close
+set tabnewposition=end
+tabnew
+set tabnewposition=right
+version!
+close
+quitall
+help bottomHalfSplitWindow
+version
+close
+tabnew
+close
+tabnew
+close
+split
+close
+set tabnewposition=end
+tabnew
+set tabnewposition=right
+help mappings
+help :cmap
+cmap
+help mappings
+map
+help commands
+help
+tabnew
+asdfsadf asdf jaslkdf jaskldfj safd
+nmap!
+cmap!
+nmap!
+close
+cmap!
+downloads
+close
+cmap!
+buffer 0
+set containerkeeponreopen
+set darkreader
+close
+quitall
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close

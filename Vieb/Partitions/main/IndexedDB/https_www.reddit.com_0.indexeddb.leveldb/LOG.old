@@ -1,3 +1,9 @@
-2025/11/07-19:31:53.522 10d2 Reusing MANIFEST /home/zanshin/.config/Vieb/Partitions/main/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/07-19:31:53.522 10d2 Recovering log #19
-2025/11/07-19:31:53.522 10d2 Reusing old log /home/zanshin/.config/Vieb/Partitions/main/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000019.log 
+2026/01/02-23:13:05.005 321be3 Reusing MANIFEST /home/zanshin/.config/Vieb/Partitions/main/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/02-23:13:05.005 321be3 Recovering log #45
+2026/01/02-23:13:05.008 321be3 Reusing old log /home/zanshin/.config/Vieb/Partitions/main/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000045.log 
+2026/01/02-23:19:17.437 321be5 Compacting 1@1 + 1@2 files
+2026/01/02-23:19:17.449 321be5 Generated table #48@1: 118 keys, 7338 bytes
+2026/01/02-23:19:17.449 321be5 Compacted 1@1 + 1@2 files => 7338 bytes
+2026/01/02-23:19:17.453 321be5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/02-23:19:17.454 321be5 Delete type=2 #43
+2026/01/02-23:19:17.454 321be5 Delete type=2 #46

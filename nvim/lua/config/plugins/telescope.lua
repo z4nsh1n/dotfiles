@@ -1,4 +1,5 @@
 vim.pack.add({
+      {src = 'https://github.com/lewis6991/gitsigns.nvim'},
       {src = 'https://github.com/nvim-lua/plenary.nvim' },
       {src = 'https://github.com/nvim-telescope/telescope-fzf-native.nvim', build = 'make' },
       {src = 'https://github.com/radyz/telescope-gitsigns'},
@@ -17,6 +18,7 @@ vim.pack.add({
             },
           },
         },
+        layout_config = {horizontal = {preview_cutoff = 0}},
         pickers    = {
           find_files = {
             theme = "ivy",
