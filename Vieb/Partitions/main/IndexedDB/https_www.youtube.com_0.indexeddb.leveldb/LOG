@@ -1,15 +1,16 @@
-2025/08/03-01:24:29.729 e2475 Reusing MANIFEST /home/zanshin/.config/Vieb/Partitions/main/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/08/03-01:24:29.729 e2475 Recovering log #16
-2025/08/03-01:24:29.732 e2475 Reusing old log /home/zanshin/.config/Vieb/Partitions/main/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000016.log 
-2025/08/03-01:31:37.588 e242c Level-0 table #21: started
-2025/08/03-01:31:37.593 e242c Level-0 table #21: 909577 bytes OK
-2025/08/03-01:31:37.595 e242c Delete type=0 #16
-2025/08/03-01:31:37.595 e242c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2025/08/03-01:31:37.596 e242c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x02\x1f\x03\x00\x90?\xd9\xd1\x86yB\x00\x03\x00\x00\x00\x00\x00\xc0Y@' @ 23621 : 1
-2025/08/03-01:31:37.596 e242c Compacting 1@1 + 1@2 files
-2025/08/03-01:31:37.599 e242c Generated table #22@1: 316 keys, 51664 bytes
-2025/08/03-01:31:37.599 e242c Compacted 1@1 + 1@2 files => 51664 bytes
-2025/08/03-01:31:37.600 e242c compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/08/03-01:31:37.600 e242c Delete type=2 #18
-2025/08/03-01:31:37.600 e242c Delete type=2 #21
-2025/08/03-01:31:37.600 e242c Manual compaction at level-1 from '\x00\x09\x02\x1f\x03\x00\x90?\xd9\xd1\x86yB\x00\x03\x00\x00\x00\x00\x00\xc0Y@' @ 23621 : 1 .. (end); will stop at (end)
+2026/01/03-00:59:53.248 321be3 Reusing MANIFEST /home/zanshin/.config/Vieb/Partitions/main/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/03-00:59:53.248 321be3 Recovering log #39
+2026/01/03-00:59:53.250 321be3 Reusing old log /home/zanshin/.config/Vieb/Partitions/main/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000039.log 
+2026/01/03-00:59:53.250 321be3 Delete type=2 #38
+2026/01/03-01:04:31.843 321be5 Level-0 table #44: started
+2026/01/03-01:04:31.852 321be5 Level-0 table #44: 897291 bytes OK
+2026/01/03-01:04:31.858 321be5 Delete type=0 #39
+2026/01/03-01:04:31.859 321be5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/03-01:04:31.859 321be5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x10\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 24826 : 1
+2026/01/03-01:04:31.859 321be5 Compacting 1@1 + 1@2 files
+2026/01/03-01:04:31.865 321be5 Generated table #45@1: 316 keys, 22579 bytes
+2026/01/03-01:04:31.865 321be5 Compacted 1@1 + 1@2 files => 22579 bytes
+2026/01/03-01:04:31.869 321be5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/03-01:04:31.870 321be5 Delete type=2 #44
+2026/01/03-01:04:31.870 321be5 Delete type=2 #41
+2026/01/03-01:04:31.870 321be5 Manual compaction at level-1 from '\x00\x10\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 24826 : 1 .. (end); will stop at (end)

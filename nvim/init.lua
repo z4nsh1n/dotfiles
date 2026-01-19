@@ -28,6 +28,8 @@ vim.o.smartcase = true
 vim.o.cursorcolumn = true
 vim.o.cursorline = true
 vim.g.mapleader = " "
+vim.o.cursorline = true
+vim.o.cursorcolumn = true
 
 
 vim.api.nvim_create_autocmd('LspAttach', {
@@ -40,6 +42,13 @@ vim.api.nvim_create_autocmd('LspAttach', {
   end,
 })
 
+vim.api.nvim_create_autocmd("FileType", {
+  pattern = {"scala"},
+  callback = function()
+    local config = {}
+    require("metals").initialize_or_attach(config)
+  end
+})
 -- load plugins in the plugins dir
 -- Does not work ?!!
 -- local plugins_path =  "lua/config/plugins"
@@ -63,6 +72,8 @@ require("config.plugins.telescope")
 require("config.plugins.neogit")
 require("config.plugins.obsidian")
 require("config.plugins.tiny_diagnostics")
+require("config.plugins.scala-metals")
+
 
 -- vim.cmd.colorscheme("dracula-soft")
 vim.cmd.colorscheme("minicyan")
@@ -78,6 +89,13 @@ vim.keymap.set("n", "<A-[>", "g;zz", {remap=false, desc="jump back in the change
 vim.keymap.set("n", "<A-]>", "g,zz", {remap=false, desc="jump back in the change list"})
 vim.keymap.set("n", "n", "nzz", {remap=false})
 vim.keymap.set("n", "N", "Nzz", {remap=false})
+
+vim.keymap.set("n", "<A-q>", ":q<cr>", {remap=false, desc="close window"})
+vim.keymap.set("n", "<leader>.", "g,zz", {remap=false, desc = "Go up into the change map"})
+vim.keymap.set("n", "<leader>,", "g;zz", {remap=false, desc = "Go up into the change map"})
+vim.keymap.set("n", "<leader>v", function () vim.cmd.split() vim.cmd.normal("j")end)
+vim.keymap.set("n", "<leader>s", function () vim.cmd.vsplit() vim.cmd.normal("l")end)
+-- vim.keymap.set("n", "<leader>s", "vsplit<CR>|g;zz")
 vim.keymap.set("n", "<leader>cd", "<cmd>cd %:p:h<cr>", {desc = "change current directory to current file "})
 vim.keymap.set("n", "<leader>lcd", "<cmd>lcd %:p:h<cr>", {desc = "change current directory to current file "})
 vim.keymap.set("n", "-", "<cmd>Fyler<cr>", {desc = "Toggle Fyler filemanager"})
@@ -90,16 +108,19 @@ vim.keymap.set("n", "<leader>h", ":noh<cr>")
 vim.keymap.set("n", "<leader><leader>x", "<cmd>source %<cr>")
 vim.keymap.set("n", "<leader>x", ":.lua<cr>")
 vim.keymap.set("n", "<C-s>", ":w!<cr>")
-vim.keymap.set("n", "gs", function() require("telescope.builtin").lsp_document_symbols() end)
+vim.keymap.set("n", "gs", function() require("telescope.builtin").lsp_dynamic_workspace_symbols() end)
 vim.keymap.set("n", "gd", vim.lsp.buf.definition)
 vim.keymap.set('n', 'grn', vim.lsp.buf.rename)
 vim.keymap.set('n', 'gra', vim.lsp.buf.code_action)
 vim.keymap.set('n', 'grr', vim.lsp.buf.references)
 vim.keymap.set('n', "<M-j>", "<cmd>cnext<cr>")
 vim.keymap.set('n', "<M-k>", "<cmd>cprev<cr>")
+
 vim.keymap.set('n', "<leader>ds", vim.diagnostic.setqflist)
 vim.keymap.set('n', "<leader>df", vim.diagnostic.open_float)
 vim.keymap.set('n', "<leader>b", "<cmd>Telescope buffers<cr>")
+-- vim.keymap.set('n', "<space>dq", vim.diagnostic.setqflist)
+vim.keymap.set('n', "<leader>bb", "<cmd>Telescope buffers<cr>")
 vim.keymap.set("n", "<c-h>", [[<Esc><C-w>h]])
 vim.keymap.set("n", "<c-l>", [[<Esc><C-w>l]])
 vim.keymap.set("n", "<c-j>", [[<Esc><C-w>j]])
