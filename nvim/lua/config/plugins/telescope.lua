@@ -14,6 +14,10 @@ vim.pack.add({
             i = {
               ["<C-j>"] = require('telescope.actions').move_selection_next,
               ["<C-k>"] = require('telescope.actions').move_selection_previous,
+              ["<C-l>"] = require('telescope.actions').preview_scrolling_right,
+              ["<C-h>"] = require('telescope.actions').preview_scrolling_left,
+              ["<C-b>"] = require('telescope.actions').results_scrolling_up,
+              ["<C-f>"] = require('telescope.actions').results_scrolling_down,
             },
           },
         },

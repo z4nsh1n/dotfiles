@@ -11,16 +11,22 @@ vim.lsp.enable({
 
 -- vim.o.autocomplete=true
 vim.o.winborder = "rounded"
-vim.diagnostic.config({virtual_text = false, virtual_lines=true})
+vim.diagnostic.config({virtual_text = true, virtual_lines=false})
 vim.o.number = true
 vim.o.relativenumber = true
 -- vim.opt.completeopt = {"fuzzy", "menuone", "noselect", "noinsert"}
+-- vim.opt.completeopt = {"menu", "menuone", "noselect"}
 vim.o.tabstop = 2
 vim.o.shiftwidth = 2
 vim.o.softtabstop = 2
 vim.o.expandtab = true
 vim.o.autoindent = true
+vim.o.smartindent = true
 vim.o.clipboard = "unnamedplus"
+vim.o.termguicolors = true
+vim.o.smartcase = true
+vim.o.cursorcolumn = true
+vim.o.cursorline = true
 vim.g.mapleader = " "
 
 
@@ -56,12 +62,24 @@ require("config.plugins.fyler")
 require("config.plugins.telescope")
 require("config.plugins.neogit")
 require("config.plugins.obsidian")
+require("config.plugins.tiny_diagnostics")
 
-vim.cmd.colorscheme("dracula-soft")
+-- vim.cmd.colorscheme("dracula-soft")
+vim.cmd.colorscheme("minicyan")
 
 
+-- cmd mappings
+vim.keymap.set("c", "<C-k>", "<Up>", {remap=false,})
+vim.keymap.set("c", "<C-j>", "<Down>", {remap=false,})
+
+
+-- normal mappings
+vim.keymap.set("n", "<A-[>", "g;zz", {remap=false, desc="jump back in the change list"})
+vim.keymap.set("n", "<A-]>", "g,zz", {remap=false, desc="jump back in the change list"})
+vim.keymap.set("n", "n", "nzz", {remap=false})
+vim.keymap.set("n", "N", "Nzz", {remap=false})
 vim.keymap.set("n", "<leader>cd", "<cmd>cd %:p:h<cr>", {desc = "change current directory to current file "})
-vim.keymap.set("i", "jj", "<esc>", {desc = "Escape"})
+vim.keymap.set("n", "<leader>lcd", "<cmd>lcd %:p:h<cr>", {desc = "change current directory to current file "})
 vim.keymap.set("n", "-", "<cmd>Fyler<cr>", {desc = "Toggle Fyler filemanager"})
 vim.keymap.set("n", "K", function()
   vim.lsp.buf.hover({ border = "rounded", max_height = 25, max_width = 80 })
@@ -79,7 +97,8 @@ vim.keymap.set('n', 'gra', vim.lsp.buf.code_action)
 vim.keymap.set('n', 'grr', vim.lsp.buf.references)
 vim.keymap.set('n', "<M-j>", "<cmd>cnext<cr>")
 vim.keymap.set('n', "<M-k>", "<cmd>cprev<cr>")
--- vim.keymap.set('n', "<space>dq", vim.diagnostic.setqflist)
+vim.keymap.set('n', "<leader>ds", vim.diagnostic.setqflist)
+vim.keymap.set('n', "<leader>df", vim.diagnostic.open_float)
 vim.keymap.set('n', "<leader>b", "<cmd>Telescope buffers<cr>")
 vim.keymap.set("n", "<c-h>", [[<Esc><C-w>h]])
 vim.keymap.set("n", "<c-l>", [[<Esc><C-w>l]])
@@ -88,6 +107,7 @@ vim.keymap.set("n", "<c-k>", [[<Esc><C-w>k]])
 
 -- insert mappings
 vim.keymap.set('i', '<C-s>', "<esc>:w<cr>")
+vim.keymap.set("i", "jj", "<esc>", {desc = "Escape"})
 -- vim.keymap.set('i', '<C-h>', vim.lsp.buf.signature_help)
 vim.keymap.set("i", "<C-c>", "<Esc>")
 vim.keymap.set("i", "<M-h>", "<S-Left>")
