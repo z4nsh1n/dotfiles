@@ -386,3 +386,6 @@ rust recommended libs https://blessed.rs/crates
 SF book reviews Eric Raymon http://www.catb.org/~esr/sfreviews/
 Zig vulkan graphics book https://github.com/lwjglgamedev/zvk?tab=readme-ov-file
 Rust recommended crates https://blessed.rs/crates
+Rust top books https://mentorcruise.com/books/rust/
+Rust books https://github.com/lborb/book/blob/main/src/title-page.md
+ocaml ffi C lang http://decapode314.free.fr/ocaml/ocaml-c-interface.html
