@@ -8,6 +8,10 @@
       "rev": "74967d4f9e6bffd4f707493917503e9d9c73e92c",
       "src": "https://github.com/Saghen/blink.cmp"
     },
+    "c3.nvim": {
+      "rev": "83e0065bf2eeb409507245193f9e48b390aaaeaa",
+      "src": "https://www.github.com/wstucco/c3.nvim"
+    },
     "c3.vim": {
       "rev": "ecf1c04d9ca5e8ffefe8f9c22724528e49f627e2",
       "src": "https://github.com/Airbus5717/c3.vim"
@@ -31,6 +35,14 @@
     "gitsigns.nvim": {
       "rev": "cdafc320f03f2572c40ab93a4eecb733d4016d07",
       "src": "https://github.com/lewis6991/gitsigns.nvim"
+    },
+    "mini.base16": {
+      "rev": "852a1ab7700dd5ca56ec94232ea7bc2d6158662a",
+      "src": "https://github.com/nvim-mini/mini.base16"
+    },
+    "mini.colors": {
+      "rev": "f43cab15ee0458acb13ac33a478b7e14fd4616eb",
+      "src": "https://github.com/nvim-mini/mini.colors"
     },
     "mini.icons": {
       "rev": "ff2e4f1d29f659cc2bad0f9256f2f6195c6b2428",
@@ -83,6 +95,10 @@
     "telescope.nvim": {
       "rev": "83a3a713d6b2d2a408491a1b959e55a7fa8678e8",
       "src": "https://github.com/nvim-telescope/telescope.nvim"
+    },
+    "tiny-inline-diagnostic.nvim": {
+      "rev": "c7b1488ad0b389763c34bd17a6264424b3da5a52",
+      "src": "https://github.com/rachartier/tiny-inline-diagnostic.nvim"
     },
     "tokyonight.nvim": {
       "rev": "5da1b76e64daf4c5d410f06bcb6b9cb640da7dfd",
