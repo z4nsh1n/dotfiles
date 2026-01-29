@@ -394,3 +394,6 @@ C3 opengl https://ebn.codeberg.page/programming/c3/c3-opengl/
 opengl documentation https://docs.gl/
 ocaml's hoogle https://doc.sherlocode.com/
 SICP ebook http://sarabander.github.io/sicp/html/Chapter-1.xhtml#Chapter-1
+pratt parser for mini language NICE! https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/
+pratt parsers https://martin.janiczek.cz/2023/07/03/demystifying-pratt-parsers.html
+pratt parsing https://dev.to/jrop/pratt-parsing
