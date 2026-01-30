@@ -20,11 +20,12 @@ require("blink.cmp").setup({
 },
 	keymap = {
     preset = "enter",
-    ['<C-j>'] = {'select_next', 'fallback'},
+    ['<C-j>'] = {function (cmp) cmp.show()end , 'select_next'},
     ['<C-k>'] = {'select_prev', 'fallback'},
     ['<C-u>'] = {'scroll_documentation_up', 'fallback'},
     ['<C-d>'] = {'scroll_documentation_down', 'fallback'},
     ['<C-space>'] = {'show_signature', 'hide_signature', 'fallback'},
+    ['<C-p>'] = {function (cmp) cmp.show() end},
   },
   signature = { enabled = true, },
 

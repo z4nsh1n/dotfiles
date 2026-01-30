@@ -1,4 +1,5 @@
 vim.lsp.enable({
+  "odin",
   "clojure",
   "ocaml",
   "go",
@@ -59,6 +60,7 @@ vim.api.nvim_create_autocmd("FileType", {
 -- end
 
 -- bit weird, 
+require("config.plugins.markview")
 require("config.plugins.mini")
 require("config.plugins.colors")
 require("config.plugins.blink")

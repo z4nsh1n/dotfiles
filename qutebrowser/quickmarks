@@ -389,8 +389,5 @@ Rust recommended crates https://blessed.rs/crates
 Rust top books https://mentorcruise.com/books/rust/
 Rust books https://github.com/lborb/book/blob/main/src/title-page.md
 ocaml ffi C lang http://decapode314.free.fr/ocaml/ocaml-c-interface.html
-C3 for all https://github.com/nomota/c3-for-all?tab=readme-ov-file
-C3 opengl https://ebn.codeberg.page/programming/c3/c3-opengl/
-opengl documentation https://docs.gl/
-ocaml's hoogle https://doc.sherlocode.com/
-SICP ebook http://sarabander.github.io/sicp/html/Chapter-1.xhtml#Chapter-1
+ocaml ffi https://ocaml.org/manual/5.4/intfc.html
+ocaml ffi 2 https://dev.realworldocaml.org/foreign-function-interface.html
