@@ -1,4 +1,5 @@
 vim.lsp.enable({
+  "odin",
   "clojure",
   "ocaml",
   "go",
