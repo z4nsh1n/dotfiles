@@ -36,6 +36,10 @@
       "rev": "cdafc320f03f2572c40ab93a4eecb733d4016d07",
       "src": "https://github.com/lewis6991/gitsigns.nvim"
     },
+    "markview.nvim": {
+      "rev": "c81ce9e",
+      "src": "https://github.com/OXY2DEV/markview.nvim"
+    },
     "mini.base16": {
       "rev": "852a1ab7700dd5ca56ec94232ea7bc2d6158662a",
       "src": "https://github.com/nvim-mini/mini.base16"
