@@ -4,6 +4,10 @@
       "rev": "fb4369940a07dda35fa4d7f54cf4a36aa00440e6",
       "src": "https://github.com/romgrk/barbar.nvim"
     },
+    "blink-edit.nvim": {
+      "rev": "220f5777f5597f6d7868981d6ff9b6218247fec4",
+      "src": "https://github.com/BlinkResearchLabs/blink-edit.nvim"
+    },
     "blink.cmp": {
       "rev": "74967d4f9e6bffd4f707493917503e9d9c73e92c",
       "src": "https://github.com/Saghen/blink.cmp"
@@ -51,6 +55,10 @@
     "mini.icons": {
       "rev": "ff2e4f1d29f659cc2bad0f9256f2f6195c6b2428",
       "src": "https://github.com/nvim-mini/mini.icons"
+    },
+    "minuet-ai.nvim": {
+      "rev": "90822118ce285130fecd77cc0942880c2ad89fd0",
+      "src": "https://github.com/milanglacier/minuet-ai.nvim"
     },
     "modes.nvim": {
       "rev": "0932ba4e0bdc3457ac89a8aeed4d56ca0b36977a",

@@ -1,6 +1,0 @@
-2025/05/29-11:13:33.011 f98 Creating DB /home/zanshin/.config/Vieb/Partitions/main/IndexedDB/https_help.twitch.tv_0.indexeddb.leveldb since it was missing.
-2025/05/29-11:13:33.012 f98 Reusing MANIFEST /home/zanshin/.config/Vieb/Partitions/main/IndexedDB/https_help.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
-2025/05/29-11:34:06.090 f99 Level-0 table #5: started
-2025/05/29-11:34:06.091 f99 Level-0 table #5: 4052 bytes OK
-2025/05/29-11:34:06.091 f99 Delete type=0 #3
-2025/05/29-11:34:06.092 f99 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

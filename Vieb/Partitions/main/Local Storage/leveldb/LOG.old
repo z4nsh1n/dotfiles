@@ -1,6 +1,0 @@
-2026/01/02-20:28:26.021 3122e5 Reusing MANIFEST /home/zanshin/.config/Vieb/Partitions/main/Local Storage/leveldb/MANIFEST-000001
-2026/01/02-20:28:26.022 3122e5 Recovering log #171
-2026/01/02-20:28:26.022 3122e5 Reusing old log /home/zanshin/.config/Vieb/Partitions/main/Local Storage/leveldb/000171.log 
-2026/01/02-20:39:09.447 3122e5 Level-0 table #175: started
-2026/01/02-20:39:09.453 3122e5 Level-0 table #175: 66751 bytes OK
-2026/01/02-20:39:09.467 3122e5 Delete type=0 #171
