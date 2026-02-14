@@ -60,6 +60,7 @@ vim.api.nvim_create_autocmd("FileType", {
 -- end
 
 -- bit weird, 
+require("config.plugins.nvim-dap")
 require("config.plugins.markview")
 require("config.plugins.mini")
 require("config.plugins.colors")
@@ -88,6 +89,9 @@ vim.keymap.set("c", "<C-j>", "<Down>", {remap=false,})
 
 
 -- normal mappings
+vim.keymap.set("n", "<leader>t", function ()
+  vim.fn.execute(string.format("!tmux display-popup -E -h 90\\%% -w 90\\%% -d %s", vim.fn.getcwd()))
+end,{remap=false, desc="jump back in the change list"})
 vim.keymap.set("n", "<A-[>", "g;zz", {remap=false, desc="jump back in the change list"})
 vim.keymap.set("n", "<A-]>", "g,zz", {remap=false, desc="jump back in the change list"})
 vim.keymap.set("n", "n", "nzz", {remap=false})
