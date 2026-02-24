@@ -40,6 +40,10 @@
       "rev": "cdafc320f03f2572c40ab93a4eecb733d4016d07",
       "src": "https://github.com/lewis6991/gitsigns.nvim"
     },
+    "kicknvim": {
+      "rev": "93e609ec43d5a2f2c0e91895e17a7321654cf830",
+      "src": "https://github.com/IstiCusi/kicknvim"
+    },
     "markview.nvim": {
       "rev": "c81ce9e",
       "src": "https://github.com/OXY2DEV/markview.nvim"
@@ -63,6 +67,10 @@
     "modes.nvim": {
       "rev": "0932ba4e0bdc3457ac89a8aeed4d56ca0b36977a",
       "src": "https://github.com/mvllow/modes.nvim"
+    },
+    "multiterm.nvim": {
+      "rev": "e77a596342b414c0e377d2e2a596255db720e3d4",
+      "src": "https://github.com/imranZERO/multiterm.nvim"
     },
     "neogit": {
       "rev": "d93d7813cbd7acc44d2b058490c399ab84bf8d21",

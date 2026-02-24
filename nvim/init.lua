@@ -12,6 +12,7 @@ vim.lsp.enable({
 	"rust-analyzer",})
 
 -- vim.o.autocomplete=true
+vim.o.updatetime = 1000
 vim.o.winborder = "rounded"
 vim.diagnostic.config({virtual_text = true, virtual_lines=false})
 vim.o.number = true
@@ -33,6 +34,38 @@ vim.g.mapleader = " "
 vim.o.cursorline = true
 vim.o.cursorcolumn = true
 
+
+-- Add dd positions to the jumplist
+vim.keymap.set("n", "dd", "<cmd>keepjumps exec \"normal! dd\"<cr>",{remap=false})
+-- Add position to the jumplist after edit
+
+-- Add cursor jumps with #j and #k to the jumplist. Great!!!
+-- vim.keymap.set('n', 'j', function()
+--   if vim.v.count > 0 then
+--     return "m'" .. vim.v.count .. 'j'
+--   end
+--   return 'j'
+-- end, { expr = true })
+--
+-- vim.keymap.set('n', 'k', function()
+--   if vim.v.count > 0 then
+--     return "m'" .. vim.v.count .. 'k'
+--   end
+--   return 'k'
+-- end, { expr = true })
+vim.keymap.set("n", "k", function()
+    return vim.v.count > 0 and "m'" .. vim.v.count .. "k" or "gk"
+end, { expr = true })
+
+vim.keymap.set("n", "j", function()
+    return vim.v.count > 0 and "m'" .. vim.v.count .. "j" or "gj"
+end, { expr = true })
+
+vim.api.nvim_create_autocmd('CursorHold', {
+  callback = function (ev)
+   vim.cmd("normal! m'")
+  end,
+})
 
 vim.api.nvim_create_autocmd('LspAttach', {
   callback = function(ev)
@@ -60,6 +93,8 @@ vim.api.nvim_create_autocmd("FileType", {
 -- end
 
 -- bit weird, 
+require("config.plugins.kickass")
+require("config.plugins.multiterm")
 require("config.plugins.nvim-dap")
 require("config.plugins.markview")
 require("config.plugins.mini")
@@ -89,9 +124,16 @@ vim.keymap.set("c", "<C-j>", "<Down>", {remap=false,})
 
 
 -- normal mappings
+-- vim.keymap.set("n", "<leader>t", function ()
+--   local cmd = vim.fn.input("command:")
+--   vim.fn.execute(string.format("!tmux display-popup -E -h 90\\%% -w 90\\%% -d %s %s" , vim.fn.getcwd(), cmd))
+-- end,{remap=false, desc="Open tmux floating panel with a shell of the current dir"})
+
 vim.keymap.set("n", "<leader>t", function ()
-  vim.fn.execute(string.format("!tmux display-popup -E -h 90\\%% -w 90\\%% -d %s", vim.fn.getcwd()))
-end,{remap=false, desc="jump back in the change list"})
+  local cmd = vim.fn.input("command:")
+  vim.cmd("Multiterm! " .. cmd)
+end,{remap=false, desc="Open tmux floating panel with a shell of the current dir"})
+
 vim.keymap.set("n", "<A-[>", "g;zz", {remap=false, desc="jump back in the change list"})
 vim.keymap.set("n", "<A-]>", "g,zz", {remap=false, desc="jump back in the change list"})
 vim.keymap.set("n", "n", "nzz", {remap=false})
