@@ -2,4 +2,17 @@ qutebrowser/sessions/default.yml
 qutebrowser/qsettings/QtProject.conf
 qutebrowser/sessions/_autosave.yml
 Vieb/Partitions/
-Vieb/favicons/
+Vieb/favicons
+Vieb/DIPS-wal
+Vieb/DawnGraphiteCache
+Vieb/DawnWebGPUCache
+Vieb/GPUCache
+Vieb/Local Storage
+Vieb/Shared Dictionary
+Vieb/SingletonCookie
+Vieb/SingletonLock
+Vieb/SingletonSocket
+Vieb/favicons
+Vieb/hist
+Vieb/settings
+Vieb/tabs
