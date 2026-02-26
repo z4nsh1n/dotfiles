@@ -399,3 +399,6 @@ SICP ebook http://sarabander.github.io/sicp/html/Chapter-1.xhtml#Chapter-1
 pratt parser for mini language NICE! https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/
 pratt parsers https://martin.janiczek.cz/2023/07/03/demystifying-pratt-parsers.html
 pratt parsing https://dev.to/jrop/pratt-parsing
+Design patterns for C https://www.geeksforgeeks.org/system-design/design-patterns-for-embedded-systems-in-c/
+stb libs https://github.com/nothings/stb
+watch ocaml https://watch.ocaml.org/

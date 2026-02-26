@@ -56,6 +56,10 @@
       "rev": "0932ba4e0bdc3457ac89a8aeed4d56ca0b36977a",
       "src": "https://github.com/mvllow/modes.nvim"
     },
+    "multiterm.nvim": {
+      "rev": "e77a596342b414c0e377d2e2a596255db720e3d4",
+      "src": "https://github.com/imranZERO/multiterm.nvim"
+    },
     "neogit": {
       "rev": "d93d7813cbd7acc44d2b058490c399ab84bf8d21",
       "src": "https://github.com/NeogitOrg/neogit"
@@ -64,9 +68,21 @@
       "rev": "7a2c97cccd60abc559344042fefb1d5a85b3e33b",
       "src": "https://github.com/windwp/nvim-autopairs"
     },
+    "nvim-dap": {
+      "rev": "e47878dcf1ccc30136b30d19ab19fe76946d61cd",
+      "src": "https://github.com/mfussenegger/nvim-dap"
+    },
+    "nvim-dap-ui": {
+      "rev": "cf91d5e2d07c72903d052f5207511bf7ecdb7122",
+      "src": "https://github.com/rcarriga/nvim-dap-ui"
+    },
     "nvim-metals": {
       "rev": "90dadd6",
       "src": "https://github.com/scalameta/nvim-metals"
+    },
+    "nvim-nio": {
+      "rev": "21f5324bfac14e22ba26553caf69ec76ae8a7662",
+      "src": "https://github.com/nvim-neotest/nvim-nio"
     },
     "nvim-treesitter": {
       "rev": "42fc28ba918343ebfd5565147a42a26580579482",
