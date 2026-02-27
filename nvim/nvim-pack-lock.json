@@ -4,10 +4,6 @@
       "rev": "fb4369940a07dda35fa4d7f54cf4a36aa00440e6",
       "src": "https://github.com/romgrk/barbar.nvim"
     },
-    "blink-edit.nvim": {
-      "rev": "220f5777f5597f6d7868981d6ff9b6218247fec4",
-      "src": "https://github.com/BlinkResearchLabs/blink-edit.nvim"
-    },
     "blink.cmp": {
       "rev": "74967d4f9e6bffd4f707493917503e9d9c73e92c",
       "src": "https://github.com/Saghen/blink.cmp"
@@ -45,7 +41,7 @@
       "src": "https://github.com/IstiCusi/kicknvim"
     },
     "markview.nvim": {
-      "rev": "c81ce9e",
+      "rev": "c81ce9ed129387fc5fdec91abe9818a1b0e6fcac",
       "src": "https://github.com/OXY2DEV/markview.nvim"
     },
     "mini.base16": {
@@ -59,10 +55,6 @@
     "mini.icons": {
       "rev": "ff2e4f1d29f659cc2bad0f9256f2f6195c6b2428",
       "src": "https://github.com/nvim-mini/mini.icons"
-    },
-    "minuet-ai.nvim": {
-      "rev": "90822118ce285130fecd77cc0942880c2ad89fd0",
-      "src": "https://github.com/milanglacier/minuet-ai.nvim"
     },
     "modes.nvim": {
       "rev": "0932ba4e0bdc3457ac89a8aeed4d56ca0b36977a",
@@ -81,7 +73,7 @@
       "src": "https://github.com/windwp/nvim-autopairs"
     },
     "nvim-dap": {
-      "rev": "db321947bb289a2d4d76a32e76e4d2bd6103d7df",
+      "rev": "e47878dcf1ccc30136b30d19ab19fe76946d61cd",
       "src": "https://github.com/mfussenegger/nvim-dap"
     },
     "nvim-dap-ui": {
@@ -89,7 +81,7 @@
       "src": "https://github.com/rcarriga/nvim-dap-ui"
     },
     "nvim-metals": {
-      "rev": "90dadd6",
+      "rev": "90dadd67bb1069ce1ba2a4dabf4e45da2807ba80",
       "src": "https://github.com/scalameta/nvim-metals"
     },
     "nvim-nio": {
@@ -113,7 +105,7 @@
       "src": "https://github.com/nvim-lua/plenary.nvim"
     },
     "stacker.nvim": {
-      "rev": "7ce1a18",
+      "rev": "7ce1a185cd1e81cf40990af17d2a5324cfd8d3b6",
       "src": "https://github.com/tripplyons/stacker.nvim"
     },
     "telescope-fzf-native.nvim": {

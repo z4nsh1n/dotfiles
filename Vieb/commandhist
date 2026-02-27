@@ -264,3 +264,15 @@ tabnew
 close
 tabnew
 close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+buffer 0
+buffer 1
+buffer 0
+buffer 1
+buffer 2
+buffer 0

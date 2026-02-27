@@ -3,6 +3,7 @@ vim.pack.add ({
 })
 
 require("multiterm").setup({
+  vim.keymap.set("n", "<leader>t", "<Plug>(Multiterm)"),
   vim.keymap.set("n", "<leader>p", "<Plug>(Multiterm)"),
   vim.keymap.set("n", "<leader>l", "<Plug>(MultitermList)"),
   vim.keymap.set("n", "<leader>c", function ()
