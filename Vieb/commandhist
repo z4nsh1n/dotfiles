@@ -276,3 +276,7 @@ buffer 0
 buffer 1
 buffer 2
 buffer 0
+set searchreach
+set searchscope=
+set searchscope=local
+quitall

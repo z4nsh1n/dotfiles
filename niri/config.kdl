@@ -133,13 +133,18 @@ layout {
         proportion 0.33333
         proportion 0.5
         proportion 0.66667
+        proportion 1.0
 
         // Fixed sets the width in logical pixels exactly.
         // fixed 1920
     }
 
     // You can also customize the heights that "switch-preset-window-height" (Mod+Shift+R) toggles between.
-    // preset-window-heights { }
+    preset-window-heights {
+      proportion 0.33333
+      proportion 0.5
+      proportion 1.0
+    }
 
     // You can change the default width of the new windows.
     default-column-width { proportion 0.5; }
@@ -372,13 +377,15 @@ binds {
     // Mod-Shift-/, which is usually the same as Mod-?,
     // shows a list of important hotkeys.
     Mod+Shift+Slash { show-hotkey-overlay; }
-
+   
+    Mod+Space hotkey-overlay-title="Toggle Terminal: kitty" { spawn-sh "kitten quick-access-terminal"; }
     Mod+B hotkey-overlay-title="Random background" {spawn-sh "pkill swaybg;swaybg -m stretch -i \"$(find ~/wallpapers -type f | shuf -n 1)\""; }
     // Suggested binds for running programs: terminal, app launcher, screen locker.
     // Mod+T hotkey-overlay-title="Open a Terminal: alacritty" { spawn "alacritty"; }
     Mod+Return hotkey-overlay-title="Open a Terminal: kitty" { spawn "kitty"; }
-    Mod+D hotkey-overlay-title="Run an Application: wofi" { spawn-sh "wofi --show drun"; }
+    // Mod+D hotkey-overlay-title="Run an Application: wofi" { spawn-sh "wofi --show drun"; }
     // Mod+D hotkey-overlay-title="Run an Application: fuzzel" { spawn "fuzzel"; }
+    Mod+D hotkey-overlay-title="Run an Application: wofi" { spawn-sh "wofi --show drun"; }
     Super+Alt+L hotkey-overlay-title="Lock the Screen: swaylock" { spawn "swaylock"; }
 
     // Use spawn-sh to run a shell command. Do this if you need pipes, multiple commands, etc.
@@ -390,10 +397,13 @@ binds {
     // The allow-when-locked=true property makes them work even when the session is locked.
     // Using spawn-sh allows to pass multiple arguments together with the command.
     // "-l 1.0" limits the volume to 100%.
-    XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+ -l 1.0"; }
-    XF86AudioLowerVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1-"; }
-    XF86AudioMute        allow-when-locked=true { spawn-sh "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle"; }
+    XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo +5%"; }
+    XF86AudioLowerVolume allow-when-locked=true { spawn-sh "pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo -5%"; }
+    // XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+ -l 1.0"; }
+    // XF86AudioLowerVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1-"; }
+    XF86AudioMute        allow-when-locked=true { spawn-sh "pactl set-sink-mute alsa_output.pci-0000_00_1f.3.analog-stereo toggle"; }
     XF86AudioMicMute     allow-when-locked=true { spawn-sh "wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle"; }
+// pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo +5%
 
     // Example media keys mapping using playerctl.
     // This will work with any MPRIS-enabled media player.
@@ -420,8 +430,6 @@ binds {
     Mod+Up    { focus-window-up; }
     Mod+Right { focus-column-right; }
     Mod+H     { focus-column-left; }
-    // Mod+J     { focus-window-down; }
-    // Mod+K     { focus-window-up; }
     Mod+L     { focus-column-right; }
 
     Mod+Ctrl+Left  { move-column-left; }
@@ -475,8 +483,8 @@ binds {
 
     Mod+Page_Down      { focus-workspace-down; }
     Mod+Page_Up        { focus-workspace-up; }
-    Mod+U              { focus-workspace-down; }
-    Mod+I              { focus-workspace-up; }
+    Mod+Alt+J              { focus-workspace-down; }
+    Mod+Alt+K              { focus-workspace-up; }
     Mod+Ctrl+Page_Down { move-column-to-workspace-down; }
     Mod+Ctrl+Page_Up   { move-column-to-workspace-up; }
     Mod+Ctrl+U         { move-column-to-workspace-down; }
