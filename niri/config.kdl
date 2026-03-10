@@ -277,7 +277,7 @@ layout {
 // See the binds section below for more spawn examples.
 
 // This line starts waybar, a commonly used bar for Wayland compositors.
-spawn-at-startup "waybar"
+spawn-sh-at-startup "waybar -c ~/.config/waybar/config-niri.jsonc"
 spawn-sh-at-startup "pkill swaybg;swaybg -m stretch -i \"$(find ~/wallpapers -type f | shuf -n 1)\"" 
 spawn-at-startup "systemctl" "--user " "import-environment" "WAYLAND_DISPLAY" "XDG_CURRENT_DESKTOP=niri" 
 spawn-at-startup "dbus-update-activation-environment" "--systemd" "WAYLAND_DISPLAY" "XDG_CURRENT_DESKTOP=niri"
