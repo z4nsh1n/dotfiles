@@ -1,0 +1,47 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABfUAAAOcAAAAAAAAAAAAAAX1AAADnAAAAAAAAAAABgAAAAAAAAAA
+    AAAABfUAAAOc
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2026-03-08T11:46:34'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Marian Pekár | Blog
+      url: https://marianpekar.com/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T11:46:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Computer Graphics from Scratch - Gabriel Gambetta
+      url: https://gabrielgambetta.com/computer-graphics-from-scratch/index.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T11:46:47'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '3D Graphics: Implementing a 3D Renderer | by Juan Espinoza | Medium'
+      url: https://medium.com/@jrespinozah/3d-graphics-implementing-a-3d-renderer-a9a45695688d
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2026-03-08T11:46:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Developing a Software Renderer Part 1 | Trenki’s Dev Blog
+      url: https://trenki2.github.io/blog/2017/06/06/developing-a-software-renderer-part1/
+      zoom: 1.0

@@ -1,0 +1,47 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABfUAAAOcAAAAAAAAAAAAAAX1AAADnAAAAAAAAAAABgAAAAAAAAAA
+    AAAABfUAAAOc
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2026-03-08T08:37:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (2308) Molly Rocket - YouTube
+      url: https://www.youtube.com/@MollyRocket/videos
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T08:37:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Handmade Penguin: Index'
+      url: https://davidgow.net/handmadepenguin/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T08:37:47'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Episode Guide  —  Handmade Hero
+      url: https://guide.handmadehero.org/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T08:37:58'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Handmade Penguin: Index'
+      url: https://davidgow.net/handmadepenguin/
+      zoom: 1.0
