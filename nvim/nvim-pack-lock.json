@@ -40,6 +40,10 @@
       "rev": "cdafc320f03f2572c40ab93a4eecb733d4016d07",
       "src": "https://github.com/lewis6991/gitsigns.nvim"
     },
+    "jai.vim": {
+      "rev": "591aa0a75e9bb859028248b65a1a38d46b8d8576",
+      "src": "https://github.com/rluba/jai.vim"
+    },
     "kicknvim": {
       "rev": "93e609ec43d5a2f2c0e91895e17a7321654cf830",
       "src": "https://github.com/IstiCusi/kicknvim"
