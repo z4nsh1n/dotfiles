@@ -1,0 +1,122 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABfUAAAOcAAAAAAAAAAAAAAX1AAADnAAAAAAAAAAABgAAAAAAAAAA
+    AAAABfUAAAOc
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2026-03-08T11:37:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'C Roguelike Resources? : r/roguelikedev'
+      url: https://www.reddit.com/r/roguelikedev/comments/u4gdae/c_roguelike_resources/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T11:37:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Rooms and Mazes: A Procedural Dungeon Generator – journal.stuffwithstuff.com'
+      url: https://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T11:37:41'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: C - RogueBasin
+      url: https://www.roguebasin.com/index.php/C
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2026-03-08T11:37:45'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Karcero
+      url: https://www.odedwelgreen.com/karcero/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T11:36:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Mazes for Programmers: Code Your Own Twisty Little Passages | Jamis
+        Buck | download on Z-Library'
+      url: https://z-library.sk/book/bwRN3Xk6j9/mazes-for-programmers-code-your-own-twisty-little-passages.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T11:35:39'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (2312) Coding a Rogue/Nethack RPG in C - Part 1 - YouTube
+      url: https://www.youtube.com/watch?v=ipQPEoGztAM&list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G&index=5
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T11:35:41'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'C Roguelike Resources? : r/roguelikedev'
+      url: https://www.reddit.com/r/roguelikedev/comments/u4gdae/c_roguelike_resources/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T11:35:43'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (2312) Writing a roguelike in C - Part 1 - YouTube
+      url: https://www.youtube.com/watch?v=DHgle5k4LDs
+      zoom: 1.0
+  - history:
+    - last_visited: '2026-03-08T11:35:50'
+      pinned: false
+      title: SDL2 Game Tutorials - parallelrealities.co.uk
+      url: https://www.parallelrealities.co.uk/tutorials/
+    - active: true
+      last_visited: '2026-03-08T11:38:35'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 6232
+      title: SDL2 Game Tutorials - parallelrealities.co.uk
+      url: https://www.parallelrealities.co.uk/tutorials/#rogue
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T11:35:55'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'The C Roguelike Tutorial - Part 3: The Dungeon - DEV Community'
+      url: https://dev.to/ignaoya/the-c-roguelike-tutorial-part-3-the-dungeon-23j2
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-08T11:35:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: SDL2 - Creating a simple roguelike - parallelrealities.co.uk
+      url: https://www.parallelrealities.co.uk/tutorials/rogue/rogue1.php
+      zoom: 1.0

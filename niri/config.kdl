@@ -277,6 +277,7 @@ layout {
 // See the binds section below for more spawn examples.
 
 // This line starts waybar, a commonly used bar for Wayland compositors.
+spawn-sh-at-startup "pkill rclone || rclone mount --daemon storagebox: ~/storagebox --vfs-cache-mode=full"
 spawn-sh-at-startup "waybar -c ~/.config/waybar/config-niri.jsonc"
 spawn-sh-at-startup "pkill swaybg;swaybg -m stretch -i \"$(find ~/wallpapers -type f | shuf -n 1)\"" 
 spawn-at-startup "systemctl" "--user " "import-environment" "WAYLAND_DISPLAY" "XDG_CURRENT_DESKTOP=niri" 
@@ -398,10 +399,10 @@ binds {
     // The allow-when-locked=true property makes them work even when the session is locked.
     // Using spawn-sh allows to pass multiple arguments together with the command.
     // "-l 1.0" limits the volume to 100%.
-    XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo +5%"; }
-    XF86AudioLowerVolume allow-when-locked=true { spawn-sh "pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo -5%"; }
-    // XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+ -l 1.0"; }
-    // XF86AudioLowerVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1-"; }
+    // XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo +5%"; }
+    // XF86AudioLowerVolume allow-when-locked=true { spawn-sh "pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo -5%"; }
+    XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+ -l 1.0"; }
+    XF86AudioLowerVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1-"; }
     XF86AudioMute        allow-when-locked=true { spawn-sh "pactl set-sink-mute alsa_output.pci-0000_00_1f.3.analog-stereo toggle"; }
     XF86AudioMicMute     allow-when-locked=true { spawn-sh "wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle"; }
 // pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo +5%
