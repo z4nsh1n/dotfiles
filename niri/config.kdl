@@ -335,6 +335,16 @@ window-rule {
     match app-id=r#"^org\.wezfurlong\.wezterm$"#
     default-column-width {}
 }
+window-rule {
+  match app-id="dropdown"
+  open-floating true
+  default-column-width { proportion 1.0; }
+  default-window-height { proportion 0.5; }
+  open-focused true
+  opacity 0.8
+  default-floating-position x=0 y=0 relative-to="top"
+
+}
 
 // Open the Firefox picture-in-picture player as floating by default.
 window-rule {
@@ -380,6 +390,7 @@ binds {
     Mod+Shift+Slash { show-hotkey-overlay; }
 
     Mod+Space hotkey-overlay-title="Toggle dropdown terminal" {spawn-sh "kitten quick-access-terminal";}
+    // Mod+Space hotkey-overlay-title="Toggle dropdown terminal" {spawn "kitty" "--class=dropdown";}
    
     Mod+B hotkey-overlay-title="Random background" {spawn-sh "pkill swaybg;swaybg -m stretch -i \"$(find ~/wallpapers -type f | shuf -n 1)\""; }
     // Suggested binds for running programs: terminal, app launcher, screen locker.
