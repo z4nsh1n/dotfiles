@@ -413,3 +413,4 @@ niri scripts 1 https://gist.github.com/ahmedna126/884b524e50b43db92caaec0ca55b69
 Software 3D renderer https://marianpekar.com/
 2D rotation matrix derivation https://www.youtube.com/watch?v=EZufiIwwqFA
 jai generate bindings https://sureshjoshi.com/development/raylib-jai-bindings-generation
+jai create bindings ffi https://sureshjoshi.com/development/raylib-jai-bindings-generation
