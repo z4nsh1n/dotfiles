@@ -280,3 +280,294 @@ set searchreach
 set searchscope=
 set searchscope=local
 quitall
+help
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+set useragent
+tabnew
+set useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+set useragent
+close
+quitall
+tabnew
+close
+tabnew
+quitall
+close
+set firefoxmode
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+buffer 2
+tabnew
+close
+set darkreader
+close
+tabnew
+buffer 3
+buffer 4
+close
+tabnew
+close
+tabnew
+close
+tabnew
+wq
+quitall
+tabnew
+close
+buffer 1
+close
+quitall
+close
+tabnew
+help windowtitle
+close
+set vimcommand?
+vim
+help vimcommand
+set vimcommand="foot -e vim"
+set vimcommand="foot -e nvim"
+close
+colorscheme catppuccin
+colorscheme compact
+colorscheme default
+colorscheme light-catppuccin
+colorscheme numberedtabs
+colorscheme paper-compact
+colorscheme totalblack
+colorscheme numberedtabs
+colorscheme catppuccin
+buffer 0
+buffer 1
+buffer 0
+buffer -1
+buffer 0
+buffer 6
+quitall
+buffer 1
+buffer -1
+buffer 1
+buffer 2
+buffer 1
+quitall
+buffer 0
+buffer 7
+buffers
+buffer 13
+buffer 1
+buffer 3
+buffer 2
+close
+buffer 5
+close
+tabnew
+help buffer
+buffers
+buffer 1
+buffer 2
+17buffer
+12buffer
+buffer 12
+b 13
+buffer 1
+buffer 2
+tabnew
+help ranges
+buffer -1
+buffer 1
+buffer 2
+buffer 3
+help tabcycle
+help :buffers
+close
+b 15
+b 0
+b 7
+close
+nnoremap gt :buffer
+tabnew
+close
+nnoremap gt <:buffer >
+buffer
+nnoremap gt <:buffer>
+buffer
+help toCommandMode
+nnoremap gt <toCommandMode>:b<Space>
+b 13
+b 15
+b 10
+b 15
+help useEnteredData
+help ranges
+12:buffer
+12buffer
+11,12buffer
+12buffer
+b 15
+close
+buffer 9
+buffer 0
+buffer 9
+b 10
+tabnew
+close
+pmap [ <pointer.scrollUp>
+close
+buffer 0
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+map!
+vsplit
+close
+buffer 0
+buffer 2
+split 2
+split 3
+map!
+buffer #
+split
+only
+vsplit
+split
+close
+vsplit
+close
+split
+only
+close
+help
+downloads!
+close
+notifications!
+nunmap q<Any>
+punmap q<Any>
+vunmap q<Any>
+nunmap q<C-[>
+punmap q<C-[>
+vunmap q<C-[>
+nunmap q<Esc>
+punmap q<Esc>
+vunmap q<Esc>
+nmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+pmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+vmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+nmap q<C-[> <nop>
+pmap q<C-[> <nop>
+vmap q<C-[> <nop>
+nmap q<Esc> <nop>
+pmap q<Esc> <nop>
+vmap q<Esc> <nop>
+nmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+pmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+vmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+nmap q<C-[> <nop>
+pmap q<C-[> <nop>
+vmap q<C-[> <nop>
+nmap q<Esc> <nop>
+pmap q<Esc> <nop>
+vmap q<Esc> <nop>
+nmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+pmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+vmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+nmap q<C-[> <nop>
+pmap q<C-[> <nop>
+vmap q<C-[> <nop>
+nmap q<Esc> <nop>
+pmap q<Esc> <nop>
+vmap q<Esc> <nop>
+nunmap q<Any>
+punmap q<Any>
+vunmap q<Any>
+nunmap q<C-[>
+punmap q<C-[>
+vunmap q<C-[>
+nunmap q<Esc>
+punmap q<Esc>
+vunmap q<Esc>
+nmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+pmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+vmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+nmap q<C-[> <nop>
+pmap q<C-[> <nop>
+vmap q<C-[> <nop>
+nmap q<Esc> <nop>
+pmap q<Esc> <nop>
+vmap q<Esc> <nop>
+nunmap q<Any>
+punmap q<Any>
+vunmap q<Any>
+nunmap q<C-[>
+punmap q<C-[>
+vunmap q<C-[>
+nunmap q<Esc>
+punmap q<Esc>
+vunmap q<Esc>
+nmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+pmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+vmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+nmap q<C-[> <nop>
+pmap q<C-[> <nop>
+vmap q<C-[> <nop>
+nmap q<Esc> <nop>
+pmap q<Esc> <nop>
+vmap q<Esc> <nop>
+nunmap q<Any>
+punmap q<Any>
+vunmap q<Any>
+nunmap q<C-[>
+punmap q<C-[>
+vunmap q<C-[>
+nunmap q<Esc>
+punmap q<Esc>
+vunmap q<Esc>
+nmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+pmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+vmap q<Any> <:nunmap q<Any>><:punmap q<Any>><:vunmap q<Any>><:nunmap q<C-[>><:punmap q<C-[>><:vunmap q<C-[>><:nunmap q<Esc>><:punmap q<Esc>><:vunmap q<Esc>><startRecording>
+nmap q<C-[> <nop>
+pmap q<C-[> <nop>
+vmap q<C-[> <nop>
+nmap q<Esc> <nop>
+pmap q<Esc> <nop>
+vmap q<Esc> <nop>
+close
+help!
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+set darkreader
+set nodarkreader
+quitall
+close
+quit

@@ -4,119 +4,338 @@ windows:
     AdnQywADAAAAAAAAAAAAAAAABfUAAAOcAAAAAAAAAAAAAAX1AAADnAAAAAAAAAAABgAAAAAAAAAA
     AAAABfUAAAOc
   tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2026-03-20T16:02:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1038
+      title: (2949) Agon Light - YouTube
+      url: https://www.youtube.com/playlist?list=PLzpQTqCgLrpAV51BjjM3tqC-8TnQZzFoB
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAvcAAAOcAAAAAAAAAAAAAAL3AAADnAAAAAAAAAAABgAAAAAAAAAA
+    AAAAAvcAAAOc
+  tabs:
   - history:
     - active: true
-      last_visited: '2026-03-08T11:37:08'
+      last_visited: '2026-03-20T16:02:54'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: 'C Roguelike Resources? : r/roguelikedev'
-      url: https://www.reddit.com/r/roguelikedev/comments/u4gdae/c_roguelike_resources/
+      title: 3Blue1Brown - YouTube
+      url: https://www.youtube.com/@3blue1brown/courses
+      zoom: 1.0
+  - history:
+    - last_visited: '2026-03-20T16:03:23'
+      pinned: false
+      title: Matrix multiplication as composition | Chapter 4, Essence of linear algebra
+        - YouTube
+      url: https://www.youtube.com/watch?v=XkY2DOUCWMU&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=6
+    - active: true
+      last_visited: '2026-03-20T16:03:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Three-dimensional linear transformations | Chapter 5, Essence of linear
+        algebra - YouTube
+      url: https://www.youtube.com/watch?v=rHLEWRxRGiM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=5
       zoom: 1.0
   - history:
     - active: true
-      last_visited: '2026-03-08T11:37:26'
+      last_visited: '2026-03-20T16:02:54'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: 'Rooms and Mazes: A Procedural Dungeon Generator – journal.stuffwithstuff.com'
-      url: https://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
-      zoom: 1.0
-  - history:
-    - active: true
-      last_visited: '2026-03-08T11:37:41'
-      pinned: false
-      scroll-pos:
-        x: 0
-        y: 0
-      title: C - RogueBasin
-      url: https://www.roguebasin.com/index.php/C
+      title: 'Code-It-Yourself! 3D Graphics Engine Part #1 - Triangles & Projection
+        - YouTube'
+      url: https://www.youtube.com/watch?v=ih20l3pJoeU&t=1389s
       zoom: 1.0
   - active: true
     history:
     - active: true
-      last_visited: '2026-03-08T11:37:45'
+      last_visited: '2026-03-20T16:02:56'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: Karcero
-      url: https://www.odedwelgreen.com/karcero/
+      title: 'raylib-zig/raylib-zig: Manually tweaked, auto-generated raylib bindings
+        for zig. https://github.com/raysan5/raylib'
+      url: https://github.com/raylib-zig/raylib-zig
       zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABfUAAAOcAAAAAAAAAAAAAAX1AAADnAAAAAAAAAAABgAAAAAAAAAA
+    AAAABfUAAAOc
+  tabs:
   - history:
     - active: true
-      last_visited: '2026-03-08T11:36:38'
+      last_visited: '2026-03-20T16:02:56'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: 'Mazes for Programmers: Code Your Own Twisty Little Passages | Jamis
-        Buck | download on Z-Library'
-      url: https://z-library.sk/book/bwRN3Xk6j9/mazes-for-programmers-code-your-own-twisty-little-passages.html
+      title: ray casting tutorial - Google Zoeken
+      url: https://www.google.nl/search?q=ray%20casting%20tutorial
       zoom: 1.0
-  - history:
+  - active: true
+    history:
     - active: true
-      last_visited: '2026-03-08T11:35:39'
+      last_visited: '2026-03-20T16:02:54'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: (2312) Coding a Rogue/Nethack RPG in C - Part 1 - YouTube
-      url: https://www.youtube.com/watch?v=ipQPEoGztAM&list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G&index=5
+      title: Raycasting
+      url: https://lodev.org/cgtutor/raycasting.html
       zoom: 1.0
   - history:
     - active: true
-      last_visited: '2026-03-08T11:35:41'
+      last_visited: '2026-03-20T16:02:54'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: 'C Roguelike Resources? : r/roguelikedev'
-      url: https://www.reddit.com/r/roguelikedev/comments/u4gdae/c_roguelike_resources/
+      title: Ray-Casting Tutorial – permadi.com
+      url: https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/
       zoom: 1.0
   - history:
     - active: true
-      last_visited: '2026-03-08T11:35:43'
+      last_visited: '2026-03-20T16:02:53'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: (2312) Writing a roguelike in C - Part 1 - YouTube
-      url: https://www.youtube.com/watch?v=DHgle5k4LDs
+      title: Ray Casting / Game Programming Tutorial
+      url: https://permadi.com/tutorial/raycast/raycbb.html#More%20Tricks
       zoom: 1.0
-  - history:
-    - last_visited: '2026-03-08T11:35:50'
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAvcAAAOcAAAAAAAAAAAAAAL3AAADnAAAAAAAAAAABgAAAAAAAAAA
+    AAAAAvcAAAOc
+  tabs:
+  - active: true
+    history:
+    - last_visited: '2026-03-20T16:02:54'
       pinned: false
-      title: SDL2 Game Tutorials - parallelrealities.co.uk
-      url: https://www.parallelrealities.co.uk/tutorials/
-    - active: true
-      last_visited: '2026-03-08T11:38:35'
+      title: DeepSID | Carcrash.sid
+      url: https://deepsid.chordian.net/?file=/$100%20Old%20Demo%20Related%20Favs%20by%20Morpheus/High%20Voltage%20SID%20Collection/MUSICIANS/J/JCH/Carcrash.sid
+    - last_visited: '2026-03-20T16:02:58'
       pinned: false
-      scroll-pos:
-        x: 0
-        y: 6232
-      title: SDL2 Game Tutorials - parallelrealities.co.uk
-      url: https://www.parallelrealities.co.uk/tutorials/#rogue
-      zoom: 1.0
-  - history:
+      title: DeepSID | Chordian.sid
+      url: https://deepsid.chordian.net/?file=/$100%20Old%20Demo%20Related%20Favs%20by%20Morpheus/High%20Voltage%20SID%20Collection/MUSICIANS/J/JCH/Carcrash.sid
+    - last_visited: '2026-03-20T16:05:48'
+      pinned: false
+      title: DeepSID | Ending.sid
+      url: https://deepsid.chordian.net/?file=/$100%20Old%20Demo%20Related%20Favs%20by%20Morpheus/High%20Voltage%20SID%20Collection/MUSICIANS/J/JCH/Chordian.sid
+    - last_visited: '2026-03-20T16:09:55'
+      pinned: false
+      title: DeepSID | Glider_Pilot.sid
+      url: https://deepsid.chordian.net/?file=/$100%20Old%20Demo%20Related%20Favs%20by%20Morpheus/High%20Voltage%20SID%20Collection/MUSICIANS/J/JCH/Ending.sid
+    - last_visited: '2026-03-20T16:10:26'
+      pinned: false
+      title: DeepSID | Hawaii.sid
+      url: https://deepsid.chordian.net/?file=/$100%20Old%20Demo%20Related%20Favs%20by%20Morpheus/High%20Voltage%20SID%20Collection/MUSICIANS/J/JCH/Glider_Pilot.sid
     - active: true
-      last_visited: '2026-03-08T11:35:55'
+      last_visited: '2026-03-20T16:17:23'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: 'The C Roguelike Tutorial - Part 3: The Dungeon - DEV Community'
-      url: https://dev.to/ignaoya/the-c-roguelike-tutorial-part-3-the-dungeon-23j2
+      title: DeepSID | Hawaii.sid
+      url: https://deepsid.chordian.net/?file=/$100%20Old%20Demo%20Related%20Favs%20by%20Morpheus/High%20Voltage%20SID%20Collection/MUSICIANS/J/JCH/Hawaii.sid&subtune=2
       zoom: 1.0
   - history:
     - active: true
-      last_visited: '2026-03-08T11:35:59'
+      last_visited: '2026-03-20T16:02:59'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
-      title: SDL2 - Creating a simple roguelike - parallelrealities.co.uk
-      url: https://www.parallelrealities.co.uk/tutorials/rogue/rogue1.php
+      title: '3D Graphics: The Perspective Projection | by Juan Espinoza | Medium'
+      url: https://medium.com/@jrespinozah/3d-graphics-the-perspective-projection-d2076f42cdf3
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-20T16:02:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Juan Espinoza – Medium
+      url: https://medium.com/@jrespinozah
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-20T16:02:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '3D Graphics: Implementing a 3D Renderer | by Juan Espinoza | Medium'
+      url: https://medium.com/@jrespinozah/3d-graphics-implementing-a-3d-renderer-a9a45695688d
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-20T16:02:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'jrespinozah85/3D-Graphics-Tutorial: Companion code for articles on 3D
+        graphics on medium'
+      url: https://github.com/jrespinozah85/3D-Graphics-Tutorial
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAABfUAAAOcAAAAAAAAAAAAAAX1AAADnAAAAAAAAAAABgAAAAAAAAAA
+    AAAABfUAAAOc
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2026-03-20T16:19:36'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: A Guide to vim.pack (Neovim built-in plugin manager) – Evgeni Chasnovski
+      url: https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-22T08:46:10'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (2950) Let's build a 2D Platformer in Odin - All in one video course
+        - YouTube
+      url: https://www.youtube.com/watch?v=a_VKMhYnyVc&t=5s
+      zoom: 1.0
+  - history:
+    - last_visited: '2026-03-22T09:08:35'
+      pinned: false
+      title: (2919) I was a 10x engineer Now I'm useless | Prime Reacts - YouTube
+      url: https://www.youtube.com/watch?v=_vB0PDzaa7I
+    - last_visited: '2026-03-22T09:10:02'
+      pinned: false
+      title: "(2919) \U0001F525\U0001F525\U0001F525 #jiujitsu #judo #aikido - YouTube"
+      url: https://www.youtube.com/shorts/jR_pi4RNs2M
+    - last_visited: '2026-03-22T09:10:37'
+      pinned: false
+      title: (2919) Aikiluca - Martial Arts and Culture - YouTube
+      url: https://www.youtube.com/@aikiluca/shorts
+    - active: true
+      last_visited: '2026-03-22T09:10:43'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 571
+      title: (2949) Aikiluca - Martial Arts and Culture - YouTube
+      url: https://www.youtube.com/@aikiluca/videos
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2026-03-20T23:48:46'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Home · Jai-Community/Jai-Community-Library Wiki
+      url: https://github.com/Jai-Community/Jai-Community-Library/wiki
+      zoom: 1.0
+    - last_visited: '2026-03-20T23:47:15'
+      pinned: false
+      title: Advanced · Jai-Community/Jai-Community-Library Wiki
+      url: https://github.com/Jai-Community/Jai-Community-Library/wiki/Advanced
+  - history:
+    - active: true
+      last_visited: '2026-03-20T23:01:41'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 520
+      title: abstract syntax tree tutorial - Google Zoeken
+      url: https://www.google.nl/search?q=abstract%20syntax%20tree%20tutorial
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-20T23:02:14'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 6134
+      title: 4. Abstract Syntax Tree • Compiling to Assembly from Scratch
+      url: https://keleshev.com/compiling-to-assembly-from-scratch/04-abstract-syntax-tree
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-21T08:09:55'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 5798
+      title: 5. Parser Combinators • Compiling to Assembly from Scratch
+      url: https://keleshev.com/compiling-to-assembly-from-scratch/05-parser-combinators
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-03-21T07:19:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3936
+      title: Exploring Compile-Time Interfaces in Zig | by Jerry Thomas | Medium
+      url: https://medium.com/@jerrythomas_in/exploring-compile-time-interfaces-in-zig-5c1a1a9e59fd
+      zoom: 1.1
+  - history:
+    - last_visited: '2026-03-21T07:59:27'
+      pinned: false
+      title: (2885) Zig polymorphism (anytype, comptime interfaces, tagged unions)
+        - YouTube
+      url: https://www.youtube.com/watch?v=WkIkYFClqa4
+    - active: true
+      last_visited: '2026-03-21T07:59:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (2949) ComputerBread - YouTube
+      url: https://www.youtube.com/@ComputerBread
+      zoom: 1.0
+  - history:
+    - last_visited: '2026-03-21T08:50:09'
+      pinned: false
+      title: (2885) Pewdiepie - YouTube
+      url: https://www.youtube.com/results?search_query=Pewdiepie
+    - last_visited: '2026-03-21T08:50:09'
+      pinned: false
+      title: (2885) PewDiePie - YouTube
+      url: https://www.youtube.com/@PewDiePie
+    - active: true
+      last_visited: '2026-03-21T08:50:16'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (2950) PewDiePie - YouTube
+      url: https://www.youtube.com/@PewDiePie/videos
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAAvcAAAOcAAAAAAAAAAAAAAL3AAADnAAAAAAAAAAABgAAAAAAAAAA
+    AAAAAvcAAAOc
+  tabs:
+  - active: true
+    history:
+    - active: true
+      last_visited: '2026-03-22T00:52:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Let’s Build A Simple Interpreter. Part 1. - Ruslan's Blog
+      url: https://ruslanspivak.com/lsbasi-part1/
       zoom: 1.0
