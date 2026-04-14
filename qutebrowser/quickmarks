@@ -410,7 +410,13 @@ C64 crash course VIC 20 https://www.youtube.com/watch?v=NDymM14uQWM
 C64 6502 assembler tutorials https://www.youtube.com/watch?v=GzJ1RlC8IBQ&list=PLP6B4lEINxlqsSXOCcSY4il5to-oLnJ2z&index=9
 hash table in C https://benhoyt.com/writings/hash-table-in-c/
 niri scripts 1 https://gist.github.com/ahmedna126/884b524e50b43db92caaec0ca55b6976
-Software 3D renderer https://marianpekar.com/
 2D rotation matrix derivation https://www.youtube.com/watch?v=EZufiIwwqFA
-jai generate bindings https://sureshjoshi.com/development/raylib-jai-bindings-generation
 jai create bindings ffi https://sureshjoshi.com/development/raylib-jai-bindings-generation
+lode graphics tutorials https://lodev.org/cgtutor/
+raycasting DDA explanation https://www.youtube.com/watch?v=NbSee-XM7WA&list=PLrOv9FMX8xJEEQFU_eAvYTsyudrewymNl&index=22
+lode raycasting tutorial https://lodev.org/cgtutor/raycasting.html
+rust  super light tui https://docs.rs/superlighttui/latest/slt/
+Flaws of inheritance https://www.youtube.com/watch?v=hxGOiiR9ZKg&t=10s
+matrix and quaternions http://www.opengl-tutorial.org/assets/faq_quaternions/index.html
+math for gamdevs https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/
+math for game devs (video) https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF

@@ -280,3 +280,32 @@ set searchreach
 set searchscope=
 set searchscope=local
 quitall
+version!
+quitall
+buffer 0
+history!
+close
+buffer 0
+g linux
+tabnew
+close
+set useragent
+set useragent?
+buffer 0
+set useragentsys="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+set useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+help
+close
+quitall

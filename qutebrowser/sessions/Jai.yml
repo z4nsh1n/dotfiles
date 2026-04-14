@@ -1,0 +1,60 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAUAAAAAAAAACp8AAANqAAAFAQAAABkAAAd9AAAAcgAAAAACAAAABaAAAAUAAAAA
+    AAAACp8AAANq
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2026-04-12T09:50:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Sehgel/jai_snake
+      url: https://github.com/Sehgel/jai_snake
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-04-12T10:26:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: St0wy/raylib-jai
+      url: https://github.com/St0wy/raylib-jai
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-04-12T09:50:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'gudinoff/jai-modules: Modules for the language being developed by Thekla,
+        Inc.'
+      url: https://github.com/gudinoff/jai-modules
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2026-04-12T10:26:41'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Ivo-Balbaert/The_Way_to_Jai: A gradual guide to discover and learn the
+        Jai programming language'
+      url: https://github.com/Ivo-Balbaert/The_Way_to_Jai
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2026-04-12T09:50:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'nick-celestin-zizic/joogle: Type search engine for jai inspired by Tsoding''s
+        Coogle'
+      url: https://github.com/nick-celestin-zizic/joogle
+      zoom: 1.0

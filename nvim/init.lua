@@ -167,6 +167,7 @@ vim.api.nvim_create_autocmd('LspAttach', {
 
 -- LSP Servers
 vim.lsp.enable({
+  "haskell",
   "odin",
   "clojure",
   "ocaml",
