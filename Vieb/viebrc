@@ -1,5 +1,6 @@
 " Options
 "set adblocker=static
+set useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 set adblocker=off
 set cache=clearonquit
 set noclearcookiesonquit
@@ -146,11 +147,13 @@ set windowfullscreen=restore
 set windowmaximize=restore
 set windowposition=restore
 set windowsize=restore
-set windowtitle='%app - %title'
+set windowtitle="%app - %title"
 
 " Commands
 " colorscheme default
-colorscheme mynumbers
+" colorscheme mynumbers
+" colorscheme numberedtabs
+colorscheme catppuccin
 
 "
 "
@@ -162,24 +165,25 @@ set nofollownewtabswitch
 set suspendtimeout=300000
 
 " Commands
-colorscheme default
-colorscheme mynumbers
+"colorscheme default
+"colorscheme mynumbers
 
 inoremap <C-c> <toNormalMode>
+nnoremap gt <toCommandMode>:b<Space>
 nnoremap <A-h> <action.previousTab>
 nnoremap <A-l> <action.nextTab>
 nnoremap <S-h> <action.backInHistory>
 nnoremap <S-l> <action.forwardInHistory>
-nnoremap <A-1> <:buffer 0>
-nnoremap <A-2> <:buffer 1>
-nnoremap <A-3> <:buffer 2>
-nnoremap <A-4> <:buffer 3>
-nnoremap <A-5> <:buffer 4>
-nnoremap <A-6> <:buffer 5>
-nnoremap <A-7> <:buffer 6>
-nnoremap <A-8> <:buffer 7>
-nnoremap <A-9> <:buffer 8>
-nnoremap <A-0> <:buffer -1>
+nnoremap <A-1> <:buffer 1>
+nnoremap <A-2> <:buffer 2>
+nnoremap <A-3> <:buffer 3>
+nnoremap <A-4> <:buffer 4>
+nnoremap <A-5> <:buffer 5>
+nnoremap <A-6> <:buffer 6>
+nnoremap <A-7> <:buffer 7>
+nnoremap <A-8> <:buffer 8>
+nnoremap <A-9> <:buffer 9>
+nnoremap <A-0> <:buffer 0>
 emap <C-j> <nextSuggestion>
 emap <C-k> <prevSuggestion>
 nnoremap <A-m> <pageToClipboard>:set favoritepages+=<C-v><useEnteredData>

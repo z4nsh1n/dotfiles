@@ -261,7 +261,7 @@ beej guide for networking https://beej.us/guide/bgnet/
 deep sid c64 sid files https://deepsid.chordian.net/?file=/MUSICIANS/T/Tel_Jeroen/Tintin_on_the_Moon.sid&subtune=1
 c64 game demo files http://csdb.chordian.net/?type=release&id=242751
 neovim plugins and configs https://dotfyle.com/neovim/plugins/trending
-jai book https://github.com/Ivo-Balbaert/The_Way_to_Jai/blob/main/book/0_Preface.md
+jai book https://github.com/Jai-Community/Jai-Community-Library/wiki
 learn haskell by building a blog https://learn-haskell.blog/
 ocaml search like hoogle https://doc.sherlocode.com/
 vintage and C64 c64 https://www.vintageisthenewold.com/
@@ -420,3 +420,7 @@ Flaws of inheritance https://www.youtube.com/watch?v=hxGOiiR9ZKg&t=10s
 matrix and quaternions http://www.opengl-tutorial.org/assets/faq_quaternions/index.html
 math for gamdevs https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/
 math for game devs (video) https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF
+jai generate bindings https://sureshjoshi.com/development/raylib-jai-bindings-generation
+raycasting tutorial https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/
+raycasting tutorial 2 https://lodev.org/cgtutor/raycasting.html
+lets build a compiler https://compilers.iecc.com/crenshaw/

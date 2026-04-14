@@ -1,6 +1,10 @@
 qutebrowser/sessions/default.yml
 qutebrowser/qsettings/QtProject.conf
 qutebrowser/sessions/_autosave.yml
+
+Vieb/**/Session*Storage/
+Vieb/Code Cache/
+Vieb/DIPS
 Vieb/Partitions/
 Vieb/favicons
 Vieb/DIPS-wal
