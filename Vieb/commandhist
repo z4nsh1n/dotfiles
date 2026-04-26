@@ -1,0 +1,208 @@
+close
+help
+quitall
+close
+tabnew
+close
+tabnew
+close
+quitall
+close
+buffer 1
+buffer 0
+buffer 1
+buffer 0
+close
+tabnew
+help
+map!
+emap!
+help nmap!
+nmap!
+vsplit
+only
+close
+tabnew
+close
+tabnew
+help favoritepages
+set suggesttopsites=0
+tabnew
+close
+set favoritepages=newtaburl
+set favoritepages= newtaburl= suggesttopsites=0
+close
+tabnew
+help favoritepages
+help set
+command favoritepages <:set favoritepages+=<useCurrentUrl>>
+tabnew
+favoritepages
+set favoritepages+=vieb://newtab
+close
+nnoremap <M> :set favoritepages+=vieb://help#:set
+buffer 6
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+help favoritepages
+help
+command favoritepage <:set favoritepages+=<useCurrentUrl>>
+favoritepage
+set favoritepages+=https://github.com/oz123/awesome-c
+tabnew
+quitall
+close
+quitall
+close
+favoritepages
+set favoritepages+=vieb://newtab
+quitall
+close
+favoritepage
+set favoritepages+=https://github.com/oz123/awesome-c
+tabnew
+quitall
+close
+set favoritepages=newtaburl
+set favoritepages= newtablurl
+set favoritepages= newtaburl=0
+close
+tabnew
+close
+tabnew
+set favoritepages= newtaburl=""
+close
+tabnew
+buffer 1
+buffer 4
+favoritepage
+set favoritepages+=https://github.com/oz123/awesome-c
+close
+tabnew
+favoritepage
+set favoritepages+=https://www.reddit.com/
+close
+tabnew
+quitall
+close
+tabnew
+favoritepage
+set favoritepages+=https://github.com/oz123/awesome-c
+close
+tabnew
+set favicons!
+set favoritepages!
+set favoritepages
+close
+tabnew
+close
+tabnew
+buffer 1
+buffer 0
+favoritepage
+set favoritepages+=https://www.reddit.com/
+tabnew
+help
+quitall
+buffer 7
+buffer 0
+favoritepage
+set favoritepages+=https://www.reddit.com/
+tabnew
+buffer 6
+favoritepage
+set favoritepages+=vieb://newtab
+buffer 1
+close
+buffer 3
+close
+tabnew
+quitall
+close
+help
+help :mkviebrc
+close
+tabnew
+buffer 0
+favoritepage
+set favoritepages+=https://www.reddit.com/
+buffer 2
+favoritepage
+set favoritepages+=https://www.reddit.com/user/Wertbon1789/
+buffer 4
+close
+tabnew
+mkviebrc
+quitall
+close
+set favoritepages?
+help favoritepages
+quitall
+close
+buffer 3
+close
+tabnew
+favoritepage
+set favoritepages+=https://www.reddit.com/r/C_Programming/comments/1splepp/c_gems/
+close
+tabnew
+mkviebrc
+quitall
+close
+help favoritepages
+help :set
+quitall
+close
+tabnew
+buffer 0
+favoritepage
+set favoritepages+=[https://www.reddit.com/]
+buffer 4
+buffer 1
+buffer 0
+favoritepage
+set favoritepages+=[https://www.reddit.com/]
+favoritepage
+set favoritepages+=[https://www.reddit.com/]
+quitall
+buffer 0
+buffer 2
+buffer 1
+close
+buffer 1
+buffer 2
+buffer 1
+buffer 0
+favoritepage
+set favoritepages+=["https://www.reddit.com/"]
+buffer 2
+favoritepage
+set favoritepages+=["https://www.reddit.com/r/C_Programming/comments/1splepp/c_gems/"]
+tabnew
+quitall
+buffer 1
+buffer 0
+favoritepage
+set favoritepages+=["https://www.reddit.com/"]
+buffer 2
+favoritepage
+set favoritepages+=["https://www.reddit.com/r/C_Programming/comments/1splepp/c_gems/"]
+tabnew
+mkviebrc
+quitall
+buffer 9
+close
+tabnew
+buffer 4
+close
+tabnew
+close
+tabnew
+close
