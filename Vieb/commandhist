@@ -206,3 +206,58 @@ tabnew
 close
 tabnew
 close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+quitall
+tabnew
+close
+quitall
+buffer 1
+buffer 0
+buffer 2
+buffer 1
+buffer 0
+tabnew
+help
+buffer 1
+buffer 2
+buffer 1
+buffer 0
+buffer 1
+buffer 2
+buffer 1
+buffer 0
+buffer 2
+tabnew
+buffer 1
+buffer 0
+buffer 2
+colorscheme compact
+colorscheme default
+colorscheme flipped
+colorscheme light
+colorscheme totalblack
+colorscheme numberedtabs
+quitall
+help :colorscheme
+colorscheme mynumberedtabs
+buffer 1
+reloadconfig
+colorscheme mynumberedtabs
+buffer 0
+buffer 1
+buffer 2
+buffer 0
+buffer 1
+buffer 0
+colorscheme catppuccin
+colorscheme mycatppuccin
+close
+buffer 0
+buffer 1
+buffer 2
+buffer 0
