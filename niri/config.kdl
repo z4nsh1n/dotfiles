@@ -91,7 +91,7 @@ output "eDP-1" {
     mode "1920x1080@120.030"
 
     // You can use integer or fractional scale, for example use 1.5 for 150% scale.
-    scale 2
+    scale 1
 
     // Transform allows to rotate the output counter-clockwise, valid values are:
     // normal, 90, 180, 270, flipped, flipped-90, flipped-180 and flipped-270.
@@ -410,11 +410,12 @@ binds {
     // The allow-when-locked=true property makes them work even when the session is locked.
     // Using spawn-sh allows to pass multiple arguments together with the command.
     // "-l 1.0" limits the volume to 100%.
-    XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo +5%"; }
-    XF86AudioLowerVolume allow-when-locked=true { spawn-sh "pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo -5%"; }
-    // XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+ -l 1.0"; }
-    // XF86AudioLowerVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1-"; }
-    XF86AudioMute        allow-when-locked=true { spawn-sh "pactl set-sink-mute alsa_output.pci-0000_00_1f.3.analog-stereo toggle"; }
+    // XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo +5%"; }
+    // XF86AudioLowerVolume allow-when-locked=true { spawn-sh "pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo -5%"; }
+    XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+ -l 1.0"; }
+    XF86AudioLowerVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1-"; }
+    // XF86AudioMute        allow-when-locked=true { spawn-sh "pactl set-sink-mute alsa_output.pci-0000_00_1f.3.analog-stereo toggle"; }
+    XF86AudioMute        allow-when-locked=true { spawn-sh "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle"; }
     XF86AudioMicMute     allow-when-locked=true { spawn-sh "wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle"; }
 // pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo +5%
 
@@ -463,7 +464,7 @@ binds {
     Mod+Ctrl+J     { move-window-down; }
     Mod+Ctrl+K     { move-window-up; }
 
-    Mod+Shift+0 { focus-column-first; }
+    Mod+Shift+6 { focus-column-first; }
     Mod+Shift+4 { focus-column-last; }
     Mod+Home { focus-column-first; }
     Mod+End { focus-column-last; }
