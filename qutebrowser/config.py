@@ -1470,7 +1470,7 @@ c.qt.force_platform = None
 ##   - chromium: Tell Chromium to disable GPU support and use Skia software rendering instead. (`--disable-gpu`)
 ##   - none: Don't force software rendering.
 # c.qt.force_software_rendering = 'none'
-c.qt.force_software_rendering = 'chromium'
+# c.qt.force_software_rendering = 'chromium'
 
 ## Turn on Qt HighDPI scaling. This is equivalent to setting
 ## QT_AUTO_SCREEN_SCALE_FACTOR=1 or QT_ENABLE_HIGHDPI_SCALING=1 (Qt >=
