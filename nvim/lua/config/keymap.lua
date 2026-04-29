@@ -3,6 +3,9 @@ vim.g.maplocalleader = " "
 
 
 -- Normal mode
+vim.keymap.set("n", "zz", "za", {desc="Fold"})
+vim.keymap.set("n", "z", "zA", {desc="Fold"})
+vim.keymap.set("n", "<leader>n", "<cmd>Neogit<cr>", {desc="Neogit"})
 vim.keymap.set("n", "<leader><leader>l", "<cmd>Telescope live_grep<cr>", {desc="Telescope live grep"})
 vim.keymap.set("n", "-", "<cmd>Fyler<cr>", {desc = "Toggle Fyler filemanager"})
 vim.keymap.set("n", "<c-h>", [[<Esc><C-w>h]])

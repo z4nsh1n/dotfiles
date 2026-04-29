@@ -7,6 +7,23 @@
 // Find the full list of options on the wiki:
 // https://yalter.github.io/niri/Configuration:-Input
 prefer-no-csd
+// workspace "1"{}
+// workspace "2"{}
+// workspace "3"{}
+// workspace "4"{}
+// workspace "5"{}
+// workspace "6"{}
+// workspace "7"{}
+// workspace "8"{}
+// workspace "9"{}
+workspace "stash"{}
+window-rule {
+  match app-id=r#"^dropdown2"#
+  open-on-workspace "scratch"
+  open-floating true
+}
+spawn-at-startup "kitty --app-id=dropdown2" 
+
 input {
     keyboard {
       repeat-rate 35
@@ -91,7 +108,7 @@ output "eDP-1" {
     mode "1920x1080@120.030"
 
     // You can use integer or fractional scale, for example use 1.5 for 150% scale.
-    scale 1
+    scale 1.2
 
     // Transform allows to rotate the output counter-clockwise, valid values are:
     // normal, 90, 180, 270, flipped, flipped-90, flipped-180 and flipped-270.
@@ -203,6 +220,7 @@ layout {
     border {
         // The settings are the same as for the focus ring.
         // If you enable the border, you probably want to disable the focus ring.
+        // on
         off
 
         width 2
@@ -388,7 +406,8 @@ binds {
     // shows a list of important hotkeys.
     Mod+Shift+Slash { show-hotkey-overlay; }
 
-    Mod+Space hotkey-overlay-title="Toggle dropdown terminal" {spawn-sh "kitten quick-access-terminal";}
+    // Mod+Space hotkey-overlay-title="Toggle dropdown terminal" {spawn-sh "kitten quick-access-terminal";}
+    Mod+Space hotkey-overlay-title="Toggle terminal" {spawn "/home/zanshin/software/niri-scratchpad-rs/target/release/niri-scratchpad" "target" "--spawn" "kitty --app-id dropdown3" "appid" "dropdown3";}
     // Mod+Space hotkey-overlay-title="Toggle dropdown terminal" {spawn "kitty" "--class=dropdown";}
     // Mod+Space hotkey-overlay-title="Toggle dropdown terminal" {spawn "ndrop" "kitty" "--class" "dropdown";}
    
@@ -398,7 +417,8 @@ binds {
     Mod+Return hotkey-overlay-title="Open a Terminal: kitty" { spawn "kitty"; }
     // Mod+D hotkey-overlay-title="Run an Application: wofi" { spawn-sh "wofi --show drun"; }
     // Mod+D hotkey-overlay-title="Run an Application: fuzzel" { spawn "fuzzel"; }
-    Mod+D hotkey-overlay-title="Run an Application: wofi" { spawn-sh "wofi --show drun"; }
+    // Mod+D hotkey-overlay-title="Run an Application: wofi" { spawn-sh "wofi --show drun"; }
+    Mod+D hotkey-overlay-title="Run an Application: wofi" { spawn-sh "fuzzel -D auto"; }
     Super+Alt+L hotkey-overlay-title="Lock the Screen: swaylock" { spawn "swaylock"; }
 
     // Use spawn-sh to run a shell command. Do this if you need pipes, multiple commands, etc.
@@ -412,7 +432,8 @@ binds {
     // "-l 1.0" limits the volume to 100%.
     // XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo +5%"; }
     // XF86AudioLowerVolume allow-when-locked=true { spawn-sh "pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo -5%"; }
-    XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+ -l 1.0"; }
+    // XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+ -l 1.0"; }
+    XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+"; }
     XF86AudioLowerVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1-"; }
     // XF86AudioMute        allow-when-locked=true { spawn-sh "pactl set-sink-mute alsa_output.pci-0000_00_1f.3.analog-stereo toggle"; }
     XF86AudioMute        allow-when-locked=true { spawn-sh "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle"; }
