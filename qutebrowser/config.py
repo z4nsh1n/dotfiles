@@ -1078,7 +1078,7 @@ c.fonts.default_family = "JetBrains Mono"
 ## "px" suffix.
 ## Type: String
 
-c.fonts.default_size = '12pt'
+c.fonts.default_size = '15pt'
 #c.fonts.default_size = '20pt'
 
 ## Font used for the downloadbar.

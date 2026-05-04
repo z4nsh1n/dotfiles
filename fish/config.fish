@@ -39,7 +39,6 @@ bind -M default ctrl-p 'cd "$(zoxide query -i)"' repaint
 
 # bind -M insert ctrl-r 'fd . -d 3 --hidden --exclude .git | fzf -e'
 bind -M insert ctrl-p 'cd "$(zoxide query -i)"' repaint
-# # bindkey -s "^[c" 'cd "$(fd . -d 3 --hidden --exclude .git | fzf -e)"^M'
 # bind -M default ctrl-p 'cd "$(zoxide query -i)"^M'
 #
 # alias "nvim" "~/.local/share/bob/nvim-bin/nvim"
@@ -59,6 +58,7 @@ export BROWSER=qutebrowser
 export GOPATH=/home/zanshin/code/go/
 export ODIN_ROOT=/home/zanshin/software/Odin/
 export ELECTRON_OZONE_PLATFORM_HINT=auto
+export TERM=ghostty
 
 # to the end
 zoxide init fish | source
