@@ -3,11 +3,22 @@ vim.g.maplocalleader = " "
 
 
 -- Normal mode
+vim.keymap.set("n", "zz", "za", {desc="Fold"})
+vim.keymap.set("n", "z", "zA", {desc="Fold"})
+vim.keymap.set("n", "<leader>n", "<cmd>Neogit<cr>", {desc="Neogit"})
+vim.keymap.set("n", "<leader><leader>l", "<cmd>Telescope live_grep<cr>", {desc="Telescope live grep"})
 vim.keymap.set("n", "-", "<cmd>Fyler<cr>", {desc = "Toggle Fyler filemanager"})
 vim.keymap.set("n", "<c-h>", [[<Esc><C-w>h]])
 vim.keymap.set("n", "<c-l>", [[<Esc><C-w>l]])
 vim.keymap.set("n", "<c-j>", [[<Esc><C-w>j]])
 vim.keymap.set("n", "<c-k>", [[<Esc><C-w>k]])
+vim.keymap.set("n", "<leader>wc", "<C-w>c", {desc="Close window"})
+vim.keymap.set("n", "<leader>wx", "<C-w>c", {desc="Close window"})
+vim.keymap.set("n", "<leader>wx", "<C-w>c", {desc="Close window"})
+vim.keymap.set("n", "<leader>wq", ":q<cr>", {desc="Split window horizontal"})
+vim.keymap.set("n", "<leader>w", "<C-w>v>", {desc="Split window vertical"})
+vim.keymap.set("n", "<leader>W", "<C-w>s", {desc="Split window horizontal"})
+
 vim.keymap.set("n", "<leader><leader>x", "<cmd>source %<cr>")
 vim.keymap.set("n", "<leader>x", ":.lua<cr>")
 vim.keymap.set("n", "<c-k>", [[<Esc><C-w>k]])
