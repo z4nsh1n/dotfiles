@@ -1,0 +1,8 @@
+#!/usr/bin/env zsh
+selected=$(tmux ls| cut -d : -f 1 | /usr/sbin/fzf)
+
+if [[ -z $selected ]]; then
+    exit 0
+fi
+
+tmux switch-client -t "$selected"

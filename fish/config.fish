@@ -60,7 +60,7 @@ bind -M default ctrl-p 'cd "$(zoxide query -i)"' repaint
 # bind -M insert ctrl-s dtach-session-switcher
 # bind -M insert ctrl-g dtach-sessionizer
 bind -M insert ctrl-s zmx-session-switcher repaint
-bind -M insert ctrl-w zmx-sessionizer repaint
+bind -M insert ctrl-g zmx-sessionizer repaint
 
 # bind -M insert ctrl-r 'fd . -d 3 --hidden --exclude .git | fzf -e'
 bind -M insert ctrl-p 'cd "$(zoxide query -i)"' repaint

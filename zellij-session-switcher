@@ -1,0 +1,15 @@
+#!/bin/sh 
+# session=$(zellij list-sessions -n | grep -v EXITED | fzf --bind 'ctrl-d:execute-silent(zellij kill-session $(echo -n {1..} | cut -d \' \' -f 1))')
+# session=$(zellij list-sessions -n  | grep -v EXITED |  fzf --bind 'ctrl-d:execute-silent(zellij kill-session (echo -n {1..} | cut -d \' \' -f 1))' | cut -d ' ' -f 1)
+session=$(zellij list-sessions -n  | grep -v EXITED |  fzf | cut -d ' ' -f 1)
+
+if [[ -z $session ]]; then
+  exit 0  
+fi
+
+if [[ -z $ZELLIJ ]]; then
+  zellij attach "$session"
+  exit 0
+fi
+
+zellij action switch-session "$session"
