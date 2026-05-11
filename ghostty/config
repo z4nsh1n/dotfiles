@@ -55,37 +55,36 @@ background-opacity = 0.9
 # split-divider-color = #01ff00
 unfocused-split-opacity = 0.4 
 split-inherit-working-directory = true
-
 keybind = super+r=reload_config
 keybind = ctrl+shift+v=paste_from_clipboard
 keybind = ctrl+shift+c=copy_to_clipboard
 #tabs
-# keybind = ctrl+a>c=new_tab
-# keybind = ctrl+a>ctrl+l=next_tab
-# keybind = ctrl+a>ctrl+h=previous_tab
-# keybind = ctrl+a>w=close_tab
-# keybind = ctrl+a>r=prompt_tab_title
-# keybind = ctrl+a>t=toggle_tab_overview
-# keybind = ctrl+a>]=search_selection
+keybind = ctrl+a>c=new_tab
+keybind = ctrl+a>ctrl+l=next_tab
+keybind = ctrl+a>ctrl+h=previous_tab
+keybind = ctrl+a>w=close_tab
+keybind = ctrl+a>r=prompt_tab_title
+keybind = ctrl+a>t=toggle_tab_overview
+keybind = ctrl+a>]=search_selection
 
 #splits
-# keybind = ctrl+a>space=toggle_split_zoom
-# keybind = ctrl+a>v=new_split:right
-# keybind = ctrl+a>shift+v=new_split:down
-# keybind = ctrl+a>h=goto_split:left
-# keybind = ctrl+a>l=goto_split:right
-# keybind = ctrl+a>j=goto_split:down
-# keybind = ctrl+a>k=goto_split:up
+keybind = ctrl+a>space=toggle_split_zoom
+keybind = ctrl+a>v=new_split:right
+keybind = ctrl+a>shift+v=new_split:down
+keybind = ctrl+a>h=goto_split:left
+keybind = ctrl+a>l=goto_split:right
+keybind = ctrl+a>j=goto_split:down
+keybind = ctrl+a>k=goto_split:up
 
 #search
-# keybind = ctrl+a>[=start_search
-# keybind = ctrl+n=navigate_search:previous
-# keybind = ctrl+shift+n=navigate_search:next
-# # keybind = ctrl+a>c=new_window
-# # keybind = ctrl+h=goto_split_left
-# keybind = ctrl+a>p=write_screen_file:open
-# keybind = ctrl+shift+u=scroll_page_up
-# keybind = ctrl+shift+d=scroll_page_down
+keybind = ctrl+a>[=start_search
+keybind = ctrl+n=navigate_search:previous
+keybind = ctrl+shift+n=navigate_search:next
+# keybind = ctrl+a>c=new_window
+# keybind = ctrl+h=goto_split_left
+keybind = ctrl+a>p=write_screen_file:open
+keybind = ctrl+shift+u=scroll_page_up
+keybind = ctrl+shift+d=scroll_page_down
 
 # gtab managed include
 # config-file = "/home/zanshin/.config/gtab/ghostty-shortcut.conf"
