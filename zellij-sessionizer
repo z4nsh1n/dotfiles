@@ -1,0 +1,21 @@
+#!/bin/sh 
+
+if [[ $# -eq 1 ]]; then
+    selected=$1
+else
+    #selected=$(find ~/code ~/Downloads/ -mindepth 1 -maxdepth 3 -type d | fzf)
+    selected=$(fd . ~ ~/code ~/.config ~/Downloads/ ~/Music/ --maxdepth 2 -t d| fzf)
+fi
+
+if [[ -z $selected ]]; then
+    exit 0
+fi
+
+selected_name=$(basename "$selected" | tr . _)
+
+if [[ -z $ZELLIJ ]]; then
+  zellij attach "$session"
+  exit 0
+fi
+
+zellij action switch-session "$selected_name" -c "$selected"
