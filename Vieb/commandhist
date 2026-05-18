@@ -315,3 +315,10 @@ buffer 2
 buffer 1
 buffer 0
 quitall
+tabnew
+help
+close
+tabnew
+close
+buffer 1
+close

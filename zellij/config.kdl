@@ -19,6 +19,7 @@ keybinds clear-defaults=true {
     //     bind "esc" { SwitchToMode "locked"; }
     // }
     tmux {
+        bind "esc" { SwitchToMode "locked"; }
         bind "[" { SwitchToMode "scroll"; }
         // bind "[" { SwitchToMode "entersearch"; SearchInput 0; }
         bind "c" { NewTab; SwitchToMode "locked"; }

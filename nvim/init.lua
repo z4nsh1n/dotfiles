@@ -3,7 +3,6 @@ require("config.settings")
 require("config.keymap")
 require("config.autocmd")
 
-
 --
 -- Plugins
 -- 
@@ -29,6 +28,10 @@ vim.o.cursorline = true
 vim.g.mapleader = " "
 vim.o.cursorline = true
 vim.o.cursorcolumn = true
+
+vim.opt.complete:append('o')
+-- vim.opt.completeopt = {'menuone', 'noselect', 'noinsert', 'popup'} --, 'preview'}
+-- vim.o.autocomplete = true
 
 
 -- Add dd positions to the jumplist
@@ -63,15 +66,15 @@ vim.api.nvim_create_autocmd('CursorHold', {
   end,
 })
 
-vim.api.nvim_create_autocmd('LspAttach', {
-  callback = function(ev)
-    local client = vim.lsp.get_client_by_id(ev.data.client_id)
-    if client:supports_method('textDocument/completion') then
-      vim.lsp.completion.enable(true, client.id, ev.buf, { autotrigger = false })
-    end
-    vim.lsp.inlay_hint.enable(true)
-  end,
-})
+-- vim.api.nvim_create_autocmd('LspAttach', {
+--   callback = function(ev)
+--     local client = vim.lsp.get_client_by_id(ev.data.client_id)
+--     if client:supports_method('textDocument/completion') then
+--       vim.lsp.completion.enable(true, client.id, ev.buf, { autotrigger = false })
+--     end
+--     vim.lsp.inlay_hint.enable(true)
+--   end,
+-- })
 
 vim.api.nvim_create_autocmd("FileType", {
   pattern = {"scala"},
@@ -148,7 +151,7 @@ vim.api.nvim_create_autocmd('LspAttach', {
   callback = function(ev)
     local client = vim.lsp.get_client_by_id(ev.data.client_id)
     if client:supports_method('textDocument/completion') then
-      vim.lsp.completion.enable(true, client.id, ev.buf, { autotrigger = false })
+      vim.lsp.completion.enable(true, client.id, ev.buf, { autotrigger = false})
     end
     vim.lsp.inlay_hint.enable(true)
 

@@ -430,3 +430,4 @@ C64 roms https://www.planetemu.net/machine/commodore-64
 roms https://www.retrostic.com/roms
 mango wm https://mangowm.github.io/
 mime type xdg-mime fix https://superuser.com/questions/962687/problems-with-using-xdg-mime-default-the-default-was-successfully-set-but-it-is
+Learn Rust https://blog.sheerluck.dev/posts/learn-rust-ownership-by-building-mini-grep/
