@@ -31,6 +31,9 @@ keybinds clear-defaults=true {
             }
             SwitchToMode "locked"
         }
+        // bind "a" { ToggleFocusFullscreen; }
+        bind "Space" { ToggleFocusFullscreen; SwitchToMode "locked";}
+        // bind "Space" {ToggleFocusFullScreen; SwitchToMode "locked";}
         bind "h" { MoveFocus "left"; SwitchToMode "locked"; }
         bind "Ctrl h" { GoToPreviousTab; SwitchToMode "locked"; }
         bind "j" { MoveFocus "down"; SwitchToMode "locked"; }

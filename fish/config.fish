@@ -84,7 +84,7 @@ export BROWSER=qutebrowser
 export GOPATH=/home/zanshin/code/go/
 export ODIN_ROOT=/home/zanshin/software/Odin/
 export ELECTRON_OZONE_PLATFORM_HINT=auto
-export TERM=ghostty
+# export TERM=ghostty
 
 # to the end
 zoxide init fish | source

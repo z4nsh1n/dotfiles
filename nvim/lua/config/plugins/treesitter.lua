@@ -1,5 +1,5 @@
 vim.pack.add({
-  {src = "https://github.com/nvim-treesitter/nvim-treesitter"}})
+  {src = "https://github.com/nvim-treesitter/nvim-treesitter", version="main"}})
 
 local parser_config = require("nvim-treesitter.parsers").get_parser_configs()
 parser_config.c3 = {
