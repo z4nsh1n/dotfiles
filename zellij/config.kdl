@@ -25,7 +25,7 @@ keybinds clear-defaults=true {
         bind "V" { NewPane "down"; SwitchToMode "locked"; }
         bind "v" { NewPane "right"; SwitchToMode "locked"; }
         bind "f" {
-            Run "zellij-sessionizer" {
+            Run "/home/zanshin/.local/bin/zellij-sessionizer" {
                 floating true
                 close_on_exit true
             }
@@ -41,7 +41,7 @@ keybinds clear-defaults=true {
         bind "l" { MoveFocus "right"; SwitchToMode "locked"; }
         bind "Ctrl l" { GoToNextTab; SwitchToMode "locked"; }
         bind "s" {
-            Run "zellij-session-switcher" {
+            Run "/home/zanshin/.local/bin/zellij-session-switcher" {
                 floating true
                 close_on_exit true
             }
