@@ -2,6 +2,8 @@ vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 
 
+vim.keymap.set("n", "<leader>2", "<cmd>colorscheme newpaper<cr>", {desc="set colorscheme to newpaper"})
+vim.keymap.set("n", "<leader>1", "<cmd>colorscheme minicyan<cr>", {desc="set colorscheme to minicyan"})
 -- Normal mode
 vim.keymap.set("n", "zz", "za", {desc="Fold"})
 vim.keymap.set("n", "z", "zA", {desc="Fold"})

@@ -1,5 +1,9 @@
 {
   "plugins": {
+    "acme-colors": {
+      "rev": "c2ae949144fc9d38cf16d9369b567c8918cf2a82",
+      "src": "https://github.com/plan9-for-vimspace/acme-colors"
+    },
     "barbar.nvim": {
       "rev": "fb4369940a07dda35fa4d7f54cf4a36aa00440e6",
       "src": "https://github.com/romgrk/barbar.nvim"
@@ -12,17 +16,13 @@
       "rev": "74967d4f9e6bffd4f707493917503e9d9c73e92c",
       "src": "https://github.com/Saghen/blink.cmp"
     },
-    "c3.nvim": {
-      "rev": "83e0065bf2eeb409507245193f9e48b390aaaeaa",
-      "src": "https://www.github.com/wstucco/c3.nvim"
-    },
-    "c3.vim": {
-      "rev": "ecf1c04d9ca5e8ffefe8f9c22724528e49f627e2",
-      "src": "https://github.com/Airbus5717/c3.vim"
-    },
     "dracula.nvim": {
       "rev": "ae752c13e95fb7c5f58da4b5123cb804ea7568ee",
       "src": "https://github.com/Mofiqul/dracula.nvim"
+    },
+    "everforest": {
+      "rev": "aeef62ee97872d2557d25904d160ec93a4a355f8",
+      "src": "https://github.com/sainnhe/everforest"
     },
     "flash.nvim": {
       "rev": "fcea7ff883235d9024dc41e638f164a450c14ca2",
@@ -43,6 +43,10 @@
     "jai.vim": {
       "rev": "591aa0a75e9bb859028248b65a1a38d46b8d8576",
       "src": "https://github.com/rluba/jai.vim"
+    },
+    "kat.nvim": {
+      "rev": "041732950b387fee332feee2c7ee4e63f119e7a2",
+      "src": "https://github.com/katawful/kat.nvim"
     },
     "kicknvim": {
       "rev": "93e609ec43d5a2f2c0e91895e17a7321654cf830",
@@ -80,9 +84,25 @@
       "rev": "d93d7813cbd7acc44d2b058490c399ab84bf8d21",
       "src": "https://github.com/NeogitOrg/neogit"
     },
+    "neovim": {
+      "rev": "6a961effd67f6130d36df6d1c05c48c739796dd2",
+      "src": "https://github.com/rose-pine/neovim"
+    },
+    "newpaper.nvim": {
+      "rev": "519e90147a0524dad9da887dcf77eb9c2eb8fc89",
+      "src": "https://github.com/yorik1984/newpaper.nvim"
+    },
+    "nvim": {
+      "rev": "426dbebe06b5c69fd846ceb17b42e12f890aedf1",
+      "src": "https://github.com/catppuccin/nvim"
+    },
     "nvim-autopairs": {
       "rev": "7a2c97cccd60abc559344042fefb1d5a85b3e33b",
       "src": "https://github.com/windwp/nvim-autopairs"
+    },
+    "nvim-c3": {
+      "rev": "27484651f0d5e7e4f997eb4b76d21c525988f0a9",
+      "src": "https://github.com/ManuLinares/nvim-c3"
     },
     "nvim-dap": {
       "rev": "e47878dcf1ccc30136b30d19ab19fe76946d61cd",
@@ -102,7 +122,8 @@
     },
     "nvim-treesitter": {
       "rev": "42fc28ba918343ebfd5565147a42a26580579482",
-      "src": "https://github.com/nvim-treesitter/nvim-treesitter"
+      "src": "https://github.com/nvim-treesitter/nvim-treesitter",
+      "version": "'main'"
     },
     "nvim-web-devicons": {
       "rev": "8dcb311b0c92d460fac00eac706abd43d94d68af",
@@ -139,6 +160,10 @@
     "tokyonight.nvim": {
       "rev": "5da1b76e64daf4c5d410f06bcb6b9cb640da7dfd",
       "src": "https://github.com/folke/tokyonight.nvim"
+    },
+    "vim-solarized8": {
+      "rev": "4433b4411de92b2446a4d32f0d8bf1b25c476bf9",
+      "src": "https://github.com/lifepillar/vim-solarized8"
     }
   }
 }

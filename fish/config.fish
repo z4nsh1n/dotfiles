@@ -78,13 +78,13 @@ alias gits="git status"
 alias gitc="git commit"
 #
 # export PATH=~/.local/share/coursier/bin:~/.local/share/bob/nvim-bin/:~/.local/bin/:~/.cargo/bin/:~/.zvm/self/:~/.zvm/bin/:~/software/Nim/bin:~/.nimble/bin/:/usr/sbin/$PATH
-# set -U fish_user_paths ~/.local/share/coursier/bin ~/.local/share/bob/nvim-bin/ ~/.local/bin/ ~/.cargo/bin/ ~/.zvm/self/ ~/.zvm/bin/ ~/software/Nim/bin ~/.nimble/bin/ $fish_user_paths
+set -U fish_user_paths ~/.local/share/coursier/bin ~/.local/share/bob/nvim-bin/ ~/.local/bin/ ~/.cargo/bin/ ~/.zvm/self/ ~/.zvm/bin/ ~/software/Nim/bin ~/.nimble/bin/ $fish_user_paths
 export EDITOR=nvim
 export BROWSER=qutebrowser
 export GOPATH=/home/zanshin/code/go/
 export ODIN_ROOT=/home/zanshin/software/Odin/
 export ELECTRON_OZONE_PLATFORM_HINT=auto
-export TERM=ghostty
+# export TERM=ghostty
 
 # to the end
 zoxide init fish | source
