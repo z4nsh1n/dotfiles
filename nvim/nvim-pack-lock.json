@@ -16,6 +16,14 @@
       "rev": "74967d4f9e6bffd4f707493917503e9d9c73e92c",
       "src": "https://github.com/Saghen/blink.cmp"
     },
+    "c3.nvim": {
+      "rev": "83e0065bf2eeb409507245193f9e48b390aaaeaa",
+      "src": "https://www.github.com/wstucco/c3.nvim"
+    },
+    "c3.vim": {
+      "rev": "ecf1c04d9ca5e8ffefe8f9c22724528e49f627e2",
+      "src": "https://github.com/Airbus5717/c3.vim"
+    },
     "dracula.nvim": {
       "rev": "ae752c13e95fb7c5f58da4b5123cb804ea7568ee",
       "src": "https://github.com/Mofiqul/dracula.nvim"
