@@ -38,8 +38,9 @@ require("blink.cmp").setup({
         auto_show = true,
     },
     list = {selection = {
+        preselect = true, auto_insert = false}
         -- preselect = false, auto_insert = false}
-        preselect = true, auto_insert = true}
+        -- preselect = true, auto_insert = true}
     },
 	},
 	sources = {
