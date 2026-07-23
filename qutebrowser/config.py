@@ -1078,8 +1078,8 @@ c.fonts.default_family = "JetBrains Mono"
 ## "px" suffix.
 ## Type: String
 
-c.fonts.default_size = '15pt'
-#c.fonts.default_size = '20pt'
+# c.fonts.default_size = '15pt'
+c.fonts.default_size = '20pt'
 
 ## Font used for the downloadbar.
 ## Type: Font
@@ -1900,7 +1900,8 @@ c.url.searchengines = {'DEFAULT': 'https://www.google.nl/search?q={}',
                        'wa': 'https://wiki.archlinux.org/?search={}',
                        'vpub': 'https://vdoc.pub/search/{}',
                        'zlib' :'https://z-library.sk/s/{}',
-                       'ethy' : 'https://www.etymonline.com/word/{}',
+                       'etynl' : 'https://etymologiebank.nl/trefwoord/{}',
+                       'etyen' : 'https://www.etymonline.com/word/{}',
                        'dict' : 'https://dictionary.cambridge.org/dictionary/english/{}',
                        'wb' : 'https://nl.wiktionary.org/wiki/{}',
                        'hoogle' : 'https://hoogle.haskell.org/?hoogle={}',

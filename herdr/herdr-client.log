@@ -1,0 +1,59 @@
+2026-07-10T18:29:58.179483Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=107716
+2026-07-10T18:29:58.179534Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-10T18:29:58.217451Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-10T18:30:11.545574Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=107716
+2026-07-10T18:33:20.465201Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=121219
+2026-07-10T18:33:20.465228Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-10T18:33:20.469790Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-12T19:05:48.254761Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=8625
+2026-07-12T19:05:48.254962Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-12T19:05:48.263512Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-14T15:06:09.625276Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=162108
+2026-07-14T15:06:09.625538Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-14T15:06:09.631886Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-15T14:03:44.869408Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1479
+2026-07-15T14:03:44.869631Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-15T14:03:44.881803Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-21T07:56:03.440228Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=802695
+2026-07-21T07:56:03.440394Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-21T07:56:03.687496Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-22T14:49:12.740549Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=802695
+2026-07-22T14:49:22.200593Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3496010
+2026-07-22T14:49:22.200631Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-22T14:49:22.203412Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-22T14:49:42.941159Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3497266
+2026-07-22T14:49:42.941191Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-22T14:49:42.990727Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-22T14:51:17.780320Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3497266
+2026-07-23T07:25:49.928324Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3496010
+2026-07-23T07:26:05.375739Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1170691
+2026-07-23T07:26:05.375775Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T07:26:05.524319Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T12:05:48.749117Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=1170691
+2026-07-23T12:06:32.511925Z  WARN herdr::config::io: config parse error, using defaults err=TOML parse error at line 131, column 1
+    |
+131 | key = "prefix+s"
+    | ^
+duplicate key `key` in table `keys.command`
+
+2026-07-23T12:06:32.512033Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2027820
+2026-07-23T12:06:32.512041Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T12:06:32.518098Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T12:06:56.258875Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=2027820
+2026-07-23T12:08:23.796023Z  WARN herdr::config::io: config parse error, using defaults err=TOML parse error at line 126, column 1
+    |
+126 | key =  "prefix+f"
+    | ^
+duplicate key `key` in table `keys.command`
+
+2026-07-23T12:08:23.796144Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2033547
+2026-07-23T12:08:23.796155Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T12:08:23.797438Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T12:08:36.705658Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=2033547
+2026-07-23T12:09:10.625451Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2035997
+2026-07-23T12:09:10.625501Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T12:09:10.631139Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T12:09:25.304248Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=2035997
+2026-07-23T12:10:05.426146Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2038999
+2026-07-23T12:10:05.426175Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T12:10:05.435336Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame

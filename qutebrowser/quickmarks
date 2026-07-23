@@ -199,7 +199,7 @@ jay jonathan blow talks https://inductive.no/jai/
 rustlang webassembly https://rustwasm.github.io/docs/book/
 rustlang cmd apps https://rust-cli.github.io/book/index.html
 parsers compiler design https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q
-zig gamedev https://github.com/michal-z/zig-gamedev
+zig gamedev https://github.com/zig-gamedev
 awesome zig https://github.com/nrdmn/awesome-zig
 haskell reader https://engineering.dollarshaveclub.com/the-reader-monad-example-motivation-542c54ccfaa8
 ocaml 99listproblems https://ocaml.org/problems
@@ -435,3 +435,6 @@ cavestory https://www.youtube.com/playlist?list=PLNOBk_id22bw6LXhrGfhVwqQIa-M2Ms
 Learn Rust https://blog.sheerluck.dev/posts/learn-rust-ownership-by-building-mini-grep/
 openGL GL course https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby
 Makefile automatic variables https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html
+imgui tutorial SDL https://www.youtube.com/watch?v=go-h9c_h6Uw&t=67s
+Advanced C eskill steenberg https://www.youtube.com/watch?v=443UNeGrFoM
+Advanced C steenberg 2 https://www.youtube.com/watch?v=w3_e9vZj7D8&t=327s
