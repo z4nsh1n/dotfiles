@@ -57,3 +57,65 @@ duplicate key `key` in table `keys.command`
 2026-07-23T12:10:05.426146Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2038999
 2026-07-23T12:10:05.426175Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
 2026-07-23T12:10:05.435336Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T13:42:17.228754Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=2038999
+2026-07-23T13:42:19.805977Z  WARN herdr::config::io: config parse error, using defaults err=TOML parse error at line 112, column 30
+    |
+112 | navigate_workspace_down = "j"navigate_pane_left = "h"      # left arrow always focuses the pane to the left
+    |                              ^
+expected newline, `#`
+
+2026-07-23T13:42:19.806073Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2313296
+2026-07-23T13:42:19.806083Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T13:42:19.818342Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T13:42:27.033924Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=2313296
+2026-07-23T13:43:21.082038Z  WARN herdr::config::io: config parse error, using defaults err=TOML parse error at line 112, column 30
+    |
+112 | navigate_workspace_down = "j"navigate_pane_left = "h"      # left arrow always focuses the pane to the left
+    |                              ^
+expected newline, `#`
+
+2026-07-23T13:43:21.082138Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2316638
+2026-07-23T13:43:21.082147Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T13:43:21.088473Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T13:43:26.938473Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=2316638
+2026-07-23T13:43:59.396796Z  WARN herdr::config::io: config parse error, using defaults err=TOML parse error at line 112, column 30
+    |
+112 | navigate_workspace_down = "j"navigate_pane_left = "h"      # left arrow always focuses the pane to the left
+    |                              ^
+expected newline, `#`
+
+2026-07-23T13:43:59.396904Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2318724
+2026-07-23T13:43:59.396913Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T13:43:59.398111Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T13:44:06.876043Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=2318724
+2026-07-23T13:44:24.994141Z  WARN herdr::config::io: config parse error, using defaults err=TOML parse error at line 112, column 30
+    |
+112 | navigate_workspace_down = "j"navigate_pane_left = "h"      # left arrow always focuses the pane to the left
+    |                              ^
+expected newline, `#`
+
+2026-07-23T13:44:24.994224Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2320300
+2026-07-23T13:44:24.994230Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T13:44:25.000669Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T13:44:34.132697Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=2320300
+2026-07-23T13:44:43.932859Z  WARN herdr::config::io: config parse error, using defaults err=TOML parse error at line 112, column 30
+    |
+112 | navigate_workspace_down = "j"navigate_pane_left = "h"      # left arrow always focuses the pane to the left
+    |                              ^
+expected newline, `#`
+
+2026-07-23T13:44:43.932957Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2321406
+2026-07-23T13:44:43.932967Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T13:44:43.934419Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T13:44:52.902398Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=2321406
+2026-07-23T13:45:17.367032Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2323232
+2026-07-23T13:45:17.367060Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T13:45:17.368428Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T13:45:26.093318Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=2323232
+2026-07-23T13:45:56.761712Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2325382
+2026-07-23T13:45:56.761743Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T13:45:56.771983Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T13:46:20.289149Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=2325382
+2026-07-23T13:46:32.625423Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2327391
+2026-07-23T13:46:32.625457Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-07-23T13:46:32.635554Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame

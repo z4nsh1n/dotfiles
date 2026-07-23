@@ -123,13 +123,16 @@ navigate_workspace_down = "j"
 # key = "prefix+alt+g"
 # type = "pane"
 # command = "lazygit"
-key =  "prefix+f"
-type = "pane"
+key = "prefix+f"
+type = "popup"
 # command = "herdr workspace create --cwd /tmp/ --label tmp --focus"
 command = "sessionizer.sh"
+width = "80%"
+height = "50%"
+
 [[keys.command]]
 key = "prefix+s"
-type = "pane"
+type = "popup"
 command = "herdr_wp_switcher"
 # Legacy indexed shortcut config is still parsed for compatibility.
 # Prefer switch_tab, switch_workspace, and focus_agent for new configs.
