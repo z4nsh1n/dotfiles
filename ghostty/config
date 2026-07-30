@@ -63,10 +63,10 @@ keybind = ctrl+shift+c=copy_to_clipboard
 
 #tabs
 # keybind = ctrl+a>s=zmx-session-switcher
-keybind = ctrl+a>c=new_tab
+# keybind = ctrl+a>c=new_tab
 # keybind = ctrl+a>p=toggle_command_palette
-keybind = ctrl+a>ctrl+l=next_tab
-keybind = ctrl+a>ctrl+h=previous_tab
+# keybind = ctrl+a>ctrl+l=next_tab
+# keybind = ctrl+a>ctrl+h=previous_tab
 # keybind = ctrl+a>w=close_tab
 # keybind = ctrl+a>r=prompt_tab_title
 # keybind = ctrl+a>t=toggle_tab_overview

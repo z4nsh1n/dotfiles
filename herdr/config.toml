@@ -10,7 +10,7 @@ onboarding = false
 # Built-in themes: catppuccin, terminal, tokyo-night, dracula, nord,
 #                  gruvbox, one-dark, solarized, kanagawa, rose-pine,
 #                  vesper
-name = "gruvbox"
+name = "dracula"
 
 # Follow host terminal light/dark appearance and switch Herdr UI themes.
 # Existing manual behavior is unchanged unless this is true.
@@ -126,14 +126,14 @@ navigate_workspace_down = "j"
 key = "prefix+f"
 type = "popup"
 # command = "herdr workspace create --cwd /tmp/ --label tmp --focus"
-command = "sessionizer.sh"
+command = "~/.local/bin/sessionizer.sh"
 width = "80%"
 height = "50%"
 
 [[keys.command]]
 key = "prefix+s"
 type = "popup"
-command = "herdr_wp_switcher"
+command = "~/.local/bin/herdr_wp_switcher"
 # Legacy indexed shortcut config is still parsed for compatibility.
 # Prefer switch_tab, switch_workspace, and focus_agent for new configs.
 # [keys.indexed]
@@ -213,6 +213,7 @@ command = "herdr_wp_switcher"
 
 # Background notification popup delivery
 show_agent_labels_on_pane_borders = false
+agent_panel_sort = "spaces"
 [ui.toast]
 # off = disable pop-up notifications
 # herdr = show in-app toasts
@@ -221,7 +222,7 @@ show_agent_labels_on_pane_borders = false
 # delivery = "off"
 # delay_seconds = 1
 
-delivery = "system"
+delivery = "herdr"
 [ui.toast.herdr]
 # position = "bottom-right"
 
@@ -242,6 +243,7 @@ delivery = "system"
 # [ui.sound.agents]
 # droid = "off"
 
+enabled = true
 [session]
 # Resume supported AI-agent panes into their native conversation sessions after
 # a Herdr server restart. Requires official integrations that report session refs.

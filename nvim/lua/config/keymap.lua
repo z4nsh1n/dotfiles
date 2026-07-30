@@ -34,8 +34,8 @@ vim.keymap.set("n", "<C-u>", "<C-u>zz", {desc = "Half page up centered", remap=f
 
 vim.keymap.set("n", "<leader>.", "g,zz", {remap=false, desc = "Go up into the change map"})
 vim.keymap.set("n", "<leader>,", "g;zz", {remap=false, desc = "Go up into the change map"})
-vim.keymap.set("n", "<C-o>", "<C-o>zz", {remap=false, desc = "Go up into the change map"})
-vim.keymap.set("n", "<C-i>,","<C-i>zz", {remap=false, desc = "Go up into the change map"})
+-- vim.keymap.set("n", "<C-o>", "<C-o>zz", {remap=false, desc = "Go up into the change map"})
+-- vim.keymap.set("n", "<C-i>,","<C-i>zz", {remap=false, desc = "Go up into the change map"})
 -- vim.keymap.set("n", "<leader>s", "vsplit<CR>|g;zz")
 vim.keymap.set("n", "<leader>cd", "<cmd>cd %:p:h<cr>", {desc = "change current directory to current file "})
 vim.keymap.set("n", "<leader>lcd", "<cmd>lcd %:p:h<cr>", {desc = "change current directory to current file "})

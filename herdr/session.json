@@ -2,17 +2,17 @@
   "version": 3,
   "workspaces": [
     {
-      "id": "w1",
-      "custom_name": "home",
-      "identity_cwd": "/home/zanshin",
+      "id": "w5",
+      "custom_name": "C",
+      "identity_cwd": "/home/zanshin/code/C",
       "public_pane_numbers": {
-        "1": 1
+        "1": 14
       },
-      "next_public_pane_number": 27,
+      "next_public_pane_number": 54,
       "public_tab_numbers": [
         1
       ],
-      "next_public_tab_number": 8,
+      "next_public_tab_number": 13,
       "tabs": [
         {
           "custom_name": null,
@@ -21,7 +21,7 @@
           },
           "panes": {
             "1": {
-              "cwd": "/home/zanshin"
+              "cwd": "/home/zanshin/code/C"
             }
           },
           "zoomed": false,
@@ -32,24 +32,17 @@
       "active_tab": 0
     },
     {
-      "id": "w3",
-      "custom_name": null,
+      "id": "wK",
+      "custom_name": "odin",
       "identity_cwd": "/home/zanshin/code/odin",
-      "worktree_space": {
-        "key": "/home/zanshin/code/odin/.git",
-        "label": "odin",
-        "repo_root": "/home/zanshin/code/odin",
-        "checkout_path": "/home/zanshin/code/odin",
-        "is_linked_worktree": false
-      },
       "public_pane_numbers": {
         "3": 1
       },
-      "next_public_pane_number": 24,
+      "next_public_pane_number": 2,
       "public_tab_numbers": [
         1
       ],
-      "next_public_tab_number": 16,
+      "next_public_tab_number": 2,
       "tabs": [
         {
           "custom_name": null,
@@ -69,47 +62,96 @@
       "active_tab": 0
     },
     {
-      "id": "w5",
-      "custom_name": "C",
-      "identity_cwd": "/home/zanshin/code/C",
+      "id": "wP",
+      "custom_name": "haskell",
+      "identity_cwd": "/home/zanshin/code/haskell",
       "public_pane_numbers": {
-        "4": 14
+        "52": 17,
+        "46": 13,
+        "4": 1,
+        "5": 10
       },
-      "next_public_pane_number": 25,
+      "next_public_pane_number": 18,
       "public_tab_numbers": [
-        1
+        1,
+        9,
+        12,
+        14
       ],
-      "next_public_tab_number": 12,
+      "next_public_tab_number": 15,
       "tabs": [
         {
-          "custom_name": null,
+          "custom_name": "ghci",
           "layout": {
             "Pane": 4
           },
           "panes": {
             "4": {
-              "cwd": "/home/zanshin/code/C"
+              "cwd": "/home/zanshin/code/haskell",
+              "label": "ghci"
             }
           },
           "zoomed": false,
           "focused": 4,
           "root_pane": 4
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 5
+          },
+          "panes": {
+            "5": {
+              "cwd": "/home/zanshin/code/haskell"
+            }
+          },
+          "zoomed": false,
+          "focused": 5,
+          "root_pane": 5
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 46
+          },
+          "panes": {
+            "46": {
+              "cwd": "/home/zanshin/code/haskell"
+            }
+          },
+          "zoomed": false,
+          "focused": 46,
+          "root_pane": 46
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 52
+          },
+          "panes": {
+            "52": {
+              "cwd": "/home/zanshin/.config"
+            }
+          },
+          "zoomed": false,
+          "focused": 52,
+          "root_pane": 52
         }
       ],
-      "active_tab": 0
+      "active_tab": 3
     },
     {
-      "id": "wH",
-      "custom_name": "rust",
-      "identity_cwd": "/home/zanshin/dotfiles/herdr",
+      "id": "wR",
+      "custom_name": "C3",
+      "identity_cwd": "/home/zanshin/code/C3/bla",
       "public_pane_numbers": {
-        "6": 17
+        "6": 1
       },
-      "next_public_pane_number": 23,
+      "next_public_pane_number": 4,
       "public_tab_numbers": [
-        6
+        1
       ],
-      "next_public_tab_number": 7,
+      "next_public_tab_number": 4,
       "tabs": [
         {
           "custom_name": null,
@@ -118,7 +160,7 @@
           },
           "panes": {
             "6": {
-              "cwd": "/home/zanshin/dotfiles/herdr"
+              "cwd": "/home/zanshin/code/C3/bla"
             }
           },
           "zoomed": false,
@@ -127,11 +169,84 @@
         }
       ],
       "active_tab": 0
+    },
+    {
+      "id": "wS",
+      "custom_name": "jai",
+      "identity_cwd": "/home/zanshin/code/jai/bla",
+      "public_pane_numbers": {
+        "8": 2,
+        "7": 1
+      },
+      "next_public_pane_number": 3,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 2,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Split": {
+              "direction": "Horizontal",
+              "ratio": 0.5,
+              "first": {
+                "Pane": 7
+              },
+              "second": {
+                "Pane": 8
+              }
+            }
+          },
+          "panes": {
+            "8": {
+              "cwd": "/home/zanshin/software/jai/how_to"
+            },
+            "7": {
+              "cwd": "/home/zanshin/code/jai/bla"
+            }
+          },
+          "zoomed": false,
+          "focused": 8,
+          "root_pane": 7
+        }
+      ],
+      "active_tab": 0
+    },
+    {
+      "id": "wT",
+      "custom_name": "home",
+      "identity_cwd": "/home/zanshin",
+      "public_pane_numbers": {
+        "40": 1
+      },
+      "next_public_pane_number": 2,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 2,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 40
+          },
+          "panes": {
+            "40": {
+              "cwd": "/home/zanshin"
+            }
+          },
+          "zoomed": false,
+          "focused": 40,
+          "root_pane": 40
+        }
+      ],
+      "active_tab": 0
     }
   ],
-  "active": 3,
-  "selected": 3,
-  "sidebar_width": 26,
-  "sidebar_section_split": 0.5,
+  "active": 2,
+  "selected": 2,
+  "sidebar_width": 18,
+  "sidebar_section_split": 0.5106383,
   "collapsed_space_keys": []
 }
