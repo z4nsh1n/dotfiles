@@ -6,8 +6,5 @@
 
 config_version: 2
 settings:
-  colors.webpage.darkmode.enabled:
-    global: true
-  content.blocking.whitelist:
-    global:
-    - youtube.com
+  fonts.default_size:
+    global: 12pt
