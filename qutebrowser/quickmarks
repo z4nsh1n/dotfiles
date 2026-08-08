@@ -199,7 +199,7 @@ jay jonathan blow talks https://inductive.no/jai/
 rustlang webassembly https://rustwasm.github.io/docs/book/
 rustlang cmd apps https://rust-cli.github.io/book/index.html
 parsers compiler design https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q
-zig gamedev https://github.com/michal-z/zig-gamedev
+zig gamedev https://github.com/zig-gamedev
 awesome zig https://github.com/nrdmn/awesome-zig
 haskell reader https://engineering.dollarshaveclub.com/the-reader-monad-example-motivation-542c54ccfaa8
 ocaml 99listproblems https://ocaml.org/problems
@@ -445,3 +445,15 @@ handmade hero linux https://davidgow.net/handmadepenguin/default.html
 Handmade hero yt series https://www.youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU
 Odin guy https://www.youtube.com/@karl_zylinski/videos
 Operating systems in 3 easy pieces https://pages.cs.wisc.edu/~remzi/OSTEP/
+imgui tutorial SDL https://www.youtube.com/watch?v=go-h9c_h6Uw&t=67s
+Advanced C eskill steenberg https://www.youtube.com/watch?v=443UNeGrFoM
+Advanced C steenberg 2 https://www.youtube.com/watch?v=w3_e9vZj7D8&t=327s
+essay https://www.topscriptie.nl/essay-schrijven-hoe-doe-je-dat/
+Essays https://www.paulgraham.com/articles.html
+essay prof. Time Wilson https://www.youtube.com/watch?v=do68pHMLpB8&list=PLJLW8-ptuT8jq9Xy8Ylhnk8MSmrtlTlFy&index=3
+Dynamic Array in C Tsoding https://www.youtube.com/watch?v=gtk3RZHwJUA
+dynamic strings tsoding https://www.youtube.com/watch?v=y8PLpDgZc0E
+awesome compilers https://github.com/aalhour/awesome-compilers
+Parser/Compiler tutorial (NICE) https://github.com/DoctorWkt/acwj/blob/master/00_Introduction/Readme.md
+Rust Iterators https://blog.jetbrains.com/rust/2024/03/12/rust-iterators-beyond-the-basics-part-i-building-blocks/
+jai book the way to jai https://github.com/Ivo-Balbaert/The_Way_to_Jai/blob/main/book/20A_Debugging.md

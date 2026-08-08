@@ -56,15 +56,16 @@ bind -M insert --user ctrl-j down-or-search
 # bind -M default ctrl-p $fd
 
 # bind -M default ctrl-r 'fd . -d 3 --hidden --exclude .git | fzf -e' repaint
-bind -M default ctrl-p 'cd "$(zoxide query -i)"' repaint
 # bind -M insert ctrl-s dtach-session-switcher
 # bind -M insert ctrl-g dtach-sessionizer
-bind -M insert ctrl-s zmx-session-switcher repaint
-bind -M insert ctrl-g zmx-sessionizer repaint
+# bind -M insert ctrl-s zmx-session-switcher repaint
+# bind -M insert ctrl-g zmx-sessionizer repaint
 
 # bind -M insert ctrl-r 'fd . -d 3 --hidden --exclude .git | fzf -e'
 bind -M insert ctrl-p 'cd "$(zoxide query -i)"' repaint
-# bind -M default ctrl-p 'cd "$(zoxide query -i)"^M'
+bind -M default ctrl-p 'cd "$(zoxide query -i)"' repaint
+bind -M insert ctrl-t 'vi (fd | fzf)' repaint
+# bind -M default ctrl-p 'cd "$(zoxide query -i)"^M'g
 #
 # alias "nvim" "~/.local/share/bob/nvim-bin/nvim"
 alias "qutebrowser" "qutebrowser --qt-flag disable-gpu"
@@ -78,7 +79,7 @@ alias gits="git status"
 alias gitc="git commit"
 #
 # export PATH=~/.local/share/coursier/bin:~/.local/share/bob/nvim-bin/:~/.local/bin/:~/.cargo/bin/:~/.zvm/self/:~/.zvm/bin/:~/software/Nim/bin:~/.nimble/bin/:/usr/sbin/$PATH
-set -U fish_user_paths ~/.local/share/coursier/bin ~/.local/share/bob/nvim-bin/ ~/.ghcup/bin/ ~/.local/bin/ ~/.cargo/bin/ ~/.zvm/self/ ~/.zvm/bin/ ~/software/Nim/bin ~/.nimble/bin/ $fish_user_paths
+set -U fish_user_paths ~/.ghcup/bin ~/.local/share/coursier/bin ~/.local/share/bob/nvim-bin/ ~/.local/bin/ ~/.cargo/bin/ ~/.zvm/self/ ~/.zvm/bin/ ~/software/Nim/bin ~/.nimble/bin/ $fish_user_paths
 export EDITOR=nvim
 export BROWSER=qutebrowser
 export GOPATH=/home/zanshin/code/go/

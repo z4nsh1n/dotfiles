@@ -1,0 +1,300 @@
+{
+  "version": 3,
+  "workspaces": [
+    {
+      "id": "w5",
+      "custom_name": "C",
+      "identity_cwd": "/home/zanshin/code/C/compiler",
+      "public_pane_numbers": {
+        "2": 62,
+        "1": 61
+      },
+      "next_public_pane_number": 63,
+      "public_tab_numbers": [
+        20,
+        21
+      ],
+      "next_public_tab_number": 22,
+      "tabs": [
+        {
+          "custom_name": "compiler\\",
+          "layout": {
+            "Pane": 1
+          },
+          "panes": {
+            "1": {
+              "cwd": "/home/zanshin/code/C/compiler"
+            }
+          },
+          "zoomed": false,
+          "focused": 1,
+          "root_pane": 1
+        },
+        {
+          "custom_name": "string view",
+          "layout": {
+            "Pane": 2
+          },
+          "panes": {
+            "2": {
+              "cwd": "/home/zanshin/code/C/string_view"
+            }
+          },
+          "zoomed": false,
+          "focused": 2,
+          "root_pane": 2
+        }
+      ],
+      "active_tab": 1
+    },
+    {
+      "id": "wK",
+      "custom_name": "odin",
+      "identity_cwd": "/home/zanshin/code/odin/llist",
+      "public_pane_numbers": {
+        "6": 6,
+        "3": 2,
+        "5": 5,
+        "4": 4
+      },
+      "next_public_pane_number": 12,
+      "public_tab_numbers": [
+        2,
+        4,
+        5,
+        6
+      ],
+      "next_public_tab_number": 7,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 3
+          },
+          "panes": {
+            "3": {
+              "cwd": "/home/zanshin/code/odin/llist"
+            }
+          },
+          "zoomed": false,
+          "focused": 3,
+          "root_pane": 3
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 4
+          },
+          "panes": {
+            "4": {
+              "cwd": "/home/zanshin/code/odin/llist"
+            }
+          },
+          "zoomed": false,
+          "focused": 4,
+          "root_pane": 4
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 5
+          },
+          "panes": {
+            "5": {
+              "cwd": "/home/zanshin/code/odin/llist"
+            }
+          },
+          "zoomed": false,
+          "focused": 5,
+          "root_pane": 5
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 6
+          },
+          "panes": {
+            "6": {
+              "cwd": "/tmp/alloy/examples/components/grid"
+            }
+          },
+          "zoomed": false,
+          "focused": 6,
+          "root_pane": 6
+        }
+      ],
+      "active_tab": 3
+    },
+    {
+      "id": "wP",
+      "custom_name": "haskell",
+      "identity_cwd": "/home/zanshin/code/haskell",
+      "public_pane_numbers": {
+        "8": 13,
+        "7": 1
+      },
+      "next_public_pane_number": 21,
+      "public_tab_numbers": [
+        1,
+        12
+      ],
+      "next_public_tab_number": 17,
+      "tabs": [
+        {
+          "custom_name": "ghci",
+          "layout": {
+            "Pane": 7
+          },
+          "panes": {
+            "7": {
+              "cwd": "/home/zanshin/code/haskell",
+              "label": "ghci"
+            }
+          },
+          "zoomed": false,
+          "focused": 7,
+          "root_pane": 7
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 8
+          },
+          "panes": {
+            "8": {
+              "cwd": "/home/zanshin/code/haskell"
+            }
+          },
+          "zoomed": false,
+          "focused": 8,
+          "root_pane": 8
+        }
+      ],
+      "active_tab": 0
+    },
+    {
+      "id": "wR",
+      "custom_name": "C3",
+      "identity_cwd": "/home/zanshin/code/C3/bla",
+      "public_pane_numbers": {
+        "9": 1
+      },
+      "next_public_pane_number": 4,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 4,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 9
+          },
+          "panes": {
+            "9": {
+              "cwd": "/home/zanshin/code/C3/bla"
+            }
+          },
+          "zoomed": false,
+          "focused": 9,
+          "root_pane": 9
+        }
+      ],
+      "active_tab": 0
+    },
+    {
+      "id": "wS",
+      "custom_name": "jai",
+      "identity_cwd": "/home/zanshin/code/jai/howtos",
+      "public_pane_numbers": {
+        "10": 5,
+        "11": 6
+      },
+      "next_public_pane_number": 11,
+      "public_tab_numbers": [
+        3
+      ],
+      "next_public_tab_number": 8,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Split": {
+              "direction": "Horizontal",
+              "ratio": 0.5,
+              "first": {
+                "Pane": 10
+              },
+              "second": {
+                "Pane": 11
+              }
+            }
+          },
+          "panes": {
+            "11": {
+              "cwd": "/home/zanshin/software/jai/modules"
+            },
+            "10": {
+              "cwd": "/home/zanshin/code/jai/howtos"
+            }
+          },
+          "zoomed": true,
+          "focused": 10,
+          "root_pane": 10
+        }
+      ],
+      "active_tab": 0
+    },
+    {
+      "id": "wX",
+      "custom_name": "home",
+      "identity_cwd": "/home/zanshin",
+      "public_pane_numbers": {
+        "13": 2,
+        "12": 1
+      },
+      "next_public_pane_number": 3,
+      "public_tab_numbers": [
+        1,
+        2
+      ],
+      "next_public_tab_number": 3,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 12
+          },
+          "panes": {
+            "12": {
+              "cwd": "/home/zanshin"
+            }
+          },
+          "zoomed": false,
+          "focused": 12,
+          "root_pane": 12
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 13
+          },
+          "panes": {
+            "13": {
+              "cwd": "/home/zanshin"
+            }
+          },
+          "zoomed": false,
+          "focused": 13,
+          "root_pane": 13
+        }
+      ],
+      "active_tab": 1
+    }
+  ],
+  "active": 1,
+  "selected": 1,
+  "sidebar_width": 18,
+  "sidebar_section_split": 0.5106383,
+  "collapsed_space_keys": []
+}

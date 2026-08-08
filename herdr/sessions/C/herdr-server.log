@@ -1,0 +1,30 @@
+2026-07-22T14:44:47.433057Z  INFO herdr::api::server: api server listening path=/home/zanshin/.config/herdr/sessions/C/herdr.sock
+2026-07-22T14:44:47.434862Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-07-22T14:44:47.516145Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-22T14:44:47.518791Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-07-22T14:44:47.520346Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=3482243
+2026-07-22T14:44:47.520615Z  INFO herdr::logging: workspace created event="workspace.create" subsystem="workspace" outcome="ok" workspace_id="w1" pane_id=1
+2026-07-22T14:44:47.520626Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1"
+2026-07-22T14:44:47.520643Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1" tab_id="w1:t1"
+2026-07-22T14:44:47.520652Z  INFO herdr::server::headless: created startup workspace cwd=/home/zanshin
+2026-07-22T14:44:47.520742Z  INFO herdr::server::headless: client protocol socket listening path=/home/zanshin/.config/herdr/sessions/C/herdr-client.sock
+2026-07-22T14:44:47.520788Z  INFO herdr::server::headless: herdr server started api_socket=/home/zanshin/.config/herdr/sessions/C/herdr.sock client_socket=/home/zanshin/.config/herdr/sessions/C/herdr-client.sock
+2026-07-22T14:44:47.521209Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=3482213
+2026-07-22T14:44:47.578703Z  INFO herdr::server::headless: client connected client_id=2 cols=157 rows=45 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-07-22T14:44:52.522583Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/sessions/C/session.json workspaces=1
+2026-07-22T14:44:57.899354Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=1 status="ExitStatus { code: 0, signal: None }"
+2026-07-22T14:44:57.900449Z  INFO herdr::pane: pane session terminated pane=1 pid=3482243 signal=Hangup
+2026-07-22T14:44:57.900560Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=2 rows=44 cols=131 scrollback_limit_bytes=10000000
+2026-07-22T14:44:57.902220Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=2 pid=3482848
+2026-07-22T14:44:57.902408Z  INFO herdr::logging: workspace created event="workspace.create" subsystem="workspace" outcome="ok" workspace_id="w2" pane_id=2
+2026-07-22T14:44:57.902417Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w2"
+2026-07-22T14:44:57.902483Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w2" tab_id="w2:t1"
+2026-07-22T14:44:59.129174Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=2 status="ExitStatus { code: 0, signal: None }"
+2026-07-22T14:44:59.129301Z  INFO herdr::pane: pane session terminated pane=2 pid=3482848 signal=Hangup
+2026-07-22T14:44:59.129605Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=3 rows=44 cols=131 scrollback_limit_bytes=10000000
+2026-07-22T14:44:59.131325Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=3 pid=3482950
+2026-07-22T14:44:59.131545Z  INFO herdr::logging: workspace created event="workspace.create" subsystem="workspace" outcome="ok" workspace_id="w3" pane_id=3
+2026-07-22T14:44:59.131555Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w3"
+2026-07-22T14:44:59.131638Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w3" tab_id="w3:t1"
+2026-07-22T14:45:04.143085Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/sessions/C/session.json workspaces=1
+2026-07-22T14:47:57.923558Z  INFO herdr::server::headless: client disconnected client_id=2

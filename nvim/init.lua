@@ -9,7 +9,6 @@ require("config.autocmd")
 -- vim.o.autocomplete=true
 vim.o.updatetime = 1000
 vim.o.winborder = "rounded"
-vim.diagnostic.config({virtual_text = true, virtual_lines=false})
 vim.o.number = true
 vim.o.relativenumber = true
 -- vim.opt.completeopt = {"fuzzy", "menuone", "noselect", "noinsert"}
@@ -52,14 +51,16 @@ vim.keymap.set("n", "dd", "<cmd>keepjumps exec \"normal! dd\"<cr>",{remap=false}
 --   end
 --   return 'k'
 -- end, { expr = true })
-vim.keymap.set("n", "k", function()
-    return vim.v.count > 0 and "m'" .. vim.v.count .. "k" or "gk"
-end, { expr = true })
 
-vim.keymap.set("n", "j", function()
-    return vim.v.count > 0 and "m'" .. vim.v.count .. "j" or "gj"
-end, { expr = true })
 
+-- vim.keymap.set("n", "k", function()
+--     return vim.v.count > 0 and "m'" .. vim.v.count .. "k" or "gk"
+-- end, { expr = true })
+--
+-- vim.keymap.set("n", "j", function()
+--     return vim.v.count > 0 and "m'" .. vim.v.count .. "j" or "gj"
+-- end, { expr = true })
+--
 vim.api.nvim_create_autocmd('CursorHold', {
   callback = function (ev)
    vim.cmd("normal! m'")
@@ -92,6 +93,7 @@ vim.api.nvim_create_autocmd("FileType", {
 -- end
 
 -- bit weird, 
+require("config.plugins.nvim_dap")
 require("config.plugins.jai")
 require("config.plugins.kickass")
 require("config.plugins.multiterm")
@@ -106,8 +108,8 @@ require("config.plugins.blink")
 require("config.plugins.modes")
 require("config.plugins.barbar")
 require("config.plugins.flash")
-require("config.plugins.c3")
--- require("config.plugins.treesitter")
+-- require("config.plugins.c3")
+require("config.plugins.treesitter")
 require("config.plugins.autopairs")
 require("config.plugins.fyler")
 require("config.plugins.telescope")
@@ -170,6 +172,7 @@ vim.api.nvim_create_autocmd('LspAttach', {
 
 -- LSP Servers
 vim.lsp.enable({
+  "jai",
   "haskell",
   "odin",
   "clojure",

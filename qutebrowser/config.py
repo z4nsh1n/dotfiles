@@ -1078,8 +1078,8 @@ c.fonts.default_family = "JetBrains Mono"
 ## "px" suffix.
 ## Type: String
 
-c.fonts.default_size = '15pt'
-#c.fonts.default_size = '20pt'
+c.fonts.default_size = '12pt'
+# c.fonts.default_size = '20pt'
 
 ## Font used for the downloadbar.
 ## Type: Font
@@ -1155,7 +1155,7 @@ c.fonts.default_size = '15pt'
 
 ## Hard minimum font size (in pixels).
 ## Type: Int
-c.fonts.web.size.minimum = 17
+c.fonts.web.size.minimum = 12
 
 ## Minimum logical font size (in pixels) that is applied when zooming
 ## out.
@@ -1900,7 +1900,9 @@ c.url.searchengines = {'DEFAULT': 'https://www.google.nl/search?q={}',
                        'wa': 'https://wiki.archlinux.org/?search={}',
                        'vpub': 'https://vdoc.pub/search/{}',
                        'zlib' :'https://z-library.sk/s/{}',
-                       'ethy' : 'https://www.etymonline.com/word/{}',
+                       'etynl' : 'https://etymologiebank.nl/trefwoord/{}',
+                       'etyen' : 'https://www.etymonline.com/word/{}',
+                       'lat' : 'https://www.latin-is-simple.com/en/vocabulary/search/?q={}',
                        'dict' : 'https://dictionary.cambridge.org/dictionary/english/{}',
                        'wb' : 'https://nl.wiktionary.org/wiki/{}',
                        'hoogle' : 'https://hoogle.haskell.org/?hoogle={}',

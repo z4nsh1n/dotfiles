@@ -4,6 +4,10 @@
       "rev": "c2ae949144fc9d38cf16d9369b567c8918cf2a82",
       "src": "https://github.com/plan9-for-vimspace/acme-colors"
     },
+    "bafa.nvim": {
+      "rev": "87968d01e72660826bce00f9956515bd1d0d5b74",
+      "src": "https://github.com/mistweaverco/bafa.nvim.git"
+    },
     "barbar.nvim": {
       "rev": "fb4369940a07dda35fa4d7f54cf4a36aa00440e6",
       "src": "https://github.com/romgrk/barbar.nvim"
@@ -117,8 +121,12 @@
       "src": "https://github.com/mfussenegger/nvim-dap"
     },
     "nvim-dap-ui": {
-      "rev": "cf91d5e2d07c72903d052f5207511bf7ecdb7122",
+      "rev": "cc9dd33aade7f20bae414d0cba163bc60d4d4b43",
       "src": "https://github.com/rcarriga/nvim-dap-ui"
+    },
+    "nvim-dap-view": {
+      "rev": "ba5c838e731003abefb8bc1c403c59aa5b3aa194",
+      "src": "https://github.com/igorlfs/nvim-dap-view"
     },
     "nvim-metals": {
       "rev": "90dadd67bb1069ce1ba2a4dabf4e45da2807ba80",

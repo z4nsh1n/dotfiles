@@ -20,6 +20,8 @@ return {
         checkThirdParty = false,
         library = {
           vim.env.VIMRUNTIME,
+          "/usr/share/hypr/stubs/hl.meta.lua"
+
         },
       },
     },
