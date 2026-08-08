@@ -93,6 +93,7 @@ vim.api.nvim_create_autocmd("FileType", {
 -- end
 
 -- bit weird, 
+require("config.plugins.nvim_dap")
 require("config.plugins.jai")
 require("config.plugins.kickass")
 require("config.plugins.multiterm")
@@ -171,6 +172,7 @@ vim.api.nvim_create_autocmd('LspAttach', {
 
 -- LSP Servers
 vim.lsp.enable({
+  "jai",
   "haskell",
   "odin",
   "clojure",

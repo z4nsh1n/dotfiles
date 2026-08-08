@@ -3,6 +3,10 @@ local terminal = "kitty"
 -- local terminal = "ghostty"
 local menu = "fuzzel -D no"
 
+hl.bind(mainMod .. " + B", hl.dsp.exec_cmd("pkill swaybg;swaybg -m stretch -i \"$(find ~/wallpapers -type f | shuf -n 1)\""))
+
+hl.bind(mainMod .. " + ALT + L", hl.dsp.focus({workspace="e+1"}))
+hl.bind(mainMod .. " + ALT + H", hl.dsp.focus({workspace="e-1"}))
 hl.bind(mainMod .. " + Space", hl.dsp.workspace.toggle_special("dropdown"))
 hl.bind(mainMod .. " + Return", hl.dsp.exec_cmd(terminal))
 hl.bind(mainMod .. " + D", hl.dsp.exec_cmd(menu))

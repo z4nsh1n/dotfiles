@@ -7,10 +7,10 @@ require("tiny-inline-diagnostic").setup{
   transparent_cursorline = true,
 
   multilines = {
-    enabled = false,
-    always_show = true,
+    enabled = true,
+    always_show = false,
     trim_whitespace = false,
-    tabstop = 4
+    tabstop = 2
   },
 
   options = {
@@ -29,7 +29,7 @@ require("tiny-inline-diagnostic").setup{
 
   overflow = {
     mode = "wrap",
-    after = 30,
+    after = 20,
   },
 
 

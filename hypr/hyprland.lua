@@ -14,9 +14,16 @@ require "config.binds"
 
 hl.config({
   general = {
+    gaps_out = 3,
     layout = "master",
   },
-
+  misc = {
+    disable_hyprland_logo = true,
+    force_default_wallpaper =false,
+  },
+  decoration = {
+    rounding = 5,
+  },
   animations = {
     enabled = false,
   },
@@ -26,18 +33,18 @@ hl.config({
   },
   input = {
     touchpad = {
+      -- clickfinger_behavior = true,
+      tap_to_click = false,
       natural_scroll = true,
       disable_while_typing = true,
     }
   }
 })
 
-hl.animations = {
-}
-
 hl.on("hyprland.start", function ()
   hl.exec_cmd("waybar")
   hl.exec_cmd("kitty --class=dropdown -e herdr")
+  hl.exec_cmd("swaybg -m stretch -i \"/home/zanshin/wallpapers/programmer-quotes-3840x2160-18794.jpg\"")
 end)
 
 hl.window_rule({
