@@ -6,8 +6,8 @@ vim.pack.add({
 
 require("blink.cmp").setup({
   -- fuzzy = { implementation = "prefer_rust_with_warning" },
-  -- fuzzy = { implementation = "lua" },
-  fuzzy = { implementation = "prefer_rust",
+  fuzzy = { implementation = "lua"
+  -- fuzzy = { implementation = "prefer_rust",
   -- frecency = {
   --     -- Whether to enable the frecency feature
   --     enabled = true,
