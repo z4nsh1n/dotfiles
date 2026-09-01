@@ -52,10 +52,10 @@
       "custom_name": "odin",
       "identity_cwd": "/home/zanshin/code/odin/llist",
       "public_pane_numbers": {
-        "6": 6,
+        "4": 4,
         "3": 2,
         "5": 5,
-        "4": 4
+        "6": 6
       },
       "next_public_pane_number": 12,
       "public_tab_numbers": [
@@ -115,7 +115,7 @@
           },
           "panes": {
             "6": {
-              "cwd": "/tmp/alloy/examples/components/grid"
+              "cwd": "/home/zanshin"
             }
           },
           "zoomed": false,
@@ -130,8 +130,8 @@
       "custom_name": "haskell",
       "identity_cwd": "/home/zanshin/code/haskell",
       "public_pane_numbers": {
-        "8": 13,
-        "7": 1
+        "7": 1,
+        "8": 13
       },
       "next_public_pane_number": 21,
       "public_tab_numbers": [
@@ -207,8 +207,8 @@
       "custom_name": "jai",
       "identity_cwd": "/home/zanshin/code/jai/howtos",
       "public_pane_numbers": {
-        "10": 5,
-        "11": 6
+        "11": 6,
+        "10": 5
       },
       "next_public_pane_number": 11,
       "public_tab_numbers": [
@@ -231,11 +231,11 @@
             }
           },
           "panes": {
-            "11": {
-              "cwd": "/home/zanshin/software/jai/modules"
-            },
             "10": {
               "cwd": "/home/zanshin/code/jai/howtos"
+            },
+            "11": {
+              "cwd": "/home/zanshin/software/jai/modules"
             }
           },
           "zoomed": true,
@@ -292,8 +292,8 @@
       "active_tab": 1
     }
   ],
-  "active": 1,
-  "selected": 1,
+  "active": 5,
+  "selected": 5,
   "sidebar_width": 18,
   "sidebar_section_split": 0.5106383,
   "collapsed_space_keys": []
