@@ -6,5 +6,5 @@
 
 config_version: 2
 settings:
-  fonts.default_size:
-    global: 12pt
+  colors.webpage.darkmode.enabled:
+    global: true

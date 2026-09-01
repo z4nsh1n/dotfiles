@@ -14,6 +14,8 @@ parser_config.c3 = {
 }
 
 require("nvim-treesitter.configs").setup {
-    ensure_installed = {"c3", "lua", "zig", "rust", "c" , "markdown",  "cpp"},
+    ensure_installed = {"odin", "c3", "lua", "zig", "rust", "c" , "markdown",  "cpp"},
   highlight = {enable = true},
 }
+rew
+

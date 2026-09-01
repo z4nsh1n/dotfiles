@@ -45,6 +45,7 @@ hl.on("hyprland.start", function ()
   hl.exec_cmd("waybar")
   hl.exec_cmd("kitty --class=dropdown -e herdr")
   hl.exec_cmd("swaybg -m stretch -i \"/home/zanshin/wallpapers/programmer-quotes-3840x2160-18794.jpg\"")
+  hl.exec_cmd("pkill rclone || rclone mount --daemon storagebox: ~/storagebox/ --vfs-cache-mode=full")
 end)
 
 hl.window_rule({
