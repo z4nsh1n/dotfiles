@@ -278,6 +278,9 @@ expected newline, `#`
 2026-08-07T19:40:33.764926Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1110
 2026-08-07T19:40:33.765280Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
 2026-08-07T19:40:33.772184Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-09-01T17:07:51.567312Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1048
+2026-09-01T17:07:51.567646Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-01T17:07:51.568028Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
 2026-08-09T13:27:37.854342Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=836865
 2026-08-09T13:27:37.854552Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
 2026-08-09T13:27:37.854981Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
