@@ -118,7 +118,8 @@ require("config.plugins.obsidian")
 require("config.plugins.tiny_diagnostics")
 require("config.plugins.scala-metals")
 
-vim.cmd.colorscheme("minicyan")
+-- vim.cmd.colorscheme("minicyan")
+vim.cmd.colorscheme("gruvbox")
 -- vim.o.autocomplete=true
 -- vim.o.winborder = "rounded"
 -- vim.diagnostic.config({virtual_text = true, virtual_lines=false})
