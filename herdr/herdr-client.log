@@ -327,3 +327,35 @@ expected newline, `#`
 2026-08-25T21:33:21.456189Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
 2026-08-25T21:33:21.617292Z  INFO herdr::client: handshake succeeded version=19 encoding=SemanticFrame
 >>>>>>> 327372d69e0ec6d7522e41a04f56f3198375d316
+2026-09-01T17:20:24.192787Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1145
+2026-09-01T17:20:24.192942Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-01T17:20:24.207552Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-09-01T18:08:34.614238Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1018
+2026-09-01T18:08:34.614404Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-01T18:08:34.621537Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-09-04T14:32:22.728051Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1620
+2026-09-04T14:32:22.728423Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-04T14:32:22.786022Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-09-04T14:56:20.123706Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=74548
+2026-09-04T14:56:20.123747Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-04T14:56:20.259085Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-09-08T21:38:50.688017Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=15370
+2026-09-08T21:38:50.688192Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-08T21:38:50.689122Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-09-09T14:13:35.665042Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1057
+2026-09-09T14:13:35.665186Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-09T14:13:35.871795Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+                                                                                                                                                                                                                                                        2026-09-11T23:57:52.883699Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1079
+2026-09-11T23:57:52.883879Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-11T23:57:52.885889Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+2026-09-13T17:40:23.712159Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1063
+2026-09-13T17:40:23.712285Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-13T17:40:23.717139Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+2026-09-13T21:12:03.730007Z  WARN herdr::client: failed to present retained pane surface patch error=I/O error (os error 5)
+2026-09-13T21:12:03.731047Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=1063
+2026-09-13T21:12:32.827482Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1030
+2026-09-13T21:12:32.827779Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-13T21:12:32.833209Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+                                                                                                                                                                                                                                                        2026-09-16T14:22:18.578448Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1042
+2026-09-16T14:22:18.578591Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-16T14:22:18.581760Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
