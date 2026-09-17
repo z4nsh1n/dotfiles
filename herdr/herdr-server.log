@@ -9012,6 +9012,558 @@ expected newline, `#`
 2026-08-25T21:33:21.616689Z  INFO herdr::update: auto-update check: 0.8.2 available, waiting for explicit install
 2026-08-25T21:33:21.619003Z  INFO herdr::server::headless: client connected client_id=2 cols=137 rows=25 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
 <<<<<<< HEAD
+>>>>>>> 327372d69e0ec6d7522e41a04f56f3198375d316
+2026-09-01T17:20:23.996083Z  INFO herdr::api::server: api server listening path=/home/zanshin/.config/herdr/herdr.sock
+2026-09-01T17:20:24.000551Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.003451Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=1216
+2026-09-01T17:20:24.005388Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/code/C/miniaudio
+2026-09-01T17:20:24.005476Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=2 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.006215Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=2 pid=1223
+2026-09-01T17:20:24.006525Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/code/C/alsa
+2026-09-01T17:20:24.006595Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=3 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.007276Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=3 pid=1226
+2026-09-01T17:20:24.008130Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=4 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.008922Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=4 pid=1229
+2026-09-01T17:20:24.009091Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/code/odin/herdr-workspaces
+2026-09-01T17:20:24.009149Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=5 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.010008Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=5 pid=1232
+2026-09-01T17:20:24.010197Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=6 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.011029Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=6 pid=1236
+2026-09-01T17:20:24.011861Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=7 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.012738Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=7 pid=1240
+2026-09-01T17:20:24.013462Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=8 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.014369Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=8 pid=1246
+2026-09-01T17:20:24.014528Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/tmp/bla2
+2026-09-01T17:20:24.014569Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=9 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.015352Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=9 pid=1249
+2026-09-01T17:20:24.016375Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/code/C3/bla/bla2
+2026-09-01T17:20:24.016437Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=10 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.017315Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=10 pid=1252
+2026-09-01T17:20:24.017709Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=11 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.018603Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=11 pid=1273
+2026-09-01T17:20:24.018807Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=12 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.019723Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=12 pid=1277
+2026-09-01T17:20:24.019986Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=13 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.021031Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=13 pid=1281
+2026-09-01T17:20:24.021302Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=14 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.022404Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=14 pid=1288
+2026-09-01T17:20:24.023631Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/Music/EC64SC_SID_Files
+2026-09-01T17:20:24.023710Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=15 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.024967Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=15 pid=1293
+2026-09-01T17:20:24.025410Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=16 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.027208Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=16 pid=1298
+2026-09-01T17:20:24.027679Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=9
+2026-09-01T17:20:24.027743Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-09-01T17:20:24.151112Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-01T17:20:24.154029Z  INFO herdr::server::headless: restored session already has workspaces; ignoring startup cwd cwd=/home/zanshin
+2026-09-01T17:20:24.154258Z  INFO herdr::server::headless: client protocol socket listening path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-01T17:20:24.154293Z  INFO herdr::server::headless: herdr server started api_socket=/home/zanshin/.config/herdr/herdr.sock client_socket=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-01T17:20:24.155205Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=1177
+2026-09-01T17:20:24.208092Z  INFO herdr::server::headless: client connected client_id=2 cols=98 rows=16 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-09-01T17:20:24.244975Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-01T17:20:24.272388Z  INFO herdr::logging: update available event="update.available" subsystem="update" outcome="ok" version="0.8.2"
+2026-09-01T17:20:24.272408Z  INFO herdr::update: new stable build available at https://github.com/herdrdev/herdr/releases/download/v0.8.2/herdr-linux-x86_64
+2026-09-01T17:20:24.272759Z  INFO herdr::update: auto-update check: 0.8.2 available, waiting for explicit install
+2026-09-01T17:20:30.323046Z  INFO herdr::server::headless: client resize client_id=2 cols=110 rows=18 cell_width_px=0 cell_height_px=0
+2026-09-01T17:20:30.623574Z  INFO herdr::server::headless: client resize client_id=2 cols=130 rows=21 cell_width_px=0 cell_height_px=0
+2026-09-01T17:20:30.824049Z  INFO herdr::server::headless: client resize client_id=2 cols=151 rows=24 cell_width_px=0 cell_height_px=0
+2026-09-01T17:20:31.525624Z  INFO herdr::server::headless: client resize client_id=2 cols=179 rows=29 cell_width_px=0 cell_height_px=0
+2026-09-01T17:20:34.833854Z  INFO herdr::server::headless: client resize client_id=2 cols=179 rows=49 cell_width_px=0 cell_height_px=0
+2026-09-01T17:21:10.703353Z  INFO herdr::server::headless: client disconnected client_id=2
+2026-09-01T18:08:34.416667Z  INFO herdr::api::server: api server listening path=/home/zanshin/.config/herdr/herdr.sock
+2026-09-01T18:08:34.422291Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.425536Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=1070
+2026-09-01T18:08:34.427861Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/code/C/miniaudio
+2026-09-01T18:08:34.427969Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=2 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.429164Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=2 pid=1078
+2026-09-01T18:08:34.429630Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/code/C/alsa
+2026-09-01T18:08:34.429713Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=3 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.430689Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=3 pid=1081
+2026-09-01T18:08:34.431998Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=4 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.433057Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=4 pid=1084
+2026-09-01T18:08:34.433198Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/code/odin/herdr-workspaces
+2026-09-01T18:08:34.433255Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=5 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.434054Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=5 pid=1087
+2026-09-01T18:08:34.434244Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=6 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.435085Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=6 pid=1091
+2026-09-01T18:08:34.435779Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=7 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.436729Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=7 pid=1095
+2026-09-01T18:08:34.437649Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=8 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.438780Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=8 pid=1101
+2026-09-01T18:08:34.439017Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/tmp/bla2
+2026-09-01T18:08:34.439074Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=9 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.440069Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=9 pid=1110
+2026-09-01T18:08:34.441248Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/code/C3/bla/bla2
+2026-09-01T18:08:34.441320Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=10 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.442362Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=10 pid=1122
+2026-09-01T18:08:34.442704Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=11 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.443663Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=11 pid=1127
+2026-09-01T18:08:34.443933Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=12 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.445161Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=12 pid=1131
+2026-09-01T18:08:34.445456Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=13 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.446517Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=13 pid=1136
+2026-09-01T18:08:34.446790Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=14 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.448157Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=14 pid=1142
+2026-09-01T18:08:34.448971Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/Music/EC64SC_SID_Files
+2026-09-01T18:08:34.449076Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=15 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.451197Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=15 pid=1148
+2026-09-01T18:08:34.451780Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=16 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.454697Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=16 pid=1153
+2026-09-01T18:08:34.455374Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=9
+2026-09-01T18:08:34.455505Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-09-01T18:08:34.581280Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-01T18:08:34.584856Z  INFO herdr::server::headless: restored session already has workspaces; ignoring startup cwd cwd=/home/zanshin
+2026-09-01T18:08:34.585102Z  INFO herdr::server::headless: client protocol socket listening path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-01T18:08:34.585148Z  INFO herdr::server::headless: herdr server started api_socket=/home/zanshin/.config/herdr/herdr.sock client_socket=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-01T18:08:34.586296Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=1033
+2026-09-01T18:08:34.622634Z  INFO herdr::server::headless: client connected client_id=2 cols=98 rows=16 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-09-01T18:08:34.663977Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-01T18:08:34.766154Z  INFO herdr::logging: update available event="update.available" subsystem="update" outcome="ok" version="0.8.2"
+2026-09-01T18:08:34.766186Z  INFO herdr::update: new stable build available at https://github.com/herdrdev/herdr/releases/download/v0.8.2/herdr-linux-x86_64
+2026-09-01T18:08:34.766551Z  INFO herdr::update: auto-update check: 0.8.2 available, waiting for explicit install
+2026-09-01T18:40:56.169513Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-01T19:10:56.239172Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-01T19:40:56.075211Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-01T20:10:56.093367Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-01T20:40:56.055680Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-01T21:10:56.161367Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-01T21:40:56.152303Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-01T22:10:56.072919Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-01T22:40:56.065262Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-01T23:10:56.070585Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-02T08:44:39.406671Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+                                                                                           2026-09-04T14:32:22.480076Z  INFO herdr::api::server: api server listening path=/home/zanshin/.config/herdr/herdr.sock
+2026-09-04T14:32:22.485391Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.489325Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=1672
+2026-09-04T14:32:22.491525Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/code/C/miniaudio
+2026-09-04T14:32:22.491668Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=2 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.492661Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=2 pid=1681
+2026-09-04T14:32:22.493169Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/code/C/alsa
+2026-09-04T14:32:22.493254Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=3 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.494343Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=3 pid=1684
+2026-09-04T14:32:22.495824Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=4 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.496751Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=4 pid=1687
+2026-09-04T14:32:22.496889Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/code/odin/herdr-workspaces
+2026-09-04T14:32:22.496970Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=5 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.497942Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=5 pid=1692
+2026-09-04T14:32:22.498153Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=6 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.498898Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=6 pid=1697
+2026-09-04T14:32:22.499945Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=7 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.500755Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=7 pid=1700
+2026-09-04T14:32:22.501390Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=8 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.502389Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=8 pid=1703
+2026-09-04T14:32:22.502552Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/tmp/bla2
+2026-09-04T14:32:22.502600Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=9 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.503680Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=9 pid=1706
+2026-09-04T14:32:22.505124Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/code/C3/bla/bla2
+2026-09-04T14:32:22.505215Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=10 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.506336Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=10 pid=1725
+2026-09-04T14:32:22.506672Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=11 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.507815Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=11 pid=1730
+2026-09-04T14:32:22.508104Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=12 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.509105Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=12 pid=1733
+2026-09-04T14:32:22.509369Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=13 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.510512Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=13 pid=1738
+2026-09-04T14:32:22.510772Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=14 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.512218Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=14 pid=1744
+2026-09-04T14:32:22.513007Z  WARN herdr::persist::restore: saved pane cwd does not exist, falling back to HOME cwd=/home/zanshin/Music/EC64SC_SID_Files
+2026-09-04T14:32:22.513112Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=15 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.514871Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=15 pid=1749
+2026-09-04T14:32:22.515730Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=16 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.517302Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=16 pid=1756
+2026-09-04T14:32:22.517723Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=9
+2026-09-04T14:32:22.517814Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-09-04T14:32:22.696025Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-04T14:32:22.699850Z  INFO herdr::server::headless: restored session already has workspaces; ignoring startup cwd cwd=/home/zanshin
+2026-09-04T14:32:22.700231Z  INFO herdr::server::headless: client protocol socket listening path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-04T14:32:22.700282Z  INFO herdr::server::headless: herdr server started api_socket=/home/zanshin/.config/herdr/herdr.sock client_socket=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-04T14:32:22.701527Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=1636
+2026-09-04T14:32:22.786650Z  INFO herdr::server::headless: client connected client_id=2 cols=98 rows=16 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-09-04T14:32:22.798944Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T14:32:22.840354Z  INFO herdr::logging: update available event="update.available" subsystem="update" outcome="ok" version="0.8.2"
+2026-09-04T14:32:22.840380Z  INFO herdr::update: new stable build available at https://github.com/herdrdev/herdr/releases/download/v0.8.2/herdr-linux-x86_64
+2026-09-04T14:32:22.840785Z  INFO herdr::update: auto-update check: 0.8.2 available, waiting for explicit install
+2026-09-04T14:43:14.459228Z  INFO herdr::server::headless: client disconnected client_id=2
+2026-09-04T14:56:20.259142Z  INFO herdr::server::headless: client connected client_id=4 cols=144 rows=27 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-09-04T14:58:14.561069Z  INFO herdr::server::headless: client resize client_id=4 cols=192 rows=29 cell_width_px=0 cell_height_px=0
+2026-09-04T14:58:41.520508Z  INFO herdr::server::headless: client resize client_id=4 cols=180 rows=27 cell_width_px=0 cell_height_px=0
+2026-09-04T14:59:09.714327Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=15 status="ExitStatus { code: 0, signal: None }"
+2026-09-04T14:59:09.714765Z  INFO herdr::pane: pane session terminated pane=15 pid=1749 signal=Hangup
+2026-09-04T14:59:14.722593Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/session.json workspaces=8
+2026-09-04T14:59:42.321787Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=17 rows=11 cols=78 scrollback_limit_bytes=10000000
+2026-09-04T14:59:42.324360Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=17 pid=84800
+2026-09-04T14:59:43.972325Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:workspace:focus" method="workspace.focus" changes_ui=true
+2026-09-04T14:59:43.972518Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wX"
+2026-09-04T14:59:43.972576Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wX" tab_id="wX:t2"
+2026-09-04T14:59:43.972656Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:workspace:focus" method="workspace.focus"
+2026-09-04T14:59:43.979735Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=17 status="ExitStatus { code: 0, signal: None }"
+2026-09-04T14:59:43.980405Z  INFO herdr::pane: pane session terminated pane=17 pid=84800 signal=Hangup
+2026-09-04T14:59:48.975756Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/session.json workspaces=8
+2026-09-04T14:59:53.735010Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=18 rows=11 cols=78 scrollback_limit_bytes=10000000
+2026-09-04T14:59:53.737760Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=18 pid=85346
+2026-09-04T14:59:55.406508Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:workspace:focus" method="workspace.focus" changes_ui=true
+2026-09-04T14:59:55.406707Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wR"
+2026-09-04T14:59:55.406770Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wR" tab_id="wR:t1"
+2026-09-04T14:59:55.406956Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:workspace:focus" method="workspace.focus"
+2026-09-04T14:59:55.408895Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:workspace:focus" method="workspace.focus" changes_ui=true
+2026-09-04T14:59:55.409044Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w13"
+2026-09-04T14:59:55.409083Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w13" tab_id="w13:t1"
+2026-09-04T14:59:55.409215Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:workspace:focus" method="workspace.focus"
+2026-09-04T14:59:55.409976Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=18 status="ExitStatus { code: 0, signal: None }"
+2026-09-04T14:59:55.410060Z  INFO herdr::pane: pane session terminated pane=18 pid=85346 signal=Hangup
+2026-09-04T14:59:56.299873Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=16 status="ExitStatus { code: 0, signal: None }"
+2026-09-04T14:59:56.300190Z  INFO herdr::pane: pane session terminated pane=16 pid=1756 signal=Hangup
+2026-09-04T15:00:01.303393Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/session.json workspaces=7
+2026-09-04T15:00:05.902496Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wX"
+2026-09-04T15:00:05.902556Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wX" tab_id="wX:t2"
+2026-09-04T15:00:09.027476Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wP"
+2026-09-04T15:00:09.027553Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wP" tab_id="wP:tM"
+2026-09-04T15:00:14.037217Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/session.json workspaces=7
+2026-09-04T15:00:27.799869Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=19 rows=11 cols=78 scrollback_limit_bytes=10000000
+2026-09-04T15:00:27.802198Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=19 pid=86996
+2026-09-04T15:00:28.947198Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:workspace:focus" method="workspace.focus" changes_ui=true
+2026-09-04T15:00:28.947301Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wK"
+2026-09-04T15:00:28.947371Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t2"
+2026-09-04T15:00:28.947417Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:workspace:focus" method="workspace.focus"
+2026-09-04T15:00:28.949678Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:workspace:focus" method="workspace.focus" changes_ui=true
+2026-09-04T15:00:28.949765Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wK"
+2026-09-04T15:00:28.949804Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:tD"
+2026-09-04T15:00:28.949911Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:workspace:focus" method="workspace.focus"
+2026-09-04T15:00:28.950566Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=19 status="ExitStatus { code: 0, signal: None }"
+2026-09-04T15:00:28.950609Z  INFO herdr::pane: pane session terminated pane=19 pid=86996 signal=Hangup
+2026-09-04T15:00:31.544318Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=6 status="ExitStatus { code: 0, signal: None }"
+2026-09-04T15:00:31.544741Z  INFO herdr::pane: pane session terminated pane=6 pid=1697 signal=Hangup
+2026-09-04T15:00:33.635783Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=5 status="ExitStatus { code: 0, signal: None }"
+2026-09-04T15:00:33.636797Z  INFO herdr::pane: pane session terminated pane=5 pid=1692 signal=Hangup
+2026-09-04T15:00:34.080850Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=4 status="ExitStatus { code: 0, signal: None }"
+2026-09-04T15:00:34.081056Z  INFO herdr::pane: pane session terminated pane=4 pid=1687 signal=Hangup
+2026-09-04T15:00:34.441895Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=7 status="ExitStatus { code: 0, signal: None }"
+2026-09-04T15:00:34.442704Z  INFO herdr::pane: pane session terminated pane=7 pid=1700 signal=Hangup
+2026-09-04T15:00:38.599971Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=20 rows=11 cols=78 scrollback_limit_bytes=10000000
+2026-09-04T15:00:38.602212Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=20 pid=87657
+2026-09-04T15:00:39.445193Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/session.json workspaces=6
+2026-09-04T15:00:39.737895Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:workspace:focus" method="workspace.focus" changes_ui=true
+2026-09-04T15:00:39.739201Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wK"
+2026-09-04T15:00:39.739248Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t2"
+2026-09-04T15:00:39.739426Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:workspace:focus" method="workspace.focus"
+2026-09-04T15:00:39.740300Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=20 status="ExitStatus { code: 0, signal: None }"
+2026-09-04T15:00:39.740460Z  INFO herdr::pane: pane session terminated pane=20 pid=87657 signal=Hangup
+2026-09-04T15:00:44.741996Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/session.json workspaces=6
+2026-09-04T15:02:22.819241Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T15:32:22.766811Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T16:02:22.778817Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T16:32:22.787516Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T17:02:22.791995Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T17:32:22.815476Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T18:02:22.803723Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T18:32:22.799921Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T19:02:22.793091Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T19:32:22.824920Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T20:02:22.825748Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T20:32:22.793093Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T21:02:22.819445Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T21:32:22.786521Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T22:02:22.794761Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T22:32:22.785468Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T23:02:23.247877Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-04T23:32:22.824463Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-05T00:02:22.841869Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-05T00:32:22.804433Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-05T23:31:33.882293Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T00:01:34.745289Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T00:31:34.658220Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T01:01:34.660166Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T08:39:10.810709Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T12:51:31.302921Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T13:21:31.876504Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T13:51:31.874490Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T14:21:32.032667Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T14:51:31.864454Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T15:21:31.878791Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T15:51:31.884545Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T16:21:32.007509Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T16:51:31.886436Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T17:21:31.870845Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T17:51:31.910882Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T18:21:31.912524Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T18:51:31.887329Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T19:21:31.903773Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T19:50:36.609184Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=21 rows=26 cols=162 scrollback_limit_bytes=10000000
+2026-09-06T19:50:36.611715Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=21 pid=3613013
+2026-09-06T19:50:36.612075Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t7"
+2026-09-06T19:50:41.614674Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/session.json workspaces=6
+2026-09-06T19:50:45.130733Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t2"
+2026-09-06T19:50:45.753795Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t7"
+2026-09-06T19:50:46.218847Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t2"
+2026-09-06T19:50:46.802573Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t7"
+2026-09-06T19:50:47.906008Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t2"
+2026-09-06T19:50:52.914878Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/session.json workspaces=6
+2026-09-06T19:51:31.898194Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T19:52:25.568060Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wX"
+2026-09-06T19:52:25.568145Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wX" tab_id="wX:t2"
+2026-09-06T19:52:30.577920Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/session.json workspaces=6
+2026-09-06T19:52:34.642833Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wK"
+2026-09-06T19:52:34.642898Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t2"
+2026-09-06T19:52:38.257537Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w5"
+2026-09-06T19:52:38.257600Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w5" tab_id="w5:tN"
+2026-09-06T19:52:40.548562Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wP"
+2026-09-06T19:52:40.548629Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wP" tab_id="wP:tM"
+2026-09-06T19:52:42.849361Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wK"
+2026-09-06T19:52:42.849420Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t2"
+2026-09-06T19:52:47.852002Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/session.json workspaces=6
+2026-09-06T19:56:16.915053Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t7"
+2026-09-06T19:56:17.712958Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t2"
+2026-09-06T19:56:22.715269Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/session.json workspaces=6
+2026-09-06T20:04:54.861124Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wK" tab_id="wK:t7"
+2026-09-06T20:04:59.863767Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/zanshin/.config/herdr/session.json workspaces=6
+2026-09-06T20:21:32.100332Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T20:51:31.886100Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T21:21:32.126017Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T21:51:31.886094Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T22:21:31.878196Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T22:51:31.937164Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-06T23:21:32.147419Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="qwen"
+2026-09-08T21:38:50.539987Z  INFO herdr::api::server: api server listening path=/home/zanshin/.config/herdr/herdr.sock
+2026-09-08T21:38:50.545156Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-08T21:38:50.548402Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=15430
+2026-09-08T21:38:50.548851Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=2 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-08T21:38:50.550364Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=2 pid=15433
+2026-09-08T21:38:50.550976Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=3 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-08T21:38:50.552010Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=3 pid=15436
+2026-09-08T21:38:50.552312Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=4 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-08T21:38:50.553220Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=4 pid=15440
+2026-09-08T21:38:50.554154Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=5 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-08T21:38:50.554944Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=5 pid=15444
+2026-09-08T21:38:50.555215Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=6 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-08T21:38:50.556299Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=6 pid=15447
+2026-09-08T21:38:50.556748Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=7 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-08T21:38:50.557953Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=7 pid=15450
+2026-09-08T21:38:50.558202Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=8 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-08T21:38:50.559528Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=8 pid=15453
+2026-09-08T21:38:50.559766Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=9 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-08T21:38:50.560622Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=9 pid=15456
+2026-09-08T21:38:50.560922Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=10 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-08T21:38:50.561852Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=10 pid=15459
+2026-09-08T21:38:50.562126Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=11 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-08T21:38:50.563302Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=11 pid=15471
+2026-09-08T21:38:50.563535Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=6
+2026-09-08T21:38:50.563586Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-09-08T21:38:50.676013Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-08T21:38:50.679722Z  INFO herdr::server::headless: restored session already has workspaces; ignoring startup cwd cwd=/home/zanshin
+2026-09-08T21:38:50.679873Z  INFO herdr::server::headless: client protocol socket listening path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-08T21:38:50.679912Z  INFO herdr::server::headless: herdr server started api_socket=/home/zanshin/.config/herdr/herdr.sock client_socket=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-08T21:38:50.681052Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=15393
+2026-09-08T21:38:50.689157Z  INFO herdr::server::headless: client connected client_id=2 cols=180 rows=27 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-09-08T21:38:50.772329Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="muse"
+2026-09-08T21:38:50.779632Z  INFO herdr::logging: update available event="update.available" subsystem="update" outcome="ok" version="0.9.0"
+2026-09-08T21:38:50.779655Z  INFO herdr::update: new stable build available at https://github.com/herdrdev/herdr/releases/download/v0.9.0/herdr-linux-x86_64
+2026-09-08T21:38:50.780174Z  INFO herdr::update: auto-update check: 0.9.0 available, waiting for explicit install
+2026-09-08T22:08:50.751308Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="muse"
+2026-09-08T22:38:50.801189Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="muse"
+2026-09-08T23:08:50.766366Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="muse"
+2026-09-08T23:38:50.764914Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="muse"
+2026-09-09T14:13:35.466734Z  INFO herdr::api::server: api server listening path=/home/zanshin/.config/herdr/herdr.sock
+2026-09-09T14:13:35.471293Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-09T14:13:35.474326Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=1119
+2026-09-09T14:13:35.474812Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=2 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-09T14:13:35.475642Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=2 pid=1123
+2026-09-09T14:13:35.475938Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=3 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-09T14:13:35.476717Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=3 pid=1127
+2026-09-09T14:13:35.476987Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=4 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-09T14:13:35.477719Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=4 pid=1130
+2026-09-09T14:13:35.478754Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=5 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-09T14:13:35.479718Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=5 pid=1133
+2026-09-09T14:13:35.479951Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=6 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-09T14:13:35.480809Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=6 pid=1136
+2026-09-09T14:13:35.481301Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=7 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-09T14:13:35.482173Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=7 pid=1139
+2026-09-09T14:13:35.482411Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=8 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-09T14:13:35.483257Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=8 pid=1142
+2026-09-09T14:13:35.483452Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=9 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-09T14:13:35.484338Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=9 pid=1145
+2026-09-09T14:13:35.484614Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=10 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-09T14:13:35.485624Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=10 pid=1148
+2026-09-09T14:13:35.485938Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=11 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-09T14:13:35.487099Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=11 pid=1151
+2026-09-09T14:13:35.487358Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=6
+2026-09-09T14:13:35.487550Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-09-09T14:13:35.632089Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-09T14:13:35.633142Z  INFO herdr::server::headless::bootstrap: restored session already has workspaces; ignoring startup cwd cwd=/home/zanshin
+2026-09-09T14:13:35.633518Z  INFO herdr::server::headless: client protocol socket listening path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-09T14:13:35.634192Z  INFO herdr::server::headless::bootstrap: herdr server started api_socket=/home/zanshin/.config/herdr/herdr.sock client_socket=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-09T14:13:35.635383Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=1086
+2026-09-09T14:13:35.871581Z  INFO herdr::server::headless: client connected client_id=2 cols=154 rows=26 cell_width_px=16 cell_height_px=40 surface_active=true render_encoding=SemanticFrame
+2026-09-09T14:43:35.634388Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-09T15:13:35.636222Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-09T15:43:35.637622Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-09T19:38:26.428050Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-09T20:08:27.236147Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-09T20:38:27.236198Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-09T21:08:27.237123Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-09T21:38:27.238448Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-09T22:08:27.240028Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-11T21:33:23.476900Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-11T22:03:24.906340Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-11T22:33:24.907952Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-11T23:03:24.909719Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-11T23:33:24.910658Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+                                                                                       2026-09-11T23:57:52.684803Z  INFO herdr::api::server: api server listening path=/home/zanshin/.config/herdr/herdr.sock
+2026-09-11T23:57:52.689623Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-11T23:57:52.692336Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=1135
+2026-09-11T23:57:52.692871Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=2 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-11T23:57:52.693805Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=2 pid=1138
+2026-09-11T23:57:52.694132Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=3 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-11T23:57:52.695102Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=3 pid=1141
+2026-09-11T23:57:52.695335Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=4 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-11T23:57:52.696219Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=4 pid=1145
+2026-09-11T23:57:52.697479Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=5 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-11T23:57:52.698569Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=5 pid=1149
+2026-09-11T23:57:52.698820Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=6 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-11T23:57:52.699805Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=6 pid=1152
+2026-09-11T23:57:52.700296Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=7 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-11T23:57:52.701270Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=7 pid=1156
+2026-09-11T23:57:52.701518Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=8 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-11T23:57:52.702445Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=8 pid=1159
+2026-09-11T23:57:52.702647Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=9 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-11T23:57:52.703617Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=9 pid=1162
+2026-09-11T23:57:52.703932Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=10 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-11T23:57:52.705011Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=10 pid=1167
+2026-09-11T23:57:52.705263Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=11 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-11T23:57:52.706245Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=11 pid=1171
+2026-09-11T23:57:52.706486Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=6
+2026-09-11T23:57:52.706756Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-09-11T23:57:52.871150Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-11T23:57:52.872502Z  INFO herdr::server::headless::bootstrap: restored session already has workspaces; ignoring startup cwd cwd=/home/zanshin
+2026-09-11T23:57:52.873051Z  INFO herdr::server::headless: client protocol socket listening path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-11T23:57:52.873325Z  INFO herdr::server::headless::bootstrap: herdr server started api_socket=/home/zanshin/.config/herdr/herdr.sock client_socket=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-11T23:57:52.874232Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=1096
+2026-09-11T23:57:52.885861Z  INFO herdr::server::headless: client connected client_id=2 cols=154 rows=26 cell_width_px=16 cell_height_px=40 surface_active=true render_encoding=SemanticFrame
+2026-09-12T00:27:52.874244Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-12T00:57:52.874716Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-12T01:27:52.876040Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T17:40:23.515034Z  INFO herdr::api::server: api server listening path=/home/zanshin/.config/herdr/herdr.sock
+2026-09-13T17:40:23.519894Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T17:40:23.522623Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=1121
+2026-09-13T17:40:23.523169Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=2 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T17:40:23.524122Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=2 pid=1124
+2026-09-13T17:40:23.524485Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=3 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T17:40:23.525645Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=3 pid=1127
+2026-09-13T17:40:23.525906Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=4 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T17:40:23.526813Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=4 pid=1130
+2026-09-13T17:40:23.527986Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=5 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T17:40:23.529022Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=5 pid=1133
+2026-09-13T17:40:23.529306Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=6 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T17:40:23.530481Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=6 pid=1136
+2026-09-13T17:40:23.531036Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=7 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T17:40:23.532158Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=7 pid=1142
+2026-09-13T17:40:23.532462Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=8 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T17:40:23.533529Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=8 pid=1145
+2026-09-13T17:40:23.533806Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=9 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T17:40:23.535100Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=9 pid=1148
+2026-09-13T17:40:23.535520Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=10 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T17:40:23.537365Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=10 pid=1151
+2026-09-13T17:40:23.537818Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=11 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T17:40:23.539171Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=11 pid=1163
+2026-09-13T17:40:23.539503Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=6
+2026-09-13T17:40:23.539863Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-09-13T17:40:23.702958Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T17:40:23.704304Z  INFO herdr::server::headless::bootstrap: restored session already has workspaces; ignoring startup cwd cwd=/home/zanshin
+2026-09-13T17:40:23.704587Z  INFO herdr::server::headless: client protocol socket listening path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-13T17:40:23.704841Z  INFO herdr::server::headless::bootstrap: herdr server started api_socket=/home/zanshin/.config/herdr/herdr.sock client_socket=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-13T17:40:23.705674Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=1084
+2026-09-13T17:40:23.717129Z  INFO herdr::server::headless: client connected client_id=2 cols=154 rows=26 cell_width_px=16 cell_height_px=40 surface_active=true render_encoding=SemanticFrame
+2026-09-13T17:40:23.785909Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T18:10:23.706435Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T18:10:23.805855Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T18:40:23.707102Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T18:40:23.795719Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T19:10:23.708446Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T19:10:23.786050Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T19:40:23.710040Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T19:40:23.839101Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T20:10:23.710592Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T20:10:23.806163Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T20:40:23.712451Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T20:40:23.789010Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T21:10:23.714474Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T21:10:23.848218Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T21:12:03.730121Z  INFO herdr::server::headless: client detached client_id=2
+2026-09-13T21:12:32.679601Z  INFO herdr::api::server: api server listening path=/home/zanshin/.config/herdr/herdr.sock
+2026-09-13T21:12:32.684092Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T21:12:32.686802Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=1087
+2026-09-13T21:12:32.687430Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=2 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T21:12:32.688162Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=2 pid=1090
+2026-09-13T21:12:32.688474Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=3 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T21:12:32.689234Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=3 pid=1095
+2026-09-13T21:12:32.689458Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=4 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T21:12:32.690502Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=4 pid=1100
+2026-09-13T21:12:32.691395Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=5 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T21:12:32.692175Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=5 pid=1103
+2026-09-13T21:12:32.692423Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=6 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T21:12:32.693251Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=6 pid=1106
+2026-09-13T21:12:32.693775Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=7 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T21:12:32.694614Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=7 pid=1110
+2026-09-13T21:12:32.694871Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=8 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T21:12:32.695901Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=8 pid=1113
+2026-09-13T21:12:32.696126Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=9 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T21:12:32.697085Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=9 pid=1116
+2026-09-13T21:12:32.697390Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=10 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T21:12:32.698312Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=10 pid=1119
+2026-09-13T21:12:32.698594Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=11 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-13T21:12:32.699607Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=11 pid=1122
+2026-09-13T21:12:32.699908Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=6
+2026-09-13T21:12:32.700199Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-09-13T21:12:32.811065Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T21:12:32.813830Z  INFO herdr::server::headless::bootstrap: restored session already has workspaces; ignoring startup cwd cwd=/home/zanshin
+2026-09-13T21:12:32.814267Z  INFO herdr::server::headless: client protocol socket listening path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-13T21:12:32.814582Z  INFO herdr::server::headless::bootstrap: herdr server started api_socket=/home/zanshin/.config/herdr/herdr.sock client_socket=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-13T21:12:32.815837Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=1048
+2026-09-13T21:12:32.833431Z  INFO herdr::server::headless: client connected client_id=2 cols=154 rows=26 cell_width_px=16 cell_height_px=40 surface_active=true render_encoding=SemanticFrame
+2026-09-13T21:12:33.046616Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T21:42:32.814175Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T21:42:32.904521Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T22:12:32.815668Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T22:12:33.104184Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T22:42:32.817101Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T22:42:32.919174Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T23:12:32.818301Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T23:12:32.933955Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-13T23:42:32.819886Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-13T23:42:32.924337Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+                                                                                       2026-09-16T14:22:18.380865Z  INFO herdr::api::server: api server listening path=/home/zanshin/.config/herdr/herdr.sock
+2026-09-16T14:22:18.384841Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-16T14:22:18.387310Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=1102
+2026-09-16T14:22:18.387942Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=2 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-16T14:22:18.389068Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=2 pid=1107
+2026-09-16T14:22:18.389357Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=3 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-16T14:22:18.390501Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=3 pid=1110
+2026-09-16T14:22:18.390727Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=4 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-16T14:22:18.391681Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=4 pid=1114
+2026-09-16T14:22:18.392711Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=5 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-16T14:22:18.393738Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=5 pid=1117
+2026-09-16T14:22:18.393943Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=6 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-16T14:22:18.394680Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=6 pid=1120
+2026-09-16T14:22:18.395222Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=7 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-16T14:22:18.396225Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=7 pid=1125
+2026-09-16T14:22:18.396575Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=8 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-16T14:22:18.397831Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=8 pid=1129
+2026-09-16T14:22:18.398101Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=9 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-16T14:22:18.399198Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=9 pid=1132
+2026-09-16T14:22:18.399556Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=10 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-16T14:22:18.400732Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=10 pid=1135
+2026-09-16T14:22:18.401034Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=11 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-16T14:22:18.402102Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=11 pid=1138
+2026-09-16T14:22:18.402498Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=6
+2026-09-16T14:22:18.402697Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-09-16T14:22:18.561877Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-16T14:22:18.563075Z  INFO herdr::server::headless::bootstrap: restored session already has workspaces; ignoring startup cwd cwd=/home/zanshin
+2026-09-16T14:22:18.563304Z  INFO herdr::server::headless: client protocol socket listening path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-16T14:22:18.563481Z  INFO herdr::server::headless::bootstrap: herdr server started api_socket=/home/zanshin/.config/herdr/herdr.sock client_socket=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-16T14:22:18.564269Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=1066
+2026-09-16T14:22:18.581759Z  INFO herdr::server::headless: client connected client_id=2 cols=154 rows=26 cell_width_px=16 cell_height_px=40 surface_active=true render_encoding=SemanticFrame
+2026-09-16T14:22:18.646402Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+=======
+<<<<<<< HEAD
 2026-08-25T21:46:11.438560Z  INFO herdr::server::headless: client resize client_id=2 cols=80 rows=24 cell_width_px=0 cell_height_px=0
 2026-08-25T21:46:11.455619Z  INFO herdr::server::headless: client detached client_id=2
 2026-08-25T21:46:11.476028Z  INFO herdr::server::headless: client disconnected client_id=2
@@ -9429,3 +9981,4 @@ expected newline, `#`
 2026-09-07T22:22:35.344946Z  INFO herdr::logging: update available event="update.available" subsystem="update" outcome="ok" version="0.9.0"
 2026-09-07T22:22:35.344981Z  INFO herdr::update: new stable build available at https://github.com/herdrdev/herdr/releases/download/v0.9.0/herdr-linux-x86_64
 2026-09-07T22:22:35.345127Z  INFO herdr::update: auto-update check: 0.9.0 available, waiting for explicit install
+>>>>>>> ce5e7acaaaa8d4548429dd56517f038c14b9823b

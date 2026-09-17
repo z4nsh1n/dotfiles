@@ -2030,8 +2030,16 @@ include ./theme.conf
 #: }}}
 
 
+cursor_trail 1
+cursor_trail_decay 0.1 0.4
+cursor_trail_start_threshold  2
+
+cursor_trail_decay 0.1 0.4
+
+
+font_family      family="FiraCode Nerd Font"
 # BEGIN_KITTY_FONTS
-font_family      family="Monaspace Radon"
+font_family      family="FiraCode Nerd Font"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto

@@ -43,7 +43,7 @@
 # resize-overlay-duration = 4s 200ms
 
 # keybind = global:super+backquote=toggle_quick_terminal
-font-size = 22
+font-size = 12
 window-inherit-font-size = true
 shell-integration = fish
 theme = Dracula

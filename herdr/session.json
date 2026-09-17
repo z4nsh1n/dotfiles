@@ -13,8 +13,7 @@
       "next_public_pane_number": 67,
       "public_tab_numbers": [
         20,
-        21,
-        22
+        21
       ],
       "next_public_tab_number": 26,
       "tabs": [
@@ -39,13 +38,31 @@
           },
           "panes": {
             "2": {
-              "cwd": "/home/zanshin/code/C/miniaudio"
+              "cwd": "/home/zanshin"
             }
           },
           "zoomed": false,
           "focused": 2,
           "root_pane": 2
-        },
+        }
+      ],
+      "active_tab": 1
+    },
+    {
+      "id": "wK",
+      "custom_name": "odin",
+      "identity_cwd": "/home/zanshin",
+      "public_pane_numbers": {
+        "21": 12,
+        "3": 2
+      },
+      "next_public_pane_number": 13,
+      "public_tab_numbers": [
+        2,
+        7
+      ],
+      "next_public_tab_number": 8,
+      "tabs": [
         {
           "custom_name": null,
           "layout": {
@@ -53,7 +70,7 @@
           },
           "panes": {
             "3": {
-              "cwd": "/home/zanshin/code/C/alsa"
+              "cwd": "/home/zanshin"
             }
           },
           "zoomed": false,
@@ -85,61 +102,19 @@
         {
           "custom_name": null,
           "layout": {
-            "Pane": 4
+            "Pane": 21
           },
           "panes": {
-            "4": {
+            "21": {
               "cwd": "/home/zanshin"
             }
           },
           "zoomed": false,
-          "focused": 4,
-          "root_pane": 4
-        },
-        {
-          "custom_name": null,
-          "layout": {
-            "Pane": 5
-          },
-          "panes": {
-            "5": {
-              "cwd": "/home/zanshin/code/odin/herdr-workspaces"
-            }
-          },
-          "zoomed": false,
-          "focused": 5,
-          "root_pane": 5
-        },
-        {
-          "custom_name": null,
-          "layout": {
-            "Pane": 6
-          },
-          "panes": {
-            "6": {
-              "cwd": "/home/zanshin/code/odin"
-            }
-          },
-          "zoomed": false,
-          "focused": 6,
-          "root_pane": 6
-        },
-        {
-          "custom_name": null,
-          "layout": {
-            "Pane": 7
-          },
-          "panes": {
-            "7": {
-              "cwd": "/home/zanshin/software/Odin"
-            }
-          },
-          "zoomed": false,
-          "focused": 7,
-          "root_pane": 7
+          "focused": 21,
+          "root_pane": 21
         }
       ],
-      "active_tab": 2
+      "active_tab": 1
     },
     {
       "id": "wP",
@@ -176,7 +151,17 @@
         {
           "custom_name": null,
           "layout": {
-            "Pane": 18
+            "Pane": 9
+          },
+          "panes": {
+            "9": {
+              "cwd": "/home/zanshin"
+            }
+          },
+          "zoomed": false,
+          "focused": 9,
+          "root_pane": 9
+          "Pane": 18
           },
           "panes": {
             "18": {
@@ -207,7 +192,7 @@
     {
       "id": "wR",
       "custom_name": "C3",
-      "identity_cwd": "/home/zanshin/code/C3/bla/bla2",
+      "identity_cwd": "/home/zanshin",
       "public_pane_numbers": {
         "10": 1
       },
@@ -322,6 +307,10 @@
         }
       ],
       "active_tab": 1
+    }
+  ],
+  "active": 1,
+  "selected": 1
     },
     {
       "id": "wZ",
