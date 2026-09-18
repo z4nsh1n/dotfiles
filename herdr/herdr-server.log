@@ -9982,3 +9982,36 @@ expected newline, `#`
 2026-09-07T22:22:35.344981Z  INFO herdr::update: new stable build available at https://github.com/herdrdev/herdr/releases/download/v0.9.0/herdr-linux-x86_64
 2026-09-07T22:22:35.345127Z  INFO herdr::update: auto-update check: 0.9.0 available, waiting for explicit install
 >>>>>>> ce5e7acaaaa8d4548429dd56517f038c14b9823b
+2026-09-18T20:57:32.305919Z  INFO herdr::api::server: api server listening path=/home/zanshin/.config/herdr/herdr.sock
+2026-09-18T20:57:32.310990Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-18T20:57:32.314000Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=1112
+2026-09-18T20:57:32.314583Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=2 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-18T20:57:32.315495Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=2 pid=1116
+2026-09-18T20:57:32.315791Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=3 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-18T20:57:32.316770Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=3 pid=1119
+2026-09-18T20:57:32.317825Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=4 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-18T20:57:32.318766Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=4 pid=1123
+2026-09-18T20:57:32.318954Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=5 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-18T20:57:32.319754Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=5 pid=1126
+2026-09-18T20:57:32.320153Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=6 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-18T20:57:32.320910Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=6 pid=1130
+2026-09-18T20:57:32.321129Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=7 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-18T20:57:32.321943Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=7 pid=1133
+2026-09-18T20:57:32.322125Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=8 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-18T20:57:32.322938Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=8 pid=1136
+2026-09-18T20:57:32.323225Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=9 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-18T20:57:32.324054Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=9 pid=1141
+2026-09-18T20:57:32.324308Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=10 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-09-18T20:57:32.325360Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=10 pid=1146
+2026-09-18T20:57:32.325598Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=6
+2026-09-18T20:57:32.325863Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-09-18T20:57:32.470058Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-09-18T20:57:32.471183Z  INFO herdr::server::headless::bootstrap: restored session already has workspaces; ignoring startup cwd cwd=/home/zanshin
+2026-09-18T20:57:32.471547Z  INFO herdr::server::headless: client protocol socket listening path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-18T20:57:32.471800Z  INFO herdr::server::headless::bootstrap: herdr server started api_socket=/home/zanshin/.config/herdr/herdr.sock client_socket=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-18T20:57:32.472853Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=1076
+2026-09-18T20:57:32.556774Z  INFO herdr::server::headless: client connected client_id=2 cols=154 rows=26 cell_width_px=16 cell_height_px=40 surface_active=true render_encoding=SemanticFrame
+2026-09-18T20:57:32.654799Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="letta"
+2026-09-18T20:57:32.690919Z  INFO herdr::logging: update available event="update.available" subsystem="update" outcome="ok" version="0.9.1"
+2026-09-18T20:57:32.690942Z  INFO herdr::update: new stable build available at https://github.com/herdrdev/herdr/releases/download/v0.9.1/herdr-linux-x86_64
+2026-09-18T20:57:32.691127Z  INFO herdr::update: auto-update check: 0.9.1 available, waiting for explicit install
