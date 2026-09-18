@@ -6,7 +6,9 @@
       "custom_name": "C",
       "identity_cwd": "/home/zanshin",
       "public_pane_numbers": {
-        "1": 61
+        "1": 61,
+        "2": 62,
+        "3": 63
       },
       "next_public_pane_number": 67,
       "public_tab_numbers": [
@@ -59,7 +61,29 @@
           "zoomed": false,
           "focused": 3,
           "root_pane": 3
-        },
+        }
+      ],
+      "active_tab": 2
+    },
+    {
+      "id": "wK",
+      "custom_name": "odin",
+      "identity_cwd": "/home/zanshin",
+      "public_pane_numbers": {
+        "5": 4,
+        "6": 18,
+        "4": 2,
+        "7": 24
+      },
+      "next_public_pane_number": 25,
+      "public_tab_numbers": [
+        2,
+        4,
+        13,
+        19
+      ],
+      "next_public_tab_number": 20,
+      "tabs": [
         {
           "custom_name": null,
           "layout": {
@@ -91,6 +115,17 @@
         20
       ],
       "next_public_tab_number": 24,
+        "22": 31,
+        "8": 1,
+        "18": 29
+      },
+      "next_public_pane_number": 32,
+      "public_tab_numbers": [
+        1,
+        24,
+        25
+      ],
+      "next_public_tab_number": 26,
       "tabs": [
         {
           "custom_name": "ghci",
@@ -120,6 +155,32 @@
           "zoomed": false,
           "focused": 6,
           "root_pane": 6
+          "focused": 9,
+          "root_pane": 9
+          "Pane": 18
+          },
+          "panes": {
+            "18": {
+              "cwd": "/home/zanshin/software/nyxt-buildfiles/nyxt (deleted)"
+            }
+          },
+          "zoomed": false,
+          "focused": 18,
+          "root_pane": 18
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 22
+          },
+          "panes": {
+            "22": {
+              "cwd": "/home/zanshin/software/nyxt-buildfiles"
+            }
+          },
+          "zoomed": false,
+          "focused": 22,
+          "root_pane": 22
         }
       ],
       "active_tab": 1
@@ -202,8 +263,8 @@
       "custom_name": "home",
       "identity_cwd": "/home/zanshin",
       "public_pane_numbers": {
-        "11": 2,
-        "10": 1
+        "13": 1,
+        "14": 2
       },
       "next_public_pane_number": 4,
       "public_tab_numbers": [
@@ -248,5 +309,73 @@
   "selected": 0,
   "sidebar_width": null,
   "sidebar_section_split": null,
+  "active": 1,
+  "selected": 1
+    },
+    {
+      "id": "wZ",
+      "custom_name": null,
+      "identity_cwd": "/home/zanshin/Music/EC64SC_SID_Files",
+      "public_pane_numbers": {
+        "15": 1
+      },
+      "next_public_pane_number": 4,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 4,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 15
+          },
+          "panes": {
+            "15": {
+              "cwd": "/home/zanshin/Music/EC64SC_SID_Files"
+            }
+          },
+          "zoomed": false,
+          "focused": 15,
+          "root_pane": 15
+        }
+      ],
+      "active_tab": 0
+    },
+    {
+      "id": "w13",
+      "custom_name": "C3",
+      "identity_cwd": "/home/zanshin/code/C3/grrr",
+      "public_pane_numbers": {
+        "16": 1
+      },
+      "next_public_pane_number": 3,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 3,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 16
+          },
+          "panes": {
+            "16": {
+              "cwd": "/home/zanshin/code/C3/grrr"
+            }
+          },
+          "zoomed": false,
+          "focused": 16,
+          "root_pane": 16
+        }
+      ],
+      "active_tab": 0
+    }
+  ],
+  "active": 2,
+  "selected": 2,
+  "sidebar_width": 18,
+  "sidebar_section_split": 0.5106383,
   "collapsed_space_keys": []
 }
