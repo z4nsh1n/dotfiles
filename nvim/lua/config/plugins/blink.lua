@@ -1,8 +1,10 @@
 vim.pack.add({
 	-- {src="https://github.com/Saghen/blink.nvim"}})
+  {src="https://github.com/saghen/blink.lib"},
 	{src="https://github.com/rafamadriz/friendly-snippets"},
 	{src="https://github.com/Saghen/blink.cmp"},
-})
+}
+)
 
 require("blink.cmp").setup({
   -- fuzzy = { implementation = "prefer_rust_with_warning" },
