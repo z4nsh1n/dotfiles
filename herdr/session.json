@@ -124,32 +124,64 @@
     {
       "id": "w5",
       "custom_name": "zig",
-      "identity_cwd": "/home/zanshin/code/zig",
+      "identity_cwd": "/home/zanshin/code/zig/dlist",
       "public_pane_numbers": {
-        "7": 1
+        "5": 1,
+        "8": 4,
+        "10": 6
       },
-      "next_public_pane_number": 2,
+      "next_public_pane_number": 7,
       "public_tab_numbers": [
-        1
+        1,
+        4,
+        6
       ],
-      "next_public_tab_number": 2,
+      "next_public_tab_number": 7,
       "tabs": [
         {
           "custom_name": null,
           "layout": {
-            "Pane": 7
+            "Pane": 5
           },
           "panes": {
-            "7": {
-              "cwd": "/home/zanshin/code/zig"
+            "5": {
+              "cwd": "/home/zanshin/code/zig/dlist"
             }
           },
           "zoomed": false,
-          "focused": 7,
-          "root_pane": 7
+          "focused": 5,
+          "root_pane": 5
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 8
+          },
+          "panes": {
+            "8": {
+              "cwd": "/home/zanshin/code/zig/dlist"
+            }
+          },
+          "zoomed": false,
+          "focused": 8,
+          "root_pane": 8
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 10
+          },
+          "panes": {
+            "10": {
+              "cwd": "/home/zanshin/dotfiles"
+            }
+          },
+          "zoomed": false,
+          "focused": 10,
+          "root_pane": 10
         }
       ],
-      "active_tab": 0
+      "active_tab": 2
     }
   ],
   "active": 4,

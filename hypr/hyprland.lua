@@ -7,8 +7,11 @@ hl.monitor({
 
 
 
-hl.env("XCURSOR_SIZE", "32")
-hl.env("HYPRCURSOR_SIZE", "32")
+hl.plugin.load "/usr/lib/libhy3.so"
+
+hl.env("XCURSOR_SIZE", "16")
+hl.env("XCURSOR_THEME", "Bibata-Modern-Ice")
+hl.env("HYPRCURSOR_SIZE", "16")
 
 require "config.binds"
 
@@ -16,6 +19,7 @@ hl.config({
   general = {
     gaps_out = 3,
     layout = "master",
+    -- layout = "hy3",
   },
   misc = {
     disable_hyprland_logo = true,
