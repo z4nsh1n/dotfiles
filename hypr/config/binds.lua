@@ -43,3 +43,12 @@ for i = 1, 10 do
     hl.bind(mainMod .. " + SHIFT + " .. key,     hl.dsp.window.move({ workspace = i }))
 end
 
+local hy3 = hl.plugin.hy3
+-- local make_group = hy3.make_group("tab", {
+--   toggle = true,
+--   ephemeral = true,
+-- })
+
+-- hl.bind(mainMod .. "+ T", hy3.make_group("tab",{
+--   toggle=true,
+-- }))
