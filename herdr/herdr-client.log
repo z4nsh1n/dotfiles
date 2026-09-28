@@ -384,3 +384,12 @@ expected newline, `#`
 2026-09-03T21:56:41.919802Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
 2026-09-03T21:56:41.922425Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
 >>>>>>> ce5e7acaaaa8d4548429dd56517f038c14b9823b
+2026-09-17T21:48:57.458100Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1863
+2026-09-17T21:48:57.458215Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-17T21:48:57.471478Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-09-23T21:55:23.261505Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1834
+2026-09-23T21:55:23.261655Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-23T21:55:23.262887Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-09-28T15:57:56.592921Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=1836
+2026-09-28T15:57:56.593182Z  INFO herdr::client: connecting to server path=/home/zanshin/.config/herdr/herdr-client.sock
+2026-09-28T15:57:56.816758Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
