@@ -7,7 +7,7 @@ hl.monitor({
 
 
 
-hl.plugin.load "/usr/lib/libhy3.so"
+-- hl.plugin.load "/usr/lib/libhy3.so"
 
 hl.env("XCURSOR_SIZE", "16")
 hl.env("XCURSOR_THEME", "Bibata-Modern-Ice")

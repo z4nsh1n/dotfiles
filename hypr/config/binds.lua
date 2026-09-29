@@ -44,11 +44,11 @@ for i = 1, 10 do
 end
 
 local hy3 = hl.plugin.hy3
-local make_group = hy3.make_group("tab", {
-  toggle = true,
-  ephemeral = true,
-})
+-- local make_group = hy3.make_group("tab", {
+--   toggle = true,
+--   ephemeral = true,
+-- })
 
-hl.bind(mainMod .. "+ T", hy3.make_group("tab",{
-  toggle=true,
-}))
+-- hl.bind(mainMod .. "+ T", hy3.make_group("tab",{
+--   toggle=true,
+-- }))
