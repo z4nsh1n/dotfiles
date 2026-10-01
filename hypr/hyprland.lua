@@ -23,7 +23,9 @@ hl.config({
   },
   misc = {
     disable_hyprland_logo = true,
+    disable_splash_rendering = true,
     force_default_wallpaper =false,
+
   },
   decoration = {
     rounding = 5,
@@ -42,7 +44,25 @@ hl.config({
       natural_scroll = true,
       disable_while_typing = true,
     }
-  }
+  },
+  group = {
+    col = {
+      -- border_active="#FFFFFF",
+      -- border_inactive="#000000",
+    },
+    groupbar = {
+      enabled = true,
+      font_size = 12,
+      height = 18,
+      render_titles = true,
+      gradients = true,
+      blur = true,
+      col = {
+        active = "#199cbc",
+        inactive = "#0f5d70"
+      }
+    },
+  },
 })
 
 hl.on("hyprland.start", function ()
@@ -62,4 +82,5 @@ hl.window_rule({
     size = {"(monitor_w)", "(monitor_h*0.6)"},
     -- border_size = 20,
 })
+
 
