@@ -1277,6 +1277,10 @@ c.hints.selectors['myscrolls'] = [
 c.hints.selectors['headings'] = ['h1', 'h2', 'h3', 'h4', 'h5']
 c.hints.selectors['divs'] = ['div']
 
+c.hints.selectors['para'] = ['p', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
+                             'blockquote', 'dd', 'dt', 'pre', 'td', 'th',
+                             'figcaption']
+config.bind(';v', 'hint para userscript caret-anchor')
 config.bind(";s", 'hint myscrolls')
 config.bind(";D", 'hint divs')
 c.hints.selectors['headings'] = ['h1', 'h2', 'h3', 'h4', 'h5']
