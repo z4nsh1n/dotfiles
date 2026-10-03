@@ -28,6 +28,7 @@ require("blink.cmp").setup({
     ['<C-d>'] = {'scroll_documentation_down', 'fallback'},
     ['<C-space>'] = {'show_signature', 'hide_signature', 'fallback'},
     ['<C-p>'] = {function (cmp) cmp.show() end},
+    
     -- ['<A-y>'] = require('minuet').make_blink_map(),
   },
   signature = { enabled = true, },

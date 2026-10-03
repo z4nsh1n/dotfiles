@@ -126,7 +126,7 @@ navigate_workspace_down = "j"
 key = "prefix+f"
 type = "popup"
 # command = "herdr workspace create --cwd /tmp/ --label tmp --focus"
-command = "~/.local/bin/sessionizer"
+command = "~/.local/bin/sessionizer.sh"
 width = "80%"
 height = "50%"
 
