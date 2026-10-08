@@ -1,1 +1,1 @@
-#s(lsp-session ("/home/zanshin/code/rust/tui" "/home/zanshin/code/rust/bla" "/home/zanshin/code/zig/zig-kilo") nil #s(hash-table test equal) #s(hash-table test equal) #s(hash-table test equal))
+#s(lsp-session ("/home/zanshin/code/zig/emacs-test" "/home/zanshin/code/rust/tui" "/home/zanshin/code/rust/bla" "/home/zanshin/code/zig/zig-kilo") nil #s(hash-table test equal) #s(hash-table test equal) #s(hash-table test equal))
