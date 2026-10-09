@@ -10,7 +10,7 @@ onboarding = false
 # Built-in themes: catppuccin, terminal, tokyo-night, dracula, nord,
 #                  gruvbox, one-dark, solarized, kanagawa, rose-pine,
 #                  vesper
-name = "tokyo-night"
+name = "dracula"
 
 # Follow host terminal light/dark appearance and switch Herdr UI themes.
 # Existing manual behavior is unchanged unless this is true.
@@ -126,7 +126,7 @@ navigate_workspace_down = "j"
 key = "prefix+f"
 type = "popup"
 # command = "herdr workspace create --cwd /tmp/ --label tmp --focus"
-command = "~/.local/bin/sessionizer.sh"
+command = "~/.local/bin/sessionizer"
 width = "80%"
 height = "50%"
 

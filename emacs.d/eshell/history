@@ -14,3 +14,16 @@ ls
 ls -al
 btop
 htop
+zig build run
+zig build 
+zig build run
+zig build
+zig build run
+zig build run
+zig build run
+cd ..
+zig build run
+ls
+ls
+zig build
+zig build run
