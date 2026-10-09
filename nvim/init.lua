@@ -93,6 +93,7 @@ vim.api.nvim_create_autocmd("FileType", {
 -- end
 
 -- bit weird, 
+require("config.plugins.whichkey")
 require("config.plugins.nvim_dap")
 require("config.plugins.jai")
 require("config.plugins.kickass")
@@ -120,7 +121,8 @@ require("config.plugins.tiny_diagnostics")
 require("config.plugins.scala-metals")
 
 -- vim.cmd.colorscheme("minicyan")
-vim.cmd.colorscheme("gruvbox")
+-- vim.cmd.colorscheme("gruvbox")
+vim.cmd.colorscheme("clarity")
 -- vim.o.autocomplete=true
 -- vim.o.winborder = "rounded"
 -- vim.diagnostic.config({virtual_text = true, virtual_lines=false})
@@ -345,8 +347,8 @@ vim.keymap.set("n", "N", "Nzz", {remap=false})
 vim.keymap.set("n", "<A-q>", ":q<cr>", {remap=false, desc="close window"})
 vim.keymap.set("n", "<leader>.", "g,zz", {remap=false, desc = "Go up into the change map"})
 vim.keymap.set("n", "<leader>,", "g;zz", {remap=false, desc = "Go up into the change map"})
-vim.keymap.set("n", "<leader>v", function () vim.cmd.split() vim.cmd.normal("j")end)
-vim.keymap.set("n", "<leader>V", function () vim.cmd.vsplit() vim.cmd.normal("l")end)
+vim.keymap.set("n", "<leader>v", function () vim.cmd.split() vim.cmd.normal("j")end, {desc="Vertical split"})
+vim.keymap.set("n", "<leader>V", function () vim.cmd.vsplit() vim.cmd.normal("l")end, {desc="Horizontal split"})
 -- vim.keymap.set("n", "<leader>s", "vsplit<CR>|g;zz")
 vim.keymap.set("n", "<leader>cd", "<cmd>cd %:p:h<cr>", {desc = "change current directory to current file "})
 vim.keymap.set("n", "<leader>lcd", "<cmd>lcd %:p:h<cr>", {desc = "change current directory to current file "})

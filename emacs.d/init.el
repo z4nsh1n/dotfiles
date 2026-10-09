@@ -37,8 +37,7 @@
   (package-install 'use-package))						      ;;
 										      ;;
 (require 'use-package)							      ;;
-										      ;;
-										      ;;
+										      ;;										      ;;
 ;;; (load-theme 'misterioso t)						      ;;
 (use-package gruvbox-theme)							      ;;
 (load-theme 'gruvbox t)							      ;;

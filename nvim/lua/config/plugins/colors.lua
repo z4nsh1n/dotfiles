@@ -1,4 +1,6 @@
 vim.pack.add({
+  {src = "https://github.com/z4nsh1n/clarity.nvim"},
+  -- {src = "https://github.com/InterfaceKentaro/clarity.nvim"},
 	{src = "https://github.com/folke/tokyonight.nvim"},
 	{src = "https://github.com/Mofiqul/dracula.nvim"},
   {src = "https://github.com/catppuccin/nvim"},

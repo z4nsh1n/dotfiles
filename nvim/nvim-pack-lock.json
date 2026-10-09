@@ -32,6 +32,10 @@
       "rev": "ecf1c04d9ca5e8ffefe8f9c22724528e49f627e2",
       "src": "https://github.com/Airbus5717/c3.vim"
     },
+    "clarity.nvim": {
+      "rev": "a3462aa7c4e6843f00dd7f0444ab3125f07f6005",
+      "src": "https://github.com/z4nsh1n/clarity.nvim"
+    },
     "dracula.nvim": {
       "rev": "ae752c13e95fb7c5f58da4b5123cb804ea7568ee",
       "src": "https://github.com/Mofiqul/dracula.nvim"
@@ -195,6 +199,10 @@
     "vim-solarized8": {
       "rev": "4433b4411de92b2446a4d32f0d8bf1b25c476bf9",
       "src": "https://github.com/lifepillar/vim-solarized8"
+    },
+    "which-key.nvim": {
+      "rev": "3aab2147e74890957785941f0c1ad87d0a44c15a",
+      "src": "https://github.com/folke/which-key.nvim"
     }
   }
 }
