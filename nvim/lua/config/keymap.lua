@@ -4,7 +4,9 @@ vim.g.maplocalleader = " "
 
 
 -- Normal mode
-vim.keymap.set("n", "<leader>gO", "<cmd>Telescope lsp_document_symbols<cr>", {desc="set colorscheme to newpaper"})
+vim.keymap.set("n", "<leader>gO", "<cmd>Telescope lsp_document_symbols<cr>", {desc="Document symbols"})
+vim.keymap.set("n", "<leader>fb", "<cmd>Telescope current_buffer_fuzzy_find<cr>", {desc="current buffer fuzzy find"})
+vim.keymap.set("n", "<leader>lg", "<cmd>Telescope live_grep<cr>", {desc="live grep"})
 vim.keymap.set("n", "<leader>1", "<cmd>colorscheme minicyan<bar>set bg=dark<cr>", {desc="set colorscheme to minicyan"})
 vim.keymap.set("n", "<leader>2", "<cmd>colorscheme newpaper<bar>set bg=light<cr>", {desc="set colorscheme to newpaper"})
 vim.keymap.set("n", "<leader>3", "<cmd>colorscheme gruvbox<bar>set bg=dark<cr>", {desc="set colorscheme to newpaper"})
@@ -13,7 +15,6 @@ vim.keymap.set("n", "<leader>5", "<cmd>colorscheme clarity<bar>set bg=dark<cr>",
 vim.keymap.set("n", "zz", "za", {desc="Fold"})
 vim.keymap.set("n", "z", "zA", {desc="Fold"})
 vim.keymap.set("n", "<leader>n", "<cmd>Neogit<cr>", {desc="Neogit"})
-vim.keymap.set("n", "<leader><leader>l", "<cmd>Telescope live_grep<cr>", {desc="Telescope live grep"})
 vim.keymap.set("n", "-", "<cmd>Fyler<cr>", {desc = "Toggle Fyler filemanager"})
 vim.keymap.set("n", "<c-s-h>", [[<Esc><C-w>h]])
 vim.keymap.set("n", "<c-s-l>", [[<Esc><C-w>l]])
@@ -50,7 +51,7 @@ vim.keymap.set(
     return vim.v.count > 3 and "m'" .. vim.v.count .. 'j'
       or (vim.v.count > 0 and vim.v.count .. 'j' or 'gj')
   end,
-  { expr = true, desc = 'Adds jumps greater than 3 lines to the jumplist' }
+  {noremap = true, expr = true, desc = 'Adds jumps greater than 3 lines to the jumplist' }
 )
 
 vim.keymap.set(
@@ -58,7 +59,7 @@ vim.keymap.set(
     return vim.v.count > 3 and "m'" .. vim.v.count .. 'k'
       or (vim.v.count > 0 and vim.v.count .. 'k' or 'gk')
   end,
-  { expr = true, desc = 'Adds jumps greater than 3 lines to the jumplist' }
+  {noremap=true, expr = true, desc = 'Adds jumps greater than 3 lines to the jumplist' }
 )
 
 -- Command Mode
