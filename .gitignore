@@ -25,4 +25,5 @@ Vieb/settings
 Vieb/tabs
 herdr/herdr-client.log
 herdr/herdr-server.log
+herdr/session-snapshots/
 herdr/session.json
