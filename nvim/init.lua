@@ -492,5 +492,31 @@ local git_hunks = function()
     :find()
 end
 
-vim.keymap.set("n", "<Leader>gh", "<cmd>Telescope git_signs<cr>", {})
-vim.keymap.set("n", "<Leader>gH", git_hunks, {})
+
+local toggle_quickfix2 = function ()
+  local qf_open = vim.fn.getqflist({winid=0}).winid ~= 0
+  if qf_open then
+    vim.cmd("cclose")
+  else
+    vim.cmd("copen")
+  end
+end
+
+local toggle_quickfix = function ()
+  local qf_exists = false
+  for _, win in pairs(vim.fn.getwininfo()) do 
+    if win["quickfix"] == 1 then
+      qf_exists = true
+      break
+    end
+  end
+  if qf_exists then
+    vim.cmd("cclose")
+  else
+    vim.cmd("copen")
+  end
+end
+
+vim.keymap.set("n", "<leader>o", toggle_quickfix2, {desc="Toggle quickfix"})
+vim.keymap.set("n", "<Leader>gh", "<cmd>Telescope git_signs<cr>", {desc="Git Signs"})
+vim.keymap.set("n", "<Leader>gH", git_hunks, {desc="Git Hunks"})
