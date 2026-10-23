@@ -334,3 +334,54 @@ close
 buffer 1
 close
 quitall
+buffer 0
+buffer 1
+tabnew
+close
+buffer 0
+buffer 1
+buffer 2
+buffer 3
+tabnew
+close
+tabnew
+buffer 0
+buffer 1
+close
+buffer 1
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+help darkreader
+tabnew
+set darkreader=true
+close
+set darkreader=false
+close
+tabnew
+close
+tabnew
+close
+tabnew
+buffer 6
+tabnew
+close
+tabnew
+close
+tabnew
+close
+buffer 9
+buffer 7
+tabnew
+close
+tabnew
+close
+tabnew
+close
