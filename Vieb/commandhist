@@ -385,3 +385,42 @@ tabnew
 close
 tabnew
 close
+help commands
+help
+tabnew
+close
+help tabcycle
+buffer 0
+buffer 9
+tabnew
+close
+tabnew
+help
+14buffer
+buffer 15
+buffer 11
+buffer 10
+buffer 0
+buffer 1
+buffer 0
+buffer 10
+buffer 2
+buffer 10
+buffers
+tabnew
+close
+map!
+close
+tabnew
+close
+tabnew
+close
+set tabnewposition=end
+tabnew
+set tabnewposition=right
+close
+buffer 10
+buffer 9
+close
+buffer 0
+close
