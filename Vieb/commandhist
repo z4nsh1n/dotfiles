@@ -334,3 +334,132 @@ close
 buffer 1
 close
 quitall
+buffer 0
+buffer 1
+tabnew
+close
+buffer 0
+buffer 1
+buffer 2
+buffer 3
+tabnew
+close
+tabnew
+buffer 0
+buffer 1
+close
+buffer 1
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+help darkreader
+tabnew
+set darkreader=true
+close
+set darkreader=false
+close
+tabnew
+close
+tabnew
+close
+tabnew
+buffer 6
+tabnew
+close
+tabnew
+close
+tabnew
+close
+buffer 9
+buffer 7
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+buffer 1
+close
+buffer 0
+close
+tabnew
+buffer 0
+buffer 1
+close
+buffer 1
+buffer 0
+tabnew
+source /home/zanshin/.config/
+source /home/zanshin/.config/Vieb/viebrc
+reloadconfig ~/.config/Vieb/viebrc
+reloadconfig
+wq
+quit
+close
+tabnew
+close
+reloadconfig
+set darkreader!
+buffer 0
+buffer 1
+buffer 2
+set darkreader!
+set darkreader=true
+set darkreader!
+tabnew
+close
+help favoritepages
+set tabnewposition=end
+tabnew
+set tabnewposition=right
+set suggesttopsites
+set suggesttopsites=0
+set tabnewposition=end
+tabnew
+set tabnewposition=right
+close
+set tabnewposition=end
+tabnew
+set tabnewposition=right
+close
+set tabnewposition=end
+tabnew
+set tabnewposition=right
+close
+favoritepage
+set favoritepages+=["https://www.reddit.com/"]
+set tabnewposition=end
+tabnew
+set tabnewposition=right
+tabnew
+close
+tabnew
+close
+help explore
+tabnew
+close
+tabnew
+close
+reloadconfig
+tabnew
+reloadconfig
+close
+reloadconfig
+close
+tabnew
+close
+tabnew
+close
+set darkreader!
+close
+tabnew
+close

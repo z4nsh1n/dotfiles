@@ -77,6 +77,7 @@ alias giti="git init ."
 alias gitl="git log"
 alias gits="git status"
 alias gitc="git commit"
+alias gita="git add"
 #
 # export PATH=~/.local/share/coursier/bin:~/.local/share/bob/nvim-bin/:~/.local/bin/:~/.cargo/bin/:~/.zvm/self/:~/.zvm/bin/:~/software/Nim/bin:~/.nimble/bin/:/usr/sbin/$PATH
 set -U fish_user_paths ~/.ghcup/bin ~/.local/share/coursier/bin ~/.local/share/bob/nvim-bin/ ~/.local/bin/ ~/.cargo/bin/ ~/.zvm/self/ ~/.zvm/bin/ ~/software/Nim/bin ~/.nimble/bin/ $fish_user_paths

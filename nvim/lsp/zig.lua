@@ -8,6 +8,7 @@
 --
 return {
   cmd = {"zls"},
+  -- cmd = {"/home/zanshin/software/zigscient/zig-out/bin/zigscient"},
   filetypes = {"zig", "zir"},
   root_markers = {"build.zig", "zls.json"},
   workspace_required = false,

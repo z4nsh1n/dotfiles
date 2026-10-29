@@ -370,11 +370,9 @@ c.auto_save.session = True
 
 ## Background color of unselected even tabs.
 ## Type: QtColor
-c.colors.tabs.even.bg = 'darkgrey'
 
 ## Foreground color of unselected even tabs.
 ## Type: QtColor
-c.colors.tabs.even.fg = 'white'
 
 ## Color for the tab indicator on errors.
 ## Type: QtColor
@@ -399,11 +397,9 @@ c.colors.tabs.even.fg = 'white'
 
 ## Background color of unselected odd tabs.
 ## Type: QtColor
-c.colors.tabs.odd.bg = 'lightgrey' #'darkgrey'
 
 ## Foreground color of unselected odd tabs.
 ## Type: QtColor
-c.colors.tabs.odd.fg = 'white'
 
 ## Background color of pinned unselected even tabs.
 ## Type: QtColor
@@ -439,19 +435,15 @@ c.colors.tabs.odd.fg = 'white'
 
 ## Background color of selected even tabs.
 ## Type: QtColor
-c.colors.tabs.selected.even.bg = '#00a6a8' #'lightgrey'
 
 ## Foreground color of selected even tabs.
 ## Type: QtColor
-c.colors.tabs.selected.even.fg = 'white'
 
 ## Background color of selected odd tabs.
 ## Type: QtColor
-c.colors.tabs.selected.odd.bg = '#00a6a8' #'lightgrey'
 
 ## Foreground color of selected odd tabs.
 ## Type: QtColor
-c.colors.tabs.selected.odd.fg = 'white'
 
 ## Background color for webpages if unset (or empty to use the theme's
 ## color).
@@ -483,7 +475,6 @@ c.colors.tabs.selected.odd.fg = 'white'
 ## `colors.webpage.darkmode.threshold.background` to 205.  - "With
 ## selective inversion of everything": Combines the two variants   above.
 ## Type: Bool
-c.colors.webpage.darkmode.enabled = True
 
 ## Render all colors as grayscale. This only has an effect when
 ## `colors.webpage.darkmode.algorithm` is set to `lightness-hsl` or
@@ -514,7 +505,6 @@ c.colors.webpage.darkmode.enabled = True
 ## Valid values:
 ##   - always: Apply dark mode filter to all frames, regardless of content.
 ##   - smart: Apply dark mode filter to frames based on background color.
-c.colors.webpage.darkmode.policy.page = 'smart'
 
 ## Threshold for inverting background elements with dark mode. Background
 ## elements with brightness above this threshold will be inverted, and
@@ -533,7 +523,6 @@ c.colors.webpage.darkmode.policy.page = 'smart'
 
 ## Force `prefers-color-scheme: dark` colors for websites.
 ## Type: Bool
-c.colors.webpage.preferred_color_scheme = 'dark'
 
 ## Number of commands to save in the command history. 0: no history / -1:
 ## unlimited
@@ -1069,7 +1058,6 @@ c.content.webgl = True
 ## Type: List of Font, or Font
 # c.fonts.default_family = []
 # c.fonts.default_family = ["Noto Sans Mono"]
-c.fonts.default_family = "JetBrains Mono"
 #c.fonts.default_family = "FiraCode Nerd Font Mono"
 
 ## Default font size to use. Whenever "default_size" is used in a font
@@ -1078,7 +1066,6 @@ c.fonts.default_family = "JetBrains Mono"
 ## "px" suffix.
 ## Type: String
 
-c.fonts.default_size = '12pt'
 # c.fonts.default_size = '20pt'
 
 ## Font used for the downloadbar.
@@ -1155,7 +1142,6 @@ c.fonts.default_size = '12pt'
 
 ## Hard minimum font size (in pixels).
 ## Type: Int
-c.fonts.web.size.minimum = 12
 
 ## Minimum logical font size (in pixels) that is applied when zooming
 ## out.
@@ -1217,7 +1203,6 @@ c.fonts.web.size.minimum = 12
 
 ## Comma-separated list of regular expressions to use for 'next' links.
 ## Type: List of Regex
-c.hints.next_regexes = ['\\bnext\\b', '\\bmore\\b', '\\bnewer\\b', '\\b[>→≫]\\b', '\\b(>>|»)\\b', '\\bcontinue\\b']
 
 ## Padding (in pixels) for hints.
 ## Type: Padding
@@ -1239,62 +1224,6 @@ c.hints.next_regexes = ['\\bnext\\b', '\\bmore\\b', '\\bnewer\\b', '\\b[>→≫]
 ## CSS selectors used to determine which elements on a page should have
 ## hints.
 ## Type: Dict
-c.hints.selectors = {'all': ['a', 'area', 'textarea', 'select', 'input:not([type="hidden"])', 'button', 'frame', 'iframe', 'img', 'link', 'summary', '[contenteditable]:not([contenteditable="false"])', '[onclick]', '[onmousedown]', '[role="link"]', '[role="option"]', '[role="button"]', '[ng-click]', '[ngClick]', '[data-ng-click]', '[x-ng-click]', '[tabindex]'], 
-                     'links': ['a[href]', 'area[href]', 'link[href]', '[role="link"][href]'], 
-                     'images': ['img'], 
-                     'media': ['audio', 'img', 'video'], 
-                     'url': ['[src]', '[href]'], 
-                     'divids': ['div[id]'],
-                     'youtube' : ['ytd-guide-section-renderer'],
-                     'inputs': ['input[type="text"]', 'input[type="date"]', 'input[type="datetime-local"]', 'input[type="email"]', 'input[type="month"]', 'input[type="number"]', 'input[type="password"]', 'input[type="search"]', 'input[type="tel"]', 'input[type="time"]', 'input[type="url"]', 'input[type="week"]', 'input:not([type])', '[contenteditable]:not([contenteditable="false"])', 'textarea']
-                     }
-c.hints.selectors['myscrolls'] = [
-                               'body',
-                               'ul',
-                               'ol',
-                               'pre',
-                               'figure',
-                               
-                               '[id^="nav"]',
-                               '[class^="nav"]',
-                               ':root',
-                               #'ytd-app',
-                               #'ytd-browse',
-                               # 'div[id="navigation"]',
-                               # 'div[id="guide-inner-content"]',
-                               # '[player]',
-                               # '[contents]',
-                               #'[playlist]',
-                               #'[container]',
-                               #'div[id="below"]',
-                               #'[id*="container"]',
-                               #'[id*="header"]',
-                               #'[class*="header"]',
-                               #'[id*="content"]',
-                               #'[class*="content"]',
-                               #'[class*="container"]'  
-                               ]
-c.hints.selectors['headings'] = ['h1', 'h2', 'h3', 'h4', 'h5']
-c.hints.selectors['divs'] = ['div']
-
-c.hints.selectors['para'] = ['p', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
-                             'blockquote', 'dd', 'dt', 'pre', 'td', 'th',
-                             'figcaption']
-config.bind(';v', 'hint para userscript caret-anchor')
-config.bind(";s", 'hint myscrolls')
-config.bind(";D", 'hint divs')
-c.hints.selectors['headings'] = ['h1', 'h2', 'h3', 'h4', 'h5']
-c.hints.selectors['href'] = ['.flex']
-c.hints.selectors['grease'] = ['.__qb_scrollable__']
-
-config.bind(";s", 'hint myscrolls')
-config.bind(";D", 'hint href')
-config.bind(";q", 'hint grease')
-config.bind(";d", 'hint divids')
-config.bind(";H", 'hint headings')
-config.bind(";T", 'hint testing')
-config.bind("td", 'config-cycle colors.webpage.darkmode.enabled true false')
-
 ## Make characters in hint strings uppercase.
 ## Type: Bool
 # c.hints.uppercase = False
@@ -1878,47 +1807,10 @@ c.url.default_page = "about:blank"  #"file:///home/zanshin/index.html" #'http://
 ## the search engine name to the search term, e.g. `:open google
 ## qutebrowser`.
 ## Type: Dict
-c.url.searchengines = {'DEFAULT': 'https://www.google.nl/search?q={}',
-                       'ocamlh' : 'https://www.google.nl/search?q=site%3Ahttps%3A//courses.cs.cornell.edu/cs3110/2021sp/textbook/%20{}',
-                       'gpt': 'https://chat.openai.com/chat?q={}',
-                       'phind' : 'https://www.phind.com/search?q={}&searchMode=auto&allowMultiSearch=false',
-                       'stackoflow': 'https://stackoverflow.com/questions/tagged/{}',
-                       'dicnl': 'https://nl.thefreedictionary.com/{}',
-                       'dic': 'https://www.thefreedictionary.com/{}',
-                       'anna': 'https://annas-archive.org/search?index=&q={}&sort=',
-                       'ocaml-pack': 'https://ocaml.org/packages/search?q={}',
-                       'zig-api': 'https://ziglang.org/documentation/master/std/#A;std?{}',
-                       'rust-lang': 'https://doc.rust-lang.org/rust-by-example/index.html?search={}',
-                       'rust-forum': 'https://users.rust-lang.org/search?q={}',
-                       'rustapi': 'https://doc.rust-lang.org/std/index.html?search={}',
-                       'crates': 'https://crates.io/search?q={}',
-                       'rustref': 'https://doc.rust-lang.org/reference/items/implementations.html?search={}',
-                       'm': 'https://www.marktplaats.nl/q/{}',
-                       'rdoc': 'https://docs.rs/releases/search?query={}',
-                       'y' : 'https://www.youtube.com/results?search_query={}',
-                       'd' : 'https://duckduckgo.com/?q={}',
-                       'i' :'https://www.investopedia.com/search?q={}',
-                       'g' : 'https://www.google.nl/search?q={}',
-                       'git':'https://github.com/search?q={}&type=repositories',
-                       'pdf' :'https://welib.org/search?q={}',
-                       'wa': 'https://wiki.archlinux.org/?search={}',
-                       'vpub': 'https://vdoc.pub/search/{}',
-                       # 'zlib' :'https://1lib.sk/s/{}',
-                       'zlib' :'https://z-library.website/s/{}',
-                       'etynl' : 'https://etymologiebank.nl/trefwoord/{}',
-                       'etyen' : 'https://www.etymonline.com/word/{}',
-                       'lat' : 'https://www.latin-is-simple.com/en/vocabulary/search/?q={}',
-                       'dict' : 'https://dictionary.cambridge.org/dictionary/english/{}',
-                       'wb' : 'https://nl.wiktionary.org/wiki/{}',
-                       'hoogle' : 'https://hoogle.haskell.org/?hoogle={}',
-                       'elixir' : 'https://hexdocs.pm/elixir/search.html?q={}',
-                       'hex' : 'https://hex.pm/packages?search={}&sort=recent_downloads'}
-
 
 ## Page(s) to open at the start.
 ## Type: List of FuzzyUrl, or FuzzyUrl
 # c.url.start_pages = ['https://start.duckduckgo.com']
-c.url.start_pages = ['file:///home/zanshin/index.html']
 
 ## URL parameters to strip with `:yank url`.
 ## Type: List of String
@@ -1961,7 +1853,6 @@ config.bind(',ss', 'spawn --userscript save_session.sh')
 #config.bind(',bw', 'spawn --userscript qute-capture write')
 
 # config.bind("'", 'enter-mode jump_mark')
-config.bind('=', 'zoom-in')
 # config.bind('-', 'zoom-out')
 # config.bind('.', 'repeat-command')
 # config.bind('/', 'set-cmd-text /')
@@ -1970,7 +1861,6 @@ config.bind('=', 'zoom-in')
 # config.bind(';O', 'hint links fill :open -t -r {hint-url}')
 # config.bind(';R', 'hint --rapid links window')
 # config.bind(';Y', 'hint links yank-primary')
-config.bind('F', 'hint all tab-bg')
 # config.bind(';d', 'hint links download')
 # config.bind(';f', 'hint all tab-fg')
 # config.bind(';h', 'hint all hover')
@@ -1979,20 +1869,6 @@ config.bind('F', 'hint all tab-bg')
 # config.bind(';r', 'hint --rapid links nab-bg')
 # config.bind(';t', 'hint inputs')
 # config.bind(';y', 'hint links yank')
-config.bind('<Ctrl-Alt-1>', 'tab-focus 11')
-config.bind('<Ctrl-Alt-2>', 'tab-focus 12')
-config.bind('<Ctrl-Alt-3>', 'tab-focus 13')
-config.bind('<Ctrl-Alt-4>', 'tab-focus 14')
-config.bind('<Ctrl-Alt-5>', 'tab-focus 15')
-config.bind('<Ctrl-Alt-6>', 'tab-focus 16')
-config.bind('<Ctrl-Alt-7>', 'tab-focus 17')
-config.bind('<Ctrl-Alt-8>', 'tab-focus 18')
-config.bind('<Ctrl-Alt-9>', 'tab-focus 19')
-config.bind('<Alt-9>', 'tab-focus 9')
-config.bind('<Alt-0>', 'tab-focus 10')
-config.bind('gT', 'cmd-set-text --space :tab-give')
-config.bind('tT', 'cmd-set-text --space :tab-take')
-config.bind('cr', 'config-source ~/.config/qutebrowser/config.py')
 # config.bind('<Alt-m>', 'tab-mute')
 # config.bind('<Ctrl-A>', 'navigate increment')
 # config.bind('<Ctrl-Alt-p>', 'print')
@@ -2217,8 +2093,6 @@ config.bind('<Ctrl-c>', 'mode-leave', mode='command')
 # config.bind('<PgUp>', 'completion-item-focus prev-page', mode='command')
 # config.bind('<Return>', 'command-accept', mode='command')
 # config.bind('<Shift-Delete>', 'completion-item-del', mode='command')
-config.bind('<Ctrl-k>', 'completion-item-focus prev', mode='command')
-config.bind('<Ctrl-j>', 'completion-item-focus next', mode='command')
 # config.bind('<Up>', 'completion-item-focus --history prev', mode='command')
 
 ## Bindings for hint mode
@@ -2280,22 +2154,15 @@ config.bind('<Ctrl-c>', 'mode-leave', mode='hint')
 ## themes
 
 #config.source("./themes/themes/default/base16-atelier-dune.config.py")
-config.source("./themes/gruvbox.py")
+# config.source("./themes/gruvbox.py")
 #config.source("./themes/themes/default/base16-gruvbox-dark-hard.config.py")
 #import themes.dracula.draw
 #themes.dracula.draw.blood(c)
-config.bind('<Ctrl-c>', 'mode-leave', mode='insert')
-config.bind('<Ctrl-f>', 'fake-key <Ctrl-Right>', mode='insert')
-config.bind('<Ctrl-b>', 'fake-key <Ctrl-Left>', mode='insert')
-config.bind('<Ctrl-w>', 'fake-key <Ctrl-Backspace>', mode='insert')
-config.bind('<Ctrl-a>', 'fake-key <Home>', mode='insert')
-config.bind('<Ctrl-e>', 'fake-key <End>', mode='insert')
-config.bind('<Ctrl-u>', 'fake-key <End><Shift-Home><Delete>', mode='insert')
-config.bind('<Ctrl-j>', 'fake-key <Down>', mode='insert')
-config.bind('<Ctrl-k>', 'fake-key <Up>', mode='insert')
 
 
-config.bind('<Alt-l>', 'tab-next')
-config.bind('<Alt-h>', 'tab-prev')
-config.bind('<Ctrl-Alt-h>', 'tab-move -')
-config.bind('<Ctrl-Alt-l>', 'tab-move +')
+# config.bind('<Alt-l>', 'tab-next')
+# config.bind('<Alt-h>', 'tab-prev')
+# config.bind('<Ctrl-Alt-h>', 'tab-move -')
+# config.bind('<Ctrl-Alt-l>', 'tab-move +')
+
+config.source("./my_config.py")
