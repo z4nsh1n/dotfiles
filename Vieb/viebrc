@@ -37,7 +37,7 @@ nnoremap <A-h> <previousTab>
 nnoremap <A-l> <nextTab>
 nnoremap o <toExploreMode>
 nnoremap <A-d> <:set darkreader!>
-
+nnoremap <C-D> <:set darkreader!>
 " Commands
 " command favoritepage <:set favoritepages+=["<useCurrentUrl>"]>
 colorscheme mycatppuccin
