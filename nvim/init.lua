@@ -502,20 +502,24 @@ local toggle_quickfix2 = function ()
   end
 end
 
-local toggle_quickfix = function ()
-  local qf_exists = false
-  for _, win in pairs(vim.fn.getwininfo()) do 
-    if win["quickfix"] == 1 then
-      qf_exists = true
-      break
-    end
-  end
-  if qf_exists then
-    vim.cmd("cclose")
-  else
-    vim.cmd("copen")
-  end
-end
+-- vim.keymap.set("n", "<leader>o", toggle_quickfix, { desc = "Toggle quickfix" })
+-- vim.keymap.set("n", "<Leader>gh", "<cmd>Telescope git_signs<cr>", {})
+-- vim.keymap.set("n", "<Leader>gH", git_hunks, {})
+
+-- local toggle_quickfix = function ()
+--   local qf_exists = false
+--   for _, win in pairs(vim.fn.getwininfo()) do 
+--     if win["quickfix"] == 1 then
+--       qf_exists = true
+--       break
+--     end
+--   end
+--   if qf_exists then
+--     vim.cmd("cclose")
+--   else
+--     vim.cmd("copen")
+--   end
+-- end
 
 vim.keymap.set("n", "<leader>o", toggle_quickfix2, {desc="Toggle quickfix"})
 vim.keymap.set("n", "<Leader>gh", "<cmd>Telescope git_signs<cr>", {desc="Git Signs"})

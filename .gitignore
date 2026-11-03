@@ -4,6 +4,8 @@ qutebrowser/sessions/_autosave.yml
 
 emacs.d/eln-cache/ 
 emacs.d/elpa/
+Vieb/commandhist
+Vieb/explorehist
 
 Vieb/**/Session*Storage/
 Vieb/Code Cache/
@@ -26,5 +28,6 @@ Vieb/tabs
 
 herdr/herdr-client.log
 herdr/herdr-server.log
+herdr/session-snapshots/
 herdr/session.json
 herdr/session-snapshots/
