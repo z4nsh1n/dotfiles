@@ -424,3 +424,22 @@ buffer 9
 close
 buffer 0
 close
+buffer 0
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+buffer 1
+close
+buffer 0
+tabnew
+help
+close
