@@ -4,6 +4,8 @@ qutebrowser/sessions/_autosave.yml
 
 emacs.d/eln-cache/ 
 emacs.d/elpa/
+Vieb/commandhist
+Vieb/explorehist
 
 Vieb/**/Session*Storage/
 Vieb/Code Cache/
