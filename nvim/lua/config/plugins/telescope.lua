@@ -38,7 +38,13 @@ vim.pack.add({
       -- require 'telescope'.load_extension('before')
 
       vim.keymap.set("n", "<leader>fh", require('telescope.builtin').help_tags)
-      vim.keymap.set("n", "<leader>ff", require('telescope.builtin').find_files)
+      -- vim.keymap.set("n", "<leader>ff", require('telescope.builtin').find_files)
+      vim.keymap.set("n", "<leader>ff", function ()
+        local err, _ = pcall(require('telescope.builtin').git_files)
+        if not err then
+          _ = require('telescope.builtin').find_files()
+        end
+      end)
       vim.keymap.set("n", "<leader>fg", require('telescope.builtin').live_grep)
       vim.keymap.set("n", "<leader>gf", require('telescope.builtin').git_files)
       vim.keymap.set("n", "<leader>en",

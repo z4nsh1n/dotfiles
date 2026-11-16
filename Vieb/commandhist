@@ -103,3 +103,75 @@ buffer 0
 close
 buffer 0
 buffer 1
+buffer 0
+buffer 1
+buffer 2
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+colorscheme mynumberedtabs
+set darkreader
+set darkreaderbg
+set darkreadercontrast
+set darkreadercontrast=100
+set darkreader
+close
+tabnew
+help pdfbehavior
+set pdfbehavior=view
+close
+pmap <C-v> <:set externalcommand=vlc><p.externalLink>
+set externalcommand=vlc
+help settings
+help :set
+set tabnewposition=end
+tabnew
+set tabnewposition=right
+close
+buffer 6
+tabnew
+close
+tabnew
+close
+help settingcommands
+nnoremap <C-n> <:set darkreader!>
+set darkreader!
+close
+tabnew
+close
+tabnew
+close
+set darkreader!
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+buffer 15
+b 11
+close
+tabnew
+close
+tabnew
+close
+tabnew
+close
+buffer 1
+tabnew
+close

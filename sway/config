@@ -30,7 +30,7 @@ set $term alacritty
 
 # Start with specific app_id/class
 set $ddterm-id dropdown-terminal
-set $ddterm $term --class $ddterm-id
+set $ddterm $term --class $ddterm-id -e herdr
 set $ddterm-resize resize set 100ppt 40ppt, move position 0 0
 
 # resize/move new dropdown terminal windows
