@@ -14,7 +14,7 @@ set $alt Mod1
 set $tmux-window tmux tmux || tmux new-window
 #set $tmux tmux attach || tmux
 set $tmux tmux 
-set $term --no-startup-id alacritty
+set $term --no-startup-id kitty
 smart_borders on 
 smart_gaps on
 
@@ -23,17 +23,12 @@ smart_gaps on
 #bindsym $mod+n exec zenity --entry --text "Rename Workspace" | xargs -I % python ~/.config/i4/i3-rename-workspace %
 
 #dropdown
-for_window [app_id="dropdown"] floating enable
-for_window [app_id="dropdown"] resize set 1920 600
-for_window [app_id="dropdown"] border pixel 5
-for_window [app_id="dropdown"] move to position 0 0
-for_window [app_id="dropdown"] move scratchpad
-# for_window [instance="dropdown"] floating enable
-# for_window [instance="dropdown"] resize set 1920 600
-# for_window [instance="dropdown"] border pixel 5
-# for_window [instance="dropdown"] move to position 0 0
-# for_window [instance="dropdown"] move scratchpad
-exec alacritty --class "dropdown" -e herdr #$tmux
+for_window [app_id="^dropdown$"] floating enable
+for_window [app_id="^dropdown$"] resize set 1920 400
+for_window [app_id="^dropdown$"] border pixel 5
+for_window [app_id="^dropdown$"] move to position 0 0
+for_window [app_id="^dropdown$"] move scratchpad
+exec $term --app-id dropdown -e herdr #$tmux
 
 
 #exec --no-startup-id termite --name dropdown -e $tmux
@@ -67,7 +62,7 @@ floating_modifier $mod
 
 #bindsym $mod+t exec $tmux-window htop
 bindsym $mod+r exec $tmux-window ranger ~
-bindsym $mod+e exec alacritty --class "dropdown" -e herdr #$tmux
+bindsym $mod+e exec $term --app-id dropdown -e herdr #$tmux
 bindsym $mod+b exec --no-startup-id pkill swaybg;swaybg -m stretch -i "$(find ~/wallpapers -type f | shuf -n 1)" 
 #feh --bg-scale -z ~/wallpapers/*
 bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 1
