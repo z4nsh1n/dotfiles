@@ -229,7 +229,7 @@ exec --no-startup-id nm-applet
 exec --no-startup-id owncloud
 exec --no-startup-id ~/.local/bin/megasync
 exec --no-startup-id clight
-exec --no-startup-id setxkbmap -option 'caps:ctrl_modifier'
+# exec --no-startup-id setxkbmap -option 'caps:ctrl_modifier'
 exec --no-startup-id xinput set-prop 10 319 1
 
 #exec --no-startup-id xinput set-prop 
