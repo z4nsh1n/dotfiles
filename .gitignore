@@ -7,6 +7,8 @@ emacs.d/elpa/
 Vieb/commandhist
 Vieb/explorehist
 
+Vieb/Cache/
+Vieb/GPUPersistentCache/
 Vieb/**/Session*Storage/
 Vieb/Code Cache/
 Vieb/DIPS

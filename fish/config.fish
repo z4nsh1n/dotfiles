@@ -80,7 +80,7 @@ alias gitc="git commit"
 alias gita="git add"
 #
 # export PATH=~/.local/share/coursier/bin:~/.local/share/bob/nvim-bin/:~/.local/bin/:~/.cargo/bin/:~/.zvm/self/:~/.zvm/bin/:~/software/Nim/bin:~/.nimble/bin/:/usr/sbin/$PATH
-set -U fish_user_paths ~/.ghcup/bin ~/.local/share/coursier/bin ~/.local/share/bob/nvim-bin/ ~/.local/bin/ ~/.cargo/bin/ ~/.zvm/self/ ~/.zvm/bin/ ~/software/Nim/bin ~/.nimble/bin/ $fish_user_paths
+set -U fish_user_paths ~/.opam/default/bin/ ~/.ghcup/bin ~/.local/share/coursier/bin ~/.local/share/bob/nvim-bin/ ~/.local/bin/ ~/.cargo/bin/ ~/.zvm/self/ ~/.zvm/bin/ ~/software/Nim/bin ~/.nimble/bin/ $fish_user_paths
 export EDITOR=nvim
 export BROWSER=qutebrowser
 export GOPATH=/home/zanshin/code/go/
@@ -90,3 +90,12 @@ export ELECTRON_OZONE_PLATFORM_HINT=auto
 
 # to the end
 zoxide init fish | source
+
+
+# BEGIN opam configuration
+# This is useful if you're using opam as it adds:
+#   - the correct directories to the PATH
+#   - auto-completion for the opam binary
+# This section can be safely removed at any time if needed.
+test -r '/home/zanshin/.opam/opam-init/init.fish' && source '/home/zanshin/.opam/opam-init/init.fish' > /dev/null 2> /dev/null; or true
+# END opam configuration
